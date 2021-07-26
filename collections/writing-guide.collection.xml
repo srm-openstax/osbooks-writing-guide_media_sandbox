@@ -9,9 +9,17 @@
   </col:metadata>
   <content>
     <subcollection>
-      <md:title>Test Subcollection</md:title>
+      <md:title>Chapter 18: Multimodal and Online Writing: Creative Interaction between Text and Image</md:title>
       <content>
         <module document="m00001"/>
+        <module document="m00002"/>
+        <module document="m00003"/>
+        <module document="m00004"/>
+        <module document="m00005"/>
+        <module document="m00006"/>
+        <module document="m00007"/>
+        <module document="m00008"/>
+        <module document="m00009"/>
       </content>
     </subcollection>
   </content>
