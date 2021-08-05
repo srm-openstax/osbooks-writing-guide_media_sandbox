@@ -1,13 +1,13 @@
 <document xmlns="http://cnx.rice.edu/cnxml" class="narrative-trailblazer">
-  <title>Multimodal Trailblazer: Torika Bolatagici</title>
+  <title>Literacy Narrative Trailblazer</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:title>Multimodal Trailblazer: Torika Bolatagici</md:title>
   <md:content-id>m00003</md:content-id>
   <md:uuid>2c3e68b1-188b-48c0-86b9-29e528a400e7</md:uuid>
   </metadata>
   <content class="narrative-trailblazer">
-  <div>
-  <section class="learning-objectives" id="sect-00001">
+ <title>Torika Bolatagici</title>
+ <section class="learning-objectives" id="sect-00001">
   <title>Learning Outcomes</title>
   <para id="para-00001">By the end of this section, you will be able to:</para>
   <list id="list-00001">
@@ -66,6 +66,5 @@
   </problem>
   </exercise>
   </section>
-  </div>
   </content>
   </document>
