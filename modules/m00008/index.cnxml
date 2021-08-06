@@ -27,32 +27,32 @@
   <para id="para-00007">Multimodal compositions often include interaction constraints. These can be thought of as filters that limit a user’s ability to access consumer content effectively. For example, a person who has vision impairment may experience interaction constraints when attempting to consume a photo essay. This constraint can be eased through technologies that help make the media more meaningful, such as text and audio alternatives that help the user experience the composition in a way similar to its original form.</para>
   <para id="para-00008">Web Content Accessibility Guidelines (WCAG) are intended to make web content more accessible to people with disabilities. However, creators of multimodal compositions can adapt and apply WCAG rules and principles, such as those discussed below, even to compositions that are not web based.</para>
   <section id="sect-00004">
-  <title>Provide Informative Titles and Headings.</title>
+  <title><emphasis effect="italics">Provide Informative Titles and Headings.</emphasis></title>
   <para id="para-00009">Content titles and headlines that accurately describe and distinguish the composition from others are helpful for contextualizing the composition. A headline usually refers to a composition within something larger, such as an article in a magazine, whereas a title encompasses an entire entity in itself, such as a novel or story that stands on its own. Consider the headline of the blog post you read earlier, “Celebrating a Win-Win: 30 Years of Progress under the Pollution Prevention Act.” This headline is informative, telling the audience that the post is about the progress of the Pollution Prevention Act. It also informs readers of the author’s perspective on this topic, clearly indicating her belief in the success of the act. For the photo essay about the war in Syria, the student writer revised the original headline to the more specific and meaningful <emphasis effect="italics">Remnants of War—Syria</emphasis>.</para>
   </section>
   <section id="sect-00005">
-  <title>Use Headings and Subheads to Convey Meaning and Structure.</title>
-  <para id="para-00010">Headings and short subheads group related information, clearly describe sections of text or media, and provide an outline of the content. Although they are a standard feature of informational texts, headings and subheads can be explored within multimodal compositions as organizational and accessibility features, as they are used in the infographic shown in <link target-id="fig-00001" document="m00007"/>, <emphasis effect="italics">Women’s History Month, India</emphasis>. The subheads clarify the structure of the composition, indicating features such as the introduction and author’s objectives, and provide transitions between sections.</para>
+  <title><emphasis effect="italics">Use Headings and Subheads to Convey Meaning and Structure.</emphasis></title>
+  <para id="para-00010">Headings and short subheads group related information, clearly describe sections of text or media, and provide an outline of the content. Although they are a standard feature of informational texts, headings and subheads can be explored within multimodal compositions as organizational and accessibility features, as they are used in the infographic shown in <link target-id="fig-00001" document="m00007"/>, <emphasis effect="italics">United Nations poster</emphasis>. The subheads clarify the structure of the composition, indicating features such as the introduction and author’s objectives, and provide transitions between sections.</para>
   </section>
   <section id="sect-00006">
-  <title>Make Link Text Meaningful.</title>
+  <title><emphasis effect="italics">Make Link Text Meaningful.</emphasis></title>
   <para id="para-00011">When using hyperlinks within a multimodal composition, write text that describes the content of the link target. Instead of using vague text such as “click here” or simply using the URL as the hyperlink, use the opportunity to include relevant information about the content of the link. This added content serves as a transition and emphasizes the relationship between the media. Alexandra Dapolito Dunn does this in the blog post in <link target-id="sect-00001" document="m00005"/>, specifying in her text the content of the link used:</para>
-  <para class="public-domain" id="para-00012">President Trump acknowledged the effectiveness of these and other EPA programs in a 2018 <link url="https://www.whitehouse.gov/presidential-actions/executive-order-regarding-efficient-federal-operations/">Executive Order</link> that directed federal agencies to use EPA’s P2 resources to meet their statutory sustainable purchasing requirements.</para>
+  <para class="public-domain" id="para-00012">President Trump acknowledged the effectiveness of these and other EPA programs in a 2018 <link url="https://openstax.org/r/executiveorder">Executive Order</link> that directed federal agencies to use EPA’s P2 resources to meet their statutory sustainable purchasing requirements.</para>
   </section>
   <section id="sect-00007">
-  <title>Write Meaningful Text Alternatives for Graphics.</title>
-  <para id="para-00013">All images and other graphic representations should have meaningful alternative text that helps readers understand the information portrayed in the image and its significance to the function of the composition. Consider Figure 18.26:</para>
+  <title><emphasis effect="italics">Write Meaningful Text Alternatives for Graphics.</emphasis></title>
+  <para id="para-00013">All images and other graphic representations should have meaningful alternative text that helps readers understand the information portrayed in the image and its significance to the function of the composition. Consider <link target-id="fig-00001" document="m00008"/>:</para>
   <figure id="fig-00001"><media alt="An image of a large crowd of soccer fans waving their national flags.">
   <image mime-type="image/jpeg" src="../../media/COMP_Figure_18_07_034.jpg"/></media>
-  <caption>Masses waving flags excitedly cheer for their national soccer teams. (Credit: flowcomm/flickr, CC BY 2.0)</caption></figure>
+  <caption>Masses waving flags excitedly cheer for their national soccer teams. (credit: flowcomm/flickr, CC BY 2.0)</caption></figure>
   <para id="para-00014">Briefly, the caption provides context and any other important information that cannot be gathered simply by looking at the image. Alternative (Alt) text, in contrast, describes <emphasis effect="italics">only</emphasis> the information that can be gathered by simply looking at the image (the “what the image shows” part of the caption sentence). Alt text for this image might read “Large crowd of soccer fans waving national flags.” Alternative text is imperative for those who have vision impairments because it enables them fuller comprehension of the media.</para>
   </section>
   <section id="sect-00008">
-  <title>Create Transcripts and Captions for Media.</title>
+  <title><emphasis effect="italics">Create Transcripts and Captions for Media.</emphasis></title>
   <para class="annotation visual-icon auditory-icon" id="para-00015">Audiovisual content, such as videos and podcasts, can be especially challenging for users with visual or auditory disabilities. Therefore, include clear and specific transcripts and captions to guide users through content in your multimodal compositions. In video transcripts, describe visual content (for example, “Joey enters the room” whenever that action occurs). For audio content, include text that indicates spoken information and other sound that is important for understanding the content (for example, “Trumpets softly play the national anthem in the background”). Again, these small additions make your multimodal media accessible to consumers of all abilities.</para>
   <figure id="fig-00002"><media alt="An illustration shows a silhouette of a woman and a man. The text box below reads, “[screaming] LET ME HELP YOU! THANK YOU.”">
   <image mime-type="image/jpeg" src="../../media/COMP_Figure_18_07_035.jpg"/></media>
-  <caption>Closed captions and other forms of accessible text help those with different abilities consume multimodal text. (Credit: Palmtree3000/Wikimedia Commons, Public Domain)</caption></figure>
+  <caption>Closed captions and other forms of accessible text help those with different abilities consume multimodal text. (credit: Palmtree3000/Wikimedia Commons, Public Domain)</caption></figure>
   </section>
   </section>
   <section id="sect-00009">
@@ -67,7 +67,7 @@
   </list>
   <figure id="fig-00003"><media alt="An illustration showing recording lecture considerations. It shows two computer screens with a lecture going on, a person recording a lecture and a classroom full of students and a teacher.">
   <image mime-type="image/jpeg" src="../../media/COMP_Figure_18_07_036.jpg"/></media>
-  <caption>Publishing a multimedia composition will allow you to present your best work to spread your message. (Credit: Giulia Forsythe/Wikimedia Commons, CC0)</caption></figure>
+  <caption>Publishing a multimedia composition will allow you to present your best work to spread your message. (credit: Giulia Forsythe/Wikimedia Commons, CC0)</caption></figure>
   <para id="para-00018">No matter what technology you choose, you will want to follow an organized writing process and ensure that your choices honor your purpose, your audience, and the organization you have chosen for your work. Thinking specifically about your advocacy project, consider what you want to accomplish and to whom you are speaking. <emphasis effect="italics">What digital publishing options can accomplish your goals? How does your intended audience consume digital media?</emphasis> Choosing your publication method is as important as choosing the modes and media.</para>
   </section>
   </content>
