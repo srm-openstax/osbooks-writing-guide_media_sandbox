@@ -203,7 +203,7 @@
           </content>
         </subcollection>
         <subcollection>
-          <md:title>Research Process: Accessing and Recording Information</md:title>
+          <md:title>Annotated Bibliography: Gathering, Evaluating, and Documenting Sources</md:title>
           <content>
             <module document="m00131"/>
             <module document="m00132"/>
@@ -213,7 +213,7 @@
           </content>
         </subcollection>
         <subcollection>
-          <md:title>Annotated Bibliography: Gathering, Evaluating, and Documenting Sources</md:title>
+          <md:title>Case Study Profile: What One Person Says About All</md:title>
           <content>
             <module document="m00136"/>
             <module document="m00137"/>
@@ -227,7 +227,7 @@
             <module document="m00145"/>
           </content>
         </subcollection>
-        </content>
+      </content>
     </subcollection>
     <subcollection>
       <md:title>Navigating Rhetoric in Real Life</md:title>
