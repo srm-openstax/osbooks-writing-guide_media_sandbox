@@ -305,10 +305,6 @@
         </subcollection>
       </content>
     </subcollection>
-    <subcollection>
-      <md:title>Handbook</md:title>
-      <content/>
-    </subcollection>
     <module document="m00184"/>
-  </content>
+</content>
 </col:collection>
