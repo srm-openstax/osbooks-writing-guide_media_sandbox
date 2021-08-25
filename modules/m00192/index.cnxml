@@ -1,11 +1,11 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" class="handbook">
   <title>Mechanics</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Mechanics</md:title>
     <md:content-id>m00192</md:content-id>
     <md:uuid>ddddd826-d986-404e-b6de-4ba2e864d946</md:uuid>
   </metadata>
-  <content>
+  <content class="handbook">
     <section id="sect-00001">
       <title/>
       <para id="para-00001">Placeholder text</para>

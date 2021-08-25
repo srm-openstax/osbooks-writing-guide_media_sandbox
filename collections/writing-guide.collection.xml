@@ -307,21 +307,8 @@
     </subcollection>
     <subcollection>
       <md:title>Handbook</md:title>
-      <content>
-        <module document="m00184"/>
-        <module document="m00185"/>
-        <module document="m00186"/>
-        <module document="m00187"/>
-        <module document="m00188"/>
-        <module document="m00189"/>
-        <module document="m00190"/>
-        <module document="m00191"/>
-        <module document="m00192"/>
-        <module document="m00193"/>
-        <module document="m00194"/>
-        <module document="m00195"/>
-        <module document="m00196"/>
-      </content>
+      <content/>
     </subcollection>
+    <module document="m00184"/>
   </content>
 </col:collection>
