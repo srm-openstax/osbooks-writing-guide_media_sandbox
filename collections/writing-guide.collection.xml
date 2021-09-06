@@ -11,6 +11,7 @@
     <subcollection>
       <md:title>The Things We Carry: Experience, Culture, and Language</md:title>
       <content>
+        <module document="m00197"/>
         <subcollection>
           <md:title>The Digital World: Building on What You Already Know to Respond Critically</md:title>
           <content>
@@ -306,5 +307,5 @@
       </content>
     </subcollection>
     <module document="m00184"/>
-</content>
+  </content>
 </col:collection>
