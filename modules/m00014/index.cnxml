@@ -6,9 +6,92 @@
     <md:uuid>d15a3db0-6cf5-4936-badc-46b36b790a15</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001"><emphasis effect="bold">By the end of this section, you will be able to:</emphasis></para>
+    <list id="list-00001">
+    <item>Determine how conventions are shaped by purpose, language, culture, and expectations.</item>
+    <item>Read for inquiry, learning, critical thinking, and communicating in varying rhetorical and cultural contexts.</item>
+    <item>Distinguish relationships between genre conventions, ideas, patterns of organization, and interplay between various elements and how they influence the rhetorical situation.</item>
+    </list>
+    </section>
+    <figure id="fig-00001">
+    <media alt="Ohio Congressperson Marcy Kaptur stands in front of the Supreme Court with voter Larry Harmon, who  was purged from the voter rolls for not voting since 2008. Asecurity guard is also pictured."><image mime-type="image/jpeg" src="../../media/COMP_Figure_01_04_006.jpg"/></media>
+    <caption>In Ohio, legal voter Larry Harmon was purged from the voter rolls because he had not voted since 2008. (credit: Congresswoman Marcy Kaptur/Wikimedia Commons, CC BY 2.0)</caption>
+    </figure>
+    <para class="annotation linguistic-icon" id="para-00002"><emphasis effect="bold"><emphasis effect="italics">Introduction.</emphasis></emphasis> In the social media thread that follows, Proud Immigrant Citizen @primmcit posts about immigration and voter suppression. Others add their comments regarding voter suppression. Consider the ways in which each person responds to this initial post.</para>
+    <section class="living-words" id="sect-00002">
+    <para id="para-00003">Proud Immigrant Citizen @primmcit</para>
+    <para id="para-00004">POTUS and DOJ have created a section dedicated to denaturalization. Strips citizenship and disenfranchises immigrant citizens, mainly persons of color, on trumped-up charges. Not-so-subtle way to control who can and cannot vote! This is a nightmare!</para>
+    <para id="para-00005"><emphasis effect="italics">This opening post sets up a rhetorical situation. The genre is social media in which the platform limits the number of characters. The author’s purpose is to inform others about a policy. It may also be to collect “likes” or reposts to spread the information, regardless of its accuracy. The audience is a collection of social media users—some known, some unknown. The author’s stance is against the denaturalization policy. The context is a POTUS/DOJ action against immigrants. The culture shows a conflict between immigrants and the current administration (and its supporters).</emphasis></para>
+    <para id="para-00006">History Buff @historyfuture</para>
+    <para id="para-00007">This is not new. Immigration Act of 1924 limited number of new immigrants to 2% of current U.S. citizens of that nationality. Largest groups (e.g., whites from northwest Europe) kept getting bigger. Effective way to concentrate political power.</para>
+    <para id="para-00008"><emphasis effect="italics">This response provides further information about the rhetorical situation by offering historical context, which, again, may or may not be accurate.</emphasis></para>
+    <para id="para-00009">Proud Immigrant Citizen @primmcit</para>
+    <para id="para-00010">It may not be new, but it’s still wrong!</para>
+    <para id="para-00011"><emphasis effect="italics">The original poster reiterates their stance.</emphasis></para>
+    <para id="para-00012">American and Proud @IPledge</para>
+    <para id="para-00013">Are you for real saying that the government shouldn’t control immigration? I don’t want all these criminals voting, and I’ve had it up to here with everyone’s stupid complaining!</para>
+    <para id="para-00014"><emphasis effect="italics">This response provides an inaccurate summary of the original post. The tone shows anger and unwillingness to engage in meaningful discussion or to learn more about the issue. This person’s mind is made up, so it would be hard to convince them to take a new or refined position.</emphasis></para>
+    <para id="para-00015">Peter @BetweenTheLines</para>
+    <para id="para-00016">No, Proud Immigrant is saying that denaturalization is being used as a means of voter suppression.</para>
+    <para id="para-00017"><emphasis effect="italics">This response corrects the previous responder with an accurate paraphrase of the original poster’s stance and hints at the factual nature of the original post.</emphasis></para>
+    <para id="para-00018">Karen @ConservativeGirl</para>
+    <para id="para-00019">What are the trumped-up charges? Can you direct me to some evidence? Sounds like a lot of liberal garbage.</para>
+    <para id="para-00020"><emphasis effect="italics">This responder, although clearly against the original poster’s stance, properly asks for evidence—something that may be provided through a link to keep the character count within the confines of the genre. Based on the handle and the end of the post, this person may or may not be open to a new perspective or factual information about the issue.</emphasis></para>
+    <para id="para-00021">Miguel @BothSides</para>
+    <para id="para-00022">Liberal or conservative, voter suppression is one of the most dangerous threats to our democracy.</para>
+    <para id="para-00023"><emphasis effect="italics">This responder offers an evaluation, regardless of stance. The tone indicates a reasonable attitude. However, by stating “liberal or conservative,” this post may limit the audience since other cultures, such as moderate or progressive, may be following the thread.</emphasis></para>
+    <para id="para-00024">Sarah @IWatch</para>
+    <para id="para-00025">When the news talks about low voter turnout in an election, it’s hard to know why people didn’t show up.</para>
+    <para id="para-00026"><emphasis effect="italics">This responder begins an analysis of the original post by providing a questioning tone. However, this post does not seem to further the discussion; it makes a statement and does not follow up with new information or ideas.</emphasis></para>
+    <para id="para-00027">Mario @MyVote</para>
+    <para id="para-00028">Exactly, did they stay home by choice, or were they “encouraged” to stay home by government red tape?</para>
+    <para id="para-00029"><emphasis effect="italics">This responder clarifies the analytical question and tries to reengage previous responders. The question also opens up the potential for new evidence from others.</emphasis></para>
+    <para id="para-00030">Maria @HomeGirl</para>
+    <para id="para-00031">It’s not just immigrants. After Obama was elected, more than 20 states passed measures to limit voting in Black and Brown neighborhoods.</para>
+    <para id="para-00032"><emphasis effect="italics">This responder offers possible evidence to support the ongoing problem of voter suppression. While unverified, it provides a strong starting point for further inquiry and discussion so that evidence can be brought into the discussion.</emphasis></para>
+    <para id="para-00033">Malik @BlackPanther</para>
+    <para id="para-00034">This kind of racism isn’t new. History Buff @historyfuture is right. Closing polling locations in Black and Brown neighborhoods is the new poll tax or literacy test.</para>
+    <para id="para-00035"><emphasis effect="italics">This responder makes a connection between the past and present—an element of analysis.</emphasis></para>
+    <para id="para-00036">Cho @HistoryRepeats</para>
+    <para id="para-00037">Yes, the party seeking power wants their voters to turn out, not all voters.</para>
+    <para id="para-00038"><emphasis effect="italics">This responder makes an inference based on the accumulation of evidence. While the conclusion may be sound, it remains unclear.</emphasis></para>
+    <para id="para-00039">Megan @FightThePower</para>
+    <para id="para-00040">It’s easier to suppress the votes of non-supporters than to try to win them over.</para>
+    <para id="para-00041"><emphasis effect="italics">This responder makes another inference based on the accumulation of evidence and alludes to previous instances of voter suppression along with potential rationale.</emphasis></para>
+    <para id="para-00042">Marco @DontMessWithMe</para>
+    <para id="para-00043">That’s why we need to #StayInLine</para>
+    <para id="para-00044"><emphasis effect="italics">This responder presents a potential call to action—something people can do to fight voter suppression. This call to action assumes the audience within the given culture understands or can find out what #StayInLine means and how to become involved.</emphasis></para>
+    </section>
+    <para id="para-00045"><emphasis effect="bold"><emphasis effect="italics">Conclusion.</emphasis></emphasis> You are likely familiar with this type of social media thread—users from different cultures and with differing views coming together to comment on a post. What you may not have realized is that these users and others like them are engaging in rhetoric by responding to a text through summary, paraphrase, analysis, evaluation, calls for evidence, or proposals of action. Again, they demonstrate an understanding of the rhetorical situation and how to navigate within it.</para>
+    <section id="sect-00003">
+    <title>Discussion Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00046"><link class="os-embed" url="https://exercises.openstax.org/exercise/EC_Ch1-Sec4_DQ1"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00047"><link class="os-embed" url="https://exercises.openstax.org/exercise/EC_Ch1-Sec4_DQ2"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00048"><link class="os-embed" url="https://exercises.openstax.org/exercise/EC_Ch1-Sec4_DQ3"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00049"><link class="os-embed" url="https://exercises.openstax.org/exercise/EC_Ch1-Sec4_DQ4"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00050"><link class="os-embed" url="https://exercises.openstax.org/exercise/EC_Ch1-Sec4_DQ5"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>

@@ -6,9 +6,27 @@
     <md:uuid>6f6deed6-dca7-4286-b884-68ff1fc7bd49</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001"><emphasis effect="bold">By the end of this section, you will be able to:</emphasis></para>
+    <list id="list-00001">
+    <item>Determine how various mediums address, affect, and interact with a range of audiences.</item>
+    <item>Examine the importance of your college experience and larger impact on society.</item>
+    <item>Write and post texts in different environments and in varying rhetorical situations.</item>
+    </list>
+    </section>
+    <section id="sect-00002">
+    <title>The Role of the Classroom in This Brave New World</title>
+    <para class="annotation culture-icon" id="para-00002">The term <term id="term-00001"><emphasis effect="italics">academia</emphasis></term> refers to “the life, community, or environment of teachers, schools, and education.” With the advent of the COVID-19 pandemic in 2020, the world of academia was challenged. There were logistical challenges, of course: <emphasis effect="italics">How would students and teachers attend classes and remain safe? In what ways could digital learning replace classroom learning effectively?</emphasis> But there were deeper philosophical challenges: <emphasis effect="italics">What is the real value of a traditional college education in a world that is seemingly on the brink of one crisis after another? Would the classroom become something of value, leading the way in this brave new world, or would it become obsolete?</emphasis> While some students chose not to return to their classrooms in the fall of 2020, others either returned or logged on virtually. Whichever way students decided to engage, the larger purpose of college was challenged.</para>
+    <figure id="fig-00001"><media alt="A computer monitor shows students in a virtual classroom during the 2020 pandemic. An insulated cup, flowers, and a keyboard appear near the monitor.">
+    <image mime-type="image/jpeg" src="../../media/COMP_Figure_01_07_013.jpg"/></media>
+    <caption>Students in a virtual classroom during the 2020 pandemic (credit: COD Newsroom/flickr, CC BY 2.0)</caption></figure>
+    <para id="para-00003">At its best, the college experience is one of personal transformation. The student embarks on a journey of empowerment, learning to understand the world around them, then to participate in it, and finally to influence it. It is a journey from understanding to analysis and from evaluation to problem-solving. The final awarding of a degree calls a student to action. <emphasis effect="italics">What will you do with the newly gained knowledge and practiced skill sets? How will you make an impact the world in positive ways? Will you develop the vaccine for the next health threat? Will you address centuries of racial injustice in ways never before attempted? What unique contribution can only you make at this time and in this place?</emphasis> The question is not really whether the college classroom has a role to play in this world, but whether it will rise above outdated traditions to the level of impactful engagement. One thing is certain, however; the answer starts with you and the publication of your ideas.</para>
+    </section>
+    <section id="sect-00003">
+    <title>Authentic Publication</title>
+    <para class="annotation culture-icon" id="para-00004">To practice your knowledge and use some of the tools in your growing skill set, do this short activity. If you have a social media account, use it to bridge social media and academia by publishing a version of your critical response that meets the characteristics of the platform, likely by reducing the character count or posting a video. First, summarize or paraphrase your main points. Research a link you might include to provide readers with background information and a larger context of your rhetorical situation. Next, create a post that asks an honest, analytical, or evaluative question about the topic. In determining your phrasing, assess the rhetorical situation. If you can, tag a few of your followers to encourage them to respond. You might even mention that this is part of a school project or add a hashtag—a word or phrase preceded by # that categorizes the accompanying text. If you are on multiple platforms, try different versions or approaches to see which one generates the most attention and discussion.</para>
+    <para id="para-00005">As a result, you might learn something compelling or find your interest piqued by engaging with others. Maybe you can even incorporate what you learn into your portfolio reflection, which is covered at the end of this chapter. Remember, part of the goal of writing is learning. Writing helps you solidify what you are thinking, what it might mean, why it matters, how to say it, and how to communicate it to others. Using various media to convey information will continue to be an essential element of your education and your life, so be sure to practice it.</para>
+    </section>
+    </content>
 </document>

@@ -6,9 +6,64 @@
     <md:uuid>88eb0fc4-6144-4c92-84ff-56f8f811e4f7</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001"><emphasis effect="bold">By the end of this section, you will be able to:</emphasis></para>
+    <list id="list-00001">
+    <item>Reflect on the development of composing processes.</item>
+    <item>Reflect on how those composing processes affect your work.</item>
+    </list>
+    </section>
+    <figure id="fig-00001"><media alt="A keyboard and a mouse appear on a table.">
+    <image mime-type="image/jpeg" src="../../media/COMP_Figure_01_08_014.jpg"/></media>
+    <caption>(credit: H. Sterling Cross/Wikimedia Commons, CC BY 2.0)</caption></figure>
+    <section id="sect-00002">
+    <title>The Portfolio: And So It Begins . . .</title>
+    <para id="para-00002">In simplest terms, a writing portfolio is a collection of your writing contained within a single binder or folder. This writing may have been done over a number of weeks, months, or even years. It may be organized chronologically, thematically, or according to quality. A private writing portfolio may contain writing that you wish to keep only for yourself. In this case, you decide what is in it and what it looks like. However, a writing portfolio assigned for a class will contain writing to be shared with an audience to demonstrate the growth of your writing and reasoning abilities. One kind of writing portfolio, accumulated during a college course, presents a record of your work over a semester, and your instructor may be use it to assign a grade. Another type of portfolio presents a condensed, edited story of your semester’s progress in a more narrative form.</para>
+    <para id="para-00003">The most common type of portfolio assigned in a writing course combines the cumulative work collected over the semester, plus a cover letter in which you explain the nature and value of these papers. Sometimes you will be asked to assign yourself a grade on the basis of your own assessment. The following suggestions may help you prepare a course portfolio:</para>
+    <list id="list-00002">
+    <item><emphasis effect="bold">Make your portfolio speak for you.</emphasis> If your course portfolio is clean, complete, and carefully organized, that is how it will be judged. If it is unique, colorful, creative, and imaginative, that, too, is how it will be judged. Similarly, your folder will be judged more critically if it is messy, incomplete, and haphazardly put together. Before giving your portfolio to somebody else for evaluation, consider whether it reflects how you want to be presented.</item>
+    <item><emphasis effect="bold">Include exactly what is asked for.</emphasis> If an instructor wants three finished papers and a dozen sample journal entries, that is the minimum your course portfolio should contain. Sometimes you can include more than what is asked for, but never include less.</item>
+    <item><emphasis effect="bold">Add supplemental material judiciously.</emphasis> Course portfolios are among the most flexible means of presenting yourself. If you believe that supplemental writing will show you in a better light, include that too, but only after the required material. If you include extra material, attach a memo to explain why it is there and what you think it adds to your portfolio. Supplemental writing might include journals, letters, sketches, or diagrams that suggest other useful dimensions of your thinking.</item>
+    <item><emphasis effect="bold">Include <emphasis effect="italics">perfect</emphasis> final drafts.</emphasis> At least make them as close to perfect as you can. Show that your own standard for finished work is high. Check spelling, grammar, citation, formatting, and font sizes and types. You should go over your work carefully and be able to find the smallest errors. In addition, if you are asked for a hard copy of your portfolio, final drafts should be double-spaced and printed on only one side of high-quality paper, unless another format is requested. And, of course, your work should be carefully proofread and should follow the language and genre conventions appropriate to the task.</item>
+    <item><emphasis effect="bold">Demonstrate growth.</emphasis> This is a tall order, but course portfolios, unlike most other assessment instruments, can show positive change. The primary value of portfolios in writing classes is that they allow you to demonstrate how a finished paper came into being. Consequently, instructors frequently ask for early drafts to be attached to final drafts of each paper, the most recent on top, so they can see how you followed revision suggestions, how much effort you invested, how many drafts you wrote, and how often you took risks and tried to improve. To build such a record of your work, make sure the date of every draft is clearly marked on each one, and keep it in a safe place (and backed up electronically).</item>
+    <item><emphasis effect="bold">Demonstrate work in progress.</emphasis> Course portfolios allow writers to present partially finished work that suggests future directions and intentions. Both instructors and potential employers may find such preliminary drafts or outlines as valuable as some of your finished work. When you include a tentative draft, be sure to attach a memo or note explaining why you still believe it has merit and in which direction you plan to take your next revisions.</item>
+    <item><emphasis effect="bold">Attach a table of contents.</emphasis> For portfolios containing more than three papers, attach a separate table of contents. For those containing only a few papers, embed your table of contents in the cover letter.</item>
+    <item><emphasis effect="bold">Organize your work using clear logic.</emphasis> Three methods of organization are particularly appealing:
+    <list bullet-style="open-circle" id="list-00003">
+    <item><term id="term-00001">Chronological order</term><emphasis effect="bold">:</emphasis> Writing is arranged in order, beginning with the first week of class and ending with the last week, with all drafts, papers, journal entries, letters, and such fitting in place according to the date written. Only the cover letter is out of chronological order, appearing at the beginning and serving as an introduction to what follows. This method allows you to show the evolution of growth most clearly, with your latest writing (presumably the best) presented at the end.</item>
+    <item><term id="term-00002">Reverse chronological order</term><emphasis effect="bold">:</emphasis> The most recent writing is up front, and the earliest writing at the back. In this instance, the most recent written document—the cover letter—is in place at the beginning of the portfolio. This method features your latest (presumably the best) work up front and allows readers to trace the history of how it got there.</item>
+    <item><term id="term-00003">Best-first order</term><emphasis effect="bold">:</emphasis> You place your strongest writing up front and your weakest in back. Organizing a portfolio this way suggests that the work <emphasis effect="italics">you</emphasis> consider strongest should count most heavily in evaluating the semester’s work.</item>
+    </list>
+    </item>
+    </list>
+    <para id="para-00004">With each completed chapter in this textbook, you will add to this portfolio. As you work through the chapters and complete the assignments, save each one on your computer or in the cloud, unless your instructor asks you to print your work and arrange it in a binder. Each assignment becomes an artifact that will form a piece of your portfolio. Depending on your preference or your instructor’s approach, you may write a little about each assignment as you add to the portfolio. As you compile your portfolio, take some time to read the assignments—drafts and finished products—carefully. Undoubtedly, you will see improvement in your writing over a short amount of time. Be sure to make note of this improvement because it will prove useful moving forward.</para>
+    </section>
+    <section id="sect-00003">
+    <title>Reflective Task: The Freedom of Freewriting</title>
+    <para class="annotation dreaming-icon" id="para-00005">As you begin your portfolio with the addition of your critical response, compose an accompanying <term class="no emphasis" id="term-00004">freewrite</term>, sometimes called a <term class="no emphasis" id="term-00005">quick write</term>. In this case, you will be responding to your own text—a powerful tool in your intellectual development. To begin, write quickly and without stopping about the process of composing your critical response and the finished product. See where your thoughts go, a process that often helps you clarify your own thoughts about the subject—your own text and its creation. When you freewrite, write to yourself in your own natural style, without worrying about sentence structure, grammar, spelling, or punctuation. The purpose is to help you tie together the ideas from your writing process, your assignment, and other thoughts and experiences in your mind. One future value of freewriting is that the process tends to generate questions at random, captures them, and leaves the answering for a later task or assignment. Another bonus of freewriting is that you will build confidence with writing and become more disciplined when you have to write. In other words, the more you write, the more confidence you will have in your voice and your writing.</para>
+    <para id="para-00006">By now you may have realized that writing, whether on social media platforms or in the classroom, is a conversation. The conversation may take place with yourself (freewriting), with your instructor and classmates (assignment), or with the world (social media). You have learned how people like Alexandria Ocasio-Cortez and others use simple and effective strategies, such as understanding, analysis, and evaluation, to engage in such conversations. Now adopt these same processes—try them on for size, practice them, and learn to master them. As you move through the remainder of this course and text, compose with intention by keeping in mind the limits and freedoms of a particular defined rhetorical situation.</para>
+    </section>
+    <section class="further-reading" id="sect-00004">
+    <title>Further Reading</title>
+    <para id="para-00007">It’s a good idea to familiarize yourself with texts of evaluation and analysis. Below, you will find a few titles with which to start.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Evaluation</title>
+    <para id="para-00008">Boyd, Danah. “Wikipedia as a Source of Knowledge Production.” <emphasis effect="italics">It’s Complicated: The Social Lives of Networked Teens</emphasis>, Yale U P, 2014, pp. 765–770.</para>
+    <para id="para-00009">Thorne, William. “Movie Review: ‘The Circle.’“ <emphasis effect="italics">Daily Bruin</emphasis>, 28 Apr. 2017, dailybruin.com/2017/04/28/movie-review-the-circle.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Analysis</title>
+    <para id="para-00010">Bradford, Clare. “‘Where Happily Ever After Happens Every Day’: The Medievalisms of Disney’s Princesses.” <emphasis effect="italics">The Disney Middle Ages</emphasis>, Palgrave Macmillan, 2012, pp. 171–188, doi:10.1057/9781137066923_10.</para>
+    <para id="para-00011">Miller, Matthew. “Runner-Up: Frost’s Broken Roads.” <emphasis effect="italics">W. W. Norton</emphasis>, wwnorton.com/norton-writers-prize/2017-winners/runner-up:-frosts-broken-roads.</para>
+    <para id="para-00012">Ulrich, Laurel Thatcher. <emphasis effect="italics">Well-Behaved Women Seldom Make History</emphasis>. Alfred A. Knopf, 2008.</para>
+    </section>
+    <section class="works-cited" id="sect-00007">
+    <title>Works Cited</title>
+    <para id="para-00013">Goddard, Henry Herbert. “The Criminal Imbecile.” <emphasis effect="italics">Project Gutenberg</emphasis>, 29 June 2013, <link url="https://openstax.org/r/gutenberg">http://www.gutenberg.org/files/43064/43064-h/43064-h.htm</link>.</para>
+    <para id="para-00014">United States. Army. Corps of Engineers. Manhattan District. “The Atomic Bombings of Hiroshima and Nagasaki.” <emphasis effect="italics">Gutenberg.org</emphasis>, 8 Aug. 2008, <link url="https://openstax.org/r/gutenbergpg685">www.gutenberg.org/cache/epub/685/pg685.html</link>.</para>
+    <para id="para-00015">Wise, Sean. “5 Social Media Moves That Prove Alexandria Ocasio-Cortez Is the Queen of Digital Emotional Intelligence.” <emphasis effect="italics">Inc.com</emphasis>., 20 Feb. 2019, <link url="https://openstax.org/r/inc">https://www.inc.com/sean-wise/5-social-media-moves-that-prove-alexandria-ocasio-cortez-is-queen-of-digital-emotional-intelligence.html</link>.</para>
+    </section>
+    </content>
 </document>
