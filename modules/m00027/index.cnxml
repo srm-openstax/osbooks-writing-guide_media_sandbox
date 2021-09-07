@@ -6,9 +6,80 @@
     <md:uuid>b34a68f0-c0c8-4193-aeba-61367812d955</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Write a reflection of your composition process and how it affects your work.</item>
+      <item>Apply the composing processes as a means to discover and reconsider ideas.</item>
+      </list>
+      </section>
+      <para id="para-00002">After each writing assignment in this course, you will reflect on and write about the composition process. Doing so makes you a more thoughtful writer as you think about the ideas, audience, purpose, and cultural considerations of your work.</para>
+      <section id="sect-00002">
+      <title>The Colonized Self</title>
+      <para id="para-00003">The colonized lived experience is an important topic of academic discourse. When one refers to a situation as <term id="term-00001">colonized</term>, they mean that the ideas, customs, and culture of one group of people have been imposed onto the Indigenous people of a land. For example, colonization occurred when European explorers arrived in the Americas between the 16th and 18th centuries to inhabit land already populated by various Native American peoples with their own culture and customs. Many scholars and students are interested in exploring what it means to remove this foreign experience from the curriculum and to discontinue operating under the assumption that groups in power determine customs and culture.</para>
+      <para id="para-00004">Such a process begins with an examination of individual identities and cultures. You have likely attended school in systems that privilege a mainstream culture over all others. The challenge is to figure out the identity of your authentic self, stripped of colonizing forces, the way Sequoyah, Cathy Park Hong, W. E. B. Du Bois, and others have tried to do. Essentially, two versions exist of the self: the <term id="term-00002">colonized self</term> that conforms to academic standards even when they do not align with personal cultural experiences and the <term id="term-00003">decolonized self</term> that challenges mainstream standards, especially when they do not include or make space for lived experiences. So what does the process of decolonizing look like?</para>
+      </section>
+      <section id="sect-00003">
+      <title>The Decolonized Self</title>
+      <para id="para-00005">Throughout much of American history, education has focused on advancing the colonial purposes of assimilation. This practice can be harmful to everyone, especially to students identifying as BIPOC (Black, Indigenous, and people of color). While outright racism and exclusion are now frowned upon in academia, colonial racism and exclusion persist through more subtle means: systems of oppression, curricula, and institutional structures.</para>
+      <para id="para-00006">As a student and writer, you likely have experienced the effects of colonization either to your benefit or your detriment. While it can be difficult to break through entrenched racism and exclusion, through the process of decolonization you can form your identity and better understand the identities of people from other cultures.</para>
+      <para id="para-00007">The word <term id="term-00004">decolonization</term> refers to the process of a nation or territory breaking free from an oppressive colonial power that controls it. In essence, decolonization is a statement of independence. When used in cultural terms, <emphasis effect="italics">decolonization</emphasis> refers to challenging and changing the individual and collective consciousness rooted in racism and oppression. Essentially, then, it means undoing colonial practices that have influenced education in the past and continue to do so today. You can learn more about decolonizing education in <link url="https://openstax.org/r/thistedxtalk_zeKHOTDwZxU">this TEDx Talk</link>.</para>
+      <para id="para-00008">As you work to develop your decolonized self, you will likely spend time on introspection, examining unconscious biases and how they affect your perspective on your culture and other cultures. Learning to be anti-racist and inclusive is a lifelong process, one that can be developed in part through the writing process. Continual questioning and reflection is the most important part of decolonization.</para>
+      </section>
+      <section id="sect-00004">
+      <title>Reflection Prompt</title>
+      <para id="para-00009">In your portfolio for this chapter, imagine that other students in colleges and universities across the country are talking about some of these same cultural issues. Think of it as one big conversation. American philosopher and rhetorician <term class="no-emphasis" id="term-00005">Kenneth Burke</term> (1897–1993) created the metaphor of a <emphasis effect="italics">parlor</emphasis> where academics across time and space have gathered to help you imagine what academic conversations must be like. Burke describes an academic conversation as “unending”: “Others . . . are engaged in a heated discussion. . . . You listen for a while . . . then you put in your oar” (Burke 110). In other words, as you write, you are adding to a timeless conversation among thinkers and authors. Your words help define cultural understanding of the future. (More about this “conversation” appears in “Glance at Genre: Introducing Research as Evidence”.) [Prod: create anchor link to 12.3]</para>
+      <para id="para-00010">Consider Burke’s concept of joining an unending conversation along with the intersections of your cultural identities. Write a reflection in which you imagine what happens in the Burkean parlor of your own making when you enter. <emphasis effect="italics">How does the conversation change as a result of your presence? What parts of yourself contribute to, or maybe even derail, the ongoing conversations? How does the parlor change after you leave? Do you leave the parlor bubbling like warm, nourishing soup or in (figurative) flames?</emphasis></para>
+      <para id="para-00011"><emphasis effect="bold"><emphasis effect="italics">[continued from previous conversation]</emphasis></emphasis></para>
+      <para id="para-00012"><emphasis effect="bold">Former U.S. President</emphasis> <term class="no-emphasis" id="term-00006">Barack Obama</term><emphasis effect="bold">:</emphasis> “The worst thing that colonialism did was to cloud our view of our past.”</para>
+      <para id="para-00013"><emphasis effect="bold">Nigerian Author</emphasis> <term class="no-emphasis" id="term-00007">Chinua Achebe</term><emphasis effect="bold">:</emphasis> “Until the lions have their own historians, the history of the hunt will always glorify the hunter.”</para>
+      <para id="para-00014"><emphasis effect="bold">British Writer</emphasis> <term class="no-emphasis" id="term-00008">E. M. Forster</term><emphasis effect="bold">:</emphasis> “And Englishmen like posing as gods.”</para>
+      <para id="para-00015"><emphasis effect="bold">American Professor</emphasis> <term class="no-emphasis" id="term-00009">J. M. Blaut</term><emphasis effect="bold">:</emphasis> “Eurocentrism is quite simply the colonizer’s model of the world.”</para>
+      <para id="para-00016"><emphasis effect="bold">American Theologian</emphasis> <term class="no-emphasis" id="term-00010">Catherine Keller</term><emphasis effect="bold">:</emphasis> “Western dominology can with religious sanction identify anything dark, profound, or fluid with a revolting chaos.”</para>
+      <para id="para-00017"><emphasis effect="bold">Senegalese Author</emphasis> <term class="no-emphasis" id="term-00011">Mariama Bâ</term><emphasis effect="bold">:</emphasis> “The assimilationist dream of the colonist drew into its crucible our mode of thought and way of life.”</para>
+      <para id="para-00018"><emphasis effect="bold">Antiguan American Author</emphasis> <term class="no-emphasis" id="term-00012">Jamaica Kinkaid</term><emphasis effect="bold">:</emphasis> “What I see is the millions of people . . . made orphans: no motherland . . . no . . . holy ground.”</para>
+      <para id="para-00019"><emphasis effect="bold">African American Author</emphasis> <term class="no-emphasis" id="term-00013">Ralph Ellison</term><emphasis effect="bold">:</emphasis> “When I discover who I am, I’ll be free.”</para>
+      <para id="para-00020"><emphasis effect="bold">YOU:</emphasis> “. . .”</para>
+      <para id="para-00021"><emphasis effect="bold"><emphasis effect="italics">[to be continued]</emphasis></emphasis></para>
+      </section>
+      <section class="further-reading" id="sect-00005">
+      <title>Further Reading</title>
+      <para id="para-00022">To read more about the process of exploring language, identity, and culture, you may seek out the following authors and titles.</para>
+      <para id="para-00023">DiAngelo, Robin J. <emphasis effect="italics">White Fragility: Why It’s So Hard for White People to Talk about Racism</emphasis>. Beacon Press, 2018.</para>
+      <para id="para-00024">Hong, Cathy Park. <emphasis effect="italics">Minor Feelings: An Asian American Reckoning</emphasis>. One World, 2020.</para>
+      <para id="para-00025">Jones, Saeed. <emphasis effect="italics">How We Fight for Our Lives: A Memoir</emphasis>. Simon &amp; Schuster, 2019.</para>
+      <para id="para-00026">Kynard, Carmen. <emphasis effect="italics">Vernacular Insurrections: Race, Black Protest, and the New Century in Composition-Literacies Studies</emphasis>. State U of New York P, 2013.</para>
+      <para id="para-00027">Pollock, Mica, ed. <emphasis effect="italics">Everyday Antiracism: Getting Real about Race in School</emphasis>. New Press, 2008.</para>
+      <para id="para-00028">Rabaka, Reiland. <emphasis effect="italics">Africana Critical Theory: Reconstructing the Black Radical Tradition, from W. E. B. Du Bois and C. L. R. James to Frantz Fanon and Amilcar Cabral</emphasis>. Lexington Books, 2009.</para>
+      <para id="para-00029">Reynolds, Jason, and Ibram X. Kendi. <emphasis effect="italics">Stamped: Racism, Antiracism, and You</emphasis>. Little, Brown, 2020.</para>
+      </section>
+      <section class="works-cited" id="sect-00006">
+      <title>Works Cited</title>
+      <para id="para-00030">Burke, Kenneth. <emphasis effect="italics">The Philosophy of Literary Form: Studies in Symbolic Action</emphasis>. 3rd ed., U of California P, 1973.</para>
+      <para id="para-00031">“Cathy Park Hong.” <emphasis effect="italics">Poets.org</emphasis>, Academy of American Poets, poets.org/poet/cathy-park-hong.</para>
+      <para id="para-00032">“Colonialism Quotes.” <emphasis effect="italics">Goodreads</emphasis>, www.goodreads.com/quotes/tag/colonialism?page=2.</para>
+      <para id="para-00033">Dickens, Charles. <emphasis effect="italics">American Notes for General Circulation</emphasis>. 1842. <emphasis effect="italics">Project Gutenberg</emphasis>, 18 Feb. 2013, www.gutenberg.org/files/675/675-h/675-h.htm.</para>
+      <para id="para-00034">Du Bois, W. E. B. <emphasis effect="italics">The Souls of Black Folk</emphasis>. 1903. <emphasis effect="italics">Project Gutenberg</emphasis>, Jan. 1996, www.gutenberg.org/files/408/408-h/408-h.htm.</para>
+      <para id="para-00035">Hall, Stuart. “Cultural Identity and Cinematic Representation.” <emphasis effect="italics">Framework: The Journal of Cinema and Media</emphasis>, no. 36, 1989, pp. 68–81. <emphasis effect="italics">JSTOR</emphasis>, www.jstor.org/stable/44111666.</para>
+      <para id="para-00036">Hong, Cathy Park. <emphasis effect="italics">Minor Feelings: An Asian American Reckoning</emphasis>. One World, 2020.</para>
+      <para id="para-00037">Hong, Cathy Park. “Why This Wave of Anti-Asian Racism Feels Different.” Interview by Morgan Ome. <emphasis effect="italics">The Atlantic</emphasis>, 17 Mar. 2021, www.theatlantic.com/ideas/archive/2021/03/cathy-park-hong-anti-asian-racism/618310/.</para>
+      <para id="para-00038">“How Sequoyah, Who Did Not Read or Write, Created a Written Language for the Cherokee Nation from Scratch.” <emphasis effect="italics">American Masters</emphasis>, WNET, 24 Nov. 2020, www.pbs.org/wnet/americanmasters/blog/how-sequoyah-who-did-not-read-or-write-created-a-written-language-for-the-cherokee-nation-from-scratch/.</para>
+      <para id="para-00039">“Identity Quotes.” <emphasis effect="italics">Goodreads</emphasis>, www.goodreads.com/quotes/tag/identity.</para>
+      <para id="para-00040">Mufwene, Salikoko Sangol.“African American English.” <emphasis effect="italics">Encyclopædia Britannica</emphasis>, 17 Dec. 2004, www.britannica.com/topic/African-American-English.</para>
+      <para id="para-00041">Obama, Michelle. <emphasis effect="italics">Becoming</emphasis>. Crown, 2018.</para>
+      <para id="para-00042">“Postcolonialism Quotes.” <emphasis effect="italics">Goodreads</emphasis>, www.goodreads.com/quotes/tag/postcolonialism.</para>
+      <para id="para-00043">Rudwick, Elliott. “W. E. B. Du Bois.” <emphasis effect="italics">Encyclopædia Britannica</emphasis>, 23 Feb. 2021, www.britannica.com/biography/W-E-B-Du-Bois.</para>
+      <para id="para-00044">“Sequoyah.” <emphasis effect="italics">Encyclopædia Britannica</emphasis>, 28 July 2021, www.britannica.com/biography/Sequoyah.</para>
+      <para id="para-00045">“Sequoyah and the Creation of the Cherokee Syllabary.” <emphasis effect="italics">National Geographic</emphasis>, 13 Nov. 2019. www.nationalgeographic.org/article/sequoyah-and-creation-cherokee-syllabary/.</para>
+      <para id="para-00046">Sidnell, Jack. “African American Vernacular English (Ebonics).” <emphasis effect="italics">Language Varieties</emphasis>, Charlene Junko Sato Center for Pidgin, Creole, and Dialect Studies, www.hawaii.edu/satocenter/langnet/definitions/aave.html.</para>
+      <para id="para-00047">“Statement on Anti-racism to Support Teaching and Learning.” <emphasis effect="italics">NCTE</emphasis>, 11 July 2018, ncte.org/statement/antiracisminteaching/.</para>
+      <para id="para-00048">“Students’ Right to Their Own Language (with Bibliography).” <emphasis effect="italics">Conference on College Composition and Communication</emphasis>, National Council of Teachers of English, 16 June 2018, cccc.ncte.org/cccc/resources/positions/srtolsummary.</para>
+      <para id="para-00049">Tang, Terry. “As Virus-Era Attacks on Asians Rise, Past Victims Look Back.” <emphasis effect="italics">Associated Press News</emphasis>, 2 Mar. 2021, apnews.com/article/victims-anti-asian-attacks-reflect-0632beaa1726f17dcabb672c224ad86a.</para>
+      <para id="para-00050">Tegegne, Wondimu. “The Use of Dialects in Education and Its Impacts on Students’ Learning and Achievements.” <emphasis effect="italics">Education Journal</emphasis>,<emphasis effect="italics"/> vol.<emphasis effect="italics"/> 4<emphasis effect="italics">,</emphasis> no. 5,<emphasis effect="italics"/> Sept. 2015,<emphasis effect="italics"/> pp. 263–269, article.sciencepublishinggroup.com/html/10.11648.j.edu.20150405.22.html.</para>
+      <para id="para-00051">“This Ain’t Another Statement! This Is a DEMAND for Black Linguistic Justice!” <emphasis effect="italics">Conference on College Composition &amp; Communication</emphasis>, National Council of Teachers of English, July 2020, cccc.ncte.org/cccc/demand-for-black-linguistic-justice.</para>
+      <para id="para-00052">Young, Vershawn Ashanti. “‘Nah, We Straight’: An Argument against Code Switching.” <emphasis effect="italics">JAC</emphasis>, vol. 29, no. 1/2, 2009, pp. 49–76. <emphasis effect="italics">JSTOR</emphasis>, www.jstor.org/stable/20866886.</para>
+      <para id="para-00053">Zaharna, R. S. “Rhetorical Ethnocentricism: Understanding the Rhetorical Landscape of Arab-American Relations.” <emphasis effect="italics">R.S. Zaharna</emphasis>, American U, fs2.american.edu/zaharna/www/rhetoric.htm.</para>
       </section>
   </content>
 </document>

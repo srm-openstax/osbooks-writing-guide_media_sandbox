@@ -6,9 +6,65 @@
     <md:uuid>fab2cd5d-f992-4b5e-9109-de7a53d0bf01</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Articulate how language conventions shape and are shaped by readers’ and writers’ practices and purposes.</item>
+      <item>Define <emphasis effect="italics">oppression</emphasis> and explain its effects.</item>
+      <item>Define <emphasis effect="italics">inclusion</emphasis> and summarize ways to write inclusively.</item>
+      </list>
+      </section>
+      <para id="para-00002">Writing about identity and culture gives authors the opportunity to share personal experiences and provides a vehicle for storytelling. This storytelling can turn into a purposeful message with meaningful rhetorical impact.</para>
+      <section id="sect-00002">
+      <title>What Is Oppression?</title>
+      <para class="annotation culture-icon" id="para-00003">Some languages, cultures, and identities face discrimination. People often believe that for one group to advance, another must be held back. This suppression of growth, advancement, economic development, and educational opportunities has led to systems of <term id="term-00001">oppression</term>—prolonged and sustained unjust treatment—for some groups. For example, Black people from various parts of Africa endured centuries of oppression because of the <term id="term-00002">transatlantic slave trade</term>. Between the mid-16th and mid-19th centuries, European, Spanish, and American groups captured an estimated 10–12 million African men, women, and children from their homelands, boarded them on ships, and transported them to Europe, the Caribbean, and the Americas to be sold into slavery. After 1865, when the Thirteenth Amendment abolished slavery in the United States, Black people continued to be denied basic human rights, such as the opportunity to work at certain jobs, despite their educational achievement; to be served a meal in a restaurant; to use a public restroom or water fountain; to shop for necessities in a grocery or department store; or to live peacefully in their own communities. Black Americans have continued to be subjected to social inequities. As a community, they suffer from higher rates of incarceration, lower pay rates, fewer educational opportunities, and higher mortality at the hands of law enforcement—injustices that stem from racist policies of centuries past. Similarly, Indigenous people have been subjected to hundreds of years of oppression and silencing, often the result of colonialization, which included stripping them of their customs, land, language, and lives.</para>
+      <figure id="fig-00001"><media alt="A map of the Southern United States shows the routes of the Trail of Tears (1836–1839), the U.S. government’s forced relocation of thousands of Native Americans from their lands to “Indian Territory” in what is now Oklahoma. Thousands died of starvation, exposure, or disease during the long and brutal 1,200-mile journey, much of it on foot.">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_02_03_004.jpg"/></media>
+      <caption>This map shows the routes of the <link url="https://openstax.org/r/trailoftears">Trail of Tears</link> (1836–1839), the U.S. government’s forced relocation of tens of thousands of Native Americans from their lands in the southeastern United States to “Indian Territory” in what is now Oklahoma. Thousands died of starvation, exposure, or disease during the long and brutal 1,200-mile journey, much of it on foot. (credit: Nikator and www.demis.nl/Wikimedia Commons, Public Domain)</caption>
+      </figure>
+      <para id="para-00004">Oppression isn’t just a historical problem—it extends to society today. In the two decades since the September 11, 2001, attacks on the United States and the subsequent War on Terror, Muslims and Sikhs have experienced hate crimes and oppression. People who identify as LGBTQ have been shunned or persecuted, subjected to hate crimes, and banned from serving in the military and have struggled to gain the right to marry. <link url="https://openstax.org/r/thistedtalk">This TED Talk</link> highlights the struggle for transgender rights.</para>
+      <para id="para-00005">In addition, migrant and refugee families, largely from countries in Central and South America, have been separated and jailed in recent efforts to curtail immigration along the southern U.S. border. Asian Americans have been subjected to racially motivated harassment and attacks, heightened by the COVID-19 pandemic, including the violent March 2021 mass shooting at an Asian American massage parlor. <link url="https://openstax.org/r/talksstereotype">This TED Talk</link> discusses the harm of Asian stereotypes. Discrimination has persisted for generations and continues to make it difficult for those who oppress to view the oppressed as their equals.</para>
+      </section>
+      <section id="sect-00003">
+      <title>Reclaiming Humanity</title>
+      <para class="annotation culture-icon linguistic-icon" id="para-00006">One way to help restructure the world to reduce or even eliminate oppression is to explore your own biases. A <term id="term-00003">bias</term> occurs when you prejudicially favor one person, place, thing, or idea over another. People are naturally conditioned to favor the familiar over the unfamiliar. If you begin to question why you think as you do or make the decisions you make, you may begin to view others as equal, even though they may look different, live differently, and experience the world differently.</para>
+      <para id="para-00007">Two of the most frequent ways people isolate others are through markers of identity, especially race and gender, and through language varieties, such as standard and nonstandard English. If your view of people is primarily influenced by their physical features and the words they speak, you do not allow yourself to engage fully with them in their humanity.</para>
+      <para id="para-00008">Viewing others as people first and understanding the importance of questioning the lens through which you view them is the beginning. However, you also have to think critically about language bias. When you hear people of African descent speak in African American Vernacular English (AAVE) or speak English with Caribbean or African accents, you may make assumptions about who they are and what they know. When you encounter people who speak English with Spanish accents, you also may make assumptions about who they are and their place in the world. However, when you hear British English or English spoken with a French, German, or Slavic accent, you may notice the difference, but you also may make a different set of assumptions about those people.</para>
+      </section>
+      <section id="sect-00004">
+      <title>Anti-racism as Inclusion</title>
+      <para class="annotation culture-icon linguistic-icon" id="para-00009">One way to be inclusive is to write in specifically anti-racist ways. Inclusive writing begins with identifying ways in which language can be and has been used to exclude cultures, social groups, or races. Exclusive language is, unfortunately, ingrained in much of academia. It is a product of habit and the assumption that all readers are alike, with similar experiences, values, and beliefs. To write inclusively, think beyond yourself by considering other perspectives, groups, and races that may be harmed by thoughtless word choices.</para>
+      <para id="para-00010">Here are several principles to help you develop inclusive and anti-racist writing:</para>
+      <list list-type="bulleted" id="list-00002">
+      <item>Consider the assumptions you make about readers, and then work to address those assumptions.</item>
+      <item>Choose language carefully.</item>
+      <item>Revise with a critical eye. Look for racist phrases and words that label cultures negatively.</item>
+      <item>Seek feedback and receive it with an open mind primed for learning. Because writing is personal, you may easily feel offended or dismissive. However, feedback, especially from people whose perspective differs from yours, can help you grow in anti-racist knowledge.</item>
+      <item>Consider rhetoric and presentation. Aim to make your writing understandable, straightforward, and accessible. Use a glossary or footnotes to explain complex terms or ideas.</item>
+      <item>Avoid casual phrases that suggest people with disabilities or from other cultures are victims and avoid euphemisms that refer to cultures to which you do not belong. Similarly, avoid using mental health issues in metaphors.</item>
+      <item>Think about your adjectives. Some groups or people prefer not to be described by an adjective. It is important to follow individual groups’ preferences for being referred to in either person-first or identity-first language.</item>
+      <item>Avoid stereotyping; write about an individual as an individual, not as if they represent an entire group or culture. You may also choose to use gender-neutral pronouns.</item>
+      <item>Be precise with meaning. Rather than describing something as “crazy,” try a more precise term such as <emphasis effect="italics">intense</emphasis>,<emphasis effect="italics"> uncontrolled</emphasis>, or <emphasis effect="italics">foolish</emphasis> to give a more accurate description.</item>
+      <item>Impact overrules intent. The impact of your language on your reader is more important than your good intentions. When you learn better, do better.</item>
+      </list>
+      </section>
+      <section id="sect-00005">
+      <title>Exploring the Issues</title>
+      <para class="annotation culture-icon linguistic-icon" id="para-00011">The following key terms and characteristics provide a better understand of anti-racist and inclusive writing:</para>
+      <list list-type="bulleted" id="list-00003">
+      <item><term id="term-00004">Ally</term><emphasis effect="bold">:</emphasis> a person who identifies as a supporter of marginalized groups and who advocates for them</item>
+      <item><term id="term-00005">Anti-racist</term><emphasis effect="bold">:</emphasis> adhering to a set of beliefs and actions that oppose racism and promote inclusion and equality of marginalized groups</item>
+      <item><term id="term-00006">Critical race theory</term><emphasis effect="bold">:</emphasis> the idea that racism is ingrained in the institutions and systems of American society</item>
+      <item><term id="term-00007">Cultural appropriation</term><emphasis effect="bold">:</emphasis> taking the creative or artistic forms of a different culture and using them as one’s own, particularly in a way that is disrespectful of the original context</item>
+      <item><term id="term-00008">Culture</term><emphasis effect="bold">:</emphasis> the shared beliefs, values, and assumptions of a group of people</item>
+      <item><term id="term-00009">Emotional tax</term><emphasis effect="bold">:</emphasis> the invisible mental stress taken on by people of marginalized backgrounds in an attempt to feel included, respected, and safe</item>
+      <item><term id="term-00010">Ethnocentrism</term><emphasis effect="bold">:</emphasis> the idea that one’s own culture is inherently better than other cultures</item>
+      <item><term id="term-00011">Intersectionality</term><emphasis effect="bold">:</emphasis> the intertwining of different aspects of social identities, including gender, race, culture, ethnicity, social class, religion, and sexual orientation, that results in unique experiences and opportunities</item>
+      <item><term id="term-00012">Microaggression</term><emphasis effect="bold">:</emphasis> behavior or speech that subtly or indirectly expresses prejudice based on race, gender, ability, age, or other aspects of identity, often but not always without an individual’s conscious intention (For example, the drill team director instructs all members to wear their hair straight for competition.)</item>
+      <item><term id="term-00013">Neurodiversity</term><emphasis effect="bold">:</emphasis> the idea that humans have a range of differences in neurological functioning that should be respected</item>
+      <item><term id="term-00014">Unconscious bias</term><emphasis effect="bold">:</emphasis> any implicit, unfair preferences that people hold without being aware of them</item>
+      </list>
       </section>
   </content>
 </document>
