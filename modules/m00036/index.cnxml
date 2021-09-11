@@ -6,9 +6,30 @@
     <md:uuid>297833a3-c567-4b1e-89e9-80dd236666da</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Use a variety of technologies to address a range of audiences.</item>
+      <item>Match the capacities of different environments to varying rhetorical situations.</item>
+      </list>
+      </section>
+      <figure id="fig-00001"><media alt="The Rotunda for the Charters of Freedom is part of the National Archives Building in Washington, DC.">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_03_08_020.jpg"/></media>
+      <caption>Rotunda for the Charters of Freedom (credit: Garrett/flickr, CC BY 2.0)</caption>
+      </figure>
+      <para id="para-00002">An archive is a collection of artifacts, often historical, that serve to document a time period, location, or group of people. Archives may be located far from cities, accessible only in person, and they typically house rare documents that visitors view or handle with particular care. When an archive is digitized, however, visitors are allowed to view the document in virtual spaces, thus creating an open and accessible environment. The <term class="no-emphasis" id="term-00001">Digital Archive of Literacy Narratives</term> (DALN) “is an open public resource made up of stories from people just like you about their experiences learning to read, write, and generally communicate with the world around them.” People who have diverse identities, lived experiences, and engagement with literacies have uploaded their literacy narratives and given permission for their stories to be read and shared with public audiences.</para>
+      <section id="sect-00002">
+      <title>Using the Digital Archive of Literacy Narratives (DALN)</title>
+      <para id="para-00003">The DALN is completely keyword searchable, so if you are looking to read literacy narratives on particular subjects—such as music or dance as literacy, or any other concentrated subject about which one can demonstrate knowledge—you can search for shared narratives with these literacies. As the website states, “The DALN invites people of all ages, races, communities, backgrounds, and interests to contribute stories about how—and in what circumstances—they read, write, and compose meaning, and how they learned to do so (or helped others learn).” Sharing your literacy narrative in the DALN can be a rewarding way to celebrate the completion of this writing milestone. The DALN welcomes literacy narratives of all kinds and in all formats, including diaries, blogs, poetry, music, videos, letters, stories, chat rooms, and so on.</para>
+      </section>
+      <section id="sect-00003">
+      <title>Publish Your Literacy Narrative</title>
+      <para id="para-00004">After you have completed and revised your literacy narrative, consider sharing it with the <link url="https://openstax.org/r/daln">DALN</link> You may also want to consider reimagining your literacy narrative in the form of a podcast or a TED Talk–type video. The <term class="no-emphasis" id="term-00002">TED</term> in TED Talk is an acronym that stands for the phrase “Technology, Entertainment, and Design.” <link url="https://openstax.org/r/ted">TED</link> is a nonprofit organization devoted to the distribution of ideas; the website is keyword searchable and provides an archive where you can find short talks about just about any topic. The <link url="https://openstax.org/r/criteria">criteria</link> for a TED Talk can be found on the organization’s website. To prepare for this publication alternative, take an opportunity to watch the following sample TED Talks that fit the genre of literacy narrative:</para>
+      <list id="list-00002">
+      <item><link url="https://openstax.org/r/luvvieajayi">Luvvie Ajayi</link> discusses how blogging and creating a post that went viral led to her identifying as a writer.</item>
+      <item><link url="https://openstax.org/r/johntrischitti">John Trischitti</link> talks about how reading literally saves lives and advocates for providing young people with books to secure their futures.</item>
+      </list>
       </section>
 </content>
 </document>

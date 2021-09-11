@@ -7,9 +7,62 @@
   </metadata>
   <content class="narrative-trailblazer">
     <div/>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Use reading for inquiry, learning, critical thinking, and communicating.</item>
+      <item>Identify various types of literacy in the context of a literacy narrative.</item>
+      </list>
+      </section>
+      <note class="author-quote" id="note-00001">
+      <figure id="fig-00001"><media alt="“The Book of Mormon” cover depicts one of Trailblazer Tara Westover’s early literacies. “Another Testament of Jesus Christ” is written below the title.">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_03_02_006.jpg"/></media>
+      <caption>The Book of Mormon was the basis of one of <link url="https://openstax.org/r/Tara">Tara Westover’s</link> early literacies. (credit: Tony Webster/flickr, CC BY 2.0)</caption>
+      </figure>
+      <quote id="quote-00001"><para id="para-00002">“We are all more complicated than the role we are assigned in stories.”</para></quote>
+      </note>
+      <section id="sect-00002">
+      <title>Being <emphasis effect="italics">Educated</emphasis></title>
+      <para class="annotation culture-icon" id="para-00003">In her 2018 best seller, <term class="no-emphasis" id="term-00001"><emphasis effect="italics">Educated: A Memoir</emphasis></term>, <term class="no-emphasis" id="term-00002">Tara Westover</term> considers the effects of academic and nonacademic literacies in her life. She also contemplates the ways in which identification with certain literacies can both create and disturb an individual’s relationships and community memberships. While <emphasis effect="italics">Educated</emphasis> addresses a variety of themes, including the tensions that family members must confront when they disagree, the memoir can be read largely as a literacy narrative.</para>
+      <para id="para-00004">Early in her memoir, Westover discusses a range of literacies she developed as the youngest of seven children in a homeschooled family. Although she was taught to read, her literary world consisted almost exclusively of the Book of Mormon and other religious texts. Her other literacies included preserving food, preparing herbs, and caring for the animals on the family farm, located on an Idaho mountain. She felt a keen sense of belonging both to her family and to their mountain home. Westover also learned how to work in and survive the dangerous junkyard her family owned and operated. Even though many family members sustained a variety of horrific accidents and injuries over the years, mostly at the junkyard or in car accidents, the family relied entirely on natural remedies; both parents considered doctors and medicine to be sinful. Despite the range of literacies that Westover learned at home, her parents did not value formal schooling and were indifferent to the development of a broad understanding of science, history, or current events. The Westover children were almost entirely self-directed in their academic studies.</para>
+      <para id="para-00005">As a young child, Westover fully embraced her parents’ beliefs that “government schooling” was wholly unchristian and equivalent to brainwashing. Her brother Tyler, however, had always loved “book learning” and decided to leave home to attend college. He could not fully articulate why he felt compelled to be the first to leave, and his departure intrigued Westover. She, too, began to think about pursuing higher education. After another brother became physically abusive toward her, Tyler encouraged her to use college as an escape. She then bought an ACT prep book, studied on her own, and did well enough on the exams to be accepted to <term class="no-emphasis" id="term-00003">Brigham Young University</term>.</para>
+      <para id="para-00006">Westover articulates in her memoir that once on campus, she realized how her haphazard homeschooling experience had left her with large gaps in knowledge and no preparation for studying and taking tests. As she improved her academic skills, she also learned methods of academic inquiry that were at odds with her parents’ faith-based interpretations of both world and personal events.</para>
+      <para id="para-00007">As Westover gained a science-based worldview through her college experience, she struggled to integrate her new understandings with her family’s perspectives; in other words, her new literacies were at odds with her old ones. She still felt connected to her family, but her new understanding of the world was irreconcilable with her father’s survivalist, fundamentalist beliefs. When she refused to submit to her father’s will and return to his rigid worldview and interpretation of Mormonism, Westover’s relationship with most of her family members disintegrated. Instead, she used her academic literacies to examine the history of their religion in her doctoral research. All three Westover children who left the mountain—and, to some extent, their family—earned PhDs. The four who stayed near the family home have had little formal education.</para>
+      <para id="para-00008">For Westover, the schism with her family was not primarily the result of her literacy learning; rather, the relationship ruptured because she refused to repudiate her newfound knowledge as inferior to her family’s ways of knowing. In subsequent interviews, Westover has discussed the loss she felt in being cut off from her family and place of origin. Although many college students experience similar challenges when integrating new ways of encountering the world with their family’s views of “how things are” or “how things should be,” some families feel enriched by the new information, whereas others feel threatened by it.</para>
+      </section>
+      <section id="sect-00003">
+      <title>Discussion Questions</title>
+      <exercise id="exer-00001">
+      <problem id="prob-00001">
+      <para id="para-00009"><link class="os-embed" url="https://exercises.openstax.org/exercise/EC_Ch3-Sec2_DQ1"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00002">
+      <problem id="prob-00002">
+      <para id="para-00010"><link class="os-embed" url="https://exercises.openstax.org/exercise/EC_Ch3-Sec2_DQ2"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00003">
+      <problem id="prob-00003">
+      <para id="para-00011"><link class="os-embed" url="https://exercises.openstax.org/exercise/EC_Ch3-Sec2_DQ3"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00004">
+      <problem id="prob-00004">
+      <para id="para-00012"><link class="os-embed" url="https://exercises.openstax.org/exercise/EC_Ch3-Sec2_DQ4"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00005">
+      <problem id="prob-00005">
+      <para id="para-00013"><link class="os-embed" url="https://exercises.openstax.org/exercise/EC_Ch3-Sec2_DQ5"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00006">
+      <problem id="prob-00006">
+      <para id="para-00014"><link class="os-embed" url="https://exercises.openstax.org/exercise/EC_Ch3-Sec2_DQ6"/></para>
+      </problem>
+      </exercise>
       </section>
     </content>
 </document>
