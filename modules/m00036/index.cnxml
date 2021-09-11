@@ -6,9 +6,71 @@
     <md:uuid>297833a3-c567-4b1e-89e9-80dd236666da</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Gain experience negotiating variations in genre conventions.</item>
+      <item>Learn common formats and design features for different kinds of texts.</item>
+      <item>Identify how genre conventions for structure, paragraphing, tone, and mechanics vary.</item>
+      </list>
+      </section>
+      <para id="para-00002">The section below provides a rubric that your instructor will use to evaluate the aspect of your literacy experience that you have chosen to explore in a full essay. Refer to it frequently throughout the writing process to make sure that you are fulfilling the requirements of the assignment.</para>
+      <section id="sect-00002">
+      <title>Rubric</title>
+      <table summary="Use the assignment rubric to assess your writing and the writing of others before submission for a grade." id="table-00001">
+      <tgroup cols="4">
+      <tbody>
+      <row>
+      <entry><emphasis effect="bold">Score</emphasis></entry>
+      <entry><emphasis effect="bold">Critical Language Awareness</emphasis></entry>
+      <entry><emphasis effect="bold">Clarity and Coherence</emphasis></entry>
+      <entry><emphasis effect="bold">Rhetorical Choices</emphasis></entry>
+      </row>
+      <row>
+      <entry><para id="para-00003">5</para>
+      <para id="para-00004">Skillful</para></entry>
+      <entry>The text always adheres to the “Editing Focus” of this chapter—combining independent clauses appropriately, as discussed in Section 3.6—and employs a variety of complex sentence structures. The text also shows ample evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+      <entry>The text always maintains focus on the central narrative and provides detailed description and thorough development of characters, setting, and sensory details, and it demonstrates a clear and organized sequence of events.</entry>
+      <entry>The text always demonstrates an awareness of the rhetorical situation: author, message, audience, purpose, means, context, and culture.</entry>
+      </row>
+      <row>
+      <entry><para id="para-00005">4</para>
+      <para id="para-00006">Accomplished</para></entry>
+      <entry><para id="para-00007">The text usually adheres to the “Editing Focus” of this chapter—combining independent clauses appropriately, as discussed in Section 3.6—and employs complex sentence structures.</para>
+      <para id="para-00008">The text also shows some evidence of the writer’s intent to meet or challenge conventional expectations in rhetorically effective ways.</para></entry>
+      <entry>The text usually maintains focus on the central narrative and provides detailed description and development of characters, setting, and sensory details, and it demonstrates an organized sequence of events.</entry>
+      <entry>The text consistently demonstrates an awareness of the rhetorical situation: author, message, audience, purpose, means, context, and culture.</entry>
+      </row>
+      <row>
+      <entry>
+      <para id="para-00009">3</para>
+      <para id="para-00010">Capable</para></entry>
+      <entry><para id="para-00011">The text generally adheres to the “Editing Focus” of this chapter—combining independent clauses appropriately, as discussed in Section 3.6—and employs complex sentence structures.</para>
+      <para id="para-00012">The text also shows limited evidence of the writer’s intent to meet or challenge conventional expectations in rhetorically effective ways.</para></entry>
+      <entry>The text generally maintains focus on the central narrative and provides detailed description and development of characters, setting, and sensory details, and it demonstrates some organization in the sequence of events.</entry>
+      <entry>The text generally demonstrates an awareness of the rhetorical situation: author, message, audience, purpose, means, context, and culture.</entry>
+      </row>
+      <row>
+      <entry><para id="para-00013">2</para>
+      <para id="para-00014">Developing</para></entry>
+      <entry><para id="para-00015">The text occasionally adheres to the “Editing Focus” of this chapter—combining independent clauses appropriately, as discussed in Section 3.6—and employs complex sentence structures.</para>
+      <para id="para-00016">The text also shows emerging evidence of the writer’s intent to meet or challenge conventional expectations in rhetorically effective ways.</para></entry>
+      <entry>The text occasionally maintains focus on the central narrative and provides detailed description and thorough development of characters, setting, and sensory details, and it demonstrates an attempt at organization in the sequence of events.</entry>
+      <entry>The text occasionally demonstrates an awareness of the rhetorical situation: author, message, audience, purpose, means, context, and culture.</entry>
+      </row>
+      <row>
+      <entry><para id="para-00017">1</para>
+      <para id="para-00018">Beginning</para></entry>
+      <entry><para id="para-00019">The text does not adhere to the “Editing Focus” of this chapter—combining independent clauses in meaningful ways, as discussed in Section 3.6—or employ complex sentence structures.</para>
+      <para id="para-00020">The text also shows little to no evidence of the writer’s intent to meet or challenge conventional expectations in rhetorically effective ways.</para></entry>
+      <entry>The text does not maintain focus on the central narrative or provide detailed description or thorough development of characters, setting, or sensory details, and it does not demonstrate a clear and organized sequence of events.</entry>
+      <entry>The text does not demonstrate an awareness of the rhetorical situation: author, message, audience, purpose, means, context, and culture.</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption/>
+      </table>
       </section>
   </content>
 </document>
