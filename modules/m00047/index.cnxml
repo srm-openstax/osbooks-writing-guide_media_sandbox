@@ -6,9 +6,58 @@
     <md:uuid>2aadf2ab-9951-4164-abd4-94d74055a921</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Reflect on the composition process.</item>
+      <item>Reflect on how the composition process affects your writing.</item>
+      <item>Use composition for learning, critical thinking, and communicating in various rhetorical contexts</item>
+      </list>
+      </section>
+      <para id="para-00002">As part of this course, you are creating a portfolio of your compositions to show your development as a writer. As you add to this portfolio, you assess your growth as a writer. The portfolio of your work allows you not only to have a record of your compositions but also to reflect on those compositions and the process involved in writing them. In this section, you will write a reflection on the process you followed in writing your turning-point story, including revision and editing. Consider your original intention when creating your essay and how close your final composition comes to fulfilling that intention.</para>
+      <section id="sect-00002">
+      <title>Reflective Task</title>
+      <para id="para-00003">Answer the following questions before writing several paragraphs reflecting on the personal turning point you wrote about in this chapter. Consider both the process and the outcome of the writing assignment.</para>
+      <list type="enumerated" id="list-00002">
+      <item>Why did you choose the turning-point moment or event that you did?</item>
+      <item>Which part of the writing process came the most naturally? Which was the most difficult?</item>
+      <item>Which parts of the composition do you think are the strongest? Why?</item>
+      <item>Which parts of the composition would you still like to improve?</item>
+      <item>How did you develop your voice as a narrator as you wrote?</item>
+      <item>If you were to write another turning-point story, what would you do differently? (Consider topic, organization, structure, point of view, and voice.)</item>
+      <item>How did your story change through the revision and peer-editing processes? Name at least two changes you made, and reflect on how they made the piece stronger.</item>
+      <item>What did you learn about yourself, both as a writer and as a person, from this exercise?</item>
+      </list>
+      </section>
+      <section class="further-reading" id="sect-00003">
+      <title>Further Reading</title>
+      <para id="para-00004">The following titles are good examples of essays, memoirs, and poems that tell personal stories.</para>
+      <para id="para-00005">Akbar, Kaveh. “How I Found Poetry in Childhood Prayer: In the Presence of the Long Faultless Tongue of God.” <emphasis effect="italics">Literary Hub</emphasis>, 12 Sept. 2017, https://lithub.com/kaveh-akbar-how-i-found-poetry-in-childhood-prayer/.</para>
+      <para id="para-00006">Angelou, Maya. <emphasis effect="italics">I Know Why the Caged Bird Sings</emphasis>. Random House, 1969.</para>
+      <para id="para-00007">Anzaldúa, Gloria. <emphasis effect="italics">Borderlands / La Frontera: The New Mestiza</emphasis>. 4th ed., Aunt Lute Books, 2012.</para>
+      <para id="para-00008">Baldwin, James. <emphasis effect="italics">Notes of a Native Son</emphasis>. 1955. Beacon Press, 2012.</para>
+      <para id="para-00009">Beasley, Sandra. <emphasis effect="italics">Don’t Kill the Birthday Girl: Tales from an Allergic Life</emphasis>. Crown, 2011.</para>
+      <para id="para-00010">Bryson, Bill. <emphasis effect="italics">I’m a Stranger Here Myself: Notes on Returning to America after 20 Years Away</emphasis>. Broadway Books, 1999.</para>
+      <para id="para-00011">Lamott, Anne. <emphasis effect="italics">Bird by Bird: Some Instructions on Writing and Life</emphasis>. Pantheon Books, 1994.</para>
+      <para id="para-00012">McCourt, Frank. <emphasis effect="italics">Angela’s Ashes</emphasis>. Scribner, 1996.</para>
+      <para id="para-00013">O’Brien, Tim. <emphasis effect="italics">The Things They Carried</emphasis>. Houghton Mifflin, 1990.</para>
+      <para id="para-00014">Pausch, Randy. <emphasis effect="italics">The Last Lecture</emphasis>. With Jeffrey Zaslow, Hyperion, 2008.</para>
+      <para id="para-00015">Schutz, Samantha. <emphasis effect="italics">I Don’t Want to Be Crazy</emphasis>. Scholastic, 2006.</para>
+      <para id="para-00016">Walls, Jeanette. <emphasis effect="italics">The Glass Castle: A Memoir</emphasis>. Scribner, 2006.</para>
+      <para id="para-00017">Woodson, Jacqueline. <emphasis effect="italics">Brown Girl Dreaming</emphasis>. Nancy Paulsen Books, 2014.</para>
+      </section>
+      <section class="works-cited" id="sect-00004">
+      <title>Works Cited</title>
+      <para id="para-00018">Abrams, Shane. <emphasis effect="italics">EmpoWord: A Student-Centered Anthology and Handbook for College Writers</emphasis>. Portland State U, 2018, https://pdx.pressbooks.pub/empoword/.</para>
+      <para id="para-00019">Belcher, Diane, and Alan Hirvela, editors. <emphasis effect="italics">Linking Literacies: Perspectives on L2 Reading-Writing Connections</emphasis>. U of Michigan P, 2001.</para>
+      <para id="para-00020">Coates, Ta-Nehisi. “Ta-Nehisi Coates on the Writing Process.” Interview by Martha Teichner. <emphasis effect="italics">YouTube</emphasis>, uploaded by CBS Sunday Morning, 5 Nov. 2017, http://www.youtube.com/watch?v=Z1bOLOmix1Y.</para>
+      <para id="para-00021">Dickens, Charles. <emphasis effect="italics">The Pickwick Papers</emphasis>. Chapman &amp; Hall, 1836. <emphasis effect="italics">Project Gutenberg</emphasis>, https://www.gutenberg.org/files/580/580-h/580-h.htm.</para>
+      <para id="para-00022">Ferris, Dana R. <emphasis effect="italics">Teaching College Writing to Diverse Student Populations</emphasis>. U of Michigan P, 2009.</para>
+      <para id="para-00023">Guptill, Amy. <emphasis effect="italics">Writing in College: From Competence to Excellence</emphasis>. Open SUNY, 2016, https://milneopentextbooks.org/writing-in-college-from-competence-to-excellence/.</para>
+      <para id="para-00024">Hawthorne, Nathaniel. “The Haunted Mind.” <emphasis effect="italics">Twice-Told Tales</emphasis>, American Stationers, 1837. <emphasis effect="italics">Project Gutenberg</emphasis>, https://www.gutenberg.org/files/9209/9209-h/9209-h.htm.</para>
+      <para id="para-00025">Malcolm X. “Literacy behind Bars.” <emphasis effect="italics">The Autobiography of Malcolm X</emphasis>, Ballantine, 1964. <emphasis effect="italics">Northern Local School District</emphasis>, https://www.nlsd.k12.oh.us/userfiles/63/Classes/4521/malcolm%20x%20-%20literacy%20behind%20bars.pdf.</para>
+      <para id="para-00026">Twain, Mark. <emphasis effect="italics">Life on the Mississippi</emphasis>. James R. Osgood, 1883. <emphasis effect="italics">Project Gutenberg</emphasis>, http://www.gutenberg.org/files/245/old/orig245-h/245-h.htm.</para>
       </section>
   </content>
 </document>
