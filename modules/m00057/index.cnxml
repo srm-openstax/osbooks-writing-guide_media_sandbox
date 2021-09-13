@@ -6,9 +6,52 @@
     <md:uuid>125fab5b-a7a3-49cb-a7a3-ac31ab96eae9</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Reflect on the development of composing processes.</item>
+      <item>Reflect on how those processes affect your final product.</item>
+      </list>
+      </section>
+      <para id="para-00002">As you develop a writing portfolio over the course of the semester, you will also reflect on your experience and writing process for each project. This section guides you in reflecting on your experience as you developed your profile.</para>
+      <section id="sect-00002">
+      <title>Reflective Task</title>
+      <para class="annotation dreaming-icon" id="para-00003">Take a few moments to jot down notes—by hand or electronically—in response to the following questions:</para>
+      <list list-type="bulleted" id="list-00002">
+      <item>What have you learned about yourself in researching and drafting this profile?</item>
+      <item>What did you learn in your research that surprised you?</item>
+      <item>What challenges did you face in gathering your primary research from interviews and field observations?</item>
+      <item>What challenges did you face in gathering your secondary research from academic and other credible sources?</item>
+      <item>Do you now think differently about the trait you focused on in your profile? If so, how has your understanding changed? If your thinking about that trait has not changed, how was it reinforced in this project?</item>
+      <item>If you were to begin this project again, how would you approach it differently?</item>
+      <item>With whom would you like to share your finished project? Why?</item>
+      <item>What other audiences might be interested in this piece?</item>
+      </list>
+      <para id="para-00004">After reflecting on your writing process and experience, organize your thoughts thematically. For example, if some parts of the process were more challenging for you and other parts were less so, you could organize your reflection around those two ideas. Or you could separate your reflection into sections according to the parts of the writing process that were familiar and the parts that were new to you in this project.</para>
+      <para id="para-00005">Once you have organized your notes into sections focusing on coherent themes, draft a professional email to your instructor to report the insights you have gained from your reflection. Find out from your instructor whether you should actually send the reflection via email or if you should attach it to your final profile document instead.</para>
+      </section>
+      <section class="further-reading" id="sect-00003">
+      <title>Further Reading</title>
+      <para id="para-00006">With their signature blend of narrative and reporting, profiles can be found in all sorts of media, including blogs, magazines, and podcasts. Once you start looking for profiles, you will find them everywhere. Here are several places to find profile writing:</para>
+      <list list-type="bulleted" id="list-00003">
+      <item><emphasis effect="bold"><emphasis effect="italics"><link url="https://openstax.org/r/esquire">Esquire</link>.</emphasis></emphasis> This magazine routinely runs profile features.</item>
+      <item><emphasis effect="bold"><emphasis effect="italics"><link url="https://openstax.org/r/humansofnewyork">Humans of New York</link>.</emphasis></emphasis> Originally a photography project, this blog presents photographs of, interviews with, and short stories about people who live in New York. Although the pieces are not all profiles, many of them meet the criteria for this genre.</item>
+      <item><emphasis effect="bold"><emphasis effect="italics"><link url="https://openstax.org/r/thenewyorker">The New Yorker</link>.</emphasis></emphasis> This magazine still runs profiles in each issue.</item>
+      <item><emphasis effect="bold"><emphasis effect="italics"><link url="https://openstax.org/r/thisamericanlife">This American Life</link>.</emphasis></emphasis> This weekly public radio program focuses on storytelling about compelling people.</item>
+      </list>
+      </section>
+      <section class="works-cited" id="sect-00004">
+      <title>Works Cited</title>
+      <para id="para-00007">“About the Award.” <emphasis effect="italics">John F. Kennedy Presidential Library and Museum</emphasis>, National Archives, www.jfklibrary.org/events-and-awards/profile-in-courage-award/about-the-award.</para>
+      <para id="para-00008">Chambers, Veronica. “Rebel Commentary: Veronica Chambers on the Power of Individual Resistance.” Interview by Rebecca Carroll. <emphasis effect="italics">Gothamist</emphasis>, New York Public Radio, 19 Sept. 2018, gothamist.com/arts-entertainment/rebel-commentary-veronica-chambers-on-the-power-of-individual-resistance.</para>
+      <para id="para-00009">Chambers, Veronica. <emphasis effect="italics">Resist: 40 Profiles of Ordinary People Who Rose Up against Tyranny and Injustice</emphasis>. Harper, 2020.</para>
+      <para id="para-00010">Glass, Ira. <emphasis effect="italics">This American Life</emphasis>. WBEZ Chicago, www.thisamericanlife.org/.</para>
+      <para id="para-00011">Hartsell, Mark. “Journalism, behind Barbed Wire.” <emphasis effect="italics">Library of Congress Blog</emphasis>, Library of Congress, 5 May 2017, blogs.loc.gov/loc/2017/05/journalism-behind-barbed-wire/</para>
+      <para id="para-00012">Hayden, Carla D. “Remembering John Lewis: The Power of ‘Good Trouble.’” <emphasis effect="italics">Library of Congress Blog</emphasis>, Library of Congress, 19 July 2020, blogs.loc.gov/loc/2020/07/remembering-john-lewis-the-power-of-good-trouble/.</para>
+      <para id="para-00013">Kennedy, John F. <emphasis effect="italics">Profiles in Courage</emphasis>. Harper, 1956.</para>
+      <para id="para-00014">Stanton, Brandon. <emphasis effect="italics">Humans of New York</emphasis>. www.humansofnewyork.com/.</para>
+      <para id="para-00015">Talese, Gay. “Frank Sinatra Has a Cold.” <emphasis effect="italics">Esquire</emphasis>, Hearst Magazine Media, 1 Apr. 1966, classic.esquire.com/article/1966/4/1/frank-sinatra-has-a-cold.</para>
       </section>
   </content>
 </document>

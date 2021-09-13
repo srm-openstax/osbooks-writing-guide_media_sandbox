@@ -6,9 +6,39 @@
     <md:uuid>5b33d616-649e-4ec9-a5c9-3d1254cede99</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Identify elements of the profile genre.</item>
+      <item>Identify research methods for writing profiles.</item>
+      </list>
+      </section>
+      <para id="para-00002"><term class="no-emphasis" id="term-00001">Profiles</term> are articles or essays in which the writer focuses on a specific trait or behavior that reveals something essential about the subject. Much profile material comes from interviews either with the subject or with people who know about the subject. However, interviews may not always be part of a profile, for profile writers also draw on other sources of information. In creating profiles, writers usually combine the techniques of <term id="term-00002">narrative</term>, or storytelling, and <term id="term-00003">reporting</term>, or including information that answers the questions of <emphasis effect="italics">who</emphasis>, <emphasis effect="italics">what</emphasis>, <emphasis effect="italics">when</emphasis>, <emphasis effect="italics">where</emphasis>, <emphasis effect="italics">why</emphasis>, and <emphasis effect="italics">how</emphasis>.</para>
+      <section id="sect-00002">
+      <title>Potential Profile Subjects and Angles</title>
+      <para class="annotation dreaming-icon" id="para-00003">You can find profile subjects everywhere. The purpose of a profile is to give readers an insight into something fundamental about the subject, whether that subject is a person, a social group, a building, a piece of art, a public space, or a cultural tradition. Writers of profiles often conduct several types of research, including interviews and <term id="term-00004">field observations</term>, as well as consult related published sources. A profile usually reveals one aspect of the subject to the audience; this focus is called an <term id="term-00005">angle</term>. To decide which angle to take, profile writers look for patterns in their research, then consider their audience when making choices about both the angle and the <term id="term-00006">tone</term>, or attitude toward the subject.</para>
+      </section>
+      <section id="sect-00003">
+      <title>Defining Terms and Writing in the Genre</title>
+      <para class="annotation linguistic-icon" id="para-00004">These terms, or <term id="term-00007">genre elements</term>, are frequently used in profile writing. The following definitions apply specifically to the ways in which the terms are used in this genre.</para>
+      <list list-type="bulleted" id="list-00002">
+      <item><term id="term-00008">Anecdotes</term><emphasis effect="bold">:</emphasis> brief stories about specific moments that offer insights into the profile subject.</item>
+      <item><term id="term-00009">Background information</term><emphasis effect="bold">:</emphasis> key to understanding the profile’s significance. Background information includes biographical data and other information about the history of the profile subject. It often helps establish context as well.</item>
+      <item><term id="term-00010">Chronological structure</term><emphasis effect="bold">:</emphasis> information or a narrative presented in time order, from earliest to most recent.</item>
+      <item><term id="term-00011">Context</term><emphasis effect="bold">:</emphasis> the situation or circumstances that surround a profile subject. Situating profile subjects within their contexts can offer deeper insights about them.</item>
+      <item><term id="term-00012">Factual information</term><emphasis effect="bold">:</emphasis> accurate and verifiable data and other material gathered from research.</item>
+      <item><term id="term-00013">Field notes</term><emphasis effect="bold">:</emphasis> information gathered and recorded by observing the profile subject within a particular environment.</item>
+      <item><term id="term-00014">Location</term><emphasis effect="bold">:</emphasis> places relevant to the profile subject. For a person, location might include birthplace, place of residence, or place where events occurred.</item>
+      <item><term id="term-00015">Narrative structure</term><emphasis effect="bold">:</emphasis> text organized as narratives, or stories, weaving research into the story as applicable.</item>
+      <item><term id="term-00016">Quotations</term><emphasis effect="bold">:</emphasis> words spoken or written by the subject or from interviews about the subject.</item>
+      <item><term id="term-00017">Reporting structure</term><emphasis effect="bold">:</emphasis> structure that relays factual information and answers <emphasis effect="italics">who</emphasis>, <emphasis effect="italics">what</emphasis>, <emphasis effect="italics">when</emphasis>, <emphasis effect="italics">where</emphasis>, <emphasis effect="italics">why</emphasis>, and <emphasis effect="italics">how</emphasis> questions.</item>
+      <item><term id="term-00018">Show and tell</term><emphasis effect="bold">:</emphasis> descriptive and narrative techniques to help readers imagine the subject combined with reporting techniques to relay factual information.</item>
+      <item><term id="term-00019">Spatial structure</term><emphasis effect="bold">:</emphasis> used in profiles of buildings, artworks, and public spaces. This structure reflects a “tour” of the space or image.</item>
+      <item><term id="term-00020">Thick description</term><emphasis effect="bold">:</emphasis> combination of sensory perceptions to create a vivid image for readers.</item>
+      <item><term id="term-00021">Tone</term><emphasis effect="bold">:</emphasis> the writer’s attitude toward the subject. For example, tone can be admiring, grateful, sarcastic, disparaging, angry, respectful, gracious, neutral, and so on.</item>
+      <item><term id="term-00022">Topical structure</term><emphasis effect="bold">:</emphasis> structure that focuses on several specific topics within the profile.</item>
+      </list>
       </section>
   </content>
 </document>
