@@ -32,12 +32,12 @@
       <title>Defining the Admirable Trait</title>
       <para class="annotation dreaming-icon" id="para-00006">Before beginning your profile, choose the admirable trait on which you will focus, and then create your own definition of it. This definition will help you select your subject and focus your research. Consider including the definition in your final product as well.</para>
       <para id="para-00007">First, to decide on the trait, follow these steps:</para>
-      <list list-type="bulleted" id="list-00002">
+      <list id="list-00002">
       <item>Set a timer for five minutes. During that time, write or record a comprehensive list of traits you admire in other people. Include a wide range of possibilities, such as “humor,” “generosity,” “patience,” and so on. To generate a robust list, think also of the people you admire, and then pinpoint the attributes you admire about them.</item>
       <item>Consider all of the traits you have listed, and select one to focus on for this project.</item>
       </list>
       <para id="para-00008">Next, use one or more of the following methods to begin defining the aspect of the subject that you admire:</para>
-      <list list-type="bulleted" id="list-00003">
+      <list id="list-00003">
       <item>Think about the admirable trait you have chosen, and write down a few words or phrases that you associate with it.</item>
       <item>Assemble a collage of images that make you think of the admirable trait.</item>
       <item>Write brief notes about moments when you have personally shown the trait you are focusing on—or about times you have seen others exhibit this trait.</item>
@@ -47,7 +47,7 @@
       <section id="sect-00005">
       <title>Choosing a Subject</title>
       <para class="annotation dreaming-icon" id="para-00010">Now that you have a working definition of the trait you are using to focus your profile, you can choose your subject. Members of the campus community are usually willing subjects: professors, librarians, resident assistants, alumni, staff, and coaches, to name a few. You might also consider buildings, public spaces, or public art on campus. In addition, the local community may contain potential subjects—for example, business owners, city administrators, and other local individuals, groups, or events peripherally associated with your school. Also consider discussing your project with an archivist if one is available on campus or in your community; these specialist librarians always have interesting subjects to recommend for research. Follow these steps to choose a subject:</para>
-      <list list-type="bulleted" id="list-00004">
+      <list id="list-00004">
       <item>Jot down notes about intriguing buildings, public spaces, pieces of public art, people, events, and groups on or near campus.</item>
       <item>Do a quick online search—perhaps on the campus website—to see what information is available about several potential subjects that most intrigue you. Remember that this research is simply to narrow your options; you will conduct more careful and thorough research after making your final choice.</item>
       <item>Having gathered preliminary information, think about which potential subject best connects to the definition of the admirable trait you have developed. Also, think about which subject most interests you.</item>
@@ -70,7 +70,7 @@
       </row>
       <row>
       <entry><para id="para-00014"><emphasis effect="bold">Interviews</emphasis></para>
-      <list list-type="bulleted" id="list-00005">
+      <list id="list-00005">
       <item>If you can speak to your subject, find their contact information.</item>
       <item>If you cannot speak directly to your subject, make a list of professionals with knowledge about your subject, and decide which person to contact first. One or two interviews should provide enough information for this assignment.</item>
       <item>In either case, compose a <term id="term-00003">professional email</term> (see below) to respectfully ask for a brief phone call, video conference, or in-person meeting. Send these emails as soon as you have chosen your subject so that you have time to schedule the interview before you begin drafting.</item>
@@ -78,7 +78,7 @@
       </row>
       <row>
       <entry><para id="para-00015"><emphasis effect="bold">Field Research</emphasis></para>
-      <list list-type="bulleted" id="list-00006">
+      <list id="list-00006">
       <item>If your subject is a person, send a professional email (see below) to ask when you might observe them doing their job.</item>
       <item>If your subject is not a person, decide when to be in the space to make your <term id="term-00004">field notes</term>. Be sure to obtain any needed permission to be in the space.</item>
       <item>In both cases, set aside 30 minutes to an hour to make your field notes, using <term id="term-00005">thick description</term> (explained below).</item>
@@ -86,7 +86,7 @@
       </row>
       <row>
       <entry><para id="para-00016"><emphasis effect="bold">Secondary Research</emphasis></para>
-      <list list-type="bulleted" id="list-00007">
+      <list id="list-00007">
       <item>Set aside time for several research sessions to find credible information about your subject. Refer to Chapters <link document="m00124">13</link> and <link document="m00131">14</link> for research guidance.</item>
       <item>If you have trouble finding the information you need, contact one of your research librarians; they would be happy to help.</item>
       </list></entry>
@@ -111,7 +111,7 @@
       </row>
       <row>
       <entry>
-      <list list-type="bulleted" id="list-00008">
+      <list id="list-00008">
       <item><emphasis effect="bold">Subject Line.</emphasis> Your subject line, like an essay title, should represent your main point.</item>
       <item><emphasis effect="bold">Salutation.</emphasis> Open with a polite greeting; use the person’s title or honorific (such as Mr., Ms., Mrs., or Dr.).</item>
       <item><emphasis effect="bold">Introduction.</emphasis> Introduce yourself to the person. Your name will appear in the signature line; here, offer information that shows the relationship you have to the request.</item>
@@ -163,7 +163,7 @@
       </row>
       <row>
       <entry><para id="para-00045"><emphasis effect="bold">If you are interviewing your subject:</emphasis></para>
-      <list list-type="bulleted" id="list-00009">
+      <list id="list-00009">
       <item>What have you been doing or thinking about recently?</item>
       <item>What about your work/hobby/area of focus is most interesting to you?</item>
       <item>What aspect of your work/hobby/area of focus has surprised you?</item>
@@ -173,7 +173,7 @@
       <item>As I was preparing for this interview, I learned &lt;WOL>. Could you tell me more about that?</item>
       </list></entry>
       <entry><para id="para-00046"><emphasis effect="bold">If you are interviewing someone about your subject:</emphasis></para>
-      <list list-type="bulleted" id="list-00010">
+      <list id="list-00010">
       <item>How did you learn about this subject?</item>
       <item>What is the most fascinating part about this subject for you?</item>
       <item>What should people know about this subject that may be overlooked?</item>
@@ -198,7 +198,7 @@
       </row>
       <row>
       <entry><para id="para-00048">Practice creating field notes with a peer. Take about 10 minutes to record as much sensory information as possible.</para>
-      <list list-type="bulleted" id="list-00011">
+      <list id="list-00011">
       <item>What do you hear, close by and farther away?</item>
       <item>What do you feel? Are there specific textures in your surroundings?</item>
       <item>What do you smell? What seems to be the source of the smells?</item>
@@ -281,7 +281,7 @@
       <title>Introduction and Thesis</title>
       <para id="para-00059">Like introductions in most of the writing you do, the profile introduction establishes some background and context for readers to understand your main point. Think about what readers need to know in order to appreciate your angle, and include that information in the introduction. Some writers prefer to compose their introductions first, whereas others wait until after they have developed a draft of the body. Whichever strategy you use, be sure that the introduction engages readers so that they want to continue reading. Refer to the sample texts in this chapter for models of introductory texts.</para>
       <para id="para-00060">Remember, too, that your thesis should appear as the last sentence, or close to the end, of the introduction. For the profile, your thesis would be a sentence or two explaining your angle. For example:</para>
-      <list list-type="bulleted" id="list-00012">
+      <list id="list-00012">
       <item>[Name of subject] showed [the admirable trait] not only in [doing something that shows the trait] but even more so by refusing to [accept or participate in something].</item>
       <item>[Name of subject] plays a unique part in the [history, life, culture] of [place, group] because [reason for angle].</item>
       </list>
@@ -290,7 +290,7 @@
       <section id="sect-00016">
       <title>Body Paragraphs</title>
       <para id="para-00062">Each body paragraph should support the angle you have taken, advancing your thesis, or main point. For suggestions on developing body paragraphs in narrative writing, see <link document="m00028">Literacy Narrative: Building Bridges, Bridging Gaps</link> and <link document="m00038">Memoir or Personal Narrative: Learning Lessons from the Personal</link>. For each paragraph, synthesize details—examples, anecdotes, quotations, location, background information, or descriptions of events—from more than one source to support your angle. By including all of these elements, necessary explanations, and a combination of narrative and reporting, you will create the strongest possible profile piece. See the section <link document="m00056"/> to explore examples of how these elements can work in the paragraphs of a blog post profiling a cultural artifact. In each paragraph, consider drawing on the following:</para>
-      <list list-type="bulleted" id="list-00013">
+      <list id="list-00013">
       <item><emphasis effect="bold">Show and Tell.</emphasis> In balancing between interviews and biographies, profile writers use both narrative and reporting techniques—that is, they both show and tell readers information about the subject. As you read your notes, decide which elements you will use to show readers something about your subject and which elements you will simply report.</item>
       <item><emphasis effect="bold">Quoted Material.</emphasis> If your subject has said something in a memorable way, present their words directly to readers. Doing so increases your readers’ sense of the subject’s voice.</item>
       <item><emphasis effect="bold">Anecdotes.</emphasis> Very brief scenarios or stories about something your subject has done, or about the subject itself, contribute to readers’ understanding. Often, anecdotes reflect field research, showing the subject “in action” or reflecting what others think about the subject. For example, Carla D. Hayden relates anecdotes about John Lewis’s actions leading 600 protesters in Selma, Alabama.</item>
@@ -354,7 +354,7 @@
       <section id="sect-00018">
       <title>Review Your Draft</title>
       <para id="para-00066">After you have written a rough first draft, including the introduction and conclusion, read the entire piece three times:</para>
-      <list list-type="bulleted" id="list-00014">
+      <list id="list-00014">
       <item><emphasis effect="bold">Revise.</emphasis> Read once for the big picture to judge whether you have enough content and whether the content is arranged in a way that makes sense. Revise your work as needed.</item>
       <item><emphasis effect="bold">Edit.</emphasis> Read a second time for mid-level concerns such as sentence variety, word choice, and consistent use of tenses: <link document="m00054"/>. Think about whether you need to break some sentences apart or combine some sentences for smoother flow. Follow the chronology of your profile to ensure that the narration stays in the present or past tense and that events are clearly set in time. Read your composition aloud to see whether you overuse some words. Edit your work as needed.</item>
       <item><emphasis effect="bold">Proofread.</emphasis> After editing, read through a third time with an eye on small details to proofread your work. Change spelling or punctuation as needed to meet the expectations of the rhetorical situation. Check that you have formatted according to the required <term id="term-00014">style guide</term>, or standards of writing, such as Modern Language Association (MLA) or American Psychological Association (APA) style.</item>
@@ -370,7 +370,9 @@
       <tbody>
       <row>
       <entry align="center"><emphasis effect="bold">Peer Review Feedback Model Sentences</emphasis></entry>
-      <entry><list list-type="bulleted" id="list-00015">
+      </row>
+      <row>
+      <entry><list id="list-00015">
       <item>These three aspects of your draft work well: ________, ________, and ________.</item>
       <item>You might consider strengthening your draft ________ by doing these things: ________, ________, and ________.</item>
       <item>As you revise your work, I suggest addressing these three areas: ________, ________, and ________.</item>
@@ -418,7 +420,7 @@
       <row>
       <entry><emphasis effect="bold">Research</emphasis></entry>
       <entry><para id="para-00075">How does your peer’s draft show evidence of</para>
-      <list list-type="bulleted" id="list-00016">
+      <list id="list-00016">
       <item>interview research?</item>
       <item>field research and thick description?</item>
       <item>credible secondary research? How can you tell that the secondary research is credible?</item>
@@ -450,9 +452,9 @@
       <entry align="center"><emphasis effect="bold">Use the Rubric to Improve Your Draft</emphasis></entry>
       </row>
       <row>
-      <entry><list list-type="bulleted" id="list-00017">
+      <entry><list id="list-00017">
       <item>Review the benchmarks for “Skillful” Critical Language Awareness, and then <emphasis effect="bold">make notes on your draft in response to the following questions</emphasis>:
-      <list list-type="bulleted" id="list-00018">
+      <list id="list-00018">
       <item>Have you carefully proofread your work to check especially for issues of subject-verb consistency?</item>
       <item>Look at your sentence structures. Do you have sentences of different lengths and complexities in your text? Where might you improve the sentence variety throughout your draft?</item>
       <item>Do you meet or challenge conventional expectations in rhetorically challenging ways?</item>
@@ -461,9 +463,9 @@
       </row>
       <row>
       <entry>
-      <list list-type="bulleted" id="list-00019">
+      <list id="list-00019">
       <item>Review the benchmarks for “Skillful” Clarity and Coherence, and then answer the following questions:
-      <list list-type="bulleted" id="list-00020">
+      <list id="list-00020">
       <item>How might you revise the structure of your draft even more effectively? Should you consider reordering any elements or information?</item>
       <item>Review your body paragraphs. Do you have a good balance of anecdotes, quotations, location, thick description, and background? If you have overused or omitted any of these elements, revise accordingly, making sure that ideas flow smoothly.</item>
       <item>Where could you strengthen the use of interview research and field notes? Do you need to gather additional material?</item>
@@ -477,9 +479,9 @@
       </row>
       <row>
       <entry>
-      <list list-type="bulleted" id="list-00021">
+      <list id="list-00021">
       <item>Review the benchmarks for “Skillful” Rhetorical Choices, and then answer the following questions:
-      <list list-type="bulleted" id="list-00022">
+      <list id="list-00022">
       <item>Think again about your subject choice. You should probably not consider changing your subject at this stage of your project, but do think about this question: Are you presenting the subject in the best light to appeal to your audience?</item>
       <item>Think again about your angle. Do you need to refine or amend your angle to better connect with your audience?</item>
       <item>Read your piece out loud to check the tone. Do you need to shift the tone to better reach your audience?</item>
@@ -571,7 +573,7 @@
       <para class="annotation-text" id="para-00148"><emphasis effect="italics">In the original, these sentences were combined with <emphasis effect="underline">, and.</emphasis></emphasis></para>
       <para class="student-sample" id="para-00149">For those like me, with a passion for film, the only reciprocity for the love that video stores instill is to show love in the form of support. As Kandy eloquently <emphasis effect="underline">said</emphasis> at the end of our interview, “I really don’t have a favorite film. I just love films.”</para>
       <para class="annotation-text" id="para-00150"><emphasis effect="italics">In referring a past event while he narrates in the present tense, Byrd uses the past tense.</emphasis></para>
-      <section class="works-cited" id="sect-00024">
+      <section id="sect-00024">
       <title>Works Cited</title>
       <para id="para-00151">Bond, Paul. “Video Rental Stores’ Bizarre Survival Strategy.” <emphasis effect="italics">The Hollywood Reporter</emphasis>, 14 Sept. 2010, www.hollywoodreporter.com/news/video-rental-stores-bizarre-survival-27851.</para>
       <para id="para-00152">Elkadi, Nina. “Keeping Rural America Alive.” <emphasis effect="italics">Harvard Political Review</emphasis>, 13 October 2018, https://web.archive.org/web/20181013151815/https://harvardpolitics.com/united-states/keeping-rural-america-alive/.</para>
