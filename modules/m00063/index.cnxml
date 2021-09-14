@@ -6,9 +6,508 @@
     <md:uuid>567e811b-5cc4-4404-ba52-eda69fe924d6</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Describe the elements of the rhetorical situation for your proposal.</item>
+      <item>Apply prewriting strategies to discover a problem to write about.</item>
+      <item>Gather and synthesize information from appropriate sources.</item>
+      <item>Draft a thesis statement and create an organizational plan.</item>
+      <item>Compose a proposal that develops your ideas and integrates evidence from sources.</item>
+      <item>Implement strategies for drafting, peer reviewing, and revising.</item>
+      </list>
+      </section>
+      <para class="annotation dreaming-icon" id="para-00002">Sometimes writing a paper comes easily, but more often writers work hard to generate ideas and evidence, organize their thoughts, draft, and revise. Experienced writers do their work in multiple steps, and most engage in a <term id="term-00001">recursive</term> process that involves thinking and rethinking, writing and rewriting, and repeating steps multiple times as their ideas develop and sharpen. In broad strokes, most writers go through the following steps to achieve a polished piece of writing:</para>
+      <list id="list-00002">
+      <item><term id="term-00002">Planning and Organizing</term><emphasis effect="bold">.</emphasis> Your proposal will come together more easily if you spend time at the start considering the rhetorical situation, understanding your assignment, gathering ideas and evidence, drafting a thesis statement, and creating an organizational plan.</item>
+      <item><term id="term-00003">Drafting</term><emphasis effect="bold">.</emphasis> When you have a good grasp of the problem and solution you are going to write about and how you will organize your proposal, you are ready to draft.</item>
+      <item><term id="term-00004">Reviewing</term><emphasis effect="bold">.</emphasis> With a first draft in hand, make time to get feedback from others. Depending on the structure of your class, you may receive feedback from your instructor or your classmates. You can also work with a tutor in the writing center on your campus, or you can ask someone else you trust, such as a friend, roommate, or family member, to read your writing critically and give honest feedback.</item>
+      <item><term id="term-00005">Revising</term><emphasis effect="bold">.</emphasis> After reviewing feedback from your readers, plan to revise. Focus on their comments: Is your thesis clear? Do you need to make organizational changes to the proposal? Do you need to explain or connect your ideas more clearly?</item>
+      </list>
+      <section id="sect-00002">
+      <title>Considering the Rhetorical Situation</title>
+      <para class="annotation dreaming-icon" id="para-00003">Like other kinds of writing projects, a proposal starts with assessing the <term id="term-00006">rhetorical situation</term>—the circumstance in which a writer communicates with an audience of readers about a subject. As a proposal writer, you make choices based on the purpose for your writing, the audience who will read it, the <term id="term-00007">genre</term>, and the expectations of the community and culture in which you are working. The brainstorming questions in Figure 6.7 can help you begin:</para>
+      <table summary="" id="table-00001">
+      <tgroup cols="3">
+      <tbody>
+      <row>
+      <entry align="center"><emphasis effect="bold">Rhetorical Situation Element</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Brainstorming Questions</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Your Responses</emphasis></entry>
+      </row>
+      <row>
+      <entry><para id="para-00004"><emphasis effect="bold">Topic</emphasis></para>
+      <para id="para-00005">Are you free to choose your own problem and solution to write about, or is your topic specified?</para></entry>
+      <entry>What do you want to know more about? What requirements do you have? Do you need to do research?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry><para id="para-00006"><emphasis effect="bold">Purpose</emphasis></para>
+      <para id="para-00007">What is the purpose of the proposal?</para></entry>
+      <entry>Is the purpose to examine a problem and explain possible solutions? Or is it to recommend a specific solution?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry><para id="para-00008"><emphasis effect="bold">Audience</emphasis></para>
+      <para id="para-00009">Who will read your writing?</para></entry>
+      <entry>Who is your primary audience—your instructor? Your classmates? Other students or administrators on your campus? People in your community? How will you shape your writing to connect most effectively with this audience? Do you need to consider secondary audiences, such as people outside of class? If so, who are those readers?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry><para id="para-00010"><emphasis effect="bold">Presentation</emphasis></para>
+      <para id="para-00011">In what format should you prepare your proposal?</para></entry>
+      <entry>Should you prepare a written proposal or use another medium? Should you include visuals and other media along with text, such as figures, charts, graphs, photographs, audio, or video? What other presentation requirements do you need to be aware of?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry><para id="para-00012"><emphasis effect="bold">Context</emphasis></para>
+      <para id="para-00013">How do the time period and location affect decisions you make about your proposal?</para></entry>
+      <entry>What problems in your city, county, state, area, nation, or the world need a solution? What current events or new information might relate to the problem? Is your college or university relevant to the problem?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry><para id="para-00014"><emphasis effect="bold">Culture and Community</emphasis></para>
+      <para id="para-00015">What social or cultural assumptions do you or your audience have?</para></entry>
+      <entry>How will you show awareness of your community’s social and cultural expectations in your writing?</entry>
+      <entry/>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Brainstorming Questions about the Rhetorical Situation</caption>
+      </table>
+      </section>
+      <section id="sect-00003">
+      <title>Summary of Assignment</title>
+      <para id="para-00016">Write a proposal that discusses a problem you want to learn more about and that recommends a solution. The problem you choose must be a current problem, even though it may have been a problem for many years. The problem must also affect many people, and it must have an actual solution or solutions that you can learn about through research. In other words, the problem cannot be unique to you, and the solution you recommend cannot be one you only imagine; both the problem and the solution must be grounded in reality.</para>
+      <para id="para-00017">One way to get ideas about a problem to write about is to read a high-quality newspaper, website, or social media account for a week. Read widely on whatever platform you choose so that you learn what people are saying, what a newspaper’s editorial board is taking a stand on, what opinion writers are making cases for in op-eds, and what community members are commenting on. You’ll begin to get a handle on problems in your community or state that people care about. If you read a paper or website with a national or international audience, you’ll learn about problems that affect people in other places.</para>
+      <para id="para-00018">You will need to consult and cite at least five reliable sources. They can be scholarly, but they do not have to be. They must be credible, trustworthy, and unbiased. Possible sources include articles from reputable newspapers, magazines, and academic and professional journals; reputable websites; government sources; and visual sources. Depending on your topic, you may want to conduct a survey, an interview, or an experiment. See Research Process: Accessing and Recording Information and Annotated Bibliography: Gathering, Evaluating, and Documenting Sources for information about creating and finding sources. Your proposal can include a visual or media source if it provides appropriate, relevant evidence.</para>
+      </section>
+      <section id="sect-00004">
+      <title>Another Lens</title>
+      <para class="annotation culture-icon" id="para-00019">One way to approach a proposal assignment is to consider problems that affect you directly and affect others. Perhaps you are concerned about running up student loan debt. Or perhaps you worry about how to pay your rent while earning minimum wage. These concerns are valid and affect many college students around the United States. Another way is to think about problems that affect others. Perhaps students in your class or on your campus have backgrounds and experiences that differ from yours—<emphasis effect="italics">what problems or challenges might they have encountered during their time in college that you don’t know about?</emphasis></para>
+      <para id="para-00020">As you think about the purpose and audience for your proposal, think again about the rhetorical situation, specifically about the audience you want to reach and the mode of presentation best suited to them and your purpose. For example, say you’re dissatisfied with the process for electing student leaders on your campus. If your purpose is to identify the problems in the process and propose a change, then your audience would include other students, the group or committee that oversees student elections, and perhaps others. To reach other students who might also be dissatisfied, you might write an article, editorial, or letter for the campus newspaper, social media page, or website, depending on how students on your campus get news. In addition, you might organize a meeting of other students to get their input on the problem. To reach the decision makers, which may include elected students, faculty, and administrators, you might need to prepare an oral presentation and a slide deck.</para>
+      <para id="para-00021">Below in Figure 6.8 are three slides from Shawn Krukowski’s proposal that he adapted for a presentation: the title slide, a slide on one aspect of the problem, and a slide introducing one of the proposed solutions.</para>
+      <figure id="fig-00001"><media alt="Shawn Krukowski adapted the proposal for a presentation. One slide shows the title SLOWING CLIMATE CHANGE: A CALL TO ACTION. The second slide shows an infographic of the 2020 hurricane season in the Atlantic Ocean with specific numbers and the named storms. The third slide shows a graphical representation of the global carbon emissions in the Industrial Age.">
+      <image mime-type="image/png" src="../../media/COMP_Figure_06_05_008.png"/></media>
+      <caption>Presentation Slides</caption></figure>
+      </section>
+      <section class="quick-launch" id="sect-00005">
+      <title>Finding a Problem to Write About</title>
+      <para class="annotation dreaming-icon" id="para-00022">A proposal must address a real-life problem and present one or more workable solutions. Usually, problems worth writing about are not easily solved; if they were, they would no longer be considered problems. Indeed, problems in proposals are often complex, and solutions are often complicated and involve trade-offs. Sometimes people disagree about whether the problem is a problem at all and whether any proposed solutions are viable solutions.</para>
+      <section id="sect-00006">
+      <title>Exploring a Problem</title>
+      <para id="para-00023">One way to generate ideas about a problem is to brainstorm. To explore a topic for your proposal, use Figure 6.9 to write responses to the following statements and questions:</para>
+      <table summary="" id="table-00002">
+      <tgroup cols="2">
+      <tbody>
+      <row>
+      <entry><emphasis effect="bold">Exploring Questions</emphasis></entry>
+      <entry><emphasis effect="bold">Your Responses</emphasis></entry>
+      </row>
+      <row>
+      <entry>What problem am I interested in learning about?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>How do I know this is a problem?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>What are a few examples of the problem?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>What causes the problem?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Who is affected by the problem?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>What are some negative effects of the problem?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Why should the problem be solved?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>What are the potential consequences of the problem if nothing is done?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>What are some realistic solutions to the problem?</entry>
+      <entry/>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Exploration Questions</caption>
+      </table>
+      <para id="para-00024">For example, perhaps you’re considering a career in information technology, and you’re taking an IT class. You might be interested in exploring the problem of data breaches. A data breach is a real-world problem with possible solutions, so it passes the first test of being an actual problem with possible solutions. Your responses to the questions above might look something like those in Figure 6.9:</para>
+      <table summary="" id="table-00003">
+      <tgroup cols="2">
+      <tbody>
+      <row>
+      <entry><emphasis effect="bold">Exploring Questions</emphasis></entry>
+      <entry><emphasis effect="bold">Sample Responses</emphasis></entry>
+      </row>
+      <row>
+      <entry>A problem I’m interested in learning more about is…</entry>
+      <entry>Data breaches</entry>
+      </row>
+      <row>
+      <entry>How I know data breaches are a problem…</entry>
+      <entry>In my class, we’re spending a lot of time on data security and breaches. Also, data breaches are in the news almost constantly, and a Google search turns up many that don’t make the news.</entry>
+      </row>
+      <row>
+      <entry>What are a few examples of data breaches?</entry>
+      <entry>I’ve heard about people getting their information stolen. I’ve heard about foreign governments, like Russia, stealing national security information and trying to interfere in recent elections. In my class, I’m learning about businesses that have customer and employee information stolen.</entry>
+      </row>
+      <row>
+      <entry>What causes data breaches?</entry>
+      <entry>Hackers have a variety of methods to break into websites, to get people to click on links, and to lure people to give out information.</entry>
+      </row>
+      <row>
+      <entry>Who is affected by data breaches?</entry>
+      <entry>Individual people, businesses, utility companies, schools and universities, governments (local, state, and national)—pretty much anyone can be affected.</entry>
+      </row>
+      <row>
+      <entry>What are some negative effects of data breaches?</entry>
+      <entry>Identity theft, financial theft, national security, power shutdowns, and election interference. Data breaches cause chaos and cost a lot of money.</entry>
+      </row>
+      <row>
+      <entry>Why should the problem of data breaches be solved?</entry>
+      <entry>People need the personal, financial, and medical information they share with businesses and other organizations to remain private. Businesses and organizations need to keep their operations secure. Governments need to keep national security secrets from getting into the hands of people who want to harm them.</entry>
+      </row>
+      <row>
+      <entry>What are the potential consequences of data breaches if nothing is done?</entry>
+      <entry>People will continue to be victims of identity theft and all that goes with it, including losing money, and they will lose trust in institutions they used to trust, like banks, hospitals, and the government.</entry>
+      </row>
+      <row>
+      <entry>What are some realistic solutions to data breaches?</entry>
+      <entry>Increased security for individuals, like two-factor authentication, stronger passwords, and education to avoid getting scammed. For companies and governments, stronger protections on websites. I need to learn more.</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Exploration Questions on Data Breaches</caption>
+      </table>
+      </section>
+      <section id="sect-00007">
+      <title>Narrowing and Focusing</title>
+      <para id="para-00025">Many problems for a proposal can be too broad to tackle in a single paper. For example, the sample above reveals that data breaches are indeed a problem but that several aspects can be explored. If you tried to cover all the aspects, you would be left writing general paragraphs with little specific information. The topic needs to be narrowed and focused.</para>
+      <para id="para-00026">The data breaches example above could be narrowed to the following problems—and possibly even more. Note that the questions start to zero in on possible solutions, too. In your own writing, as you brainstorm, try placing subtopics you discover into their own categories and asking more questions, as shown in Figure 6.10.</para>
+      <table summary="" id="table-00004">
+      <tgroup cols="2">
+      <tbody>
+      <row>
+      <entry><emphasis effect="bold">Narrowing a Problem</emphasis></entry>
+      <entry><emphasis effect="bold">Focusing Questions</emphasis></entry>
+      </row>
+      <row>
+      <entry>Problem: Hackers get into computer systems and steal information.</entry>
+      <entry>What tactics do hackers use? What do they steal? What do they do with what they steal? How successful are they? How can hacking be stopped or reduced?</entry>
+      </row>
+      <row>
+      <entry>Problem: Data breaches harm individuals.</entry>
+      <entry>What happens to people when their information is stolen? In what ways is their information used? What should people do when they discover their information has been stolen? Are there steps they can take to protect their information?</entry>
+      </row>
+      <row>
+      <entry>Problem: Data breaches harm businesses, organizations, and medical systems.</entry>
+      <entry>What happens to businesses, organizations, and medical systems when hackers break in? What kind of information is stolen? How is the information used? What do businesses, organizations, and medical systems do, or what should they do, when they know about a breach? How can data breaches be prevented?</entry>
+      </row>
+      <row>
+      <entry>Problem: Data breaches harm governments.</entry>
+      <entry>What happens to governments when hackers break into their systems? What kind of information is stolen? How is the information used? What should governments do when they know about a breach? How can data breaches be prevented?</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Focusing on a Topic</caption>
+      </table>
+      </section>
+      <section id="sect-00008">
+      <title>Sample Proposal Topics</title>
+      <para class="annotation dreaming-icon" id="para-00027">The following broad topics are potentially suitable as a start for a proposal. Choose one of these or one of your own, and ask the exploring questions. Then look at your responses, and ask focusing questions. Continue to focus until you have a specific problem that you can discuss in sufficient depth and offer a concrete solution or solutions.</para>
+      <list id="list-00003">
+      <item><emphasis effect="bold">Health fields:</emphasis> cost of medical and dental care for uninsured people, management of chronic conditions and diseases, infection control, vaccinations, access to mental health care, drug use and addiction, sports injuries, workplace safety</item>
+      <item><emphasis effect="bold">Education:</emphasis> gaps in academic achievement, curriculum, recruitment and retention of staff and/or students, buildings and grounds, graduation rates, cocurricular activities</item>
+      <item><emphasis effect="bold">Environment:</emphasis> forest management and fires, hurricanes and other extreme storms, water and air pollution, sustainable development, invasive species, waste management, recycling and composting, community gardening</item>
+      <item><emphasis effect="bold">Engineering and computer science:</emphasis> robotics, vehicles and transportation, digital divide, online privacy, misinformation and misbehavior on social media, video games</item>
+      <item><emphasis effect="bold">Business and manufacturing:</emphasis> quality improvement, process improvement, cost control, communication, social media, pay equity, fundraising, sourcing of materials, net-zero energy processes, workplace safety</item>
+      <item><emphasis effect="bold">Policy and politics:</emphasis> public institutions, such as public schools, libraries, transportation systems, and parks; taxes, fees, and services; donations to political campaigns; healthcare, such as Medicare and Medicaid; social security; unemployment insurance; services for active military and veterans; immigration policy</item>
+      <item><emphasis effect="bold">Society and culture:</emphasis> social media and free speech; inequality in housing, employment, education, and more; cancel culture; bullying; wealth and poverty; support for the arts; athletes and sports; disparities related to race, sex, gender identity and expression, age, and/or ability</item>
+      </list>
+      </section>
+      </section>
+      <section id="sect-00009">
+      <title>Gathering Information</title>
+      <para id="para-00028">Proposals are rooted in information and evidence; therefore, most proposal assignments require you to conduct research. Depending on your assignment, you may need to do formal research, an activity that involves finding sources and evaluating them for reliability, reading them carefully and taking notes, and citing all words you quote and ideas you borrow. See Research Process: Accessing and Recording Information and Annotated Bibliography: Gathering, Evaluating, and Documenting Sources for detailed instruction on conducting research. If you are proposing a solution to a problem in your local community or on your campus, you may need to conduct primary research as well, such as a survey or interviews with people who live or work there.</para>
+      <para id="para-00029">Whether you conduct in-depth research or do background reading, keep track of the ideas that come to you and the information you learn. You can write or dictate notes using an app on your phone or computer, or you can jot notes in a journal if you prefer pen and paper. Then, when you are ready to begin to organize what you have learned, you will have a record of your thoughts and information. Always track the source of the information you gather, whether from your reading or a person you interviewed, so that you can return to that source if you need more information and can credit the source in your paper.</para>
+      <section id="sect-00010">
+      <title>Kinds of Evidence</title>
+      <para id="para-00030">You will use <term id="term-00008">evidence</term> to demonstrate that the problem is real and worthy of being solved and that your recommended solution is workable. Choose evidence for your proposal that is rooted in facts. In addition, choose evidence that best supports the angle you take on your topic and meets your instructor’s requirements. Cite all evidence you use from a source. Consider the following kinds of evidence and examples of each:</para>
+      <list id="list-00004">
+      <item><para id="para-00031"><term id="term-00009">Definition</term><emphasis effect="bold">:</emphasis> an explanation of a key word, idea, or concept.</para>
+      <para id="para-00032"><emphasis effect="italics">The Personal Data Notification &amp; Protection Act of 2017 defines a security breach as “a compromise of the security, confidentiality, or integrity of, or the loss of, computerized data that results in… (i) the unauthorized acquisition of sensitive personally identifiable information; or (ii) access to sensitive personally identifiable information that is for an unauthorized purpose, or in excess of authorization.”</emphasis></para></item>
+      <item><para id="para-00033"><term id="term-00010">Example</term><emphasis effect="bold">:</emphasis> an illustration of an idea or concept.</para>
+      <para id="para-00034"><emphasis effect="italics">Every month, university staff members receive a fake phishing email from the IT department. The goal is to train employees of the university to be critical readers of every email they receive.</emphasis></para></item>
+      <item><para id="para-00035"><term id="term-00011">Expert opinion</term><emphasis effect="bold">:</emphasis> a statement by a professional whose opinion is respected in the field.</para>
+      <para id="para-00036"><emphasis effect="italics">In</emphasis> The Sixth Extinction<emphasis effect="italics">, science writer Elizabeth Kolbert observes that humans are making the choice about “which evolutionary pathways will remain and open and which will be forever closed” (268).</emphasis></para></item>
+      <item><para id="para-00037"><term id="term-00012">Fact</term><emphasis effect="bold">:</emphasis> information that is true and can be proven correct or accurate. Statements of fact are built on evidence and data.</para>
+      <para id="para-00038"><emphasis effect="italics">In March and April of 2020, 43 states in the United States issued orders directing residents to stay home except for essential activities.</emphasis></para></item>
+      <item><para id="para-00039"><term id="term-00013">Interview</term><emphasis effect="bold">:</emphasis> a person-to-person, phone, or remote conversation that involves an interviewer posing questions to another person or group of people.</para>
+      <para id="para-00040"><emphasis effect="italics">During an interview, I asked about parents’ decisions to vaccinate their children. One pediatrician said, “The majority of parents see the benefits of immunizations for their children and for public health. For those who don’t, I talk to them and try to understand why they feel the way they do.”</emphasis></para></item>
+      <item><para id="para-00041"><term id="term-00014">Quotation</term><emphasis effect="bold">:</emphasis> the exact words of an author or speaker.</para>
+      <para id="para-00042"><emphasis effect="italics">According to the Federal Aviation Administration, SpaceX was required to conduct a “comprehensive review of the company’s safety culture, operational decision-making, and process discipline,” in addition to investigating the crash of its prototype spacecraft (Chang).</emphasis></para></item>
+      <item><para id="para-00043"><term id="term-00015">Statistic</term><emphasis effect="bold">:</emphasis> numerical fact or item of data.</para>
+      <para id="para-00044"><emphasis effect="italics">According to the Environmental Protection Agency, more than 40 million tons of food waste were generated in 2017, comprising 15.2% of all trash sent to landfills (DeSilver).</emphasis></para></item>
+      <item><para id="para-00045"><term id="term-00016">Survey</term><emphasis effect="bold">:</emphasis> a structured interview in which respondents are all asked the same questions and their answers are tabulated and interpreted. Surveys reveal attitudes, beliefs, or habits of the general public or segments of the population.</para>
+      <para id="para-00046"><emphasis effect="italics">In a survey of adults conducted in July 2020, 64 percent of respondents said that social media have a mostly negative effect on American society (Auxier).</emphasis></para></item>
+      <item><term id="term-00017">Visuals and other media</term><emphasis effect="bold">:</emphasis> graphs, figures, tables, photographs, diagrams, charts, maps, videos, audio recordings, etc.</item>
+      </list>
+      </section>
+      </section>
+      <section id="sect-00011">
+      <title>Thesis and Organization</title>
+      <section id="sect-00012">
+      <title>Drafting a Thesis</title>
+      <para id="para-00047">When you have a solid grasp of the problem and solution, try drafting a <term id="term-00018">thesis</term>. A thesis is the main idea that you will convey in your proposal and to which all the paragraphs in the paper should relate. In a proposal, you will likely express this main idea in a <term id="term-00019">thesis statement</term> of one or two sentences toward the end of the introduction.</para>
+      <para id="para-00048">For example, in the thesis statement Shawn Krukowski wrote for his proposal on climate change, he identifies the problem and previews the solutions he presents:</para>
+      <para class="student-sample" id="para-00049"><emphasis effect="italics">What is needed to slow climate change is unified action in two key areas—mitigation and adaptation—spurred by government leadership in the United States and a global commitment to addressing the problem immediately.</emphasis></para>
+      <para id="para-00050">Here is another example that identifies a problem and multiple solutions:</para>
+      <para class="student-sample" id="para-00051"><emphasis effect="italics">The number of women employed in the IT field is decreasing every year, a trend that can be changed with a multifaceted approach that includes initiatives in middle schools, high schools, and colleges; active recruitment; mentoring programs; and flexible work arrangements.</emphasis></para>
+      <para id="para-00052">After you draft a thesis statement, ask these questions and revise it as needed:</para>
+      <list id="list-00005">
+      <item>Is it engaging? A thesis for a proposal should pique readers’ interest in the problem and possible solutions.</item>
+      <item>Is it precise and specific? If you are interested in curbing the spread of invasive plant species, for example, your thesis should indicate which environment the plant or plants are invading and that you are proposing ways to stop the spread.</item>
+      </list>
+      </section>
+      <section id="sect-00013">
+      <title>Organizing Your Ideas</title>
+      <para class="annotation dreaming-icon" id="para-00053">A proposal has a recognizable shape, starting with an introduction, followed by discussions of the problem, possible solutions, potential objections to the solutions, and a conclusion with a recommendation. Figure 6.11 can help you organize your ideas and evidence.</para>
+      <table summary="" id="table-00005">
+      <tgroup cols="3">
+      <tbody>
+      <row>
+      <entry align="center"><emphasis effect="bold">Proposal Section</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Content</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Your Notes</emphasis></entry>
+      </row>
+      <row>
+      <entry>Introduction (usually one paragraph, but can be two)</entry>
+      <entry><para id="para-00054">Draw readers in with an overview. Provide necessary background here or in the description of the problem, defining terms as needed.</para>
+      <para id="para-00055">State the thesis.</para></entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Description of the Problem (one or more paragraphs)</entry>
+      <entry><para id="para-00056">Explain the problem, establishing it as a problem in need of a solution.</para>
+      <para id="para-00057">Develop the paragraph(s) with evidence.</para></entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Possible Solution or Solutions (one or more paragraphs)</entry>
+      <entry><para id="para-00058">Describe possible solutions, one at a time.</para>
+      <para id="para-00059">Develop the paragraph(s) with evidence.</para></entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Objections (one or more paragraphs)</entry>
+      <entry><para id="para-00060">Explain objections readers are likely to raise to the solutions given in the previous paragraph(s).</para>
+      <para id="para-00061">Develop the paragraph(s) with evidence.</para></entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Conclusion and Recommendations (one or more paragraphs)</entry>
+      <entry>Conclude with a summary of the points and recommend a solution or a course of action.</entry>
+      <entry/>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Proposal Organization</caption>
+      </table>
+      </section>
+      </section>
+      <section id="sect-00014">
+      <title>Drafting a Proposal</title>
+      <para id="para-00062">With a tentative thesis, an organization plan, and evidence, you are ready to begin drafting your proposal. For this assignment, you will discuss a problem, present possible solutions, address objections to the solutions, and conclude with a recommendation.</para>
+      <section id="sect-00015">
+      <title>Introduction</title>
+      <para id="para-00063">You may choose to write the introduction first, last, or midway through the drafting process. Whenever you choose to write it, use it to draw readers in. Make the proposal topic clear, and be concise. End the introduction with your thesis statement.</para>
+      <para id="para-00064">Opening a proposal with an overview of your topic is a reliable strategy, as shown in the following student-written example on women working in IT. The thesis statement, which appeared earlier in this section, is underlined:</para>
+      <para class="student-sample" id="para-00065">People who work in the information technology (IT) field often start their careers fixing computers and other electronic devices for others. Through experience and education, an IT worker’s career path can branch out to specialize in everything from programming new software to setting up and maintaining networks. The IT field is growing because of the constant development of technology, and the demand for employees also is growing. <emphasis effect="underline">Yet the number of women employed in the IT field is decreasing every year, a trend that can be changed with a multifaceted approach that includes initiatives in middle schools, high schools, and colleges; active recruitment; mentoring programs; and flexible work arrangements</emphasis>.</para>
+      </section>
+      <section id="sect-00016">
+      <title>Body Paragraphs: Problem, Solutions, Objections</title>
+      <para id="para-00066">The body paragraphs of your proposal should present the problem, the solution or solutions, and potential objections to the proposed solution(s). As you write these paragraphs, consider using the <term id="term-00020">point</term>, <term id="term-00021">evidence</term>, and <term id="term-00022">analysis</term> pattern:</para>
+      <list id="list-00006">
+      <item>The <term id="term-00023">point</term> is the central idea of the paragraph, usually given in a topic sentenc<emphasis effect="bold">e</emphasis> stated in your own words at or toward beginning of the paragraph.</item>
+      <item>With the <term id="term-00024">evidence</term> you provide, you develop the paragraph and support the point given in the topic sentence. Include details, examples, quotations, paraphrases, and summaries from sources. In your sentences and paragraphs, synthesize the evidence you give by showing the connections between sources. See Position Argument: Practicing the Art of Rhetoric and Argumentative Research: Enhancing the Art of Rhetoric with Evidence for more information on quoting, summarizing, paraphrasing, and synthesizing.</item>
+      <item>The <term id="term-00025">analysis</term> comes at the end of the paragraph. In your own words, draw a conclusion about the evidence you have provided and relate it to the topic sentence.</item>
+      </list>
+      <para id="para-00067">The paragraphs that follow show the point-evidence-analysis pattern in practice.</para>
+      </section>
+      <section id="sect-00017">
+      <title>Body Paragraphs: Problem</title>
+      <para id="para-00068">Follow the introduction with a discussion of the problem. Using paragraph structure, define the problem and discuss it, drawing on evidence from your sources. This paragraph (or paragraphs) should answer these questions: <emphasis effect="italics">What is the problem? Why is this a problem?</emphasis> The following example, from the proposal on women working in IT, answers the first question:</para>
+      <para class="student-sample" id="para-00069">The information technology (IT) field is continuously expanding, with many more positions available than workers to fill them. In fact, the pool of IT professionals was so small that in 2001, Congress raised the visa limit in an effort to fill the gap with employees from overseas (Varma, 2002). And yet the number of women represented in the occupation is decreasing. From 1990 to 2020, the percentage of women in IT declined from 31 percent to 25 percent, even though women make up 47 percent of all employed adults in the United States. According to White (2021), only 19 percent of women pursue a computer science major in college, compared to 27 percent in 1997. Of those women who graduated with a computer science degree, 38 percent are working in the field compared to 56 percent of men, a statistic that indicates women are not staying in the field. Although gender diversity supposedly is valued in the workplace, the underrepresentation of women in IT is clearly a problem.</para>
+      <para id="para-00070">The writer then went on to answer the second question: <emphasis effect="italics">Why is this a problem?</emphasis> The writer discussed stereotypes, lack of encouragement and role models, workplace culture, pay, and prospects for advancement (not shown here).</para>
+      </section>
+      <section id="sect-00018">
+      <title>Body Paragraphs: Solutions</title>
+      <para id="para-00071">After presenting and explaining the problem, use specific information from the sources you consulted to present the solution or solutions you have discovered through your research. If you are proposing more than one solution, present them one at a time, using headings as appropriate.</para>
+      <para id="para-00072">The solutions section will likely be the longest part of your proposal. Below are two paragraphs from the proposal about women working in IT. Note how the first paragraph introduces the solutions and how the second paragraph uses evidence to develop the first proposed solution. Also note the informative boldface heading and subheading.</para>
+      <section id="sect-00019">
+      <title>Solutions: Recruiting and Retaining Women in IT</title>
+      <para class="student-sample" id="para-00073">The following suggestions are ways to encourage women to enter IT and build their careers, with the eventual goal of achieving gender balance in the field. The solutions discussed include encouraging interest in computer technology among girls in middle school and high school, actively recruiting college-age women to study IT, and within the field, mentoring women and expanding workplace flexibility to improve retention.</para>
+      </section>
+      <section id="sect-00020">
+      <title>Reaching Girls and Women in Middle School and High School</title>
+      <para class="student-sample" id="para-00074">The National Center for Women &amp; Information Technology (NCWIT) is an organization that encourages girls in middle school and high school to explore their interest in IT. One program, the NCWIT’s Aspirations in Computing, supports women in high school by showing them that they can succeed in technology and introducing them to other students with similar interests. The same program matches middle-school girls with female high-school and college students and awards scholarships for computing and programming competitions. In addition, internships and IT courses in middle school and high school provide opportunities to learn what a career in IT entails, with or without a degree in IT. Opportunities like these give girls and women support and a sense of belonging.</para>
+      </section>
+      <para id="para-00075">The paragraphs that follow (not shown here) continue the discussion of the possible solutions.</para>
+      </section>
+      <section id="sect-00021">
+      <title>Body Paragraphs: Objections</title>
+      <para id="para-00076">Depending on the problem and solution, consider the objections readers may raise, and explain why your proposal is necessary and worthwhile. For example, the proposal on women in IT does not discuss objections because few people would object to the writer’s proposal. Shawn Krukowski, however, in his proposal on climate change, includes a section on objections to taking action. He focuses the discussion on people who deny that climate change is a problem. Would you do the same? Consider whether this section of Shawn’s proposal might have been stronger had he addressed objections to the solutions he proposed—mitigation and adaptation—instead of objections to the problem.</para>
+      <section id="sect-00022">
+      <title>Objections to Taking Action</title>
+      <para class="student-sample" id="para-00077">Despite scientific evidence, some people and groups deny that climate change is real or, if they admit it exists, insist it is not a valid concern. Those who think climate change is not a problem point to Earth’s millennia-long history of changing climate as evidence that life has always persisted. Most of the change, however, predates human civilization, which has benefited from thousands of years of stable climate. The rapid change since the Industrial Revolution is unprecedented in human history.</para>
+      <para class="student-sample" id="para-00078">Those who deny climate change or its dangers seek primarily to relax or remove pollution standards and regulations in order to protect, or maximize profit from, their industries. To date, their lobbying has been successful. For example, the world’s fossil-fuel industry received $5.3 trillion in 2015 alone, while the U.S. wind-energy industry received $12.3 billion in subsidies between 2000 and 2020 (Green America, 2020).</para>
+      </section>
+      </section>
+      <section id="sect-00023">
+      <title>Conclusion and Recommendation</title>
+      <para id="para-00079">The conclusion and recommendation section of your proposal is the part in which you interpret your findings and make a recommendation or give a call to action. At this point, focus on the solution that will best solve the problem, suggesting or summarizing specific actions.</para>
+      <para id="para-00080">Below is the recommendation section from the proposal about women in IT. In the full conclusion (not shown here), the writer summarized the main points of the proposal. In the recommendation paragraph that follows, the writer calls for specific actions:</para>
+      <para class="student-sample" id="para-00081">Many researchers have studied why few women choose IT as a career and why some decide to leave the field. Although the numbers cannot be improved immediately, the following changes in school and the workplace could recruit and retain more women in IT:</para>
+      <list id="list-00007">
+      <item>Include technology education courses and formal IT programs in middle- and high-school curricula to give girls and young women opportunities to develop an interest at an early age.</item>
+      <item>Develop internship and mentor programs in high schools and colleges to combat stereotyping and encourage women to enter the field.</item>
+      <item>Develop and encourage workplace mentor programs, flexible work options, and open communication for professional growth and retention.</item>
+      </list>
+      <para class="student-sample" id="para-00082">With time and effort, these actions may result in more women seeing themselves in long-term IT careers.</para>
+      </section>
+      <section id="sect-00024">
+      <title>References or Works Cited Page</title>
+      <para id="para-00083">Except for any data you gathered through primary research, such as a survey you created and administered, interviews you conducted, or observational notes you took, you must cite the sources you consulted. These sources appear in the text of your proposal and in a bibliography at the end. The paragraphs in the previous section, including Shawn Krukowski’s proposal, use APA documentation style. For more on documenting sources, see Index and Guide to Documentation, MLA Documentation and Format, and APA Documentation and Format.</para>
+      </section>
+      <section id="sect-00025">
+      <title>Abstract or Executive Summary</title>
+      <para id="para-00084">An abstract (or executive summary) summarizes your proposal. The purpose is to present information briefly and economically so that readers can decide whether they want to read further. Include your main points, but not the evidence.</para>
+      <para id="para-00085">Although an abstract or executive summary comes first in a proposal, it is advisable to write it after you have completed your proposal and are certain of your main points. The example below is the abstract from the proposal about women in IT.</para>
+      <para class="student-sample" id="para-00086">The purpose of this proposal is to raise awareness of the small number of women working in the information technology (IT) field, to examine the factors that contribute to discouraging women from entering IT, and to propose ways to draw women into the field and retain them. Although the IT field is growing, the number of women employed within it remains low. Women may be reluctant to pursue a career in IT because of stereotypes, few role models, and lack of encouragement. Women who have already established a career in IT report leaving the field for these reasons, as well as family responsibilities and lack of advancement. There are several potential ways to raise the number of women in IT. Encouraging interest in computer technology among girls in middle school and high school, recruiting college-age women to study IT, mentoring young professional women, and improving workplace flexibility will, over time, break down stereotypes and increase the number of women in the IT field.</para>
+      </section>
+      </section>
+      <section class="peer-review" id="sect-00026">
+      <title>Getting Feedback from Readers</title>
+      <para class="annotation dreaming-icon" id="para-00087">With a complete draft in hand, you may engage in <term id="term-00026">peer review</term> with your classmates, giving feedback to each other about the strengths and weaknesses of your drafts. For peer review within a class, your instructor may provide a list of questions or a form for you to complete as you work together.</para>
+      <section id="sect-00027">
+      <title>Conferencing in Writing Groups</title>
+      <para class="annotation kinesthetic-icon" id="para-00088">The following mock writing conference will train you in the practice of conferencing in writing groups. Form a small group to get started.</para>
+      <media alt="atoms_isotopes">
+      <iframe width="660" height="371.4" src="../../media/Interactive/090221_opx_comp_ch06_6a_case_study_with_questions/index.html"/></media>
+      <para id="para-00089">Other people can provide feedback on your writing besides your classmates. If you have an on-campus writing center, it is well worth your time to make an online or in-person appointment with a tutor at any point in your writing process. You will get valuable comments and improve your ability to review your own writing.</para>
+      <para id="para-00090">Another way to get fresh eyes on your writing is to ask a friend or family member to read your draft. To get useful feedback, provide a list of questions or a form such as the one shown in Figure 6.12 for them to complete as they read.</para>
+      <table summary="" id="table-00006">
+      <tgroup cols="2">
+      <tbody>
+      <row>
+      <entry><emphasis effect="bold">Question for Reviewer</emphasis></entry>
+      <entry><emphasis effect="bold">Comment or Suggestion</emphasis></entry>
+      </row>
+      <row>
+      <entry>Does the introduction interest you in the problem?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Can you find the thesis statement? Underline it for the writer.</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Does the thesis state the problem and suggest that a solution will be proposed?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Can you identify a paragraph or paragraphs that define and explain a problem?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Can you identify a paragraph or paragraphs that propose one or more solutions to the problem?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Does the writer address possible objections to the solution or solutions? If not, are there objections the writer should consider?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Does each paragraph start with a point stated in the writer’s own words, and does that point relate to the thesis? Mark paragraphs that don’t have a clear point.</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Does each paragraph support the main point of the paragraph with details and evidence, such as facts, statistics, or examples? Mark paragraphs that need more support and/or explanation.</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Does each paragraph end with analysis, in the writer’s own words, that draws a conclusion? Mark paragraphs that need analysis.</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Is there a clear conclusion that makes a recommendation and connects to the thesis statement?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Where do you get lost or confused? Mark anything that is unclear.</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Does the proposal flow from one point to the next?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Does the essay have a clear, descriptive title?</entry>
+      <entry/>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Peer Review Questions</caption>
+      </table>
+      </section>
+      </section>
+      <section id="sect-00028">
+      <title>Revising Your Proposal</title>
+      <para class="annotation linguistic-icon" id="para-00091">A strong college paper is rarely written in a single draft, so build in time to revise your work. Take time with the comments you receive from your readers, and read your own work with a critical eye.</para>
+      <figure id="fig-00002"><media alt="A student sits at a desk in front of a laptop computer. The student writes information on a notepad.">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_06_05_014.jpg"/></media>
+      <caption>Whether you choose to do all your work on a computer or do some by hand, writing is nonetheless recursive, and revising is a major part of the process. (credit: Ivan Radic/flickr, CC BY 2.0)</caption></figure>
+      <section id="sect-00029">
+      <title>Responding to Reviewers’ Feedback</title>
+      <para id="para-00092">When you receive feedback from readers—whether from your instructor, your classmates, a writing tutor, or someone else—read each comment carefully to understand what the reader is communicating. Do your best not to become defensive, and be open to suggestions for improvement. Remind yourself that your readers are trying to help. As someone who hasn’t thought about your proposal as much as you have, a new reader can often see strengths and weaknesses that you cannot. Analyze each response, and decide whether acting on a suggestion will make your writing better. Remember that you remain the author, and you make the final call on your writing.</para>
+      <para id="para-00093">As you read, keep track of the comments your readers make. Pay special attention to strengths and weaknesses that more than one reader identifies. Use that information to improve later assignments as well as your proposal.</para>
+      </section>
+      <section id="sect-00030">
+      <title>Revising on Your Own</title>
+      <para id="para-00094">The following revising strategies can help you read your draft critically and carefully:</para>
+      <list id="list-00008">
+      <item><emphasis effect="bold">Read your draft aloud.</emphasis> Read the entire text from the beginning slowly and carefully, marking spots that need revision. Reading in this way allows you to see areas that need clarification, explanation, or development that you may have missed when you wrote the first draft. You can also have someone read your draft aloud to you.</item>
+      <item><emphasis effect="bold">Make a paragraph outline.</emphasis> The most common unit of thought in writing is the paragraph, a group of sentences set off from other groups because they focus on a single idea. Writing a paragraph outline creates a map of your whole paper that can help you determine whether the organization is effective or needs changing. Number each paragraph and write a phrase describing its topic or focus. Check that each paragraph has a topic sentence that states the main idea of the paragraph.</item>
+      <item><emphasis effect="bold">Test your evidence.</emphasis> Check whether each piece of evidence is factual and supports the main idea of the paragraph. Check that each piece of evidence is introduced, woven into your sentences, and cited.</item>
+      <item><emphasis effect="bold">Listen for your voice.</emphasis> In most college papers, your language should sound like a real person. If your instructor requires a formal style for the assignment, the language should be objective and in <term id="term-00027">third-person point of view</term>.</item>
+      <item><emphasis effect="bold">Let go if you need to.</emphasis> View change as good. Learn to let go of words, sentences, paragraphs, and maybe even your entire first draft. Sometimes the best way to revise is to start fresh. The knowledge you have built in writing a first draft will serve you well if you need to start over.</item>
+      <item><emphasis effect="bold">Create a new file for each revision.</emphasis> Each time you revise a draft, save the new version with a new file name so that you don’t lose your previous work. That way, you can return to an earlier version of your draft if you are not happy with the revision.</item>
+      <item><emphasis effect="bold">Edit and proofread.</emphasis> When you are satisfied with the overall shape of your paper, reread it once again to check for sentence-level errors in grammar, punctuation, spelling, and source citations.</item>
+      </list>
+      </section>
+      </section>
+      <section id="sect-00031">
+      <title>Taking It Public: Publishing or Presenting Your Proposal</title>
+      <para id="para-00095">Publishing is a final step in the writing process. You may want to consider publishing your full proposal in your campus newspaper (or rewriting it as a letter to the editor) if your topic is related to your school. Or you may want to present it to an organization or committee on campus that can help you make your solution a reality. If your topic is related to the community in which you live, consider submitting your proposal to the local newspaper or presenting it at a city council meeting. (Note that if you decide to present your proposal orally, you’ll need to figure out in advance the procedure for speaking or getting on a meeting agenda.) If your topic is more general and involves substantial research, consider submitting your proposal to one of these journals that publish undergraduate research work in all fields:</para>
+      <list id="list-00009">
+      <item><link url="https://openstax.org/r/americanjournalofugreasearch">American Journal of Undergraduate Research</link></item>
+      <item><link url="https://openstax.org/r/midwestjournalugreasearch"><emphasis effect="italics">Midwest Journal of Undergraduate Research</emphasis></link></item>
+      <item><link url="https://openstax.org/r/pursuejournalugreasearch"><emphasis effect="italics">PURSUE Undergraduate Research Journal</emphasis></link></item>
+      </list>
       </section>
   </content>
 </document>

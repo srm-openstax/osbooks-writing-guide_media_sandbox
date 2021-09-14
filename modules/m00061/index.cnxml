@@ -6,9 +6,58 @@
     <md:uuid>48cc4912-57ff-4038-acfe-ba0181168f0e</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Discuss the roles of purpose and audience in writing a proposal.</item>
+      <item>Define key features and characteristics of proposals.</item>
+      </list>
+      </section>
+      <para id="para-00002">As you think about the problem for your proposal, it is important to understand the rhetorical situation, or the circumstance in which a writer communicates with an audience of readers, including your purpose, audience expectations, and the key elements of the proposal genre. The rhetorical situation and its relationship to writing your proposal is discussed more fully in <link document="m00063">Writing Process: Creating a Proposal</link>.</para>
+      <section id="sect-00002">
+      <title>Defining Your Purpose</title>
+      <para id="para-00003">Your <term class="no-emphasis" id="term-00001">purpose</term> is your reason for writing. The broad purpose for most academic and real-world proposals is to offer a solution to a problem. You, the writer, are tasked with identifying a problem and recommending a solution. You may need to write a proposal for a research project in a sociology class, or you may need to write a business proposal for a marketing class or a business you’ve started. Many topics are suitable for a proposal in a college writing class. For example, some problems are local and can be acted on directly, such as improving access to mental health services on your campus, offering a new food delivery option to campus buildings, designating quiet study spaces in your library, or bringing a farmer’s market to your campus. Others are large-scale, research-oriented proposals such as reducing automobile emissions, providing broadband Internet access nationwide, or reforming immigration policies in the United States. Read your assignment carefully, and be sure you know the requirements and the amount of flexibility you have.</para>
+      </section>
+      <section id="sect-00003">
+      <title>Tuning in to Audience Expectations</title>
+      <para id="para-00004">The <term id="term-00002">audience</term> for your writing consists of the people who will read it or who could read it. <emphasis effect="italics">Are you writing for your instructor? For your classmates? For students or administrators on your campus or people in your community?</emphasis> Think about the action they can take to solve the problem. For example, if the problem you’re presenting is a lack of diverse food options on your campus, a proposal to other students would perhaps ask students to join you in calling for change in dining options, whereas a proposal to administrators would request specific changes.</para>
+      <para id="para-00005">Whoever your readers are, they expect you to do the following:</para>
+      <list id="list-00002">
+      <item><emphasis effect="bold">Address a specific, well-defined problem.</emphasis> As the writer, ensure that your readers know what the problem is and why it needs to be solved. Some problems are well-known, whereas others need to be explained.</item>
+      <item><emphasis effect="bold">Have an idea of what they already know.</emphasis> It is up to you as the writer to learn as much as possible about your audience. You need to know how receptive your audience may be to your suggestions and what they know about the problem you’re proposing to solve. Their knowledge—or lack thereof—will require you to adjust your writing as needed. If readers are new to the problem, they expect you to provide the necessary background information. If they are knowledgeable about the problem, they expect you to cover background information quickly.</item>
+      <item><emphasis effect="bold">Provide reliable information.</emphasis> in the form of specific facts, statistics, and examples. Whether you present your own research or information from sources, readers expect you to have done your homework and present trustworthy information about the problem and the solution.</item>
+      <item><emphasis effect="bold">Structure your proposal in a logical way.</emphasis> Open with an introduction that tells readers the subject of the proposal, and follow with a logical structure.</item>
+      <item><emphasis effect="bold">Adopt an objective stance.</emphasis> Writing objectively means adopting a position and tone that are neutral and free from bias, personal feelings, and emotional language. In doing so, you show respect for your readers’ knowledge and intelligence, and you build credibility and trust, or <term id="term-00003">ethos</term>, with your readers.</item>
+      <item><emphasis effect="bold">Tell them what you want them to do in response to your proposal.</emphasis> Do you want them to engage other members of the community? Build something? Contact their legislators? Although they may not do what you want, they are unlikely to act at all if you don’t tell them what you would like them to do.</item>
+      </list>
+      </section>
+      <section id="sect-00004">
+      <title>Exploring the Genre</title>
+      <para class="annotation linguistic-icon" id="para-00006">A formal proposal may include the components addressed in <link document="m00078">Analytical Report: Writing from Facts</link>. If you’re writing a business proposal (a document that proposes a transaction between a business and a client and also spells out deliverables, a schedule, costs, and payment), you can find a full discussion in OpenStax’s forthcoming <emphasis effect="italics">Business Communications</emphasis> text.</para>
+      <para id="para-00007">The following are key terms and characteristics of problem-solution proposals:</para>
+      <list id="list-00003">
+      <item><term id="term-00004">Abstract or executive summary</term><emphasis effect="bold">:</emphasis> paragraph that summarizes the problem and recommended solution. The purpose is to present information in the most concise and economical way possible for your readers.</item>
+      <item><term id="term-00005">Audience</term><emphasis effect="bold">:</emphasis> readers of a proposal or any piece of writing.</item>
+      <item><term id="term-00006">Bias</term><emphasis effect="bold">:</emphasis> a preconceived opinion about something, such as a subject, an idea, a person, or a group of people. As a reader, be attentive to potential bias in sources; as a writer, be attentive to bias in yourself.</item>
+      <item><term id="term-00007">Body</term><emphasis effect="bold">:</emphasis> main part of a proposal; appears between the introduction and the conclusion and recommendation. The body of a proposal consists of paragraphs that discuss the problem and present a solution or solutions.</item>
+      <item><term id="term-00008">Citation of sources</term><emphasis effect="bold">:</emphasis> references in the text of a proposal to sources the writer has used as evidence. The sources are also listed, with full bibliographic information, at the end of the proposal. Citing sources is essential to <term class="no-emphasis" id="term-00009"><link document="m00130">avoid plagiarism</link></term>.</item>
+      <item><term id="term-00010">Conclusion and recommendation(s)</term><emphasis effect="bold">:</emphasis> last part of a proposal. The conclusion restates the problem and recommends a solution. This paragraph often issues a call to action.</item>
+      <item><term id="term-00011">Critical thinking</term><emphasis effect="bold">:</emphasis> ability to look beneath the surface of words and images to analyze, interpret, and evaluate.</item>
+      <item><term id="term-00012">Ethos</term><emphasis effect="bold">:</emphasis> also known as ethical appeal; the sense that the writer or other authority is trustworthy and credible.</item>
+      <item><term id="term-00013">Evidence</term><emphasis effect="bold">:</emphasis> statements of fact, statistics, examples, and expert opinion or knowledge that support the writer’s points.</item>
+      <item><term id="term-00014">Facts</term><emphasis effect="bold">:</emphasis> statements whose truth can be proven or verified.</item>
+      <item><term id="term-00015">Introduction</term><emphasis effect="bold">:</emphasis> first part of a proposal, in which the writer introduces the problem to be addressed. Often, the thesis appears at the end of the introduction.</item>
+      <item><term id="term-00016">Objections</term><emphasis effect="bold">:</emphasis> questions or opposition readers may have about a proposed solution. These also are known as <term id="term-00017"><link document="m00103">counterclaims</link></term>.</item>
+      <item><term id="term-00018">Objective stance</term><emphasis effect="bold">:</emphasis> writing that is free from bias, personal feelings, and emotional language. An objective stance is especially important in a proposal.</item>
+      <item><term id="term-00019">Problem</term><emphasis effect="bold">:</emphasis> central topic to be discussed in a proposal.</item>
+      <item><term id="term-00020">Purpose</term><emphasis effect="bold">:</emphasis> reason for writing the proposal, usually to examine a problem and propose a solution.</item>
+      <item><term id="term-00021">Solution or solutions</term><emphasis effect="bold">:</emphasis> proposed resolution or resolutions to the problem, the central topic of a proposal.</item>
+      <item><term id="term-00022">Statistics</term><emphasis effect="bold">:</emphasis> factual statements that include numbers and often serve as evidence in a proposal.</item>
+      <item><term id="term-00023">Synthesis</term><emphasis effect="bold">:</emphasis> making connections between ideas and combining them to arrive at an original conclusion. Synthesizing draws from others’ opinions and ideas, facts, statistics, and the writer’s information based on research or original thought.</item>
+      <item><term id="term-00024">Thesis</term><emphasis effect="bold">:</emphasis> the main idea you will convey in your proposal and to which all paragraphs in the paper should relate.</item>
+      <item><term id="term-00025">Topic sentence</term><emphasis effect="bold">:</emphasis> a sentence that states the main idea of each paragraph.</item>
+      </list>
       </section>
   </content>
 </document>

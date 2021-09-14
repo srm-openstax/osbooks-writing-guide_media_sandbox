@@ -6,9 +6,33 @@
     <md:uuid>6dbf0ece-836e-4f6e-ae89-e4c93b722d53</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Describe technical writing as a career path.</item>
+      <item>Explore the field of technical writing in greater depth.</item>
+      </list>
       </section>
+      <para id="para-00002">If you like science and technical fields and you like to write, you may want to explore technical writing as a career path. Technical writers usually have a degree in English, journalism, or communication. Often, they also have knowledge, college coursework, or a degree in a specialized field such as computer science, engineering, medicine, biology, agriculture, and other technical fields, such as manufacturing, construction, welding, and plumbing; however, companies will usually train technical writers on the subject needed and the style in which the writers they employ need to write.</para>
+      <figure id="fig-00001"><media alt="A student sits at a table in front of a laptop computer. The student holds a pen in their right hand. A plant, computer mouse, and notebook rest on the table. ">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_06_08_015.jpg"/></media>
+      <caption>Technical writers create a variety of content, including texts such as detailed procedural guides and various government publications. Though technical writers often face tight deadlines, they usually have flexibility in their working environments. (credit: Pxhere/Wikimedia Commons, CC0 )</caption></figure>
+      <para id="para-00003">Although the work varies depending on the industry, organization, and specific position, technical writers typically perform the following tasks:</para>
+      <list id="list-00002">
+      <item><emphasis effect="bold">Create content.</emphasis> Technical writers create an array of documents, such as product information, operating and assembly instructions, “how-to” and “owner’s” manuals, technical documentation, business proposals (solicited and unsolicited), lists of frequently asked questions (FAQs), grant proposals, and journal articles. (For more on how to write a business proposal, which contains specific sections that often are not included in an academic proposal paper, see the OpenStax <emphasis effect="italics">Business Communications</emphasis> text.)</item>
+      <item><emphasis effect="bold">Research.</emphasis> Technical writers conduct research to gather the information they need to write accurate, professional, and helpful content.</item>
+      <item><emphasis effect="bold">Edit.</emphasis> Technical writers edit and standardize content prepared by other writers in their organization.</item>
+      <item><emphasis effect="bold">Adapt content for multiple platforms.</emphasis> Technical writers create paper-based and digital content, using text, graphics, images, sound, and video to be distributed across different platforms, including an organization’s website and social media.</item>
+      </list>
+      <para id="para-00004">In addition, technical writers develop and use the following skills:</para>
+      <list id="list-00003">
+      <item><emphasis effect="bold">Writing.</emphasis> Technical writers spend extended periods of time in front of a computer writing complicated information in clear and concise language.</item>
+      <item><emphasis effect="bold">Audience awareness.</emphasis> Technical writers are highly aware of the audience for their writing. They plan, organize, and distribute the content they create with their readers, viewers, and users in mind.</item>
+      <item><emphasis effect="bold">Communication and collaboration.</emphasis> Technical writers typically work on teams and collaborate with technical experts, coworkers, and clients.</item>
+      <item><emphasis effect="bold">Problem-solving.</emphasis> Technical writers often need to figure out how something works in order to write documents their audience can understand.</item>
+      <item><emphasis effect="bold">Time management.</emphasis> Technical writers often work on multiple projects with tight deadlines. Setting priorities to keep projects on track is a key skill.</item>
+      </list>
+      <para id="para-00005">To learn more about technical writing as a career, including average pay, employment outlook, and more, see the U.S. Bureau of Labor Statistics <emphasis effect="italics"><link url="https://openstax.org/r/occupationaloutlookhandbook">Occupational Outlook Handbook</link>.</emphasis> You can also read job descriptions and search for internship opportunities at job sites such as Indeed, Monster, or Snagajob.</para>
   </content>
 </document>

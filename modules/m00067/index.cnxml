@@ -6,9 +6,47 @@
     <md:uuid>68898126-2df0-4bf5-9de0-0c0dd1154908</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Reflect in writing on the development of your writing process.</item>
+      <item>Reflect in writing on how the writing process affected your work.</item>
+      <item>Reflect in writing on your objectivity as a writer.</item>
+      </list>
+      </section>
+      <para id="para-00002">As you complete your proposal, think critically about your writing process. Reflect on what you created from the first steps of discovering ideas to the last steps of writing and editing the final draft.</para>
+      <section id="sect-00002">
+      <title>Reflecting on Your Proposal</title>
+      <para id="para-00003">Respond to the following questions to reflect on your writing process for your proposal:</para>
+      <list id="list-00002">
+      <item>How did you choose the problem you wrote about? Did you have to narrow or expand it?</item>
+      <item>What methods did you use to gather ideas about the problem and possible solutions? What outside sources did you consult for information?</item>
+      <item>How did you settle on your thesis? Did you rewrite it multiple times?</item>
+      <item>What strategies did you use to organize the information for your proposal?</item>
+      <item>What strategies did you use to develop paragraphs? What difficulties, if any, did you encounter?</item>
+      <item>Were you satisfied with the recommendation(s) you made and how you ended the proposal?</item>
+      <item>How challenging was it for you to adopt an objective stance? How did you adapt your language as you drafted and revised your proposal?</item>
+      <item>How did input from peers and other readers affect your drafting and revising processes? What specific constructive criticism did you receive that helped you?</item>
+      <item>In what ways was this proposal easier or harder to write than other papers you have written?</item>
+      <item>What could you have done differently to make writing your proposal easier or more effective?</item>
+      </list>
+      </section>
+      <section class="further-reading" id="sect-00003">
+      <title>Further Reading</title>
+      <para id="para-00004">These texts might be useful for you when writing proposals.</para>
+      <para id="para-00005">Ann, Lee, et al. “Research Proposal: The Association Between Serum Vitamin D Levels and Childhood Obesity.” <emphasis effect="italics">Centers for Disease Control and Prevention</emphasis>, CDC, 1 May 2020, http://www.cdc.gov/rdc/data/b3/SampleProposal.pdf.</para>
+      <para id="para-00006">Johnson-Sheehan, Richard. <emphasis effect="italics">Writing Proposals.</emphasis> Pearson, 2007.</para>
+      <para id="para-00007">Pinkert, Laurie A. “Writing Reports, Proposals, and Technical Documents.” <emphasis effect="italics">Purdue Online Writing Lab,</emphasis> Purdue University, https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/technical_reports_and_report_abstracts/reports_proposals_and_technical_papers.html.</para>
+      <para id="para-00008">RaiseMe. “Technical Writers: Salary, Career Path, Job Outlook, Education, and More.” <emphasis effect="italics">Raise.me</emphasis>, https://www.raise.me/careers/media-and-communication/technical-writers.</para>
+      <para id="para-00009">Skopinski, T. H., and Katherine G. Johnson. “Determination of Azimuth Angle at Burnout for Placing a Satellite Over a Selected Earth Position.” <emphasis effect="italics">NTRS—NASA Technical Reports Server</emphasis>, NASA, 1 Sept. 1960, http://ntrs.nasa.gov/citations/19980227091.</para>
+      </section>
+      <section class="works-cited" id="sect-00004">
+      <title>Works Cited</title>
+      <para id="para-00010">Gawande, Atul. <emphasis effect="italics">The Checklist Manifesto: How to Get Things Right.</emphasis> Picador, 2009.</para>
+      <para id="para-00011">Shetterly, Margot Lee. <emphasis effect="italics">Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race.</emphasis> William Morrow, 2016.</para>
+      <para id="para-00012">Varma, Roli. “Women in Information Technology: A Case Study of Undergraduate Students in a Minority-Serving Institution.” <emphasis effect="italics">Bulletin of Science, Technology &amp; Society</emphasis>, vol. 22, no. 4, 2002, pp. 274-282. www.unm.edu/~varma/print/BSTS_Women%20in%20IT.pdf.</para>
+      <para id="para-00013">White, Sarah K. “Women in Tech Statistics: The Hard Truths of an Uphill Battle.” <emphasis effect="italics">CIO,</emphasis> IDG Communications, 8 Mar. 2021, www.cio.com/article/3516012/women-in-tech-statistics-the-hard-truths-of-an-uphill-battle.html.</para>
       </section>
   </content>
 </document>
