@@ -6,9 +6,361 @@
     <md:uuid>07038c5c-cc98-44ce-85fd-f9b79def7fc5</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Compose a review based on a thesis supported by analysis and evaluation.</item>
+      <item>Demonstrate the steps of the writing process: invention, drafting, revising, and editing.</item>
+      <item>Participate in the collaborative and social aspects of writing processes.</item>
+      <item>Give and act on productive feedback to works in progress.</item>
+      <item>Adapt composing processes for a variety of technologies and modalities.</item>
+      </list>
+      </section>
+      <para id="para-00002">Throughout this chapter, you have learned about the review genre. You have learned that reviews evaluate a variety of items. In addition to books, films, and TV shows, people look to reviews to buy cars, choose restaurants, hire plumbers, and more. In this section, you will have the opportunity to demonstrate your understanding of the review genre by composing your own review.</para>
+      <section id="sect-00002">
+      <title>Summary of Assignment: Review of Primary Media Source</title>
+      <para class="annotation culture-icon visual-icon auditory-icon" id="para-00003">Write a review of a specific film, book, TV series, podcast, play, or video game that you think contributes something significant to the genre and to the culture at large. Show how the subject—the primary source—of your review illustrates something compelling or exceptional about a particular idea or theme common to the genre. For example, the CW series <term class="no-emphasis" id="term-00001"><emphasis effect="italics">Crazy Ex-Girlfriend</emphasis></term> (2015–2019) is a romantic comedy that eschews and even satirizes traditional romantic comedy tropes such as the “grand gesture,” doing something out of love for someone. Use specific evidence from your primary source to support a central idea, or thesis. In an essay of about 1,200 to 1,500 words, provide an overall judgment about your subject and support it with evidence from the primary source and from secondary sources if applicable. In addition, explore how your specific source has contributed something significant to its genre. In other words, <emphasis effect="italics">why is this subject interesting, different, or worthy of analysis?</emphasis> Be sure to demonstrate awareness of your source’s cultural and historical context as well. For example, if your review is about a romantic comedy, provide relevant information about the history, conventions, or expectations of that genre. Think about and explain the ways your topic adheres to or breaks from audience expectations.</para>
+      <section id="sect-00003">
+      <title>Another Lens 1</title>
+      <para class="annotation auditory-icon" id="para-00004">Create a three-to-five-minute podcast review of a specific <link url="https://openstax.org/r/film">film</link>, <link url="https://openstax.org/r/book">book</link>, TV series, <link url="https://openstax.org/r/album">album</link>, podcast, play, or video game. How does the subject of your review illustrate something interesting or unique about a particular idea or theme common to the genre? Integrate specific evidence from the primary source and secondary sources, if applicable, to support a main idea, or thesis.</para>
+      <para id="para-00005">To record your podcast review, use either a simple recording method, such as the voice memo app on your smartphone, or something more sophisticated, such as <emphasis effect="italics">Garage Band</emphasis> or <emphasis effect="italics">iMovie.</emphasis> To become more familiar with this genre of reviewing, listen to one or two of the examples linked below. Note how this genre is somewhat different from an academic essay. For example, the speaker’s voice is more conversational and engages the audience auditorily by stressing particular words or syllables. In your review podcast, take advantage of the opportunity to present a more informal tone than you might use in an academic essay. Podcast hosts are often successful because of their personality and ability to connect with their audience. Draft a script for your review podcast that reflects your personality and use of language, rather than formal language. For example, use contractions, first- or second-person pronouns, and appropriate slang.</para>
+      <para id="para-00006">Finally, to maximize the effect of your podcast, consider incorporating short clips from the subject of your review. Upload your podcast review to <link url="https://openstax.org/r/SoundCloud">SoundCloud</link> and share your review with the class. For more direction on public speaking, consult Scripting for the Public Forum: Writing to Speak.</para>
+      </section>
+      <section id="sect-00004">
+      <title>Another Lens 2</title>
+      <para id="para-00007">Instead of a straightforward review of a single primary source, review several sources in the same genre, as Caelia Marshall has done in her essay. Or compare a film to the book on which it is based and evaluate it. Select your sources from films, books, television programs, video games, or any other form of entertainment, focusing your review essay on a single area, such as social context, character development, or screenplay vs. original text. Choose other genre-specific evaluation criteria as well, and address them in your essay, as Marshall does. Use specific evidence from your primary sources and secondary sources, as needed, to support your main idea, or thesis. In other words, <emphasis effect="italics">why is this source interesting, different, or worthy of analysis?</emphasis></para>
+      </section>
+      </section>
+      <section class="quick-launch" id="sect-00005">
+      <title>Developing Evaluative Criteria</title>
+      <para class="annotation dreaming-icon" id="para-00008">To write an effective review, you need clear and relevant evaluation criteria. To help you establish your review criteria, fill in a table similar to Figure 7.4 by following these steps:</para>
+      <list list-type="enumerated" id="list-00002">
+      <item>Write the name of your primary source.</item>
+      <item>In the left-hand column, write the genre category to which your topic belongs (horror, action, biography, etc.).</item>
+      <item>Under the genre, brainstorm as many characteristics of the genre as you can.</item>
+      <item>In the right-hand column, write “Examples.”</item>
+      <item>Brainstorm as much evidence from your primary source as you can think of.</item>
+      <item>Create a second table called “Subgenre.” For example, if your topic is a horror film, some possible subgenres might be “ghost horror,” “monster horror,” or “slasher horror.” Add a colon after <emphasis effect="italics">Subgenre</emphasis>, and write the subgenre type.</item>
+      <item>Label the left-hand column “Subgenre Elements” and the right-hand column “How to Evaluate.”</item>
+      <item>In the Subgenre Elements column, brainstorm for as many characteristics of the subgenre as you can. You can use some relevant characteristics from step 3, but try to focus on unique characteristics of the subgenre. For example, what makes a horror film about a ghost, such as <term class="no-emphasis" id="term-00002"><emphasis effect="italics">The Grudge</emphasis> (2020)</term>, different from a slasher horror film, such as <term class="no-emphasis" id="term-00003"><emphasis effect="italics">The Texas Chainsaw Massacre</emphasis></term> (2003)?</item>
+      <item>In the right-hand column, develop questions to assess characteristics.</item>
+      <item>Select three to five genre characteristics with the most evidence, and focus on them as you look closely at your primary sources. Take notes and gather evidence to support your evaluation.</item>
+      </list>
+      <table summary="" id="table-00001">
+      <tgroup cols="2">
+      <colspec colnum="1" colname="c1"/>
+      <colspec colnum="2" colname="c2"/>
+      <tbody>
+      <row>
+      <entry align="center" namest="c1" nameend="c2"><emphasis effect="bold">Primary Source: <emphasis effect="italics">The Texas Chainsaw Massacre</emphasis> (2003 Film)</emphasis></entry>
+      </row>
+      <row>
+      <entry align="center"><emphasis effect="bold">Genre Characteristics: Horror</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Examples</emphasis></entry>
+      </row>
+      <row>
+      <entry>Script/plot: Scary story</entry>
+      <entry>Presented as a “true” story, scary ending</entry>
+      </row>
+      <row>
+      <entry>Characters: “Monster” or “thing” that kills</entry>
+      <entry>Leatherface, a masked killer who wields a chainsaw</entry>
+      </row>
+      <row>
+      <entry>Characters: Victims, usually multiple</entry>
+      <entry>Young people stranded on a road trip</entry>
+      </row>
+      <row>
+      <entry>Setting: Rural Texas</entry>
+      <entry>Creepy locations with potential for violence</entry>
+      </row>
+      <row>
+      <entry>Special effects: (gore, jump scares, etc.)</entry>
+      <entry>Gore: blood and guts</entry>
+      </row>
+      <row>
+      <entry>Sound effects: Screaming</entry>
+      <entry>Many victims and screaming from road trippers</entry>
+      </row>
+      <row>
+      <entry>Cinematography: “Gross” or “creepy” images</entry>
+      <entry>Meat plant, creepy house</entry>
+      </row>
+      <row>
+      <entry namest="c1" nameend="c2"><emphasis effect="bold">Subgenre: Slasher Horror</emphasis></entry>
+      </row>
+      <row>
+      <entry><emphasis effect="bold">Subgenre Elements</emphasis></entry>
+      <entry><emphasis effect="bold">How to Evaluate</emphasis></entry>
+      </row>
+      <row>
+      <entry>One deranged killer</entry>
+      <entry>Is the killer believable in the moment? Does the killer scare me?</entry>
+      </row>
+      <row>
+      <entry>One weapon characteristic to the killer</entry>
+      <entry>Is the weapon creative? Does it fit the killer’s character?</entry>
+      </row>
+      <row>
+      <entry>Killer with a backstory</entry>
+      <entry>Does the backstory tell me why the killer is deranged? Does it convince me it’s the reason they kill?</entry>
+      </row>
+      <row>
+      <entry>Killer hunts the victims </entry>
+      <entry>Victims’ terror should be convincing: realistic screaming, fear, etc.</entry>
+      </row>
+      <row>
+      <entry>Creepy images: setting, props, etc. need to be realistic</entry>
+      <entry>Are they realistic? How? How do the images add to the sense of fear?</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Genre and subgenre evaluation criteria</caption>
+      </table>
+      <para id="para-00009"><emphasis effect="bold">Evaluation Criteria for <emphasis effect="italics">The Texas Chainsaw Massacre</emphasis>:</emphasis></para>
+      <para id="para-00010"><emphasis effect="bold">The Killer (Leatherface):</emphasis> How effective is he at scaring the audience? How does he scare the audience (backstory, appearance, weapon, etc.)?</para>
+      <para id="para-00011"><emphasis effect="bold">Images/Setting:</emphasis> How do the filmmakers create a creepy setting? How does the setting add to the fear?</para>
+      <para id="para-00012"><emphasis effect="bold">The Victims:</emphasis> How do they project fear (screaming, etc.)? How effective or convincing is their fear?</para>
+      </section>
+      <section class="drafting" id="sect-00006">
+      <title>Thesis Statement, Analysis, and Supporting Examples</title>
+      <para id="para-00013">After you have selected a topic and decided on the evaluation criteria, spend some time looking closely at your primary source (the film, TV show, book, etc. you have chosen to review). With these criteria in mind, view/read/listen to your primary source. Take notes on how your selected evaluation criteria apply to your source. When you come across strong and relevant examples, write down vivid, detailed descriptions of the scene and quote applicable dialogue. By looking closely at your primary source and taking notes now, you will have solid and specific examples to illustrate your points later when you draft your review.</para>
+      <para id="para-00014">Also, while you are looking closely at your primary source, think about the features that appeal to you. <emphasis effect="italics">Is there a character that is particularly interesting? Do you see an interesting viewpoint on a theme or idea? Is the writing or the use of language interesting, different, or clever? How does it keep your attention or provide something unexpected?</emphasis> The answers to these questions can lead you to your overall evaluation and thesis.</para>
+      <section id="sect-00007">
+      <title>Thesis</title>
+      <para id="para-00015">Use Figure 7.7 to plan your draft. Then, you will use the notes you took earlier to help you brainstorm for the main points that support the thesis and provide specific, concrete evidence.</para>
+      <table summary="" id="table-00002">
+      <tgroup cols="2">
+      <tbody>
+      <row>
+      <entry><emphasis effect="bold">Primary Source</emphasis></entry>
+      <entry><emphasis effect="bold">Title of work(s) being reviewed</emphasis></entry>
+      </row>
+      <row>
+      <entry><emphasis effect="bold">Angle of Analysis</emphasis></entry>
+      <entry><para id="para-00016">Overall way you will organize your review: aspects of the source you will analyze or criteria on which you plan to focus.</para>
+      <para id="para-00017">Example: female romantic-comedy leads.</para></entry>
+      </row>
+      <row>
+      <entry><emphasis effect="bold">Filters</emphasis></entry>
+      <entry><para id="para-00018">Ways to narrow your focus, such as time, place, cultural context, comparison to similar sources.</para>
+      <para id="para-00019">Examples: the female lead in <emphasis effect="italics">Crazy Ex-Girlfriend</emphasis> versus other female romantic comedy leads or how the 1961 film version of <term class="no-emphasis" id="term-00004"><emphasis effect="italics">A Raisin in the Sun</emphasis></term> depicts Lena Younger as a “tyrant.”</para></entry>
+      </row>
+      <row>
+      <entry><emphasis effect="bold">Main Argument</emphasis></entry>
+      <entry><para id="para-00020">The idea you’ll use to draft a working thesis; must be a debatable point about your topic.</para>
+      <para id="para-00021">Example: Rebecca Bunch, the female lead in <emphasis effect="italics">Crazy Ex-Girlfriend</emphasis>, is flawed and not virtuous. Her shortcomings make her character more engaging than traditional romantic-comedy female leads.</para></entry>
+      </row>
+      <row>
+      <entry><emphasis effect="bold">Thesis</emphasis></entry>
+      <entry><para id="para-00022">One sentence (sometimes two) that clearly states your argument.</para>
+      <para id="para-00023">Example: Although most romantic-comedy female leads are virtuous and have admirable character traits, <emphasis effect="italics">Crazy Ex-Girlfriend’s</emphasis> Rebecca Bunch is flawed and sometimes unsympathetic; however, the audience still roots for her to find love.</para></entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Preliminary drafting plan sample</caption>
+      </table>
+      </section>
+      <section id="sect-00008">
+      <title>Planning the Main Points and Body Paragraphs</title>
+      <para id="para-00024">Your main points can be your topic sentences, but they don’t necessarily need to be expressed as one sentence at the beginning of each paragraph. One way you can organize your main ideas, or points that support your thesis, is to read your thesis, add “because,” and follow it with a specific example as many times as you can.</para>
+      <para id="para-00025"><emphasis effect="bold">Examples</emphasis></para>
+      <list id="list-00003">
+      <item>Because romantic comedies such as <term class="no-emphasis" id="term-00005"><emphasis effect="italics">Knocked Up</emphasis></term> (2007) depict their leads as unquestionably “good” people . . .</item>
+      <item>Because Rebecca Bunch is sometimes selfish . . .</item>
+      <item>Because Rebecca Bunch is sometimes promiscuous . . .</item>
+      <item>Because despite these flaws, men still seek her attention . . .</item>
+      <item>Because the audience sees Rebecca as realistic, they root for her . . .</item>
+      </list>
+      <para id="para-00026">Now complete Figure 7.8 by adding your main points from your primary sources.</para>
+      <table summary="" id="table-00003">
+      <tgroup cols="2">
+      <tbody>
+      <row>
+      <entry>Point 1. Because . . .</entry>
+      <entry><para id="para-00027">Explanation:</para>
+      <para id="para-00028">Example:</para></entry>
+      </row>
+      <row>
+      <entry>Point 2. Because . . .</entry>
+      <entry><para id="para-00029">Explanation:</para>
+      <para id="para-00030">Example:</para></entry>
+      </row>
+      <row>
+      <entry>Point 3. Because . . .</entry>
+      <entry><para id="para-00031">Explanation:</para>
+      <para id="para-00032">Example:</para></entry>
+      </row>
+      <row>
+      <entry>Point 4. Because . . .</entry>
+      <entry><para id="para-00033">Explanation:</para>
+      <para id="para-00034">Example:</para></entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Main points organizer</caption>
+      </table>
+      <para class="annotation dreaming-icon" id="para-00035">As you continue to plan your review, consider these questions: <emphasis effect="italics">Depending upon your audience, how much background or context should you provide about your topic? Are they likely or unlikely to have knowledge about the topic? Do you need to summarize anything about your primary source? Do you need to provide historical or cultural context?</emphasis> Use the notes you took earlier as your draft your essay. Remember, you can change things! It is up to you to decide how to organize your argument and where to present specific evidence.</para>
+      <para id="para-00036">Your review will contain both summary/observation (objectivity) and evaluation/analysis (subjectivity). To practice determining whether statements are summary or observation as opposed to evaluation or analysis, complete the following activity.</para>
+      <media alt="atoms_isotopes">
+      <iframe width="660" height="371.4" src="../../media/Interactive/090721_opx_comp_ch07_drag_and_drop_media_categories/index.html"/>
+      </media>
+      </section>
+      <section id="sect-00009">
+      <title>Secondary Source Evidence</title>
+      <para id="para-00037">Once you form your own opinions, you may want to look for additional sources to support your review. Secondary sources, or sources that contain the opinions and analyses of others, are frequently used in academic writing to help writers support a point or provide background and context. Scholarly, peer-reviewed secondary sources give your review greater credibility because the articles are written by experts in their fields. Use your college library’s databases, or ask a librarian whether your college provides access to journals that publish articles on movies, television, and culture. Most colleges have access to JSTOR, a database search engine focused on the humanities. In addition, the MLA International Bibliography is a common database of journals related to culture. Research Process: Accessing and Recording Information and Annotated Bibliography: Gathering, Evaluating, and Documenting Sources provide more information about finding sources.</para>
+      <para id="para-00038">Another, less academic, place to look for secondary sources is in <term id="term-00006">recaps</term>. In recent years, recapping has become a popular way to join the conversation about TV shows, with sites such as <emphasis effect="italics">The AV Club</emphasis>, <emphasis effect="italics">The Huffington Post</emphasis>, <link url="https://openstax.org/r/slate"><emphasis effect="italics">Slate</emphasis></link>, <link url="https://openstax.org/r/theverge"><emphasis effect="italics">The Verge</emphasis></link>, and <link url="https://openstax.org/r/vox"><emphasis effect="italics">Vox</emphasis></link> dedicating staff to summarizing and discussing popular shows. Fans engage with each other and recap writers by commenting on and sharing the articles.</para>
+      <para id="para-00039">Note, too, that well-known publications, such as <link url="https://openstax.org/r/thenewyorktimes"><emphasis effect="italics">The New York Times</emphasis></link>, review not only movies and TV shows but also products such as those you may have chosen to write your review about. In addition, <link url="https://openstax.org/r/consumerreports"><emphasis effect="italics">Consumer Reports</emphasis></link> is one of the longest-running magazines dedicated to reviewing products of all kinds. Many websites, as well, review video games and consoles.</para>
+      </section>
+      <section id="sect-00010">
+      <title>Drafting the Introduction</title>
+      <para id="para-00040">The <term id="term-00007">introduction</term> should interest readers in your topic and make them eager to learn more about it. If you were proposing this idea to a company, <emphasis effect="italics">what would your “elevator pitch” be? What might you say to quickly pique audience interest?</emphasis> You might describe the part that convinced you it was good. You might explain why your audience would find the topic relatable.</para>
+      <para id="para-00041">Be sure readers know by the end of the introduction what specifically you are reviewing. Provide the title and necessary background/context: when it was made, the <term class="no-emphasis" id="term-00008">medium</term> (film, book, podcast), the genre, and how to find it (Netflix, Amazon Prime, Hulu). Include your overall evaluation: <emphasis effect="italics">Did you like it or not, and why overall?</emphasis></para>
+      <para id="para-00042">Then present your thesis at the end of your introduction.</para>
+      </section>
+      <section id="sect-00011">
+      <title>Introduction example</title>
+      <para id="para-00043">Many people love romantic comedies, but what happens when real life isn’t like the movies? We are conditioned to believe there is one person we are destined to be with. Disney movies, TV shows like <emphasis effect="italics">The Office</emphasis>, Hallmark Channel Christmas movies, and traditional romantic comedies reinforce the notion that for the believer, true love is right around the corner. But everyone knows the pain of rejection or of pining for a person who doesn’t seem to notice them. The CW series <emphasis effect="italics">Crazy Ex-Girlfriend</emphasis> shows what it’s like when love is more complicated than what we see in the movies. The show follows Rebecca Bunch, a successful but unhappy—and far from virtuous or admirable—New York lawyer who instantly abandons her life to move to West Covina, California, to pursue Josh Chan, her summer-camp crush from long ago. Rebecca cooks up crazy, desperate schemes to get the attention of the aloof and clueless Josh. <emphasis effect="italics">Crazy Ex-Girlfriend</emphasis> masterfully taps into our inner crazy ex by making good comedy out of Instagram stalking, relationship sabotage, and infatuation.</para>
+      <para id="para-00044">Now, write your introduction:</para>
+      <para id="para-00045">General statement: ________</para>
+      <para id="para-00046">Background or context: ________</para>
+      <para id="para-00047">Brief summary: ________</para>
+      <para id="para-00048">Evaluation: ________</para>
+      <para id="para-00049">Thesis: ________</para>
+      </section>
+      <section id="sect-00012">
+      <title>Drafting the Body</title>
+      <para id="para-00050">For the body of the review, provide more background and context wherever you think such information is necessary. Because the purpose of this part of the review is to present the main points that support the thesis, be sure to show how these points explain the criteria on which you have based your evaluation. Back up the main points with specific, concrete evidence from your primary source. At this point, return to your early notes and use the descriptions and quotations you gathered. You will likely have collected more evidence as well. Use Figure 7.9 to create your draft.</para>
+      <table summary="" id="table-00004">
+      <tgroup cols="2">
+      <tbody>
+      <row>
+      <entry>Main point 1</entry>
+      <entry><para id="para-00051">Explanation:</para>
+      <para id="para-00052">Evidence:</para>
+      <quote id="quote-00001">
+      <para id="para-00053">Examples:</para>
+      <para id="para-00054">Quotations:</para>
+      <para id="para-00055">Secondary source evidence (if needed):</para>
+      </quote>
+      </entry>
+      </row>
+      <row>
+      <entry>Main point 2</entry>
+      <entry><para id="para-00056">Explanation:</para>
+      <para id="para-00057">Evidence:</para>
+      <quote id="quote-00002">
+      <para id="para-00058">Examples:</para>
+      <para id="para-00059">Quotations:</para>
+      <para id="para-00060">Secondary source evidence (if needed):</para>
+      </quote>
+      </entry>
+      </row>
+      <row>
+      <entry>Main point 3</entry>
+      <entry><para id="para-00061">Explanation:</para>
+      <para id="para-00062">Evidence:</para>
+      <quote id="quote-00003">
+      <para id="para-00063">Examples:</para>
+      <para id="para-00064">Quotations:</para>
+      <para id="para-00065">Secondary source evidence (if needed):</para>
+      </quote>
+      </entry>
+      </row>
+      <row>
+      <entry>Main point 4</entry>
+      <entry><para id="para-00066">Explanation:</para>
+      <para id="para-00067">Evidence:</para>
+      <quote id="quote-00004">
+      <para id="para-00068">Examples:</para>
+      <para id="para-00069">Quotations:</para>
+      <para id="para-00070">Secondary source evidence (if needed):</para>
+      </quote>
+      </entry>
+      </row>
+      <row>
+      <entry>Main point 5</entry>
+      <entry><para id="para-00071">Explanation:</para>
+      <para id="para-00072">Evidence:</para>
+      <quote id="quote-00005">
+      <para id="para-00073">Examples:</para>
+      <para id="para-00074">Quotations:</para>
+      <para id="para-00075">Secondary source evidence (if needed):</para>
+      </quote>
+      </entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Drafting the body</caption>
+      </table>
+      </section>
+      <section id="sect-00013">
+      <title>Drafting the Conclusion</title>
+      <para id="para-00076">For the conclusion, summarize briefly how the criteria you used led you to your evaluation, rephrase or validate your thesis, and make a recommendation.</para>
+      </section>
+      <section id="sect-00014">
+      <title>Conclusion example</title>
+      <para id="para-00077">Crazy Ex-Girlfriend is a refreshing take on the romantic comedy genre. It elevates comedy by using catchy, original songs to accompany clever dialogue. Though Rebecca is intense and extreme, her situation is relatable, and she comes across as more sympathetic than not, proving that people don’t have to be perfect to be deserving of love. The departures from the romantic comedy playbook leave the audience guessing what will happen next, ensuring the show never feels tired or stale. What comes after the grand gesture and big kiss? That’s a question this show tries to answer, and sooner than you might expect. If you’re looking for a new binge-worthy show, clear your calendar for the next week and give Crazy Ex-Girlfriend a try.</para>
+      <para id="para-00078">Now, write your conclusion.</para>
+      <para id="para-00079">Brief summary of criteria and evaluation: ________</para>
+      <para id="para-00080">Restate or validate thesis: ________</para>
+      <para id="para-00081">Make a recommendation: ________</para>
+      </section>
+      </section>
+      <section class="peer-review" id="sect-00015">
+      <title>Conferencing with a Partner</title>
+      <para id="para-00082">After you finish your draft, receiving feedback from a peer will help you identify the strengths and weaknesses in your review. Because writers sometimes find it hard to review their work from the perspective of their audience, peer feedback will help you see your writing in ways not obvious to you. As a peer reviewer yourself, try to offer suggestions to make the essay more like something you would want to read.</para>
+      <para id="para-00083">To give and receive the most effective feedback, use the following guidelines:</para>
+      <list list-type="enumerated" id="list-00004">
+      <item>On your own draft, note the areas you are unsure about and where you especially want feedback. It’s a good idea to have specific questions so that your peer can focus on what you think will help you.</item>
+      <item>When you are assigned a peer, read their essay at least once without commenting, just to get a sense of what the essay is about.</item>
+      <item>Read the essay a second time. In the margins, add any comments or reactions to the essay.</item>
+      <item>Focus on the introduction and comment on its effectiveness.
+      <list list-type="enumerated" id="list-00005">
+      <item>In what ways are the first few sentences engaging?</item>
+      <item>Would you want to keep reading to learn more? Why or why not?</item>
+      <item>In what ways does the introduction clearly establish what is being reviewed? Does it provide sufficient background information? In what ways does the thesis make a judgment or an evaluation with a reason that leads to the judgment or evaluation?</item>
+      <item>Mark what you think the thesis is. If you find no clear thesis, mark something for the writer to focus on to arrive at a thesis.</item>
+      <item>Jot down one or two prodding, open-ended questions to help the writer develop or revise the thesis.</item>
+      </list></item>
+      <item>Next, focus on the body paragraphs.
+      <list list-type="enumerated" id="list-00006">
+      <item>Is enough background provided, either in the introduction or early in the body, to give you a complete sense of what the writer is evaluating?</item>
+      <item>If there is not enough background, jot down a few questions that could be answered with additional background and context.</item>
+      <item>What is the main point of each body paragraph?</item>
+      <item>In what ways do the main points support the thesis (my thesis is true because . . .)?</item>
+      <item>Do the body paragraphs contain specific, concrete details from the primary source to support the main points?</item>
+      <item>If the body needs more specific details, mark places where the writer can add more detail.</item>
+      </list></item>
+      <item>Next, focus on the conclusion.
+      <list list-type="enumerated" id="list-00007">
+      <item>Does the conclusion clearly tie up the main points?</item>
+      <item>If not, how might the writer revise the conclusion?</item>
+      </list></item>
+      <item>Although your task is not to edit the essay or mark every error, point out any consistent patterns of grammatical errors.</item>
+      <item>When you have finished, summarize your comments at the end of the review by writing three things on which your peer can focus when revising.</item>
+      </list>
+      <para id="para-00084">As you work, be detailed and specific in your comments so that your peer can use them to make revisions:</para>
+      <list id="list-00008">
+      <item>What specifically is working or not working?</item>
+      <item>Why is it working or not working?</item>
+      <item>What can the writer do specifically to revise?</item>
+      </list>
+      <para id="para-00085">If you are having trouble finding something to comment on, remember that you can make comments about what the writer does well. Be sure to explain in detail why you think it’s working. Be sure to consult Evaluation: Effect on Audience as well.</para>
+      </section>
+      <section class="revising" id="sect-00016">
+      <title>Maintaining Ownership</title>
+      <para id="para-00086">When you receive your reviewed essay, look over the comments. Remember that they are merely suggestions; your revisions are ultimately up to you. For example, a sentence fragment, while technically incorrect, could be an effective way to emphasize a point. It is your call to decide whether your use of language is appropriate for your audience and purpose. With that said, however, it’s possible your peer pointed out something you did not notice.</para>
+      <para id="para-00087">As you revise, keep in mind the following success criteria. Ensure your essay has them:</para>
+      <list id="list-00009">
+      <item><term id="term-00009">Specific topic</term><emphasis effect="bold">:</emphasis> The essay is about a specific TV show, film, book, podcast, video game, or other primary source(s).</item>
+      <item><term id="term-00010">Interesting lead</term><emphasis effect="bold">:</emphasis> You show your audience why this topic interests you and try to capture their attention.</item>
+      <item><term id="term-00011">Thesis</term><emphasis effect="bold">:</emphasis> You present a clear, debatable, and specific thesis about your topic.</item>
+      <item><term id="term-00012">Body</term><emphasis effect="bold">:</emphasis> The body supports the thesis with clear main points. Summary is used effectively to provide background and context.</item>
+      <item><term id="term-00013">Specific details</term><emphasis effect="bold">:</emphasis> You support your main points with relevant and ample details (in the form of quotations, paraphrases, vivid descriptions, etc.) from the primary source or sources as well as secondary sources, if you have used them.</item>
+      <item><term id="term-00014">Citation</term><emphasis effect="bold">:</emphasis> Sources are cited correctly in the text.</item>
+      </list>
       </section>
   </content>
 </document>

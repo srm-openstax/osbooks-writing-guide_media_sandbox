@@ -6,9 +6,62 @@
     <md:uuid>df4f6159-f669-401f-a4c8-89776669ad0f</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Explain how your writing uses common elements of the review genre.</item>
+      <item>Evaluate reviews for thesis, evidence, rhetorical choices, clarity, and language awareness by using a rubric.</item>
+      </list>
       </section>
+      <para id="para-00002">Essays follow a structure that includes the introduction and thesis, body paragraphs with main points supported by relevant evidence, and a conclusion. In addition, academic essays are generally written with a formal tone, use precise wording, and are carefully edited. Essays should be written with a specific audience and purpose in mind and adhere to the conventions of the discipline’s formatting guide (MLA in this case). Beyond following the typical structure of an academic essay, a good review essay will demonstrate knowledge of the elements of the review genre, as discussed in Glance at Genre: Criteria, Evidence, and Evaluation clear evaluation, specific criteria, and understanding of genre and context. The following rubric reflects the characteristics of an effective evaluation essay.</para>
+      <table summary="" id="table-00001">
+      <tgroup cols="4">
+      <tbody>
+      <row>
+      <entry align="center"><emphasis effect="bold">Score</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Critical Language Awareness</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Clarity and Coherence</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Rhetorical Choices</emphasis></entry>
+      </row>
+      <row>
+      <entry><para id="para-00003"><emphasis effect="bold">5</emphasis></para>
+      <para id="para-00004"><emphasis effect="bold">Skillful</emphasis></para></entry>
+      <entry>The text always adheres to the “Editing Focus” of this chapter: when and how to use quotations as discussed in Section 7.6. The text also shows ample evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+      <entry>All paragraphs are unified under a single, clear thesis and connected with appropriate transitions. The topic of each paragraph is consistently clear and supports the thesis. Abundant and relevant supporting evidence in the form of concrete details from the primary source(s) and secondary sources, if used, gives readers a sense of completeness. No major questions from the assignment instructions are unanswered.</entry>
+      <entry>The writer fully engages the audience. Strategies such as thought-provoking questions, interesting statistics, or detailed anecdotes or vignettes draw readers into the essay, keep them interested, and make them think about the topic. The writer consistently shows concern for audience knowledge and beliefs about the topic and shows appreciation for multiple perspectives. The writer demonstrates an understanding of the cultural context and genre of the subject of the review. The writing throughout demonstrates a sophisticated command of language.</entry>
+      </row>
+      <row>
+      <entry><para id="para-00005"><emphasis effect="bold">4</emphasis></para>
+      <para id="para-00006"><emphasis effect="bold">Accomplished</emphasis></para></entry>
+      <entry>The text usually adheres to the “Editing Focus” of this chapter: when and how to use quotations as discussed in Section 7.6. The text also shows some evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+      <entry>Most paragraphs are unified under a single, clear thesis and connected with appropriate transitions. The topic of each paragraph is usually clear and supports the thesis. Relevant, if not always abundant (and vice versa), supporting evidence in the form of concrete details from the primary source(s) and secondary sources, if used, gives readers a sense of completeness. No major questions from the assignment instructions are unanswered.</entry>
+      <entry>The writer generally engages the audience. Some strategies such as thought-provoking questions, interesting statistics, or detailed anecdotes or vignettes draw readers into the essay, keep them interested, and make them think about the topic. The writer generally shows concern for audience knowledge and beliefs about the topic and may acknowledge multiple perspectives. The writer often demonstrates understanding of the cultural context and genre of the subject of the review. The writing usually demonstrates a sophisticated command of the language.</entry>
+      </row>
+      <row>
+      <entry><para id="para-00007"><emphasis effect="bold">3</emphasis></para>
+      <para id="para-00008"><emphasis effect="bold">Capable</emphasis></para></entry>
+      <entry>The text generally adheres to the “Editing Focus” of this chapter: when and how to use quotations as discussed in Section 7.6. The text also shows limited evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+      <entry>Most paragraphs are fairly unified under a single thesis, though some may lack appropriate transitions. The topic of each paragraph is usually clear; some or all of the paragraphs support the thesis. Relevant supporting evidence in the form of concrete details from primary source(s) and secondary sources, if used, may be lacking so that readers do not have a sense of completeness. One or two major questions from the assignment instructions may be unanswered.</entry>
+      <entry>The writer sometimes engages the audience. Occasional use of strategies such as thought-provoking questions, interesting statistics, or detailed anecdotes or vignettes may or may not succeed in drawing readers into the essay, keeping them interested, and making them think about the topic. The writer generally shows some concern for audience knowledge and beliefs about the topic but may not acknowledge multiple perspectives. The writer sometimes demonstrates understanding of the cultural context and genre of the subject of the review. The writing demonstrates a fair command of the language in word choice and sentence structure.</entry>
+      </row>
+      <row>
+      <entry><para id="para-00009"><emphasis effect="bold">2</emphasis></para>
+      <para id="para-00010"><emphasis effect="bold">Developing</emphasis></para></entry>
+      <entry>The text occasionally adheres to the “Editing Focus” of this chapter: when and how to use quotations as discussed in Section 7.6. The text also shows emerging evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+      <entry>Some paragraphs are fairly unified under a single thesis, but transitions are lacking or inappropriate. The topics of some paragraphs are clear, but not all support the thesis. Relevant and sufficient supporting evidence in the form of concrete details from the primary source(s) and secondary sources, if used, is lacking so that readers do not have a sense of completeness. Major questions from the assignment instructions may be unanswered.</entry>
+      <entry>The writer occasionally engages the audience and makes little or no use of strategies such as thought-provoking questions, interesting statistics, or detailed anecdotes or vignettes. With such omissions, the writer does not draw readers into the essay, keep them interested, or make them think about the topic. The writer generally shows little or no concern for audience knowledge and beliefs about the topic and ignores multiple perspectives. The writer may demonstrate some understanding of the cultural context and genre of the subject of the review. The writing demonstrates little command of language in word choice and sentence structure.</entry>
+      </row>
+      <row>
+      <entry><para id="para-00011"><emphasis effect="bold">1</emphasis></para>
+      <para id="para-00012"><emphasis effect="bold">Beginning</emphasis></para></entry>
+      <entry>The text does not adhere to the “Editing Focus” of this chapter: when and how to use quotations as discussed in Section 7.6. The text also shows little to no evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+      <entry>Most paragraphs lack unity under a single thesis. Transitions are lacking or inappropriate. The topics of most paragraphs are unclear, and not all support the thesis. Relevant and sufficient supporting evidence in the form of concrete details from the primary source(s) and secondary sources, if used, is lacking so that readers have no sense of completeness. Major questions from the assignment instructions are unanswered or are addressed with little attention.</entry>
+      <entry>The writer rarely, if ever, engages the audience and makes little or no use of strategies such as thought-provoking questions, interesting statistics, or detailed anecdotes or vignettes. The writer does not draw readers into the essay, keep them interested, or make them think about the topic. There is little or no concern for audience knowledge and beliefs about the topic and little or no attention to multiple perspectives. The writer demonstrates little or no understanding of the cultural context and genre of the subject of the review and minimal command of language in word choice and sentence structure.</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption/>
+      </table>
   </content>
 </document>

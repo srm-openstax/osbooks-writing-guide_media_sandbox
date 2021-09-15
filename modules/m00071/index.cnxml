@@ -6,9 +6,148 @@
     <md:uuid>83a32842-3b3d-4ed0-bb04-651715d823c1</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Identify and define common characteristics, mediums, key terms, and features of the review genre.</item>
+      <item>Identify criteria and evidence to support reviews of different primary sources.</item>
+      </list>
+      </section>
+      <para class="annotation linguistic-icon" id="para-00002">Reviews vary in style and content according to the subject, the writer, and the medium. The following are characteristics most frequently found in reviews:</para>
+      <list id="list-00002">
+      <item><term id="term-00001">Focused subject</term><emphasis effect="bold">:</emphasis> The subject of the review is specific and focuses on one item or idea. For example, a review of all Marvel Cinematic Universe movies could not be contained in the scope of a single essay or published review not only because of length but also because of the differences among them. Choosing one specific item to review—a single film or single topic across films, for instance—will allow you to provide a thorough evaluation of the subject.</item>
+      <item><term id="term-00002">Judgment or evaluation</term><emphasis effect="bold">:</emphasis> Reviewers need to deliver a clear judgment or evaluation to share with readers their thoughts on the subject and why they would or would not recommend it. An evaluation can be direct and explicit, or it can be indirect and subtle.</item>
+      <item><term id="term-00003">Specific evidence</term><emphasis effect="bold">:</emphasis> All reviews need specific evidence to support the evaluation. Typically, this evidence comes in the form of quotations and vivid descriptions from the <term id="term-00004">primary source</term>, or subject of the review. Reviewers often use <term id="term-00005">secondary sources</term>—works about the primary source<emphasis effect="bold">—</emphasis> to support their claims or provide context.</item>
+      <item><term id="term-00006">Context</term><emphasis effect="bold">:</emphasis> Reviewers provide context, such as relevant historical or cultural background, current events, or short biographical sketches, that help readers understand both the primary source and the review.</item>
+      <item><term id="term-00007">Tone</term><emphasis effect="bold">:</emphasis> Writers of effective reviews tend to maintain a professional, unbiased tone—attitude toward the subject. Although many reviewers try to avoid sarcasm and dismissiveness, you will find these elements present in professional reviews, especially those in which critics pan the primary source.</item>
+      </list>
+      <section id="sect-00002">
+      <title>Key Terms</title>
+      <para id="para-00003">These are some key terms to know and use when writing a review:</para>
+      <list id="list-00003">
+      <item><term id="term-00008">Analysis</term><emphasis effect="bold">:</emphasis> detailed examination of the parts of a whole or of the whole itself.</item>
+      <item><term id="term-00009">Connotation</term><emphasis effect="bold">:</emphasis> implied feelings or thoughts associated with a word. Connotations can be positive or negative. Reviewers often use words with strong positive or negative <term class="no-emphasis" id="term-00010">connotations</term> that support their praise or criticism. For example, a writer may refer to a small space positively as “cozy” instead of negatively as “cramped.”</item>
+      <item><term id="term-00011">Criteria</term><emphasis effect="bold">:</emphasis> standards by which something is judged. Reviewers generally make their evaluation criteria clear by listing and explaining what they are basing their review on. Each type of primary source has its set of standards, some or all of which reviewers address.</item>
+      <item><term id="term-00012">Critic</term><emphasis effect="bold">:</emphasis> professional reviewer who typically publishes reviews in well-known publications.</item>
+      <item><term id="term-00013">Denotation</term><emphasis effect="bold">:</emphasis> the literal or dictionary definition of a word.</item>
+      <item><term id="term-00014">Evaluation</term><emphasis effect="bold">:</emphasis> judgment based on analysis.</item>
+      <item><term id="term-00015">Fandom</term><emphasis effect="bold">:</emphasis> community of admirers who follow their favorite works and discuss them online as a group.</item>
+      <item><term id="term-00016">Genre</term><emphasis effect="bold">:</emphasis> broad category of artistic compositions that share similar characteristics such as form, subject matter, or style. For example, horror, suspense, and drama are common film and literary genres. Hip hop and reggae are common music genres.</item>
+      <item><term id="term-00017">Medium</term><emphasis effect="bold">:</emphasis> way in which a work is created or delivered (DVD, streaming, book, vinyl, etc.). Works can appear in more than one medium.</item>
+      <item><term id="term-00018">Mode</term><emphasis effect="bold">:</emphasis> sensory method through which a person interacts with a work. Modes include linguistic, visual, audio, spatial, and gestural.</item>
+      <item><term id="term-00019">Primary Source</term><emphasis effect="bold">:</emphasis> in the context of reviewing, the original work or item being reviewed, whether a film, book, performance, business, or product. In the context of research, primary sources are items of firsthand, or original, evidence, such as interviews, court records, diaries, letters, surveys, or photographs.</item>
+      <item><term id="term-00020">Recap</term><emphasis effect="bold">:</emphasis> summary of an individual episode of a television series.</item>
+      <item><term id="term-00021">Review</term><emphasis effect="bold">:</emphasis> genre that evaluates performances, exhibitions, works of art (books, movies, visual arts), services, and products</item>
+      <item><term id="term-00022">Secondary source</term><emphasis effect="bold">:</emphasis> source that contains the analysis or synthesis of someone else, such as opinion pieces, newspaper and magazine articles, and academic journal articles.</item>
+      <item><term id="term-00023">Subgenre</term><emphasis effect="bold">:</emphasis> category within a genre. For example, subgenres of drama include various types of drama: courtroom drama, historical/costume drama, and family drama.</item>
+      </list>
+      </section>
+      <section id="sect-00003">
+      <title>Establishing Criteria</title>
+      <para id="para-00004">All reviewers and readers alike rely on evidence to support an evaluation. When you review a primary source, the evidence you use depends on the subject of your evaluation, your audience, and how your audience will use your evaluation. You will need to determine the criteria on which to base your evaluation. In some cases, you will also need to consider the genre and subgenre of your subject to determine evaluation criteria. In your review, you will need to clarify your evaluation criteria and the way in which specific evidence related to those criteria have led you to your judgment. Figure 7.2 illustrates evaluation criteria in four different primary source types.</para>
+      <table summary="" id="table-00001">
+      <tgroup cols="4">
+      <tbody>
+      <row>
+      <entry><emphasis effect="bold">Smartphone</emphasis></entry>
+      <entry><emphasis effect="bold">Academic Source</emphasis></entry>
+      <entry><emphasis effect="bold">Film</emphasis></entry>
+      <entry><emphasis effect="bold">Employment</emphasis></entry>
+      </row>
+      <row>
+      <entry>Camera quality</entry>
+      <entry>Author’s credentials</entry>
+      <entry>Writing/script</entry>
+      <entry>Punctuality</entry>
+      </row>
+      <row>
+      <entry>Battery life</entry>
+      <entry>Publication’s reputation</entry>
+      <entry>Acting</entry>
+      <entry>Ability to meet goals</entry>
+      </row>
+      <row>
+      <entry>Screen resolution</entry>
+      <entry>Sources cited</entry>
+      <entry>Special effects</entry>
+      <entry>Ability to work on a team</entry>
+      </row>
+      <row>
+      <entry>Screen size</entry>
+      <entry>Timeliness of research (up to date)</entry>
+      <entry>Sound/music</entry>
+      <entry>Communication skills</entry>
+      </row>
+      <row>
+      <entry>Durability</entry>
+      <entry>Relevance to subject</entry>
+      <entry>Directing</entry>
+      <entry>Professional development</entry>
+      </row>
+      <row>
+      <entry>Phone reception</entry>
+      <entry>Quality of writing</entry>
+      <entry>Subject </entry>
+      <entry>Competence in subject area</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Evaluation criteria across subjects</caption>
+      </table>
+      <para class="annotation linguistic-icon visual-icon" id="para-00005">Even within the same subject, however, evaluation criteria may differ according to the genre and subgenre of the film. Audiences have different expectations for a horror movie than they do for a romantic comedy, for example. For your subject, select the evaluation criteria on the basis of your knowledge of audience expectations. Figure 7.3 shows how the evaluation criteria might be different in film reviews of different genres.</para>
+      <table summary="" id="table-00002">
+      <tgroup cols="4">
+      <tbody>
+      <row>
+      <entry><emphasis effect="bold">Horror</emphasis></entry>
+      <entry><emphasis effect="bold">Action</emphasis></entry>
+      <entry><emphasis effect="bold">Romantic Comedy</emphasis></entry>
+      <entry><emphasis effect="bold">Drama</emphasis></entry>
+      </row>
+      <row>
+      <entry>Makeup</entry>
+      <entry>Special effects</entry>
+      <entry>Jokes</entry>
+      <entry>Script/writing</entry>
+      </row>
+      <row>
+      <entry>Cinematography</entry>
+      <entry>Stunt work</entry>
+      <entry>Conflict/resolution</entry>
+      <entry>Acting</entry>
+      </row>
+      <row>
+      <entry>Type of horror depicted (jump scares, gore, etc.)</entry>
+      <entry>Pace of story</entry>
+      <entry>Chemistry between main characters</entry>
+      <entry>Accuracy/believability of plot</entry>
+      </row>
+      <row>
+      <entry>Music</entry>
+      <entry>Relatability of “hero”</entry>
+      <entry>Satisfaction/happy ending</entry>
+      <entry>Scenery/setting/costumes</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Evaluation criteria across film genres</caption>
+      </table>
+      </section>
+      <section id="sect-00004">
+      <title>Providing Objective Evidence</title>
+      <para id="para-00006">You will use your established evaluation criteria to gather specific evidence to support your judgment. Remember, too, that criteria are fluid; no reviewer will always use the same criteria for all works, even those in the same genre or subgenre.</para>
+      <para id="para-00007">Whether or not the criteria are unique to the particular task, a reviewer must look closely at the subject and note specific details from the primary source or sources. If you are evaluating a product, look at the product specifications and evaluate product performance according to them, noting details as evidence. When evaluating a film, select either quotations from the dialogue or detailed, vivid descriptions of scenes. If you are evaluating an employee’s performance, observe the employee performing their job and take notes. These are examples of primary source evidence: raw information you have gathered and will analyze to make a judgment.</para>
+      <para id="para-00008">Gathering evidence is a process that requires you to look closely at your subject. If you are reviewing a film, you certainly will have to view the film several times, focusing on only one or two elements of the evaluation criteria at a time. If you are evaluating an employee, you might have to observe that employee on several occasions and in a variety of situations to gather enough evidence to complete your evaluation. If you are evaluating a written argument, you might have to reread the text several times and annotate or highlight key evidence. It is better to gather more evidence than you think you need and choose the best examples rather than try to base your evaluation on insufficient or irrelevant evidence.</para>
+      </section>
+      <section id="sect-00005">
+      <title>Modes of Reviews</title>
+      <para class="annotation visual-icon culture-icon" id="para-00009">Not all reviews have to be written; sometimes a video or an audio review can be more engaging than a written review. <emphasis effect="italics">YouTube</emphasis> has become a popular destination for project reviews, creating minor celebrities out of popular reviewers. However, a written review of a movie might work well because the reviewer can provide just enough information to avoid spoiling the movie, whereas some reviews require more visual interaction to understand.</para>
+      <para id="para-00010">Take reviewer <term class="no-emphasis" id="term-00024"><link url="https://openstax.org/r/DougDeMuro">Doug DeMuro</link></term>’s popular <emphasis effect="italics">YouTube</emphasis> channel. DeMuro reviews cars—everything from sports cars to sedans to vintage cars. Car buyers need to interact with a car to want to buy it, and <emphasis effect="italics">YouTube</emphasis> provides the next best thing by giving viewers an up-close look.</para>
+      <para id="para-00011">Technology is another popular type of review on <emphasis effect="italics">YouTube.</emphasis> YouTube creators like <term class="no-emphasis" id="term-00025"><link url="https://openstax.org/r/MarquesBrownlee">Marques Brownlee</link></term> discuss rumors about the next Apple iPhone or Samsung Galaxy and provide “unboxing” videos to record their reactions to the latest phones and laptops. Like DeMuro’s viewers, Brownlee’s audience can get up close to the product. Seeing a phone in Brownlee’s hands helps audience members imagine it in their hands.</para>
+      <para id="para-00012">On the other hand, reviews don’t always need to be about products you can touch, as <term class="no-emphasis" id="term-00026"><link url="https://openstax.org/r/PaulLucas">Paul Lucas</link></term> demonstrates on his <emphasis effect="italics">YouTube</emphasis> channel “Wingin’ It!” Lucas reviews travel experiences (mainly airlines and sometimes trains), evaluating the service of airlines around the world and in various ticket classes.</para>
+      <para id="para-00013">What do these reviews have in common? First, they are all in the video medium. <emphasis effect="italics">YouTube</emphasis>’s medium is video; a podcast’s medium is audio. They also share a mode. <emphasis effect="italics">YouTube</emphasis>’s mode is viewing or watching; a podcast’s mode is listening.</para>
+      <para id="para-00014">These examples all use the genre conventions of reviews discussed in this chapter. The reviewers present a clear evaluation: <emphasis effect="italics">should you buy this car, phone, or airline ticket?</emphasis> They base their evaluation on evidence that fits a set of evaluation criteria. Doug DeMuro might evaluate a family sedan on the basis of seating, trunk storage, and ride comfort. Marques Brownlee might judge a phone on the basis of battery life, design, and camera quality. Paul Lucas might grade an airline on service, schedules, and seat comfort. While the product or service being reviewed might be different, all three reviewers use similar frameworks.</para>
       </section>
   </content>
 </document>
