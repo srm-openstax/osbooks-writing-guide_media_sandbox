@@ -317,7 +317,7 @@
       <item>When you are assigned a peer, read their essay at least once without commenting, just to get a sense of what the essay is about.</item>
       <item>Read the essay a second time. In the margins, add any comments or reactions to the essay.</item>
       <item>Focus on the introduction and comment on its effectiveness.
-      <list type="a" id="list-00005">
+      <list id="list-00005">
       <item>In what ways are the first few sentences engaging?</item>
       <item>Would you want to keep reading to learn more? Why or why not?</item>
       <item>In what ways does the introduction clearly establish what is being reviewed? Does it provide sufficient background information? In what ways does the thesis make a judgment or an evaluation with a reason that leads to the judgment or evaluation?</item>
@@ -325,7 +325,7 @@
       <item>Jot down one or two prodding, open-ended questions to help the writer develop or revise the thesis.</item>
       </list></item>
       <item>Next, focus on the body paragraphs.
-      <list list-type="enumerated" id="list-00006">
+      <list id="list-00006">
       <item>Is enough background provided, either in the introduction or early in the body, to give you a complete sense of what the writer is evaluating?</item>
       <item>If there is not enough background, jot down a few questions that could be answered with additional background and context.</item>
       <item>What is the main point of each body paragraph?</item>
@@ -334,7 +334,7 @@
       <item>If the body needs more specific details, mark places where the writer can add more detail.</item>
       </list></item>
       <item>Next, focus on the conclusion.
-      <list list-type="enumerated" id="list-00007">
+      <list id="list-00007">
       <item>Does the conclusion clearly tie up the main points?</item>
       <item>If not, how might the writer revise the conclusion?</item>
       </list></item>
