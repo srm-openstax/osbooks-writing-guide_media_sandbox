@@ -88,7 +88,7 @@
       <entry>Meat plant, creepy house</entry>
       </row>
       <row>
-      <entry namest="c1" nameend="c2"><emphasis effect="bold">Subgenre: Slasher Horror</emphasis></entry>
+      <entry align="center" namest="c1" nameend="c2"><emphasis effect="bold">Subgenre: Slasher Horror</emphasis></entry>
       </row>
       <row>
       <entry><emphasis effect="bold">Subgenre Elements</emphasis></entry>
@@ -317,7 +317,7 @@
       <item>When you are assigned a peer, read their essay at least once without commenting, just to get a sense of what the essay is about.</item>
       <item>Read the essay a second time. In the margins, add any comments or reactions to the essay.</item>
       <item>Focus on the introduction and comment on its effectiveness.
-      <list list-type="enumerated" id="list-00005">
+      <list type="a" id="list-00005">
       <item>In what ways are the first few sentences engaging?</item>
       <item>Would you want to keep reading to learn more? Why or why not?</item>
       <item>In what ways does the introduction clearly establish what is being reviewed? Does it provide sufficient background information? In what ways does the thesis make a judgment or an evaluation with a reason that leads to the judgment or evaluation?</item>
