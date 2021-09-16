@@ -75,8 +75,8 @@
       <para id="para-00012">To help you organize you work, complete a graphic organizer like <link target-id="table-00001" document="m00043"/> as you are able at this point. You may want to revise it later as you write your draft.</para>
       <table summary="Use a graphic organizer to record basis story elements such as purpose, conflict, main characters, and theme." id="table-00001">
       <tgroup cols="2">
-      <colspec colwidth="60pt" colnum="1" colname="c1"/>
-      <colspec colwidth="60pt" colnum="2" colname="c2"/>
+      <colspec colwidth="50" colnum="1" colname="c1"/>
+      <colspec colwidth="50" colnum="2" colname="c2"/>
       <tbody>
       <row>
       <entry align="center" namest="c1" nameend="c2"><emphasis effect="bold">Basic Story Elements</emphasis></entry>
