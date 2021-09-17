@@ -6,9 +6,9 @@
     <md:uuid>a6cc726a-1c8c-40f1-b3d2-83ccb22713d5</md:uuid>
   </metadata>
   <content class="introduction">
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
+    <figure class="splash" id="fig-00001"><media alt="Mae Carol Jemison, an engineer, physician, researcher, and NASA astronaut, travels aboard the space shuttle Endeavour."><image mime-type="image/jpeg" src="../../media/COMP_Figure_08_Intro_001_Splash.jpg"/></media>
+    <caption>Engineer, physician, researcher, and NASA astronaut <term class="no-emphasis" id="term-00001">Mae Carol Jemison</term> (b. 1956) was the first Black woman to travel in space. As an astronaut aboard the Space Shuttle <term class="no-emphasis" id="term-00002"><emphasis effect="italics">Endeavour</emphasis></term> in 1992, Jemison conducted scientific research on the production of saline solution and frog reproduction. She also was a co-investigator on two bone cell experiments. More recently, she published a scientific report on biomaterials for human space exploration. (credit: NASA Image and Video Library/Wikimedia Commons, Public Domain)</caption></figure>
+    <para id="para-00001">The writing <term id="term-00003">genre</term> for this chapter is the <term id="term-00004">analytical report</term>. The broad purpose of an analytical report is to inform and analyze—that is, to teach your readers (your audience) about a subject by providing information based on <term id="term-00005">facts</term> supported by <term id="term-00006">evidence</term> and then drawing conclusions about the significance of the information you provide. As an academic and professional genre, reports are necessarily objective, which can make for dry reading. Consider the writing identity that you have been developing throughout this course as you tackle this genre. In what ways can you give your report voice? In what ways can you acknowledge or challenge the conventions of the genre?</para>
+    <para id="para-00002">You have likely written or presented a report at some point in your life as a student; perhaps you wrote a lab report on a science experiment, presented research you conducted, or analyzed a book you read. While some reports seek to inform readers about a topic, an analytical report examines a subject or an issue by considering its causes and effects, by comparing and contrasting, or by discussing a problem and proposing one or more solutions.</para>
   </content>
 </document>

@@ -6,9 +6,68 @@
     <md:uuid>a7898fdc-0352-49dc-87dc-3a958cf45efc</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Distinguish between essential and nonessential information in sentences.</item>
+      <item>Use commas for clearer, more effective sentences.</item>
+      </list>
+      </section>
+      <para id="para-00002">A comma is a mark of separation. It alerts readers to a brief pause or pauses within a sentence that is part of your analytical report.</para>
+      <section id="sect-00002">
+      <title>Nonessential and Essential information</title>
+      <para id="para-00003"><term id="term-00001">Nonessential information</term> refers to information within a sentence that is <emphasis effect="italics">not</emphasis> necessary for the reader to understand its meaning. <term id="term-00002">Essential information</term> refers to information within a sentence that <emphasis effect="italics">is</emphasis> necessary for the reader to understand its meaning.</para>
+      <section id="sect-00003">
+      <title>Nonessential Information</title>
+      <para id="para-00004">Placing commas around a word or group of words within a sentence usually indicates that the information is not necessary for readers to understand the sentence’s meaning. In the example below, the underlined words refer to and explain the phrase <emphasis effect="italics">current math curriculum</emphasis>, but they can be removed without changing the meaning of the sentence: the math curriculum currently in use isn’t meeting current needs. The information is interesting and perhaps useful, but it is “extra” and does not change the basic meaning of the sentence.</para>
+      <quote id="quote-00001">
+      <para id="para-00005">The current math curriculum<emphasis effect="underline">, which was adopted by the school district 10 years ago,</emphasis> no longer meets the needs of the students.</para>
+      </quote>
+      </section>
+      <section id="sect-00004">
+      <title>Essential Information</title>
+      <para id="para-00006">Certain words in a sentence are often necessary for readers to understand its meaning. In the example below, the word <emphasis effect="italics">current</emphasis> was removed from between the words <emphasis effect="italics">The</emphasis> and <emphasis effect="italics">math</emphasis> and replaced by the underlined words that tell readers <emphasis effect="italics">which</emphasis> curriculum no longer meets students’ needs. It is essential because without it, confusion may arise about which math curriculum no longer meets students’ needs.</para>
+      <quote id="quote-00002">
+      <para id="para-00007">The math curriculum <emphasis effect="underline">that the district adopted 10 years ago</emphasis> no longer meets the needs of the students.</para>
+      </quote>
+      </section>
+      </section>
+      <section id="sect-00005">
+      <title>To Comma or Not to Comma?</title>
+      <para id="para-00008">Place commas around nonessential information, but not around essential information. You can test whether information is nonessential by removing the information. If the meaning of the sentence is unchanged, the information is nonessential. If the meaning becomes too general or changes in any way, the information is essential. Often, nonessential information is introduced with the word <emphasis effect="italics">which</emphasis> and essential information with <emphasis effect="italics">that</emphasis>.</para>
+      <section id="sect-00006">
+      <title>Place Commas around Nonessential Information</title>
+      <para id="para-00009">Place commas around information that is not essential to the meaning of a sentence, as illustrated in the following sentences:</para>
+      <list id="list-00002">
+      <item>The entire math department<emphasis effect="underline">, which consists of 16 teachers and 7 staff members,</emphasis> has requested a review of the curriculum.</item>
+      <item>The department chair<emphasis effect="underline">, who has led the math department for 11 years,</emphasis> has agreed to the teachers’ request.</item>
+      <item>The curriculum will become effective in June<emphasis effect="underline">, when the school year is finished</emphasis>.</item>
+      </list>
+      </section>
+      <section id="sect-00007">
+      <title>Do Not Place Commas around Essential Information</title>
+      <para id="para-00010">Do not place commas around information that is essential to the meaning of a sentence, as illustrated in the following sentences:</para>
+      <list id="list-00003">
+      <item>According to the department chair, the math curriculum needs to focus on skills <emphasis effect="underline">that students need after high school graduation</emphasis>.</item>
+      <item>The math teachers <emphasis effect="underline">who teach Algebra 1 and Algebra 2</emphasis> have requested a review of the curriculum.</item>
+      <item>The teachers are concerned <emphasis effect="underline">that students are not retaining what they have learned</emphasis>.</item>
+      <item>The department has consulted the curriculum expert <emphasis effect="underline">Malcolm Green</emphasis>.</item>
+      </list>
+      <para id="para-00011">See Punctuation for more on commas.</para>
+      </section>
+      </section>
+      <section id="sect-00008">
+      <title>Practice Using Commas</title>
+      <para id="para-00012">Read each of the following sentences. Decide whether the underlined portion of each sentence is nonessential or essential. Place commas before, after, or around the nonessential information as appropriate.</para>
+      <list list-type="enumerated" id="list-00004">
+      <item>The department has consulted the curriculum expert Malcolm Green <emphasis effect="underline">whose textbook is widely used</emphasis>.</item>
+      <item>Two members of the math department <emphasis effect="underline">Janelle Brady and Tye Lavalle</emphasis> are retiring next year.</item>
+      <item>The textbooks <emphasis effect="underline">that are now in use</emphasis> are outdated.</item>
+      <item>Students have given feedback on the online classes <emphasis effect="underline">that have replaced in-person classes</emphasis>.</item>
+      <item>The math department now offers more evening classes <emphasis effect="underline">which attract more students</emphasis> and fewer summer classes.</item>
+      <item>Several instructors <emphasis effect="underline">who teach math</emphasis> also teach computer science classes.</item>
+      </list>
       </section>
   </content>
 </document>

@@ -6,9 +6,87 @@
     <md:uuid>4dc8d3dd-033b-402d-8155-e99ce278c224</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Distinguish between fact and opinion.</item>
+      <item>Recognize bias in reading and in yourself.</item>
+      <item>Ask critical thinking questions to explore an idea for a report.</item>
+      </list>
+      </section>
+      <para class="annotation culture-icon" id="para-00002">Knowledge in the social and natural sciences and technical fields is often focused on data and ideas that can be verified by observing, measuring, and testing. Accordingly, writers in these fields place high value on neutral and <term id="term-00001">objective</term> analysis and inferences based on the careful examination of data. Put another way, writers describe and analyze results as they understand them. Likewise, writers in these fields avoid <term id="term-00002">subjectivity</term>, including personal opinions, speculations, and bias. As the writer of an analytical report, you need to know the difference between fact and opinion, be able to identify bias, and think critically and analytically.</para>
+      <section id="sect-00002">
+      <title>Distinguishing Fact from Opinion</title>
+      <para class="annotation culture-icon" id="para-00003">An analytical report provides information based on facts. Put simply, <term class="no-emphasis" id="term-00003">facts</term> are statements that can be proven or whose truth can be inferred.</para>
+      <para id="para-00004">It may be difficult to distinguish fact from opinion or allegation. As a writer, use a critical eye to examine what you read. The following are examples of factual statements:</para>
+      <list id="list-00002">
+      <item>Article I, Section 1 of the U.S. Constitution specifies that the legislative branch of the government consists of the Senate and the House of Representatives.</item>
+      <item>The school board voted to approve the administration’s proposal.</item>
+      </list>
+      <para id="para-00005">Facts that use numbers are called <term id="term-00004">statistics</term>. Some numbers are stated directly:</para>
+      <list id="list-00003">
+      <item>The earth’s average land and ocean surface temperature in March 2020 was 2.09 degrees Fahrenheit higher than the average surface temperature during the 20th century.</item>
+      <item>The total number of ballots cast in the 2020 presidential election was approximately 159 million.</item>
+      <item>The survey results showed that 45 percent of first-year students at this university attended every class, whether in person or online.</item>
+      </list>
+      <para id="para-00006">Other numbers are implied:</para>
+      <list id="list-00004">
+      <item>Mercury is the planet closest to the sun.</item>
+      <item>College tuition and fees have risen in the past decade.</item>
+      </list>
+      <para class="annotation linguistic-icon" id="para-00007">Factual statements such as those above stand in contrast to <term id="term-00005">opinions</term>, which are statements of belief or value. Opinions form the basis of claims that are supported by evidence in argumentative writing, but they should be avoided in informative and analytical writing. Here are two statements of opinion about an increase in college tuition and fees:</para>
+      <list id="list-00005">
+      <item>Although tuition and fees have risen, the value of a college education is worth the cost.</item>
+      <item>The increase in college tuition and fees over the past 10 years has placed an unreasonably heavy financial burden on students.</item>
+      </list>
+      <para id="para-00008">Both statements indicate that the writer will make an argument. In the first, the writer will defend the increases in college tuition and fees. In the second, the writer will argue that the increases in tuition and fees have made college too expensive. In both arguments, the writer will support the argument with factual evidence. See Proposal: Writing about Problems and Solutions for more information about fact and opinion.</para>
+      <para id="para-00009">Want to know more about facts? Read the blog post “<link url="https://openstax.org/r/fact-checking101">Fact-Checking 101</link>” by <term class="no-emphasis" id="term-00006">Laura McClure</term>, posted to the TED-Ed website.</para>
+      </section>
+      <section id="sect-00003">
+      <title>Recognizing Bias</title>
+      <para id="para-00010">In addition to distinguishing between fact and opinion, it is important to recognize bias. <term id="term-00007">Bias</term> is commonly defined as a preconceived opinion about something—a subject, an idea, a person, or a group of people. As the writer of a report, you will learn to recognize bias in yourself and in the information you gather.</para>
+      <section id="sect-00004">
+      <title>Bias in What You Read</title>
+      <para id="para-00011">Some writing is intentionally biased and intended to persuade, such as the editorials and opinion pieces described above. However, a report and the evidence on which it is based should not be heavily biased. Bias becomes a problem when a source you believe to be neutral, objective, and trustworthy presents information that attempts to sway your opinion. <emphasis effect="italics"><link url="https://openstax.org/r/identifyingbias">Identifying Bias</link>,</emphasis> posted by <term class="no-emphasis" id="term-00008">Tyler Rablin</term>, is a helpful guide to recognizing bias.</para>
+      <para id="para-00012">As you consider sources for your report, the following tips can also help you spot bias and read critically:</para>
+      <list id="list-00006">
+      <item><emphasis effect="bold">Determine the writer’s purpose.</emphasis> Is the writer simply informing you or trying to persuade you?</item>
+      <item><emphasis effect="bold">Research the author.</emphasis> Is the writer known for taking a side on the topic of the writing? Is the writer considered an expert?</item>
+      <item><emphasis effect="bold">Distinguish between fact and opinion.</emphasis> Take note of the number of facts and opinions throughout the source.</item>
+      <item><emphasis effect="bold">Pay attention to the language and what the writer emphasizes.</emphasis> Does the author use emotionally loaded, inflammatory words or descriptions intended to sway readers? What do the title, introduction, and any headings tell you about the author’s approach to the subject?</item>
+      <item><emphasis effect="bold">Read multiple sources on the topic.</emphasis> Learn whether the source is leaving out or glossing over important information and credible views.</item>
+      <item><emphasis effect="bold">Look critically at the images and any media that support the writing.</emphasis> Do they reinforce positive or negative aspects of the subject?</item>
+      </list>
+      </section>
+      <section id="sect-00005">
+      <title>Bias in Yourself</title>
+      <para id="para-00013">Most individuals bring what psychologists call <term id="term-00009">cognitive bias</term> to their interactions with information or with other people. Cognitive bias influences the way people gather and process new information. As you research information for a report, also be aware of <term id="term-00010">confirmation bias</term>. This is the tendency to seek out and accept information that supports (or confirms) a belief you already have and may cause you to ignore or dismiss information that challenges that belief. A related bias is the <term id="term-00011">false consensus effect</term>, which is the tendency to overestimate the extent to which other people agree with your beliefs.</para>
+      <para id="para-00014">For example, perhaps you believe strongly that college tuition is too high and that tuition should be free at the public colleges and universities in your state. With that belief, you are likely to be more receptive to facts and statistics showing that tuition-free college benefits students by boosting graduation rates and improving financial security after college, in part because the sources may seem more mainstream. However, if you believe strongly that tuition should <emphasis effect="italics">not</emphasis> be free, you are likely to be more receptive to facts and statistics showing that students who don’t pay for college are less likely to be serious about school and take longer to graduate—again, because the sources may seem more mainstream.</para>
+      </section>
+      </section>
+      <section id="sect-00006">
+      <title>Asking Critical Questions about a Topic for a Report</title>
+      <para class="annotation dreaming-icon culture-icon" id="para-00015">As you consider a topic for a report, note the ideas that occur to you, interesting information you read, and what you already know. Answer the following questions about potential topics to help you understand a topic in a suitably analytical framework for a report.</para>
+      <list id="list-00007">
+      <item>What is/was the cause of ________?</item>
+      <item>What is/was the effect of ________?</item>
+      <item>How does/did ________ compare or contrast with another similar event, idea, or item?</item>
+      <item>What makes/made ________ a problem?</item>
+      <item>What are/were some possible solutions to ________?</item>
+      <item>What beliefs do I have about ________?</item>
+      <item>What aspects of ________ do I need to learn more about to write a report about it?</item>
+      </list>
+      <para id="para-00016">In the report that appears later in this chapter, student Trevor Garcia analyzes the U.S. response to the COVID-19 pandemic in 2020. Trevor began thinking about his topic with the question <emphasis effect="italics">What was the U.S. response to the COVID-19 pandemic?</emphasis> Because he had lived through 2020, he was able to draw upon personal experience: his school closed, his mother was laid off, and his family’s finances were tight. As he researched his question, he moved beyond the information he gathered from his own experiences and discovered that the United States had failed in several key areas. He then answered the questions below to arrive at an analytical framework:</para>
+      <list id="list-00008">
+      <item>What was the cause of the poor U.S. response to the COVID-19 pandemic in 2020?</item>
+      <item>What was the effect of the U.S. response to the COVID-19 pandemic in 2020?</item>
+      <item>How did the U.S. response to the COVID-19 pandemic compare/contrast with the responses of other countries?</item>
+      <item>What are some possible solutions to the U.S. response to the COVID-19 pandemic?</item>
+      <item>What do I already believe about the U.S. response to the COVID-19 pandemic?</item>
+      <item>What aspects of the U.S. response to the COVID-19 pandemic do I need to learn more about?</item>
+      </list>
+      <para id="para-00017">For his report, Trevor chose to focus on the first question: <emphasis effect="italics">What was the cause of the poor U.S. response to the COVID-19 pandemic in 2020?</emphasis></para>
       </section>
   </content>
 </document>

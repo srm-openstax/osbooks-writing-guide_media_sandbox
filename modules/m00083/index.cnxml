@@ -6,9 +6,450 @@
     <md:uuid>ee2fad06-3763-4d73-9c02-63cb67aad94c</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Identify the elements of the rhetorical situation for your report.</item>
+      <item>Find and focus a topic to write about.</item>
+      <item>Gather and analyze information from appropriate sources.</item>
+      <item>Distinguish among different kinds of evidence.</item>
+      <item>Draft a thesis and create an organizational plan.</item>
+      <item>Compose a report that develops ideas and integrates evidence from sources.</item>
+      <item>Give and act on productive feedback to works in progress.</item>
+      </list>
+      </section>
+      <para class="annotation dreaming-icon" id="para-00002">You might think that writing comes easily to experienced writers—that they draft stories and college papers all at once, sitting down at the computer and having sentences flow from their fingers like water from a faucet. In reality, most writers engage in a <term id="term-00001">recursive</term> process, pushing forward, stepping back, and repeating steps multiple times as their ideas develop and change. In broad strokes, the steps most writers go through are these:</para>
+      <list id="list-00002">
+      <item><term id="term-00002">Planning and organizing</term>. You will have an easier time drafting if you devote time at the beginning to consider the rhetorical situation for your report, understand your assignment, gather ideas and information, draft a thesis statement, and create an organizational plan.</item>
+      <item><term id="term-00003">Drafting</term>. When you have an idea of what you want to say and the order in which you want to say it, you’re ready to draft. As much as possible, keep going until you have a complete first draft of your report, resisting the urge to go back and rewrite. Save that for after you have completed a first draft.</item>
+      <item><term id="term-00004">Reviewing</term>. Now is the time to get feedback from others, whether from your instructor, your classmates, a tutor in the writing center, your roommate, someone in your family, or someone else you trust to read your writing critically and give you honest feedback.</item>
+      <item><term id="term-00005">Revising</term>. With feedback on your draft, you are ready to revise. You may need to return to an earlier step and make large-scale revisions that involve planning, organizing, and rewriting, or you may need to work mostly on ensuring that your sentences are clear and correct.</item>
+      </list>
+      <section id="sect-00002">
+      <title>Considering the Rhetorical Situation</title>
+      <para class="annotation dreaming-icon" id="para-00003">Like other kinds of writing projects, a report starts with assessing the <term id="term-00006">rhetorical situation</term>—the circumstance in which a writer communicates with an audience of readers about a subject. As the writer of a report, you make choices based on the purpose of your writing, the audience who will read it, the genre of the report, and the expectations of the community and culture in which you are working. A graphic organizer like Figure 8.5 can help you begin.</para>
+      <table summary="" id="table-00001">
+      <tgroup cols="3">
+      <tbody>
+      <row>
+      <entry align="center"><emphasis effect="bold">Rhetorical Situation Element</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Brainstorming Questions</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Your Responses</emphasis></entry>
+      </row>
+      <row>
+      <entry><para id="para-00004"><emphasis effect="bold">Topic</emphasis></para>
+      <para id="para-00005">Is the topic of your report specified, or are you free to choose?</para></entry>
+      <entry><para id="para-00006">What topic or topics do you want to know more about?</para>
+      <para id="para-00007">How can you find out more about this topic or topics?</para>
+      <para id="para-00008">What constraints do you have?</para></entry>
+      <entry/>
+      </row>
+      <row>
+      <entry><para id="para-00009"><emphasis effect="bold">Purpose</emphasis></para>
+      <para id="para-00010">What is the purpose of your report?</para></entry>
+      <entry><para id="para-00011">To analyze a subject or issue from more than one perspective?</para>
+      <para id="para-00012">To analyze a cause or an effect?</para>
+      <para id="para-00013">To examine a problem and recommend a solution?</para>
+      <para id="para-00014">To compare or contrast?</para>
+      <para id="para-00015">To conduct research and report results?</para></entry>
+      <entry/>
+      </row>
+      <row>
+      <entry><para id="para-00016"><emphasis effect="bold">Audience</emphasis></para>
+      <para id="para-00017">Who will read your report?</para></entry>
+      <entry><para id="para-00018">Who is your primary audience—your instructor? Your classmates?</para>
+      <para id="para-00019">What can you assume your audience already knows about your topic?</para>
+      <para id="para-00020">What background information does your audience need to know?</para>
+      <para id="para-00021">How will you shape your report to connect most effectively with this audience?</para>
+      <para id="para-00022">Do you need to consider any secondary audiences, such as people outside of class?</para>
+      <para id="para-00023">If so, who are those readers?</para></entry>
+      <entry/>
+      </row>
+      <row>
+      <entry><para id="para-00024"><emphasis effect="bold">Presentation</emphasis></para>
+      <para id="para-00025">What format should your report take?</para></entry>
+      <entry><para id="para-00026">Should you prepare a traditional written document or use another medium, such as a slide deck or video presentation?</para>
+      <para id="para-00027">Should you include visuals and other media along with text, such as figures, charts, graphs, photographs, audio, or video?</para>
+      <para id="para-00028">What other presentation requirements do you need to consider?</para></entry>
+      <entry/>
+      </row>
+      <row>
+      <entry><para id="para-00029"><emphasis effect="bold">Context</emphasis></para>
+      <para id="para-00030">How do the time period and location affect decisions you make about your report?</para></entry>
+      <entry><para id="para-00031">What is happening in your city, county, state, area, or nation or the world that needs reporting on?</para>
+      <para id="para-00032">What current events or new information might relate to your topic?</para>
+      <para id="para-00033">Is your college or university relevant to your topic?</para></entry>
+      <entry/>
+      </row>
+      <row>
+      <entry><para id="para-00034"><emphasis effect="bold">Culture and Community</emphasis></para>
+      <para id="para-00035">What social or cultural assumptions do you or your audience have?</para></entry>
+      <entry><para id="para-00036">How will you show awareness of your community’s social and cultural expectations in your report?</para></entry>
+      <entry/>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Considering the rhetorical situation</caption>
+      </table>
+      </section>
+      <section id="sect-00003">
+      <title>Summary of Assignment</title>
+      <para class="annotation dreaming-icon" id="para-00037">Write an analytical report on a topic that interests you and that you want to know more about. The topic can be contemporary or historical, but it must be one that you can analyze and support with evidence from sources.</para>
+      <para id="para-00038">The following questions can help you think about a topic suitable for analysis:</para>
+      <list list-type="enumerated" id="list-00003">
+      <item>Why or how did ________ happen?</item>
+      <item>What are the results or effects of ________?</item>
+      <item>Is ________ a problem? If so, why?</item>
+      <item>What are examples of ________ or reasons for ________?</item>
+      <item>How does ________ compare to or contrast with other issues, concerns, or things?</item>
+      </list>
+      <para class="annotation visual-icon auditory-icon" id="para-00039">Consult and cite three to five reliable sources. The sources do not have to be scholarly for this assignment, but they must be credible, trustworthy, and unbiased. Possible sources include academic journals, newspapers, magazines, reputable websites, government publications or agency websites, and visual sources such as TED Talks. You may also use the results of an experiment or survey, and you may want to conduct interviews.</para>
+      <para id="para-00040">Consider whether visuals and media will enhance your report. <emphasis effect="italics">Can you present data you collect visually? Would a map, photograph, chart, or other graphic provide interesting and relevant support? Would video or audio allow you to present evidence that you would otherwise need to describe in words?</emphasis></para>
+      <section id="sect-00004">
+      <title>Another Lens</title>
+      <para class="annotation culture-icon" id="para-00041">To gain another analytic view on the topic of your report, consider different people affected by it. Say, for example, that you have decided to report on recent high school graduates and the effect of the COVID-19 pandemic on the final months of their senior year. If you are a recent high school graduate, you might naturally gravitate toward writing about yourself and your peers. But you might also consider the adults in the lives of recent high school graduates—for example, teachers, parents, or grandparents—and how they view the same period. Or you might consider the same topic from the perspective of a college admissions department looking at their incoming freshman class.</para>
+      </section>
+      </section>
+      <section class="quick-launch" id="sect-00005">
+      <title>Finding and Focusing a Topic</title>
+      <para class="annotation dreaming-icon" id="para-00042">Coming up with a topic for a report can be daunting because you can report on nearly anything. The topic can easily get too broad, trapping you in the realm of generalizations. The trick is to find a topic that interests you and focus on an angle you can analyze in order to say something significant about it. You can use a graphic organizer like Figure 8.4 to generate ideas, or you can use a concept map similar to the one featured in Writing Process: Thinking Critically About a “Text.”</para>
+      <section id="sect-00006">
+      <title>Asking the Journalist’s Questions</title>
+      <para id="para-00043">One way to generate ideas about a topic is to ask the five W (and one H) questions, also called the <term id="term-00007">journalist’s questions</term>: <emphasis effect="italics">Who? What? When? Where? Why?</emphasis> <emphasis effect="italics">How?</emphasis> Try answering the following questions to explore a topic:</para>
+      <para id="para-00044"><emphasis effect="bold">Who</emphasis> was or is involved in ________?</para>
+      <para id="para-00045"><emphasis effect="bold">What</emphasis> happened/is happening with ________? <emphasis effect="bold">What</emphasis> were/are the results of ________?</para>
+      <para id="para-00046"><emphasis effect="bold">When</emphasis> did ________ happen? Is ________ happening now?</para>
+      <para id="para-00047"><emphasis effect="bold">Where</emphasis> did ________ happen, or <emphasis effect="bold">where</emphasis> is ________ happening?</para>
+      <para id="para-00048"><emphasis effect="bold">Why</emphasis> did ________ happen, or <emphasis effect="bold">why</emphasis> is ________ happening now?</para>
+      <para id="para-00049"><emphasis effect="bold">How</emphasis> did ________ happen?</para>
+      <para id="para-00050">For example, imagine that you have decided to write your analytical report on the effect of the COVID-19 shutdown on high-school students by interviewing students on your college campus. Your questions and answers might look something like those in Figure 8.6:</para>
+      <table summary="" id="table-00002">
+      <tgroup cols="2">
+      <tbody>
+      <row>
+      <entry><emphasis effect="bold">Question</emphasis></entry>
+      <entry><emphasis effect="bold">Sample Answer</emphasis></entry>
+      </row>
+      <row>
+      <entry><emphasis effect="bold">Who</emphasis> was involved in the 2020 COVID-19 shutdown?</entry>
+      <entry>Nearly every student of my generation was sent home to learn in 2020. My school was one of the first in the United States to close. We were in school one day, and then we were all sent home, wondering when we would go back.</entry>
+      </row>
+      <row>
+      <entry><para id="para-00051"><emphasis effect="bold">What</emphasis> happened during the shutdown?</para>
+      <para id="para-00052"><emphasis effect="bold">What</emphasis> were/are the results of the shutdown?</para></entry>
+      <entry><para id="para-00053">Schools closed in March 2020. Students started online learning. Not all of them had computers. Teachers had to figure out how to teach online. All activities were canceled—sports, music, theater, prom, graduation celebrations—pretty much everything. Social life went online. Life as we knew it changed and still hasn’t returned to normal.</para></entry>
+      </row>
+      <row>
+      <entry><emphasis effect="bold">When</emphasis> did the shutdown happen? Is it happening now?</entry>
+      <entry>Everything was canceled from March through the end of the school year. Although many colleges have in-person classes, many of us are doing most of our classes online, even if we are living on campus. This learning situation hasn’t been easy. I need to decide whether I want to focus on then or now.</entry>
+      </row>
+      <row>
+      <entry><emphasis effect="bold">Where</emphasis> did the shutdown happen, or <emphasis effect="bold">where</emphasis> is it still happening?</entry>
+      <entry>Schools were closed all over the United States and all over the world. Some schools are still closed.</entry>
+      </row>
+      <row>
+      <entry><emphasis effect="bold">Why</emphasis> did the shutdown happen, or <emphasis effect="bold">why</emphasis> is it happening now?</entry>
+      <entry>Schools closed because the virus was highly contagious, and no one knew much about how many people would get sick from it or how sick they would get. Many schools were still closed for much of the 2020–21 school year.</entry>
+      </row>
+      <row>
+      <entry><emphasis effect="bold">How</emphasis> was the shutdown implemented? <emphasis effect="bold">How</emphasis> is it still in effect?</entry>
+      <entry>Governors of many states, including mine, issued orders for schools to close. Now colleges are making their own plans.</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Journalist’s questions and answers</caption>
+      </table>
+      </section>
+      <section id="sect-00007">
+      <title>Asking Focused Questions</title>
+      <para id="para-00054">Another way to find a topic is to ask focused questions about it. For example, you might ask the following questions about the effect of the 2020 pandemic shutdown on recent high school graduates:</para>
+      <list id="list-00004">
+      <item>How did the shutdown change students’ feelings about their senior year?</item>
+      <item>How did the shutdown affect their decisions about post-graduation plans, such as work or going to college?</item>
+      <item>How did the shutdown affect their academic performance in high school or in college?</item>
+      <item>How did/do they feel about continuing their education?</item>
+      <item>How did the shutdown affect their social relationships?</item>
+      </list>
+      <para id="para-00055">Any of these questions might be developed into a thesis for an analytical report. Figure 8.7 shows more examples of broad topics and focusing questions.</para>
+      <table summary="" id="table-00003">
+      <tgroup cols="2">
+      <tbody>
+      <row>
+      <entry><emphasis effect="bold">Broad Topics</emphasis></entry>
+      <entry><emphasis effect="bold">Focusing Questions</emphasis></entry>
+      </row>
+      <row>
+      <entry>Sports, such as college athletes and academic performance</entry>
+      <entry><para id="para-00056">How does participating in a sport affect the academic performance of college athletes?</para>
+      <para id="para-00057">Does participation help or hurt students’ grades?</para>
+      <para id="para-00058">Does participation improve athletes’ study habits?</para></entry>
+      </row>
+      <row>
+      <entry>Culture and society, such as cancel culture</entry>
+      <entry><para id="para-00059">Who is affected by cancel culture? Who is canceled, and who is empowered?</para>
+      <para id="para-00060">How do the lives of people who are canceled change? How do the lives of people who are canceling others change?</para>
+      <para id="para-00061">How does cancel culture affect community attitudes and actions?</para></entry>
+      </row>
+      <row>
+      <entry>History and historical events, such as the Voting Rights Act of 1965</entry>
+      <entry><para id="para-00062">How did voting patterns change after the passage of the Voting Rights Act of 1965?</para>
+      <para id="para-00063">How has the law been challenged?</para>
+      <para id="para-00064">How have voting patterns changed in the years since the law was challenged?</para></entry>
+      </row>
+      <row>
+      <entry>Health and the environment, such as a plant-based diet</entry>
+      <entry><para id="para-00065">What are the known health benefits of a plant-based diet?</para>
+      <para id="para-00066">What are the effects of a plant-based diet on the environment?</para>
+      <para id="para-00067">How much money can a person save (or not save) by adopting a plant-based diet, such as vegetarianism or veganism?</para></entry>
+      </row>
+      <row>
+      <entry>Entertainment and the arts, such as TV talent shows</entry>
+      <entry><para id="para-00068">How do TV talent shows affect the careers of their contestants?</para>
+      <para id="para-00069">How many of the contestants continue to develop their talent?</para>
+      <para id="para-00070">How many continue to perform several years after their appearance on a show?</para></entry>
+      </row>
+      <row>
+      <entry>Technologies and objects, such as smartphones</entry>
+      <entry><para id="para-00071">Do people depend on smartphones more than they did a year ago? Five years ago?</para>
+      <para id="para-00072">What has changed about people’s relationships with their phones?</para></entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Broad topics and focusing questions</caption>
+      </table>
+      </section>
+      </section>
+      <section id="sect-00008">
+      <title>Gathering Information</title>
+      <para id="para-00073">Because they are based on information and evidence, most analytical reports require you to do at least some research. Depending on your assignment, you may be able to find reliable information online, or you may need to do primary research by conducting an experiment, a survey, or interviews. For example, if you live among students in their late teens and early twenties, consider what they can tell you about their lives that you might be able to analyze. Returning to or graduating from high school, starting college, or returning to college in the midst of a global pandemic has provided them, for better or worse, with educational and social experiences that are shared widely by people their age and very different from the experiences older adults had at the same age.</para>
+      <para id="para-00074">Some report assignments will require you to do formal research, an activity that involves finding sources and evaluating them for reliability, reading them carefully, taking notes, and citing all words you quote and ideas you borrow. See Research Process: Accessing and Recording Information and Annotated Bibliography: Gathering, Evaluating, and Documenting Sources for detailed instruction on conducting research.</para>
+      <para id="para-00075">Whether you conduct in-depth research or not, keep track of the ideas that come to you and the information you learn. You can write or dictate notes using an app on your phone or computer, or you can jot notes in a journal if you prefer pen and paper. Then, when you are ready to begin organizing your report, you will have a record of your thoughts and information. Always track the sources of information you gather, whether from printed or digital material or from a person you interviewed, so that you can return to the sources if you need more information. And always credit the sources in your report.</para>
+      <section id="sect-00009">
+      <title>Kinds of Evidence</title>
+      <para id="para-00076">Depending on your assignment and the topic of your report, certain kinds of evidence may be more effective than others. Other kinds of evidence may even be required. As a general rule, choose evidence that is rooted in verifiable facts and experience. In addition, select the evidence that best supports the topic and your approach to the topic, be sure the evidence meets your instructor’s requirements, and cite any evidence you use that comes from a source. The following list contains different kinds of frequently used evidence and an example of each.</para>
+      <list id="list-00005">
+      <item><para id="para-00077"><term id="term-00008">Definition</term>: An explanation of a key word, idea, or concept.</para>
+      <para id="para-00078"><emphasis effect="italics">The U.S. Census Bureau refers to a “young adult” as a person between 18 and 34 years old.</emphasis></para></item>
+      <item><para id="para-00079"><term id="term-00009">Example</term>: An illustration of an idea or concept.</para>
+      <para id="para-00080"><emphasis effect="italics">The college experience in the fall of 2020 was starkly different from that of previous years. Students who lived in residence halls were assigned to small pods. On-campus dining services were limited. Classes were small and physically distanced or conducted online. Parties were banned.</emphasis></para></item>
+      <item><para id="para-00081"><term id="term-00010">Expert opinion</term>: A statement by a professional in the field whose opinion is respected.</para>
+      <para id="para-00082"><emphasis effect="italics">According to Louise Aronson, MD, geriatrician and author of</emphasis> Elderhood<emphasis effect="italics">, people over the age of 65 are the happiest of any age group, reporting “less stress, depression, worry, and anger, and more enjoyment, happiness, and satisfaction” (255).</emphasis></para></item>
+      <item><para id="para-00083"><term id="term-00011">Fact</term>: Information that can be proven correct or accurate.</para>
+      <para id="para-00084"><emphasis effect="italics">According to data collected by the NCAA, the academic success of Division I college athletes between 2015 and 2019 was consistently high (Hosick).</emphasis></para></item>
+      <item><para id="para-00085"><term id="term-00012">Interview</term>: An in-person, phone, or remote conversation that involves an interviewer posing questions to another person or people.</para>
+      <para id="para-00086"><emphasis effect="italics">During our interview, I asked Betty about living without a cell phone during the pandemic. She said that before the pandemic, she hadn’t needed a cell phone in her daily activities, but she soon realized that she, and people like her, were increasingly at a disadvantage.</emphasis></para></item>
+      <item><para id="para-00087"><term id="term-00013">Quotation</term>: The exact words of an author or a speaker.</para>
+      <para id="para-00088"><emphasis effect="italics">In response to whether she thought she needed a cell phone, Betty said, “I got along just fine without a cell phone when I could go everywhere in person. The shift to needing a phone came suddenly, and I don’t have extra money in my budget to get one.”</emphasis></para></item>
+      <item><para id="para-00089"><term id="term-00014">Statistic</term>: A numerical fact or item of data.</para>
+      <para id="para-00090"><emphasis effect="italics">The Pew Research Center reported that approximately 25 percent of Hispanic Americans and 17 percent of Black Americans relied on smartphones for online access, compared with 12 percent of whites.</emphasis></para></item>
+      <item><para id="para-00091"><term id="term-00015">Survey</term>: A structured interview in which respondents (the people who answer the survey questions) are all asked the same questions, either in person or through print or electronic means, and their answers tabulated and interpreted. Surveys discover attitudes, beliefs, or habits of the general public or segments of the population.</para>
+      <para id="para-00092"><emphasis effect="italics">A survey of 3,000 mobile phone users in October 2020 showed that 54 percent of respondents used their phones for messaging, while 40 percent used their phones for calls (Steele).</emphasis></para></item>
+      <item><term id="term-00016">Visuals and other media</term>: Graphs, figures, tables, photographs and other images, diagrams, charts, maps, videos, and audio recordings, among others.</item>
+      </list>
+      </section>
+      </section>
+      <section id="sect-00010">
+      <title>Thesis and Organization</title>
+      <section id="sect-00011">
+      <title>Drafting a Thesis</title>
+      <para id="para-00093">When you have a grasp of your topic, move on to the next phase: drafting a thesis. The thesis is the central idea that you will explore and support in your report; all paragraphs in your report should relate to it. In an essay-style analytical report, you will likely express this main idea in a <term id="term-00017">thesis statement</term> of one or two sentences toward the end of the introduction.</para>
+      <para id="para-00094">For example, if you found that the academic performance of student athletes was higher than that of non-athletes, you might write the following thesis statement:</para>
+      <para class="student-sample" id="para-00095"><emphasis effect="italics">Although a common stereotype is that college athletes barely pass their classes, an analysis of athletes’ academic performance indicates that athletes drop fewer classes, earn higher grades, and are more likely to be on track to graduate in four years when compared with their non-athlete peers.</emphasis></para>
+      <para id="para-00096">The thesis statement often previews the organization of your writing. For example, in his report on the U.S. response to the COVID-19 pandemic in 2020, Trevor Garcia wrote the following thesis statement, which detailed the central idea of his report:</para>
+      <para class="student-sample" id="para-00097"><emphasis effect="italics">An examination of the U.S. response shows that a reduction of experts in key positions and programs, inaction that led to equipment shortages, and inconsistent policies were three major causes of the spread of the virus and the resulting deaths.</emphasis></para>
+      <para id="para-00098">After you draft a thesis statement, ask these questions, and examine your thesis as you answer them. Revise your draft as needed.</para>
+      <list id="list-00006">
+      <item><emphasis effect="bold">Is it interesting?</emphasis> A thesis for a report should answer a question that is worth asking and piques curiosity.</item>
+      <item><emphasis effect="bold">Is it precise and specific?</emphasis> If you are interested in reducing pollution in a nearby lake, explain how to stop the zebra mussel infestation or reduce the frequent algae blooms.</item>
+      <item><emphasis effect="bold">Is it manageable?</emphasis> Try to split the difference between having too much information and not having enough.</item>
+      </list>
+      </section>
+      <section id="sect-00012">
+      <title>Organizing Your Ideas</title>
+      <para class="annotation dreaming-icon" id="para-00099">As a next step, organize the points you want to make in your report and the evidence to support them. Use an outline, a diagram, or another organizational tool, such as Figure 8.8.</para>
+      <table summary="" id="table-00004">
+      <tgroup cols="2">
+      <tbody>
+      <row>
+      <entry align="center"><emphasis effect="bold">Report Section</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Content</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Your Notes</emphasis></entry>
+      </row>
+      <row>
+      <entry>Introduction (usually one paragraph, but can be two)</entry>
+      <entry><para id="para-00100">Draw readers in with an overview; an anecdote; a question (open-ended, not yes-or-no); a description of an event, scene, or situation; or a quotation.</para>
+      <para id="para-00101">Provide necessary background here or in the first paragraph of the body, defining terms as needed.</para>
+      <para id="para-00102">State the tentative thesis.</para></entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>First Main Point</entry>
+      <entry><para id="para-00103">Give the first main point related to the thesis.</para>
+      <para id="para-00104">Develop the point in paragraphs supported by evidence.</para></entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Second Main Point</entry>
+      <entry><para id="para-00105">Give the second main point related to the thesis.</para>
+      <para id="para-00106">Develop the point in paragraphs supported by evidence.</para></entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Additional Main Points</entry>
+      <entry><para id="para-00107">Give the third and additional main point(s) related to the thesis.</para>
+      <para id="para-00108">Develop the points in paragraphs supported by evidence.</para></entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Conclusion</entry>
+      <entry>Conclude with a summary of the main points, a recommended course of action, and/or a review of the introduction and restatement of the thesis.</entry>
+      <entry/>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Organization plan</caption>
+      </table>
+      </section>
+      </section>
+      <section id="sect-00013">
+      <title>Drafting an Analytical Report</title>
+      <para id="para-00109">With a tentative thesis, an organization plan, and evidence, you are ready to begin drafting. For this assignment, you will report information, analyze it, and draw conclusions about the cause of something, the effect of something, or the similarities and differences between two different things.</para>
+      <section id="sect-00014">
+      <title>Introduction</title>
+      <para id="para-00110">Some students write the introduction first; others save it for last. Whenever you choose to write the introduction, use it to draw readers into your report. Make the topic of your report clear, and be concise and sincere. End the introduction with your thesis statement. Depending on your topic and the type of report, you can write an effective introduction in several ways. Opening a report with an overview is a tried-and-true strategy, as shown in the following example on the U.S. response to COVID-19 by Trevor Garcia. Notice how he opens the introduction with statistics and a comparison and follows it with a question that leads to the thesis statement (underlined).</para>
+      <quote id="quote-00001">
+      <para class="student-sample" id="para-00111">With more than 83 million cases and 1.8 million deaths at the end of 2020, COVID-19 has turned the world upside down. By the end of 2020, the United States led the world in the number of cases, at more than 20 million infections and nearly 350,000 deaths. In comparison, the second-highest number of cases was in India, which at the end of 2020 had less than half the number of COVID-19 cases despite having a population four times greater than the U.S. (“COVID-19 Coronavirus Pandemic,” 2021). How did the United States come to have the world’s worst record in this pandemic? <emphasis effect="underline">An examination of the U.S. response shows that a reduction of experts in key positions and programs, inaction that led to equipment shortages, and inconsistent policies were three major causes of the spread of the virus and the resulting deaths</emphasis>.</para>
+      </quote>
+      <para id="para-00112">For a less formal report, you might want to open with a question, quotation, or brief story. The following example opens with an anecdote that leads to the thesis statement (underlined).</para>
+      <quote id="quote-00002">
+      <para class="student-sample" id="para-00113">Betty stood outside the salon, wondering how to get in. It was June of 2020, and the door was locked. A sign posted on the door provided a phone number for her to call to be let in, but at 81, Betty had lived her life without a cell phone. Betty’s day-to-day life had been hard during the pandemic, but she had planned for this haircut and was looking forward to it; she had a mask on and hand sanitizer in her car. Now she couldn’t get in the door, and she was discouraged. In that moment, Betty realized how much Americans’ dependence on cell phones had grown in the months since the pandemic began. <emphasis effect="underline">Betty and thousands of other senior citizens who could not afford cell phones or did not have the technological skills and support they needed were being left behind in a society that was increasingly reliant on technology</emphasis>.</para>
+      </quote>
+      </section>
+      <section id="sect-00015">
+      <title>Body Paragraphs: Point, Evidence, Analysis</title>
+      <para id="para-00114">Use the body paragraphs of your report to present evidence that supports your thesis. A reliable pattern to keep in mind for developing the body paragraphs of a report is <emphasis effect="italics">point</emphasis>, <emphasis effect="italics">evidence</emphasis>, and <emphasis effect="italics">analysis</emphasis>:</para>
+      <list id="list-00007">
+      <item>The <term id="term-00018">point</term> is the central idea of the paragraph, usually given in a <term id="term-00019">topic sentence</term> stated in your own words at or toward the beginning of the paragraph. Each topic sentence should relate to the thesis.</item>
+      <item>The <term id="term-00020">evidence</term> you provide develops the paragraph and supports the point made in the topic sentence. Include details, examples, quotations, paraphrases, and summaries from sources if you conducted formal research. Synthesize the evidence you include by showing in your sentences the connections between sources.</item>
+      <item>The <term id="term-00021">analysis</term> comes at the end of the paragraph. In your own words, draw a conclusion about the evidence you have provided and how it relates to the topic sentence.</item>
+      </list>
+      <para id="para-00115">The paragraph below illustrates the point, evidence, and analysis pattern. Drawn from a report about concussions among football players, the paragraph opens with a topic sentence about the NCAA and NFL and their responses to studies about concussions. The paragraph is developed with evidence from three sources. It concludes with a statement about helmets and players’ safety.</para>
+      <quote id="quote-00003">
+      <para class="student-sample" id="para-00116">The NCAA and NFL have taken steps forward and backward to respond to studies about the danger of concussions among players. Responding to the deaths of athletes, documented brain damage, lawsuits, and public outcry (Buckley et al., 2017), the NCAA instituted protocols to reduce potentially dangerous hits during football games and to diagnose traumatic head injuries more quickly and effectively. Still, it has allowed players to wear more than one style of helmet during a season, raising the risk of injury because of imperfect fit. At the professional level, the NFL developed a helmet-rating system in 2011 in an effort to reduce concussions, but it continued to allow players to wear helmets with a wide range of safety ratings. The NFL’s decision created an opportunity for researchers to look at the relationship between helmet safety ratings and concussions. Cocello et al. (2016) reported that players who wore helmets with a lower safety rating had more concussions than players who wore helmets with a higher safety rating, and they concluded that safer helmets are a key factor in reducing concussions.</para>
+      </quote>
+      </section>
+      <section id="sect-00016">
+      <title>Developing Paragraph Content</title>
+      <para id="para-00117">In the body paragraphs of your report, you will likely use examples, draw comparisons, show contrasts, or analyze causes and effects to develop your topic.</para>
+      <para id="para-00118">Paragraphs developed with <term id="term-00022">examples</term> are common in reports. The paragraph below, adapted from a report by student John Zwick on the mental health of soldiers deployed during wartime, draws examples from three sources.</para>
+      <quote id="quote-00004">
+      <para class="student-sample" id="para-00119">Throughout the Vietnam War, military leaders claimed that the mental health of soldiers was stable and that men who suffered from combat fatigue, now known as PTSD, were getting the help they needed. For example, the <emphasis effect="italics">New York Times</emphasis> (1966) quoted military leaders who claimed that mental fatigue among enlisted men had “virtually ceased to be a problem,” occurring at a rate far below that of World War II. Ayres (1969) reported that Brigadier General Spurgeon Neel, chief American medical officer in Vietnam, explained that soldiers experiencing combat fatigue were admitted to the psychiatric ward, sedated for up to 36 hours, and given a counseling session with a doctor who reassured them that the rest was well deserved and that they were ready to return to their units. Although experts outside the military saw profound damage to soldiers’ psyches when they returned home (Halloran, 1970), the military stayed the course, treating acute cases expediently and showing little concern for the cumulative effect of combat stress on individual soldiers.</para>
+      </quote>
+      <para id="para-00120">When you <term id="term-00023">analyze causes and effects</term>, you explain the reasons that certain things happened and/or their results. The report by Trevor Garcia on the U.S. response to the COVID-19 pandemic in 2020 is an example: his report examines the reasons the United States failed to control the coronavirus. The paragraph below, adapted from another student’s report written for an environmental policy course, explains the effect of white settlers’ views of forest management on New England.</para>
+      <quote id="quote-00005">
+      <para class="student-sample" id="para-00121">The early colonists’ European ideas about forest management dramatically changed the New England landscape. White settlers saw the New World as virgin, unused land, even though indigenous people had been drawing on its resources for generations by using fire subtly to improve hunting, employing construction techniques that left ancient trees intact, and farming small, efficient fields that left the surrounding landscape largely unaltered. White settlers’ desire to develop wood-built and wood-burning homesteads surrounded by large farm fields led to forestry practices and techniques that resulted in the removal of old-growth trees. These practices defined the way the forests look today.</para>
+      </quote>
+      <para id="para-00122"><term id="term-00024">Compare and contrast</term> paragraphs are useful when you wish to examine similarities and differences. You can use both comparison and contrast in a single paragraph, or you can use one or the other. The paragraph below, adapted from a student report on the rise of populist politicians, compares the rhetorical styles of populist politicians Huey Long and Donald Trump.</para>
+      <quote id="quote-00006">
+      <para class="student-sample" id="para-00123">A key similarity among populist politicians is their rejection of carefully crafted sound bites and erudite vocabulary typically associated with candidates for high office. Huey Long and Donald Trump are two examples. When he ran for president, Long captured attention through his wild gesticulations on almost every word, dramatically varying volume, and heavily accented, folksy expressions, such as “The only way to be able to feed the balance of the people is to make that man come back and bring back some of that grub that he ain’t got no business with!” In addition, Long’s down-home persona made him a credible voice to represent the common people against the country’s rich, and his buffoonish style allowed him to express his radical ideas without sounding anti-communist alarm bells. Similarly, Donald Trump chose to speak informally in his campaign appearances, but the persona he projected was that of a fast-talking, domineering salesman. His frequent use of personal anecdotes, rhetorical questions, brief asides, jokes, personal attacks, and false claims made his speeches disjointed, but they gave the feeling of a running conversation between him and his audience. For example, in a 2015 speech, Trump said, “They just built a hotel in Syria. Can you believe this? They built a hotel. When I have to build a hotel, I pay interest. They don’t have to pay interest, because they took the oil that, when we left Iraq, I said we should’ve taken” (“Our Country Needs” 2020). While very different in substance, Long and Trump adopted similar styles that positioned them as the antithesis of typical politicians and their worldviews.</para>
+      </quote>
+      </section>
+      <section id="sect-00017">
+      <title>Conclusion</title>
+      <para id="para-00124">The conclusion should draw the threads of your report together and make its significance clear to readers. You may wish to review the introduction, restate the thesis, recommend a course of action, point to the future, or use some combination of these. Whichever way you approach it, the conclusion should not head in a new direction. The following example is the conclusion from a student’s report on the effect of a book about environmental movements in the United States.</para>
+      <quote id="quote-00007">
+      <para class="student-sample" id="para-00125">Since its publication in 1949, environmental activists of various movements have found wisdom and inspiration in Aldo Leopold’s <emphasis effect="italics">A Sand County Almanac</emphasis>. These audiences included Leopold’s conservationist contemporaries, environmentalists of the 1960s and 1970s, and the environmental justice activists who rose in the 1980s and continue to make their voices heard today. These audiences have read the work differently: conservationists looked to the author as a leader, environmentalists applied his wisdom to their movement, and environmental justice advocates have pointed out the flaws in Leopold’s thinking. Even so, like those before them, environmental justice activists recognize the book’s value as a testament to taking the long view and eliminating biases that may cloud an objective assessment of humanity’s interdependent relationship with the environment.</para>
+      </quote>
+      </section>
+      <section id="sect-00018">
+      <title>Citing Sources</title>
+      <para id="para-00126">You must cite the sources of information and data included in your report. Citations must appear in both the text and a bibliography at the end of the report.</para>
+      <para id="para-00127">The sample paragraphs in the previous section include examples of in-text citation using APA documentation style. Trevor Garcia’s report on the U.S. response to COVID-19 in 2020 also uses APA documentation style for citations in the text of the report and the list of references at the end. Your instructor may require another documentation style, such as MLA or Chicago.</para>
+      </section>
+      </section>
+      <section class="peer-review" id="sect-00019">
+      <title>Getting Feedback from Readers</title>
+      <para class="annotation dreaming-icon" id="para-00128">You will likely engage in peer review with other students in your class by sharing drafts and providing feedback to help spot strengths and weaknesses in your reports. For peer review within a class, your instructor may provide assignment-specific questions or a form for you to complete as you work together.</para>
+      <para id="para-00129">If you have a writing center on your campus, it is well worth your time to make an online or in-person appointment with a tutor. You’ll receive valuable feedback and improve your ability to review not only your report but your overall writing.</para>
+      <para id="para-00130">Another way to receive feedback on your report is to ask a friend or family member to read your draft. Provide a list of questions or a form such as the one in Figure 8.9 for them to complete as they read.</para>
+      <table summary="" id="table-00005">
+      <tgroup cols="2">
+      <tbody>
+      <row>
+      <entry><emphasis effect="bold">Questions for Reviewer</emphasis></entry>
+      <entry><emphasis effect="bold">Comment or Suggestion</emphasis></entry>
+      </row>
+      <row>
+      <entry>Does the introduction interest you in the topic of the report?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Can you find the thesis statement? Underline it for the writer.</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Does the thesis indicate the purpose of the report?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry><para id="para-00131">Does each body paragraph start with a point stated in the writer’s own words? Does that point relate to the thesis?</para>
+      <para id="para-00132">Mark paragraphs that don’t have a clear point.</para></entry>
+      <entry/>
+      </row>
+      <row>
+      <entry><para id="para-00133">Does each body paragraph support the main point of the paragraph with details and evidence, such as facts, statistics, or examples?</para>
+      <para id="para-00134">Mark paragraphs that need more support and/or explanation.</para></entry>
+      <entry/>
+      </row>
+      <row>
+      <entry><para id="para-00135">Does each body paragraph end with an analysis in the writer’s own words that draws a conclusion?</para>
+      <para id="para-00136">Mark paragraphs that need analysis.</para></entry>
+      <entry/>
+      </row>
+      <row>
+      <entry><para id="para-00137">Where do you get lost or confused?</para>
+      <para id="para-00138">Mark anything that is unclear.</para></entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Does the report flow from one point to the next?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Does the organization make sense to you?</entry>
+      <entry/>
+      </row>
+      <row>
+      <entry><para id="para-00139">Does the conclusion wrap up the main points of the report and connect to the thesis?</para>
+      <para id="para-00140">Mark anything in the conclusion that seems irrelevant.</para></entry>
+      <entry/>
+      </row>
+      <row>
+      <entry>Does the report have an engaging title?</entry>
+      <entry/>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Peer review questions</caption>
+      </table>
+      </section>
+      <section class="revising" id="sect-00020">
+      <title>Using Reviewers’ Responses to Revise your Work</title>
+      <para class="annotation linguistic-icon" id="para-00141">When you receive comments from readers, including your instructor, read each comment carefully to understand what is being asked. Try not to get defensive, even though this response is completely natural. Remember that readers are like coaches who want you to succeed. They are looking at your writing from outside your own head, and they can identify strengths and weaknesses that you may not have noticed. Keep track of the strengths and weaknesses your readers point out. Pay special attention to those that more than one reader identifies, and use this information to improve your report and later assignments.</para>
+      <para id="para-00142">As you analyze each response, be open to suggestions for improvement, and be willing to make significant revisions to improve your writing. Perhaps you need to revise your thesis statement to better reflect the content of your draft. Maybe you need to return to your sources to better understand a point you’re trying to make in order to develop a paragraph more fully. Perhaps you need to rethink the organization, move paragraphs around, and add transition sentences.</para>
+      <para id="para-00143">Below is an early draft of part of Trevor Garcia’s report with comments from a peer reviewer:</para>
+      <para class="student-sample" id="para-00144">To truly understand what happened, it’s important first to look back to the years leading up to the pandemic. Epidemiologists and public health officials had long known that a global pandemic was possible. In 2016, the U.S. National Security Council (NSC) published a 69-page document with the intimidating title <emphasis effect="italics">Playbook for Early Response to High-Consequence Emerging Infectious Disease Threats and Biological Incidents</emphasis>. The document’s two sections address responses to “emerging disease threats that start or are circulating in another country but not yet confirmed within U.S. territorial borders” and to “emerging disease threats within our nation’s borders.” On 13 January 2017, the joint Obama-Trump transition teams performed a pandemic preparedness exercise; however, the playbook was never adopted by the incoming administration.</para>
+      <para class="annotation-text" id="para-00145"><emphasis effect="italics">Peer Review Comment:</emphasis> Do the words in quotation marks need to be a direct quotation? It seems like a paraphrase would work here.</para>
+      <para class="annotation-text" id="para-00146"><emphasis effect="italics">Peer Review Comment:</emphasis> I’m getting lost in the details about the playbook. What’s the Obama-Trump transition team?</para>
+      <para class="student-sample" id="para-00147">In February 2018, the administration began to cut funding for the Prevention and Public Health Fund at the Centers for Disease Control and Prevention; cuts to other health agencies continued throughout 2018, with funds diverted to unrelated projects such as housing for detained immigrant children.</para>
+      <para class="annotation-text" id="para-00148"><emphasis effect="italics">Peer Review Comment:</emphasis> This paragraph has only one sentence, and it’s more like an example. It needs a topic sentence and more development.</para>
+      <para class="student-sample" id="para-00149">Three months later, Luciana Borio, director of medical and biodefense preparedness at the NSC, spoke at a symposium marking the centennial of the 1918 influenza pandemic. “The threat of pandemic flu is the number one health security concern,” she said. “Are we ready to respond? I fear the answer is no.”</para>
+      <para class="annotation-text" id="para-00150"><emphasis effect="italics">Peer Review Comment:</emphasis> This paragraph is very short and a lot like the previous paragraph in that it’s a single example. It needs a topic sentence. Maybe you can combine them?</para>
+      <para class="annotation-text" id="para-00151"><emphasis effect="italics">Peer Review Comment:</emphasis> Be sure to cite the quotation.</para>
+      <para id="para-00152">Reading these comments and those of others, Trevor decided to combine the three short paragraphs into one paragraph focusing on the fact that the United States knew a pandemic was possible but was unprepared for it. He developed the paragraph, using the short paragraphs as evidence and connecting the sentences and evidence with transitional words and phrases. Finally, he added in-text citations in APA documentation style to credit his sources. The revised paragraph is below:</para>
+      <para class="student-sample" id="para-00153">Epidemiologists and public health officials in the United States had long known that a global pandemic was possible. In 2016, the National Security Council (NSC) published <emphasis effect="italics">Playbook for Early Response to High-Consequence Emerging Infectious Disease Threats and Biological Incidents</emphasis>, a 69-page document on responding to diseases spreading within and outside of the United States. On January 13, 2017, the joint transition teams of outgoing president Barack Obama and then president-elect Donald Trump performed a pandemic preparedness exercise based on the playbook; however, it was never adopted by the incoming administration (Goodman &amp; Schulkin, 2020). A year later, in February 2018, the Trump administration began to cut funding for the Prevention and Public Health Fund at the Centers for Disease Control and Prevention, leaving key positions unfilled. Other individuals who were fired or resigned in 2018 were the homeland security adviser, whose portfolio included global pandemics; the director for medical and biodefense preparedness; and the top official in charge of a pandemic response. None of them were replaced, leaving the White House with no senior person who had experience in public health (Goodman &amp; Schulkin, 2020). Experts voiced concerns, among them Luciana Borio, director of medical and biodefense preparedness at the NSC, who spoke at a symposium marking the centennial of the 1918 influenza pandemic in May 2018: “The threat of pandemic flu is the number one health security concern,” she said. “Are we ready to respond? I fear the answer is no” (Sun, 2018, final para.).</para>
+      <para id="para-00154">A final word on working with reviewers’ comments: as you consider your readers’ suggestions, remember, too, that <emphasis effect="italics">you</emphasis> remain the author. You are free to disregard suggestions that you think will not improve your writing. If you choose to disregard comments from your instructor, consider submitting a note explaining your reasons with the final draft of your report.</para>
       </section>
   </content>
 </document>

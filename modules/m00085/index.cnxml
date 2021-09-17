@@ -6,9 +6,72 @@
     <md:uuid>8f4853ca-bf98-47c8-99f6-0616f9dd77a2</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Evaluate feedback on your report as a whole.</item>
+      <item>Apply another reader’s response to the rhetorical choices you made as a writer.</item>
+      </list>
+      </section>
+      <para id="para-00002">When you have finished revising and editing your report, have a friend or classmate evaluate it using the following rubric, which is similar to the one your instructor might use. At the end of the rubric is a section for your reader to offer additional feedback or expand on the reasoning behind their assessment. Pay attention to the feedback, and ask questions if something isn’t clear. Then, revise your paper again, using the feedback you find helpful.</para>
+      <section id="sect-00002">
+      <title>Rubric</title>
+      <table summary="" id="table-00001">
+      <tgroup cols="4">
+      <colspec colnum="1" colname="c1"/>
+      <colspec colnum="2" colname="c2"/>
+      <colspec colnum="3" colname="c3"/>
+      <colspec colnum="4" colname="c4"/>
+      <tbody>
+      <row>
+      <entry align="center"><emphasis effect="bold">Score</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Critical Language Awareness</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Clarity and Coherence</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Rhetorical Choices</emphasis></entry>
+      </row>
+      <row>
+      <entry><para id="para-00003"><emphasis effect="bold">5</emphasis></para>
+      <para id="para-00004"><emphasis effect="bold">Skillful</emphasis></para></entry>
+      <entry>The text always adheres to the “Editing Focus” of this chapter: commas with nonessential and essential information, as discussed in Section 8.6. The text also shows ample evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways</entry>
+      <entry>The introduction sparks interest and leads expertly to a clear, intriguing thesis. All main points are expertly developed in body paragraphs with clear central points and fact-based, reliable evidence, which is analyzed appropriately and thoroughly. Appropriate transitions clearly connect ideas and evidence, which is abundant and integrated smoothly into the sentences.</entry>
+      <entry>The topic of the report demonstrates superior understanding of the purpose. The report consistently shows expert awareness of audience, context, and community expectations. The presentation is highly appropriate to the content. The writer’s voice is objective and trustworthy. Language is consistently clear and appropriate. Correct citations are included in the text and bibliography.</entry>
+      </row>
+      <row>
+      <entry><para id="para-00005"><emphasis effect="bold">4</emphasis></para>
+      <para id="para-00006"><emphasis effect="bold">Accomplished</emphasis></para></entry>
+      <entry>The text usually adheres to the “Editing Focus” of this chapter: commas with nonessential and essential information, as discussed in Section 8.6. The text also shows some evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+      <entry>The introduction sparks interest and leads smoothly to a clear thesis. Most main points are well developed in body paragraphs with clear central points and solid, sufficient evidence, which is analyzed adequately. Appropriate transitions connect ideas and evidence, which is integrated smoothly into most sentences.</entry>
+      <entry>The topic of the report demonstrates comprehensive understanding of the purpose. The report usually shows awareness of audience, context, and community expectations. The presentation is appropriate to the content. The writer’s voice is objective and trustworthy. Language is usually clear and appropriate. Correct citations are included in the text and bibliography</entry>
+      </row>
+      <row>
+      <entry><para id="para-00007"><emphasis effect="bold">3</emphasis></para>
+      <para id="para-00008"><emphasis effect="bold">Capable</emphasis></para></entry>
+      <entry>The text generally adheres to the “Editing Focus” of this chapter: commas with nonessential and essential information, as discussed in Section 8.6. The text also shows limited evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+      <entry>The introduction may spark some interest and leads to a fairly clear thesis. Most main points are stated, but some may not be fully developed in body paragraphs, which may lack sufficient evidence or adequate analysis. Appropriate transitions connect some ideas and evidence, which is integrated inconsistently into sentences.</entry>
+      <entry>The topic of the report demonstrates understanding of the purpose. The report shows some, but possibly inconsistent, awareness of audience, context, and community expectations. The presentation is generally appropriate to the content. The writer’s voice strays occasionally from objectivity and trustworthiness, but language is generally clear. Some citations may be incorrect or missing.</entry>
+      </row>
+      <row>
+      <entry><para id="para-00009"><emphasis effect="bold">2</emphasis></para>
+      <para id="para-00010"><emphasis effect="bold">Developing</emphasis></para></entry>
+      <entry>The text occasionally adheres to the “Editing Focus” of this chapter: commas with nonessential and essential information, as discussed in Section 8.6. The text also shows emerging evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+      <entry>The introduction may be somewhat interesting but may lack a smooth transition to the thesis. Main points are missing from some body paragraphs, which may have no discernible central point and are insufficiently developed. Inappropriate or insufficient transitions minimally connect ideas and evidence, which is poorly integrated into sentences. Language is often confusing or inappropriate.</entry>
+      <entry>The topic of the report demonstrates a weak understanding of the purpose. The report shows little awareness of audience, context, and community expectations. The presentation may be somewhat appropriate to the content. The writer’s voice is only occasionally objective and trustworthy. Citations are incomplete, incorrect, or missing.</entry>
+      </row>
+      <row>
+      <entry><para id="para-00011"><emphasis effect="bold">1</emphasis></para>
+      <para id="para-00012"><emphasis effect="bold">Beginning</emphasis></para></entry>
+      <entry>The text does not adhere to the “Editing Focus” of this chapter: commas with nonessential and essential information, as discussed in Section 8.6. The text also shows little to no evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+      <entry>The introduction, if it is present, may be somewhat interesting but lacks a thesis. Most or all of the body paragraphs have no central point and are undeveloped. There are no clear connections among ideas and evidence, which is insufficient, unconvincing, and poorly integrated into the sentences.</entry>
+      <entry>The topic of the report demonstrates poor or no understanding of the purpose. The report shows little or no awareness of audience, context, or community expectations. The presentation is inappropriate to content. The writer’s voice is neither objective nor trustworthy. Language is confusing or inappropriate. Citations are missing or incorrect.</entry>
+      </row>
+      <row>
+      <entry namest="c1" nameend="c4"><emphasis effect="bold">Comments:</emphasis></entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption/>
+      </table>
       </section>
   </content>
 </document>
