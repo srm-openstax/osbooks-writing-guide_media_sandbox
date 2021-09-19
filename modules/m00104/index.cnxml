@@ -6,9 +6,46 @@
     <md:uuid>a6effe4c-d96c-484f-9052-4f93d26da570</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Implement transitional words and phrases in a position argument.</item>
+      <item>Apply genre conventions in paragraphs and transitions for general and specific situations.</item>
+      </list>
+      </section>
+      <para id="para-00002">In the initial drafts of your paper, you may have concentrated on single ideas for your body paragraphs and single thoughts within those paragraphs. Your argument will read more smoothly, however, if you use transitional words and phrases to show readers how your ideas are connected or opposed to each other.</para>
+      <section id="sect-00002">
+      <title>Using Transitional Words and Phrases</title>
+      <para class="annotation linguistic-icon" id="para-00003">To organize your paper most effectively, use <term id="term-00001">transitional words or phrases</term>, which show readers the relationship between different ideas—that is, how ideas connect with or are separate from each other. In the paragraph below, transitional words and phrases are underlined.</para>
+      <para class="student-sample" id="para-00004">To get a copy of your transcript from Abbott Community College, <emphasis effect="underline">first</emphasis> log on to the college web site. <emphasis effect="underline">Next</emphasis>, click the “Transcript” link <emphasis effect="underline">to the left of</emphasis> the college logo. <emphasis effect="underline">When</emphasis> the link opens, fill out the information requested in the boxes. <emphasis effect="underline">Then</emphasis> upload a copy of your student ID <emphasis effect="underline">and</emphasis> pay $10 electronically. <emphasis effect="underline">Finally</emphasis>, submit your form. Your transcript will be emailed to you, <emphasis effect="underline">but</emphasis> you may have to wait up to three days <emphasis effect="underline">before</emphasis> you receive it.</para>
+      <para id="para-00005">The transitional words and phrases show readers the sequence of steps they need to follow to get a transcript. If you remove the transitional words and phrases, the paragraph would be choppy, and readers might not follow the steps as easily.</para>
+      <para id="para-00006">Transitions also help guide readers between paragraphs. Below are the body paragraphs a student wrote about the need for a traffic light at a street that leads into his college. The first version has no transitions.</para>
+      <para class="student-sample" id="para-00007">Many vehicles speed through the intersection without regard to the posted speed limit. A traffic signal would make vehicles slow down. They would not be able to speed through the signal.</para>
+      <para class="student-sample" id="para-00008">Pedestrian safety is a problem. Many students and others cross this intersection when coming to or leaving campus, and they must dodge traffic to get across. A traffic signal would allow them to cross at appropriate times.</para>
+      <para class="student-sample" id="para-00009">The amount of traffic has increased dramatically. A manufacturing plant opened four blocks from the intersection. The number of businesses in the strip mall at the intersection has grown by 50 percent. The college has changed its traffic routing for football games. Fans must enter via this intersection.</para>
+      <para class="student-sample" id="para-00010">The most compelling reason to install a traffic signal is that the number of accidents has risen far past an acceptable limit. According to recent police reports, a traffic accident occurs at least three times a month. One accident resulted in a loss of life.</para>
+      <para id="para-00011">The student then added transitions and changed the wording accordingly to help readers follow his ideas. The underlined transitions at the beginning of each paragraph alert readers to the four reasons he presents and to where he changes from one to another. The underlined transitions within the paragraphs help readers understand the relationship of ideas.</para>
+      <para class="student-sample" id="para-00012"><emphasis effect="underline">First</emphasis>, many vehicles speed through the intersection without regard to the posted speed limit. A traffic signal would make vehicles slow down, <emphasis effect="underline">for</emphasis> they would not be able to speed through the signal.</para>
+      <para class="student-sample" id="para-00013"><emphasis effect="underline">Second</emphasis>, pedestrian safety is a problem. Many students and others cross this intersection when coming to or leaving campus, and <emphasis effect="underline">now</emphasis> they must dodge traffic to get across. A traffic signal, <emphasis effect="underline">therefore</emphasis>, would allow them to cross at appropriate times.</para>
+      <para class="student-sample" id="para-00014"><emphasis effect="underline">Another reason to install the traffic signal has to do with</emphasis> the amount of traffic, which has increased dramatically <emphasis effect="underline">in recent years</emphasis>. <emphasis effect="underline">Two years ago</emphasis>, a manufacturing plant opened four blocks from the intersection. <emphasis effect="underline">In the past 16 months</emphasis>, the number of businesses in the strip mall <emphasis effect="underline">at the intersection</emphasis> grew by 50 percent. <emphasis effect="underline">Furthermore</emphasis>, the college has changed its traffic routing for football games, <emphasis effect="underline">and now</emphasis> fans must enter via this intersection.</para>
+      <para class="student-sample" id="para-00015"><emphasis effect="underline">Finally</emphasis>, the most compelling reason to install a traffic signal is that the number of accidents has risen far past an acceptable limit. According to recent police reports, a traffic accident occurs at that intersection at least three times a month. <emphasis effect="underline">In fact</emphasis>, one of those accidents resulted in a loss of life.</para>
+      </section>
+      <section id="sect-00003">
+      <title>Frequently Used Transitional Words and Phrases</title>
+      <para id="para-00016"><term id="term-00002">Addition</term><emphasis effect="bold">:</emphasis> again, and, further, in addition, next, then, also, as well as</para>
+      <para id="para-00017"><term id="term-00003">Cause or effect</term><emphasis effect="bold">:</emphasis> accordingly, consequently, for this reason, hence, therefore, thus, as a result</para>
+      <para id="para-00018"><term id="term-00004">Amplification</term><emphasis effect="bold">:</emphasis> again, also, apparently, first (second, third), moreover, indeed, more, most, in fact</para>
+      <para id="para-00019"><term id="term-00005">Chronology</term><emphasis effect="bold">:</emphasis> after, before, during, earlier, finally, first (second, third), immediately, last, next, then, later</para>
+      <para id="para-00020"><term id="term-00006">Concession or agreement</term><emphasis effect="bold">:</emphasis> although, at least, at any rate, certainly, (even) though, in spite of, of course, still, nevertheless, nonetheless</para>
+      <para id="para-00021"><term id="term-00007">Comparison or contrast</term><emphasis effect="bold">:</emphasis> at the same time, comparatively, conversely, however, instead, likewise, moreover, nevertheless, on the contrary, on the other hand, rather, similarly, still, yet, despite</para>
+      <para id="para-00022"><term id="term-00008">Detail</term><emphasis effect="bold">:</emphasis> including, in particular, namely, specifically, to list</para>
+      <para id="para-00023"><term id="term-00009">Emphasis or clarification</term><emphasis effect="bold">:</emphasis> above all, again, certainly, especially, furthermore, in fact, particularly, indeed</para>
+      <para id="para-00024"><term id="term-00010">Example</term><emphasis effect="bold">:</emphasis> chiefly, for example (instance), in other words, in particular, mainly, specifically</para>
+      <para id="para-00025"><term id="term-00011">Intention</term><emphasis effect="bold">:</emphasis> for this purpose, in order to do this, to this end, with this in mind</para>
+      <para id="para-00026"><term id="term-00012">Location</term><emphasis effect="bold">:</emphasis> above, along, behind, below, here, near, next to, opposite, to the left (right) of, under</para>
+      <para id="para-00027"><term id="term-00013">Summary</term><emphasis effect="bold">:</emphasis> finally, in conclusion, in short, in other words, thus</para>
+      <para id="para-00028">For more information about paragraphs and transitions, see Handbook Section 1.</para>
       </section>
   </content>
 </document>

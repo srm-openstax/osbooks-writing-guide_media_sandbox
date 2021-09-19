@@ -6,9 +6,50 @@
     <md:uuid>08e7bcd3-c538-4e0b-a194-cae54aaf1ec5</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Reflect on and articulate how you used the steps of the writing process and how they affected your work.</item>
+      <item>Reflect on and write about your use of reasoning and critical-thinking skills in developing your paper.</item>
+      </list>
+      </section>
+      <para id="para-00002">As you complete each writing assignment, you complete another part of your portfolio. After each paper, think critically about your writing process, reflecting on what you created from the first steps of discovering ideas to the last steps of composing and editing the final paper.</para>
+      <section id="sect-00002">
+      <title>Lessons Learned</title>
+      <para class="annotation dreaming-icon" id="para-00003">As you reflect on writing your position argument, answer these questions about your writing process.</para>
+      <list list-type="bulleted" id="list-00002">
+      <item>What factors helped you determine the topic for your paper?</item>
+      <item>Which brainstorming method worked best for you to develop ideas for your topic?</item>
+      <item>How did you arrive at a workable thesis?</item>
+      <item>How did you use ethos, pathos, and logos in your paper?</item>
+      <item>How did you use kairos in your paper?</item>
+      <item>What outside sources did you consult to get information to support your topic or to understand counterclaims?</item>
+      <item>How did you determine which counterclaims to address?</item>
+      <item>What type of citation did you use for giving credit to material you did not write?</item>
+      <item>How did collaboration with others help you as you wrote and revised your paper?</item>
+      <item>In collaboration, what specific constructive criticism did you receive that helped you?</item>
+      <item>In what ways was this paper easier or harder to write than others you have written?</item>
+      <item>What could you have done differently to make writing your paper easier or more effective?</item>
+      <item>What insights about your topic did you gain from writing your paper?</item>
+      </list>
+      </section>
+      <section class="further-reading" id="sect-00003">
+      <title>Further Reading</title>
+      <para id="para-00004">The following titles are well-known examples of position speeches or papers.</para>
+      <para id="para-00005">Grimke, Francis J. “Equality of Rights for All Citizens, Black and White Alike.” <emphasis effect="italics">Masterpieces of Negro Eloquence,</emphasis> edited by Alice Moore Dunbar, 1914. <emphasis effect="italics">Project Gutenberg,</emphasis> www.gutenberg.org/files/22240/22240-8.txt. Accessed 10 Dec. 2020.</para>
+      <para id="para-00006">Henry, Patrick. “Convention of Delegates, March 28, 1775.” <emphasis effect="italics">American Eloquence: Studies in American Political History, Vol. 1,</emphasis> edited by James Albert Woodburn, G.P. Putnam’s Sons, 1896. <emphasis effect="italics">Project Gutenberg,</emphasis> www.gutenberg.org/files/15391/15391-h/15391-h.htm#link2H_4_0006. Accessed 10 Dec. 2020.</para>
+      <para id="para-00007">Mandela, Winnie. “Speech made by Mrs. Winnie Mandela to Mark the Creation of the Black Parents’ Association.” 1978. <emphasis effect="italics">South African History Online</emphasis>, www.sahistory.org.za/archive/speech-made-mrs-winnie-mandela-mark. Accessed 6 Feb 2021.</para>
+      <para id="para-00008">Roosevelt, Franklin D. “Speech by Franklin D. Roosevelt, New York Transcript.” 1941. <emphasis effect="italics">Library of Congress</emphasis>, www.loc.gov/item/afccal000483/.</para>
+      <para id="para-00009">Roosevelt, Theodore. “New Nationalism Speech.” 1910. <emphasis effect="italics">Teaching American History,</emphasis> teachingamericanhistory.org/library/document/new-nationalism-speech/. Accessed 6 Feb. 2021.</para>
+      <para id="para-00010">Truth, Sojourner. “Ain’t I a Woman?” 1851. <emphasis effect="italics">National Park Service</emphasis>, www.nps.gov/articles/sojourner-truth.htm. Accessed 10 Dec. 2020</para>
+      </section>
+      <section class="works-cited" id="sect-00004">
+      <title>Works Cited</title>
+      <para id="para-00011">Johnson, Lyndon B. “May 22, 1964: Remarks at the University of Michigan.” <emphasis effect="italics">Miller Center</emphasis>, 28 Apr. 2017, millercenter.org/the-presidency/presidential-speeches/may-22-1964-remarks-university-michigan.</para>
+      <para id="para-00012">London, Jack. <emphasis effect="italics">Call of the Wild</emphasis>. Macmillan, 1903.</para>
+      <para id="para-00013">Quinn, Sara Dickenson. “NYT Columnist Uses Visual Evidence to Support Persuasive Arguments.” <emphasis effect="italics">Poynter</emphasis>, 24 Nov. 2014, www.poynter.org/reporting-editing/2008/nyt-columnist-uses-visual-evidence-to-support-persuasive-arguments/.</para>
+      <para id="para-00014">Thurman, Susan Sommers, and William L. Gary, Jr. <emphasis effect="italics">Ticket to Write: Writing College Essays</emphasis>. Pearson Education, 2017.</para>
       </section>
   </content>
 </document>

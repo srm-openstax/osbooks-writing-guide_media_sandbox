@@ -6,9 +6,434 @@
     <md:uuid>e9d10cf0-4319-4130-9948-c3e926f21b0a</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list list-type="bulleted" id="list-00001">
+      <item>Identify and define reasoning strategies and signal words.</item>
+      <item>Determine how the rhetorical situation influences the content and reasoning strategies of written works.</item>
+      </list>
+      </section>
+      <para class="annotation linguistic-icon" id="para-00002">As you read in The Digital World: Building on What You Already Know to Respond Critically, <term id="term-00001">rhetorical situations</term> are shaped by the conditions of the communication and the agents involved in that communication. To help you determine the conditions and the agents, you can examine purpose, culture, and audience expectation.</para>
+      <para id="para-00003">The <term id="term-00002">purpose</term>, or intention, for your writing determines the reasoning strategies you use. For example, if your purpose is to explain why one restaurant is better than another, you likely would use comparison and contrast.</para>
+      <para id="para-00004">Writers of essays and other formal papers usually support their ideas by using more than one reasoning strategy. For example, within comparison and contrast, they may include <term id="term-00003">description</term>, such as sensory details about the food at the two restaurants; <term id="term-00004">narration</term>, such as an anecdote about why they and their companions went to the restaurants or about something that happened at one of the restaurants; and <term id="term-00005">sequencing</term>, such as the order in which they received their food or the directions to get to the restaurants.</para>
+      <para id="para-00005">Alternatively, writers may combine some of the six strategies already mentioned. For instance, within the larger structure of comparison and contrast, they may use <term id="term-00006">classification and division</term> when discussing the restaurants’ menus, sorting by main dishes, side dishes, appetizers, soups, salads, and desserts. Therefore, while the essay’s primary purpose may be to compare and contrast, individual strategies within an essay or even within a paragraph may differ.</para>
+      <section id="sect-00002">
+      <title>Recognizing Purpose</title>
+      <para class="annotation linguistic-icon" id="para-00006">Throughout your paper, your purpose for writing should be clear and focused. Your introduction, thesis, topic sentences, body paragraphs (which include reasoning and evidence), and conclusion should all reflect your argumentative or persuasive purpose.</para>
+      <para id="para-00007">To support and clarify your purpose, you are likely to use the following:</para>
+      <list list-type="bulleted" id="list-00002">
+      <item><term id="term-00007">Analogy</term><emphasis effect="bold">:</emphasis> to explain to readers a subject with which they are unfamiliar by comparing a specific trait or traits with those of a more familiar subject.</item>
+      <item><term id="term-00008">Cause and effect</term><emphasis effect="bold">:</emphasis> to provide a clear understanding of the relationship between an event or situation and/or what happened because of it, why it occurred, and what might continue to happen.</item>
+      <item><term id="term-00009">Classification and division</term><emphasis effect="bold">:</emphasis> to explain a subject by breaking it into smaller parts and explaining the distinctions of the smaller parts or by grouping individual, disparate elements on the basis of certain characteristics to form larger units.</item>
+      <item><term id="term-00010">Comparison and contrast</term><emphasis effect="bold">:</emphasis> to examine the similarities and/or differences of subjects in order to explain a specific point about their similarity or difference (often an unexpected similarity or difference).</item>
+      <item><term id="term-00011">Problem and solution</term><emphasis effect="bold">:</emphasis> to indicate a predicament or difficulty and suggest ways to deal with or eliminate it.</item>
+      <item><term id="term-00012">Definition</term><emphasis effect="bold">:</emphasis> to illustrate to readers an idea, word, or expression, allowing you to explain a unique meaning of a topic through details and analysis.</item>
+      </list>
+      </section>
+      <section id="sect-00003">
+      <title>Recognizing Audience</title>
+      <para class="annotation culture-icon" id="para-00008">Critically thinking about the <term id="term-00013">culture</term>, or common beliefs and lived experiences, of your <term id="term-00014">audience</term>, the people who will read your work, can help you choose an appropriate vocabulary and level of detail.</para>
+      <para id="para-00009">The culture and audience expectation determine the language you use, the amount and type of information you include, and the way you deliver that information. Determine first what your readers want to know (their expectations), what they already know, and what they do not know. Determining—or at least making an educated guess about—the culture of your audience will aid you in deciding how to use the reasoning strategy you choose and the way in which you present your paper.</para>
+      <para id="para-00010">Suppose, for instance, your purpose is to persuade your audience to vote for a proposed local ordinance. First, consider the culture of your audience to ensure the language you use clearly explains the terms of ordinance for those who know nothing about it. Also, be sure that <emphasis effect="italics">you</emphasis> fully understand the issues surrounding the ordinance and how it might have different effects on different groups of people so that what you assert is accurate. Next, again consider the culture of your audience members and what they may or may not know about your topic. For example, they may not know the reason for the proposed ordinance, what might happen if it is passed or not passed, or how it might affect them personally or culturally. If they are not as informed as you are, then include the background information they need to know about it in order for your reasoning strategy and overall argument to be effective.</para>
+      <figure id="fig-00001"><media alt="A diverse audience attends a town hall meeting in a auditorium.">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_11_03_006.jpg"/></media>
+      <caption>Considering the needs and expectations of an audience is key to effective writing. In college, an audience often may consist of your instructor and classmates, but in other situations it may consist of people of more varying ages and backgrounds, like this audience at a town hall meeting. (credit: The U.S. Food and Drug Administration/Wikimedia Commons, Public Domain)</caption></figure>
+      <para id="para-00011">Depending on your audience, you may want to include an <term class="no-emphasis" id="term-00015">analogy</term> to help readers understand connections and particular points in certain ways. An <term class="no-emphasis" id="term-00016">analogy</term> is also useful if the subject is complex. You can make a complex subject more accessible for your audience by comparing it to something familiar.</para>
+      </section>
+      <section id="sect-00004">
+      <title>Recognizing Points</title>
+      <para class="annotation linguistic-icon" id="para-00012">Every point you make in a paper should be meaningful and should relate to the paper’s <term id="term-00017">thesis</term>, its overarching claim or angle. How you make each point is determined by your reason for making that point. In most academic writing, you will use structures that present a thesis at the beginning of the essay. Readers should recognize your thesis because of</para>
+      <list list-type="bulleted" id="list-00003">
+      <item>its prominent placement in the essay;</item>
+      <item>the language you use leading up to it; and</item>
+      <item>the language you use following it.</item>
+      </list>
+      <para id="para-00013">For example, if your thesis is that the first two years of college should be tuition free for students (that is, tuition should be subsidized by the state), then you might begin your essay with an attention-getting fact stating that the current national student debt is over $1.7 trillion. After that, you might share evidence about the number of students who do not finish a bachelor’s degree but have accrued student loan debt. Finally, you might preview your reasons for the position advocating for free tuition for the first two years of college.</para>
+      <para id="para-00014">Readers will recognize your supporting points as stated in your paragraph-level topic sentences because of how you discuss them in relation to your thesis. In all of your academic writing, choose language and reasoning strategies that guide readers back to your thesis.</para>
+      <para id="para-00015">When you present facts, whether in your thesis or in your evidence, remember to cite them properly according to the format your instructor requires. For more about proper citations, see MLA Documentation and Format and APA Documentation and Format.</para>
+      </section>
+      <section id="sect-00005">
+      <title>Structuring Your Reasoning Strategies</title>
+      <para class="annotation linguistic-icon" id="para-00016">To present your reasoning, which is the main part of your essay, try these suggestions for using the six strategies:</para>
+      <para id="para-00017"><term id="term-00018">Analogy</term> paragraphs often begin with a statement of comparison between two unlike subjects, followed by reasons, explanations, or analyses of their similarities.</para>
+      <list list-type="bulleted" id="list-00004">
+      <item><para id="para-00018"><emphasis effect="bold">Example topic 1:</emphasis> compare enrolling as a first-year student to visiting an amusement park for the first time</para>
+      <para id="para-00019"><emphasis effect="bold">Example sentence:</emphasis> Enrolling as a first-year student is like visiting an amusement park for the first time in this way: the inexperienced students and park goers must pay a high fee, abide by strict rules, and choose how they spend their adventure.</para></item>
+      <item><para id="para-00020"><emphasis effect="bold">Example topic 2:</emphasis> compare increasing the federal deficit to eating salted peanuts</para>
+      <para id="para-00021"><emphasis effect="bold">Example sentence:</emphasis> Increasing the federal deficit is like eating salted peanuts: the higher the increase, the more will be demanded. When you eat salted peanuts, the more you eat, the more you want.</para></item>
+      </list>
+      <para id="para-00022">Paragraphs explaining <term id="term-00019">cause and effect</term> often begin in one of these two ways: (1) an explanation of the cause(s), followed by an explanation of the effect(s) that happened as a result of the cause(s); or (2) an explanation of the effect(s), followed by an explanation of the cause(s) that led to the effect(s).</para>
+      <list list-type="bulleted" id="list-00005">
+      <item><para id="para-00023"><emphasis effect="bold">Example topic 1:</emphasis> how an oil spill affected animals, waterways, and environmental costs</para>
+      <para id="para-00024"><emphasis effect="bold">Example sentence:</emphasis> Because an oil spill occurred off the coast of California, the fur and feathers of animals became dangerously matted, waterways were damaged, and the cost of maintaining a clean environment skyrocketed.</para></item>
+      <item><para id="para-00025"><emphasis effect="bold">Example topic 2:</emphasis> how the pandemic affected the population</para>
+      <para id="para-00026"><emphasis effect="bold">Example sentence:</emphasis> Because of the pandemic, gas consumption dropped, indoor dining at restaurants declined, and online shopping rose.</para></item>
+      <item><para id="para-00027"><emphasis effect="bold">Example topic 3:</emphasis> how animals, waterways, and environmental costs were affected by an oil spill</para>
+      <para id="para-00028"><emphasis effect="bold">Example sentence:</emphasis> The fur and feathers of animals became dangerously matted, waterways were damaged, and the cost of maintaining a clean environment skyrocketed as the result of an oil spill off the coast of California.</para></item>
+      <item><para id="para-00029"><emphasis effect="bold">Example topic 4:</emphasis> how the pandemic affected the population</para>
+      <para id="para-00030"><emphasis effect="bold">Example sentence</emphasis>: Gas consumption dropped, indoor dining at restaurants declined, and online shopping rose because of the pandemic.</para></item>
+      </list>
+      <list list-type="bulleted" id="list-00006">
+      <item><term id="term-00020">Classification-and-division</term> paragraphs often begin in either of two ways: (1) Classification paragraphs identify individual items and place them in a larger group; and (2) Division paragraphs break a large group or a single unit into smaller parts.</item>
+      <item><para id="para-00031"><emphasis effect="bold">Example classification topic:</emphasis> essential workers during the pandemic included employees in several fields</para>
+      <para id="para-00032"><emphasis effect="bold">Example sentence:</emphasis> During the pandemic, essential workers not under quarantine included employees in the fields of health care, childcare, transportation, water and wastewater, and agriculture and food production.</para></item>
+      <item><para id="para-00033"><emphasis effect="bold">Example division topic:</emphasis> how the new superstore will be divided</para>
+      <para id="para-00034"><emphasis effect="bold">Example sentence:</emphasis> The layout for the new superstore will be divided into furniture (third floor), household goods and kitchenware (second floor), and men’s, women’s, and children’s clothing (first floor).</para></item>
+      </list>
+      <para id="para-00035">When using <term id="term-00021">comparison-and-contrast</term> reasoning, you have choices about the structure to use. Comparison-and-contrast paragraphs identify two subjects and address their similarities and then their differences; or comparison-and-contrast paragraphs identify two subjects and address their similarities and then their differences.</para>
+      <list list-type="bulleted" id="list-00007">
+      <item><para id="para-00036"><emphasis effect="bold">Example topic 1:</emphasis> reality television and scripted television</para>
+      <para id="para-00037"><emphasis effect="bold">Example sentence:</emphasis> Reality television and scripted television are alike in that both should make money for the network that airs them; however, they differ in the predictability of what the characters do in their roles.</para></item>
+      <item><para id="para-00038"><emphasis effect="bold">Example topic 2:</emphasis> printed book and audio book</para>
+      <para id="para-00039"><emphasis effect="bold">Example sentence:</emphasis> A printed book and an audio book are alike in that both present the material the author wrote; one way they differ is that listeners—as opposed to readers—cannot make notes on text in a printed book.</para></item>
+      <item><para id="para-00040"><emphasis effect="bold">Example topic 3:</emphasis> reality television and scripted television</para>
+      <para id="para-00041"><emphasis effect="bold">Example sentence:</emphasis> Reality television and scripted television differ in the predictability of what the characters do in their roles, but they are alike in that they both should make money for the network that airs them.</para></item>
+      <item><para id="para-00042"><emphasis effect="bold">Example topic 4:</emphasis> printed book and audio book</para>
+      <para id="para-00043"><emphasis effect="bold">Example sentence:</emphasis> One way a printed book and an audio book differ is that listeners—as opposed to readers—cannot make notes on material in the printed book; however, both present the material the author wrote.</para></item>
+      </list>
+      <para id="para-00044">You can develop a <term id="term-00022">problem-and-solution</term> paragraph in one of two ways: (1) identify the problem, and then explain a way to solve it; or (2) explain the solution to a problem, and then identify the problem(s) that necessitated it.</para>
+      <list list-type="bulleted" id="list-00008">
+      <item><para id="para-00045"><emphasis effect="bold">Example topic 1:</emphasis> student loans</para>
+      <para id="para-00046"><emphasis effect="bold">Example sentence:</emphasis> The issue of defaulting on repayment of student loans would be solved by increasing the time the students are given to repay the loans.</para></item>
+      <item><para id="para-00047"><emphasis effect="bold">Example topic 2:</emphasis> campus parking</para>
+      <para id="para-00048"><emphasis effect="bold">Example sentence:</emphasis> The issue of the increased need for parking on campus would be solved by paving the area on the corner of Twelfth and Locust Streets to allow parking on that lot.</para></item>
+      <item><para id="para-00049"><emphasis effect="bold">Example topic 3:</emphasis> student loans</para>
+      <para id="para-00050"><emphasis effect="bold">Example sentence:</emphasis> By increasing the time in which student loans must be repaid, the issue of defaulting on repayment of student loans would be solved, and students could have more ease of mind to pursue their careers.</para></item>
+      <item><para id="para-00051"><emphasis effect="bold">Example topic 4:</emphasis> campus parking</para>
+      <para id="para-00052"><emphasis effect="bold">Example sentence</emphasis> By paving the area on the corner of Twelfth and Locust Streets to allow parking on that lot, the issue of the increased need for parking on campus would be solved, an eyesore would be beautified, and more students and faculty would get to class on time.</para></item>
+      </list>
+      <para id="para-00053"><term id="term-00023">Definition</term> paragraphs often begin by noting the dictionary definition (denotation) of the topic and then illustrating and explaining its unique or extended meaning.</para>
+      <list list-type="bulleted" id="list-00009">
+      <item><para id="para-00054"><emphasis effect="bold">Example topic 1:</emphasis> patriotism</para>
+      <para id="para-00055"><emphasis effect="bold">Example sentence:</emphasis> Most people think patriotism is showing devotion to their country; to me, however, it is conducting myself in ways that are respectful to everyone.</para></item>
+      <item><para id="para-00056"><emphasis effect="bold">Example topic 2:</emphasis> independence</para>
+      <para id="para-00057"><emphasis effect="bold">Example sentence:</emphasis> Independence means freedom from outside control, but college students often find it brings personal responsibility they had not considered.</para></item>
+      </list>
+      </section>
+      <section id="sect-00006">
+      <title>Integrating Evidence from Appropriate Sources</title>
+      <para class="annotation linguistic-icon dreaming-icon" id="para-00058">Most academic writing is built on the writer’s own ideas as supported by the ideas of others. Regardless of the reasoning strategies you use in an essay, you will usually need to integrate others’ ideas to</para>
+      <list list-type="bulleted" id="list-00010">
+      <item>help you explore a topic;</item>
+      <item>define, illustrate, explain, or prove an idea;</item>
+      <item>help readers think critically about an idea; and</item>
+      <item>give strength or credibility to your ideas.</item>
+      </list>
+      <para id="para-00059">These ideas from others could come from a variety of sources such as print or electronic media or in-person conversations. Similarly, these sources could be either personal (e.g., a conversation you had with someone or an email you received) or public (e.g., available online or in a printed publication). You can read more about finding and using credible sources in Research Process: Accessing and Recording Information and Annotated Bibliography: Gathering, Evaluating, and Documenting Sources.</para>
+      <para id="para-00060">These examples show how writers integrate ideas from appropriate sources into their reasoning strategies.</para>
+      <section id="sect-00007">
+      <title>Analogy</title>
+      <para id="para-00061">Enrolling as a first-year student is like going to an amusement park for the first time: the inexperienced students or park goers must pay a high fee, abide by many rules, and choose their adventures. Like the cost for riding roller coasters, the cost for taking college classes is great and must be paid before the students start their journey. However, even after paying tuition, students do not have immediate access to whatever class they want to take, just as the park visitor cannot jump on any ride at any time. In the park, certain rides have warnings, such as “You must be at least 60 inches tall to go on this ride.” In college, many classes have prerequisites or require students to have earned a minimum placement score. Also, even though park goers have paid their entrance fees and received armbands that allow them to go anywhere in the park, they are not guaranteed a place on that one awesome ride they have heard so much about. They may have to choose between waiting in a line for hours or doing something else and trying to catch that ride another time. Similarly, college classes have a limited number of seats. Like the roller coaster that everyone wants to ride, college classes close, and students must make another choice. So, while students may not be able to pick up that class that semester, they can try again the next term. Like those starting an adventure at an amusement park, those starting the college journey should have a plan of how they want to fill their time and have a backup plan should they be unable to get every class they want, according to Max Vega, a first-year adviser. Similarly, park goers should use a map to plan their adventure.</para>
+      </section>
+      <section id="sect-00008">
+      <title>Cause and Effect</title>
+      <para id="para-00062">Because an oil spill occurred off the coast of California, the fur and feathers of many animals became dangerously matted, waterways were damaged, and the cost of maintaining a clean environment skyrocketed. In May 2015, a ruptured pipeline in Santa Barbara County spilled oil along 20 miles of coastline. According to information published by the <term class="no-emphasis" id="term-00024">University of California-Davis</term>, wildlife rescuers were able to save 49 coastal birds, 25 sea lions, and 6 elephant seals (<term class="no-emphasis" id="term-00025">Kerlin</term>, “Wildlife Experience High Price of Oil”). Helping ecosystems recover from oil spills is difficult and can take decades and billions of dollars to recover even partially.</para>
+      </section>
+      <section id="sect-00009">
+      <title>Classification and Division</title>
+      <para id="para-00063">The layout for the new superstore can be divided into furniture (third floor), household goods and kitchenware (second floor), and men’s, women’s, and children’s clothing (first floor). This arrangement allows customers to feel they have control over their shopping experience. Customers shopping for clothes are not distracted by household goods or furniture displays. “By categorizing our merchandise in this manner, we can further subdivide the merchandise on each floor, developing a logical system of separation that repeat customers will learn easily,” said Carla Dawkins, general manager for Hometown Corner Store, in a <emphasis effect="italics">Curtisville News</emphasis> report (Thurston 2). These subdivisions, Thurston stated, would allow individual floor managers to design the footprint of their floors to create an originality distinct and separate from the other floors (8).</para>
+      </section>
+      <section id="sect-00010">
+      <title>Comparison and Contrast</title>
+      <para id="para-00064">One way <emphasis effect="italics">Romeo and Juliet</emphasis> and <emphasis effect="italics">Macbeth</emphasis> are alike is that both are tragedies written by <term class="no-emphasis" id="term-00026">William Shakespeare</term>; one way they differ is that they explore different themes. In <emphasis effect="italics">Romeo and Juliet</emphasis>, almost all action centers on the theme of love, whether it is the innocent love between two young people or the protective love of parents for their children. In <emphasis effect="italics">Macbeth</emphasis>, however, the action centers on ambition. The characters act on their ambitions for themselves and for their country, but excessive ambition is condemned and severely punished (<term class="no-emphasis" id="term-00027">Royal Shakespeare Company</term>, “<emphasis effect="italics">Macbeth</emphasis> Analysis”).</para>
+      </section>
+      <section id="sect-00011">
+      <title>Problem and Solution</title>
+      <para id="para-00065">The issue of the increased need for parking on campus would be solved by paving the area on the corner of Twelfth and Locust Streets to allow parking on that lot. According to an email sent to all students from the provost, Dr. Sandra Kuryakin, the college purchased the corner lot two years ago with the intent of creating more parking spaces. In the email, Dr. Kuryakin adds, “We will break ground in June and plan to have the lot finished before students are back on campus in August, thus solving our parking problem on the west end of campus.”</para>
+      <figure id="fig-00002"><media alt="Cleared land with buildings visible in the background will be developed into a parking lot.">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_11_03_007.jpg"/></media>
+      <caption>Empty lot to be converted to parking spaces (credit: Ohio Redevelopment Projects—ODSA/flickr, CC BY 2.0)</caption></figure>
+      </section>
+      <section id="sect-00012">
+      <title>Definition</title>
+      <para id="para-00066">Most people think patriotism means showing devotion to their country; to me, however, it is conducting myself in ways that are respectful to everyone. Too often, people proclaim themselves as patriots when they are actively seeking to withhold liberties from their fellow citizens or even harm them. When those claiming to be patriots condemn and physically harm others because they do not agree on political issues, they are not showing any reverence for their country. Instead, they dishonor their country by dishonoring its people. Respecting America should mean more than saluting the flag or singing the national anthem. It should mean respecting others’ rights to life, liberty, and the pursuit of happiness. In light of all this, for me, patriotism means respecting others not only because they are fellow Americans but because they are fellow human beings.</para>
+      </section>
+      </section>
+      <section id="sect-00013">
+      <title>Signal Words and Phrases</title>
+      <para class="annotation linguistic-icon" id="para-00067">Writers use signal words and phrases to steer readers in certain directions. You might use signal words and phrases to give readers clues about</para>
+      <list list-type="bulleted" id="list-00011">
+      <item>how one idea connects with another;</item>
+      <item>how one paragraph connects with another;</item>
+      <item>how one idea supports or refutes another;</item>
+      <item>what is to come;</item>
+      <item>points you want to emphasize;</item>
+      <item>illustrations of your topic; or</item>
+      <item>similarities or differences you want to emphasize.</item>
+      </list>
+      <para id="para-00068">Common signal words and phrases for reasoning strategies include these:</para>
+      <list list-type="bulleted" bullet-style="none" id="list-00012">
+      <title><term id="term-00028">Analogy</term></title>
+      <item>accordingly</item>
+      <item>as has been shown</item>
+      <item>as noted</item>
+      <item>as previously discussed</item>
+      <item>as previously mentioned</item>
+      <item>as… so</item>
+      <item>by extension</item>
+      <item>compared with</item>
+      <item>for example</item>
+      <item>for instance</item>
+      <item>given that</item>
+      <item>granted that</item>
+      <item>having established that</item>
+      <item>in addition</item>
+      <item>in contrast</item>
+      <item>in fact</item>
+      <item>in parallel</item>
+      <item>in particular</item>
+      <item>in relation to</item>
+      <item>in the same way (that)</item>
+      <item>in this way</item>
+      <item>ironically</item>
+      <item>paradoxically</item>
+      <item>similarly</item>
+      <item>specifically</item>
+      <item>the aforementioned</item>
+      <item>thus</item>
+      </list>
+      <list list-type="bulleted" bullet-style="none" id="list-00013">
+      <title><term id="term-00029">Cause</term></title>
+      <item>because (of)</item>
+      <item>begins with</item>
+      <item>for</item>
+      <item>for this reason</item>
+      <item>if this (that) happens</item>
+      <item>in order to</item>
+      <item>in that</item>
+      <item>is caused by</item>
+      <item>leads (led) to</item>
+      <item>reason</item>
+      <item>since</item>
+      <item>the reason is</item>
+      <item>this led to</item>
+      <item>for this reason</item>
+      </list>
+      <list list-type="bulleted" bullet-style="none" id="list-00014">
+      <title><term id="term-00030">Effect</term></title>
+      <item>as a consequence</item>
+      <item>as a result (of)</item>
+      <item>as expected</item>
+      <item>because (of)</item>
+      <item>consequently</item>
+      <item>for this reason</item>
+      <item>hence</item>
+      <item>it follows that</item>
+      <item>namely</item>
+      <item>on account of</item>
+      <item>outcome</item>
+      <item>result</item>
+      <item>so (that)</item>
+      <item>therefore</item>
+      <item>thus</item>
+      </list>
+      <list list-type="bulleted" bullet-style="none" id="list-00015">
+      <title><term id="term-00031">Classification</term></title>
+      <item>aspects</item>
+      <item>characteristics</item>
+      <item>classes</item>
+      <item>classify</item>
+      <item>comprises</item>
+      <item>consists of</item>
+      <item>dimension(s)</item>
+      <item>element(s)</item>
+      <item>feature(s)</item>
+      <item>field</item>
+      <item>form(s)</item>
+      <item>genre(s)</item>
+      <item>group(s)</item>
+      <item>kinds</item>
+      <item>methods</item>
+      <item>numbers</item>
+      <item>part(s)</item>
+      <item>rank</item>
+      <item>second</item>
+      <item>set(s)</item>
+      <item>several</item>
+      <item>sort(s)</item>
+      <item>stage(s) of</item>
+      <item>types</item>
+      <item>various</item>
+      <item>ways</item>
+      </list>
+      <list list-type="bulleted" bullet-style="none" id="list-00016">
+      <title><term id="term-00032">Division</term></title>
+      <item>another</item>
+      <item>category(-ies)</item>
+      <item>contain(s)</item>
+      <item>first</item>
+      <item>include(s)</item>
+      <item>is composed of</item>
+      <item>kind(s)</item>
+      <item>one</item>
+      <item>other</item>
+      <item>sort(s)</item>
+      <item>style(s)</item>
+      <item>type(s)</item>
+      <item>variety(-ies)</item>
+      </list>
+      <list list-type="bulleted" bullet-style="none" id="list-00017">
+      <title><term id="term-00033">Comparison</term></title>
+      <item>alike</item>
+      <item>along the same lines</item>
+      <item>as well as</item>
+      <item>both</item>
+      <item>each</item>
+      <item>equal(ly)</item>
+      <item>in common</item>
+      <item>compared with</item>
+      <item>in comparison</item>
+      <item>in like manner</item>
+      <item>in the same way</item>
+      <item>is comparable to</item>
+      <item>just as</item>
+      <item>likewise</item>
+      <item>same (as)</item>
+      <item>share</item>
+      <item>similar(ly)</item>
+      <item>similar (to)</item>
+      <item>the same as</item>
+      <item>too</item>
+      </list>
+      <list list-type="bulleted" bullet-style="none" id="list-00018">
+      <title><term id="term-00034">Contrast</term></title>
+      <item>although</item>
+      <item>and yet</item>
+      <item>as opposed to</item>
+      <item>better</item>
+      <item>but</item>
+      <item>by (in) contrast</item>
+      <item>compared with</item>
+      <item>conversely</item>
+      <item>difference</item>
+      <item>different (from)</item>
+      <item>either/or</item>
+      <item>even though</item>
+      <item>however</item>
+      <item>instead (of)</item>
+      <item>more/less than</item>
+      <item>neither/nor</item>
+      <item>nevertheless</item>
+      <item>on the contrary</item>
+      <item>on the other hand</item>
+      <item>unequal</item>
+      <item>vary</item>
+      <item>whereas</item>
+      <item>yet</item>
+      <item>so (that)</item>
+      <item>therefore</item>
+      </list>
+      <list list-type="bulleted" bullet-style="none" id="list-00019">
+      <title><term id="term-00035">Problem</term></title>
+      <item>catch</item>
+      <item>challenge</item>
+      <item>conundrum</item>
+      <item>crisis</item>
+      <item>difficulty</item>
+      <item>dilemma</item>
+      <item>enigma</item>
+      <item>factors (include)</item>
+      <item>hitch</item>
+      <item>issue</item>
+      <item>obstruction</item>
+      <item>pose</item>
+      <item>predicament</item>
+      <item>problem(atic)</item>
+      <item>puzzle</item>
+      <item>quandary</item>
+      <item>riddle</item>
+      <item>situation</item>
+      <item>snag</item>
+      <item>the question is</item>
+      </list>
+      <list list-type="bulleted" bullet-style="none" id="list-00020">
+      <title><term id="term-00036">Solution</term></title>
+      <item>a (one) solution</item>
+      <item>address</item>
+      <item>alleviate</item>
+      <item>ameliorate</item>
+      <item>amend</item>
+      <item>answer</item>
+      <item>correct</item>
+      <item>cure</item>
+      <item>deal with</item>
+      <item>ease</item>
+      <item>explain/explanation</item>
+      <item>fix</item>
+      <item>improve</item>
+      <item>lighten</item>
+      <item>one answer is</item>
+      <item>option</item>
+      <item>possibility</item>
+      <item>probability</item>
+      <item>propose</item>
+      <item>proposition</item>
+      <item>prospect</item>
+      <item>reason</item>
+      <item>remedy</item>
+      <item>resolution (resolve)</item>
+      <item>solution</item>
+      <item>solve</item>
+      <item>take care of</item>
+      <item>treat(ment)</item>
+      <item>way out</item>
+      </list>
+      <list list-type="bulleted" bullet-style="none" id="list-00021">
+      <title><term id="term-00037">Definition</term></title>
+      <item>according to (source)</item>
+      <item>also</item>
+      <item>as a result</item>
+      <item>at the same</item>
+      <item>because</item>
+      <item>besides</item>
+      <item>but</item>
+      <item>consequently</item>
+      <item>conversely</item>
+      <item>equally important</item>
+      <item>finally</item>
+      <item>first (second, etc.)</item>
+      <item>for example (instance)</item>
+      <item>for this reason (purpose)</item>
+      <item>further(more)</item>
+      <item>however</item>
+      <item>in addition to</item>
+      <item>in brief</item>
+      <item>in conclusion</item>
+      <item>in fact</item>
+      <item>in other words</item>
+      <item>in particular</item>
+      <item>likewise</item>
+      <item>namely</item>
+      <item>nevertheless</item>
+      <item>next</item>
+      <item>not only… but also</item>
+      <item>on the contrary</item>
+      <item>on the other hand</item>
+      <item>otherwise</item>
+      <item>rather</item>
+      <item>similarly</item>
+      <item>since</item>
+      <item>so</item>
+      <item>such as</item>
+      <item>then</item>
+      <item>therefore</item>
+      <item>to illustrate</item>
+      </list>
+      </section>
+      <section id="sect-00014">
+      <title>Frequently Used Reasoning Strategies Terms</title>
+      <list list-type="bulleted" id="list-00022">
+      <item><term id="term-00038">Audience</term><emphasis effect="bold">:</emphasis> the people who will read your paper.</item>
+      <item><term id="term-00039">Description</term><emphasis effect="bold">:</emphasis> writing in which the author attempts to depict certain characteristics of a person, place, or object. Writers describe their subjects by carefully noting details and sensory impressions, such as what the subject looks, sounds, smells, tastes, or feels like.</item>
+      <item><term id="term-00040">Metaphor</term><emphasis effect="bold">:</emphasis> comparison of two unlike elements. For example, the arguing protestors were volcanic, spewing hot, inflammatory speech.</item>
+      <item><term id="term-00041">Narration</term><emphasis effect="bold">:</emphasis> telling a story or relating events.</item>
+      <item><term id="term-00042">Point</term><emphasis effect="bold">:</emphasis> an important idea to share with the audience.</item>
+      <item><term id="term-00043">Purpose</term><emphasis effect="bold">:</emphasis> reason for writing.</item>
+      <item><term id="term-00044">Sequencing</term><emphasis effect="bold">:</emphasis> relating information in the order in which something happened or in which steps should be followed.</item>
+      <item><term id="term-00045">Simile</term><emphasis effect="bold">:</emphasis> comparison of two unlike elements. The word <emphasis effect="italics">as</emphasis> or <emphasis effect="italics">like</emphasis> appears in a simile. For example, the protestors’ arguments were as heated as an erupting volcano.</item>
+      <item><term id="term-00046">Thesis</term><emphasis effect="bold">:</emphasis> the overarching and unifying idea of a piece of writing.</item>
+      </list>
       </section>
   </content>
 </document>

@@ -6,9 +6,405 @@
     <md:uuid>55f553ba-22c6-4dd3-a3ed-41b6a4a04ed4</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Demonstrate brainstorming processes and tools as means to discover topics, ideas, positions, and details.</item>
+      <item>Apply recursive strategies for organizing drafting, collaborating, peer reviewing, revising, rewriting, and editing.</item>
+      <item>Compose a position argument that integrates the writer’s ideas with those from appropriate sources.</item>
+      <item>Give and act on productive feedback to works in progress.</item>
+      <item>Apply or challenge common conventions of language or grammar in composing and revising.</item>
+      </list>
+      </section>
+      <para class="annotation dreaming-icon" id="para-00002">Now is the time to try your hand at writing a position argument. Your instructor may provide some possible topics or a singular topic. If your instructor allows you to choose your own topic, consider a general subject you feel strongly about and whether you can provide enough support to develop that subject into an essay. For instance, suppose you think about a general subject such as “adulting.” In looking back at what you have learned while becoming an adult, you think of what you wish you had known during your early teenage years. These thoughts might lead you to brainstorm about details of the effects of money in your life or your friends’ lives. In reviewing your brainstorming, you might zero in on one topic you feel strongly about and think it provides enough depth to develop into a position argument. Suppose your brainstorming leads you to think about negative financial concerns you or some of your friends have encountered. Thinking about what could have helped address those concerns, you decide that a mandated high school course in financial literacy would have been useful. This idea might lead you to formulate your <term id="term-00001">working thesis statement</term>—first draft of your thesis statement—like this: <emphasis effect="italics">To help students learn how to make sensible financial decisions, a mandatory class in financial literacy should be offered in high schools throughout the country.</emphasis></para>
+      <para id="para-00003">Once you decide on a topic and begin moving through the writing process, you may need to fine-tune or even change the topic and rework your initial idea. This fine-tuning may come as you brainstorm, later when you begin drafting, or after you have completed a draft and submitted it to your peers for constructive criticism. These possibilities occur because the writing process is <term id="term-00002">recursive</term>—that is, it moves back and forth almost simultaneously and maybe even haphazardly at times, from planning to revising to editing to drafting, back to planning, and so on.</para>
+      <figure id="fig-00001"><media alt="A diagram illustrates the recursivity of the writing process; arrows form an endless circle and are labeled “Brainstorming,” “Composing,” and “Editing.”">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_10_05_005.png"/></media>
+      <caption>Because the writing process is recursive, you can go from any step to another at any time to improve your paper.</caption></figure>
+      <section id="sect-00002">
+      <title>Summary of Assignment</title>
+      <para class="annotation dreaming-icon culture-icon" id="para-00004">Write a position argument on a controversial issue that you choose or that your instructor assigns to you. If you are free to choose your own topic, consider one of the following:</para>
+      <list list-type="bulleted" id="list-00002">
+      <item>The legal system would be strengthened if ______________________.</item>
+      <item>The growing use of technology in college classrooms is weakening _____________.</item>
+      <item>For safety reasons, public signage should be _________________.</item>
+      <item>For entrance into college, standardized testing _________________________.</item>
+      <item>In relation to the cost of living, the current minimum wage _______________________.</item>
+      <item>During a pandemic, America __________________________.</item>
+      <item>As a requirement to graduate, college students __________________________.</item>
+      <item>To guarantee truthfulness of their content, social media platforms have the right to _________________.</item>
+      <item>To ensure inclusive and diverse representation of people of all races, learning via virtual classrooms _________________.</item>
+      <item>Segments of American cultures have differing rules of acceptable grammar, so in a college classroom ___________________.</item>
+      </list>
+      <para id="para-00005">In addition, if you have the opportunity to choose your own topic and wish to search further, take the lead from trailblazer <term class="no-emphasis" id="term-00003">Charles Blow</term> and look to media for newsworthy “trends.” Find a controversial issue that affects you or people you know, and take a position on it. As you craft your argument, identify a position opposing yours, and then refute it with reasoning and evidence. Be sure to gather information on the issue so that you can support your position sensibly with well-developed ideas and evidence.</para>
+      <para class="annotation culture-icon dreaming-icon" id="para-00006"><emphasis effect="bold"><emphasis effect="italic">Another Lens.</emphasis></emphasis> To gain a different perspective on your issue, consider again the people affected by it. Your position probably affects different people in different ways. For example, if you are writing that the minimum wage should be raised, then you might easily view the issue through the lens of minimum-wage workers, especially those who struggle to make ends meet. However, if you look at the issue through the lens of those who employ minimum-wage workers, your viewpoint might change. Depending on your topic and thesis, you may need to use print or online sources to gain insight into different perspectives.</para>
+      <para id="para-00007">For additional information about minimum-wage workers, you could consult</para>
+      <list list-type="bulleted" id="list-00003">
+      <item>printed material available in your college library;</item>
+      <item>databases in your college library; and</item>
+      <item>online sources. For instance, you could use a search engine to find details about
+      <list list-type="bulleted" bullet-style="open-circle" id="list-00004">
+      <item>pros and cons of raising the minimum wage;</item>
+      <item>what happens after the minimum wage is raised;</item>
+      <item>how to live on a minimum-wage salary;</item>
+      <item>how a raise in minimum wage is funded; and</item>
+      <item>minimum wage in various U.S. states.</item>
+      </list></item>
+      </list>
+      <para id="para-00008">To gain more insight about your topic, adopt a stance that opposes your original position and brainstorm ideas from that viewpoint. Begin by gathering evidence that would help you refute your previous stance and appeal to your audience.</para>
+      </section>
+      <section class="quick-launch" id="sect-00003">
+      <title>Working Thesis Frames and Organization of Ideas</title>
+      <para class="annotation dreaming-icon linguistic-icon" id="para-00009">After you have decided on your topic, the next step is to arrive at your working thesis. You probably have a good idea of the direction your working thesis will take. That is, you know where you stand on the issue or problem, but you are not quite sure of how to word your stance to share it with readers. At this point, then, use brainstorming to think critically about your position and to discover the best way to phrase your statement.</para>
+      <para id="para-00010">For example, after reading an article discussing different state-funded community college programs, one student thought that a similar program was needed in Alabama, her state. However, she was not sure how the program worked. To begin, she composed and answered <term id="term-00004">“reporters’ questions”</term> such as these:</para>
+      <list list-type="bulleted" id="list-00005">
+      <item><emphasis effect="italics"><emphasis effect="bold">What</emphasis></emphasis> <emphasis effect="italics">does a state-funded community college program do?</emphasis> pays for part or all of the tuition of a two-year college student</item>
+      <item><emphasis effect="italics"><emphasis effect="bold">Who</emphasis></emphasis> <emphasis effect="italics">qualifies for the program?</emphasis> high school graduates and GED holders</item>
+      <item><emphasis effect="italics"><emphasis effect="bold">Who</emphasis></emphasis> <emphasis effect="italics">benefits from this?</emphasis> students needing financial assistance, employers, and Alabama residents</item>
+      <item><emphasis effect="italics"><emphasis effect="bold">Why</emphasis></emphasis> <emphasis effect="italics">is this needed?</emphasis> some can’t afford to go to college; tuition goes up every year; colleges would be more diverse if everyone who wanted to go could afford to go</item>
+      <item><emphasis effect="italics"><emphasis effect="bold">Where</emphasis></emphasis> <emphasis effect="italics">would the program be available?</emphasis> at all public community colleges</item>
+      <item><emphasis effect="italics"><emphasis effect="bold">When</emphasis></emphasis> <emphasis effect="italics">could someone apply for the program?</emphasis> any time</item>
+      <item><emphasis effect="italics"><emphasis effect="bold">How</emphasis></emphasis> <emphasis effect="italics">can the state fund this</emphasis>? use lottery income, like other states</item>
+      </list>
+      <para id="para-00011">The student then reviewed her responses, altered her original idea to include funding through a lottery, and composed this working thesis:</para>
+      <para class="student-sample" id="para-00012"><emphasis effect="italics">To provide equal educational opportunities for all residents, the state of Alabama should create a lottery to completely fund tuition at community colleges.</emphasis></para>
+      <para id="para-00013">Remember that a strong thesis for a position should</para>
+      <list list-type="bulleted" id="list-00006">
+      <item>state your stance on a debatable issue;</item>
+      <item>reflect your purpose of persuasion; and</item>
+      <item>be based on your opinion or observation.</item>
+      </list>
+      <para id="para-00014">When you first consider your topic for an argumentative work, think about the reasoning for your position and the evidence you will need—that is, think about the “because” part of your argument. For instance, if you want to argue that your college should provide free Wi-Fi for every student, extend your stance to include “because” and then develop your reasoning and evidence. In that case, your argument might read like this: <emphasis effect="italics">Ervin Community College should provide free Wi-Fi for all students because students may not have Internet access at home.</emphasis></para>
+      <para id="para-00015">Note that the “because” part of your argument may come at the beginning or the end and may be implied in your wording.</para>
+      <para id="para-00016">As you develop your thesis, you may need help funneling all of your ideas. Return to the possibilities you have in mind, and select the ideas that you think are strongest, that recur most often, or that you have the most to say about. Then use those ideas to fill in one of the following sentence frames to develop your working thesis. Feel free to alter the frame as necessary to fit your position. While there is no limit to the frames that are possible, these may help get you started.</para>
+      <para id="para-00017">________________ is caused/is not caused by ________________, and _____________ should be done.</para>
+      <para id="para-00018"><emphasis effect="bold">Example:</emphasis> A declining enrollment rate in college is caused by high tuition rates, and an immediate freeze on the cost of tuition should be applied.</para>
+      <para id="para-00019">______________ should/should not be allowed (to) ________________ for a number of reasons.</para>
+      <para id="para-00020"><emphasis effect="bold">Example:</emphasis> People who do not wear masks during a pandemic should not be allowed to enter public buildings for a number of reasons.</para>
+      <para id="para-00021">Because (of) ________________, ___________________ will happen/continue to happen.</para>
+      <para id="para-00022"><emphasis effect="bold">Example:</emphasis> Because of a lack of emphasis on STEAM (Science, Technology, Engineering, the Arts, and Mathematics) education in public schools, America will continue to lag behind many other countries.</para>
+      <para id="para-00023">_____________ is similar to/nothing like ________________ because ______________.</para>
+      <para id="para-00024"><emphasis effect="bold">Example:</emphasis> College classes are nothing like high school classes because in college, more responsibility is on the student, the classes are less frequent but more intense, and the work outside class takes more time to complete.</para>
+      <para id="para-00025">______________ can be/cannot be thought of as __________________ because ______________.</para>
+      <para id="para-00026"><emphasis effect="bold">Example:</emphasis> The Black Lives Matter movement can be thought of as an extension of the Civil Rights movement from the 1950s and 1960s because it shares the same mission of fighting racism and ending violence against Black people.</para>
+      <para id="para-00027">Next, consider the details you will need to support your thesis. The Aristotelian argument form, named for the Greek philosopher <term class="no-emphasis" id="term-00005">Aristotle</term>, is one that may help you frame the draft of your position argument. For this method, use something like the following chart. In Writing Process: Creating a Position Argument, you will find a similar organizer that you can copy and use for your assignment.</para>
+      <figure id="fig-00002"><media alt="A flow chart titled “Using the Aristotelian Argument for Organization” connects rectangles of the same size via arrows. The ten rectangular boxes read, “ Introduce the issue or subject and your overall position.”; “Present your working thesis statement (your focused position).”; “Give the background of the issue or subject.”; “Explain the significance of the issue, whom it affects, and how it affects them.”; “Discuss an opposing stance or position.”; “Refute that position’s argument.”; “Provide logical evidence.”; “Analyze evidence that fairly illustrates the issue and clearly supports your position in the argument.”; “Remind readers of your position and why it is important to them.” ; and “Conclude your position argument with a call to action: a statement of what you want readers to do.”">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_10_05_006.png"/></media>
+      <caption>Position argument essay planning chart. Follow the numbers sequentially to plan your draft.</caption></figure>
+      </section>
+      <section class="drafting" id="sect-00004">
+      <title>Rhetorical Appeals and Types of Supporting Evidence</title>
+      <para class="annotation dreaming-icon linguistic-icon" id="para-00028">To persuade your audience to support your position or argument, consider various rhetorical appeals— ethos, logos, pathos, and kairos—and the types of evidence to support your sound reasoning. See Reasoning Strategies: Improving Critical Thinking for more information on types of evidence.</para>
+      <section id="sect-00005">
+      <title>Rhetorical Appeals</title>
+      <para id="para-00029">To establish your credibility, to show readers you are trustworthy, to win over their hearts, and to set your issue in an appropriate time frame to influence readers, consider how you present and discuss your evidence throughout the paper.</para>
+      <list list-type="bulleted" id="list-00007">
+      <item>Appeal to <term id="term-00006">ethos</term>. To establish credibility in her paper arguing for expanded mental health services, a student writer used these reliable sources: a student survey on mental health issues, data from the International Association of Counseling Services (a professional organization), and information from an interview with a campus mental health counselor.</item>
+      <item>Appeal to <term id="term-00007">logos</term>. To support her sound reasoning, the student writer approached the issue rationally, using data and credible evidence to explain the current situation and its effects.</item>
+      <item>Appeal to <term id="term-00008">pathos</term>. To show compassion and arouse audience empathy, the student writer shared the experience of a student on her campus who struggled with anxiety and depression.</item>
+      <item>Appeal to <term id="term-00009">kairos</term>. To appeal to kairos, the student emphasized the immediate need for these services, as more students are now aware of their particular mental health issues and trying to deal with them.</item>
+      </list>
+      <para id="para-00030">The way in which you present and discuss your evidence will reflect the appeals you use. Consider using sentence frames to reflect specific appeals. Remember, too, that sentence frames can be composed in countless ways. Here are a few frames to get you thinking critically about how to phrase your ideas while considering different types of appeals.</para>
+      <list list-type="bulleted" id="list-00008">
+      <item><para id="para-00031"><emphasis effect="bold">Appeal to ethos:</emphasis> According to __________________, an expert in ______________, __________________ should/should not happen because ________________________.</para>
+      <para id="para-00032"><emphasis effect="bold">Appeal to ethos:</emphasis> Although ___________________is not an ideal situation for _________________, it does have its benefits.</para></item>
+      <item><para id="para-00033"><emphasis effect="bold">Appeal to logos:</emphasis> If ____________________ is/is not done, then understandably, _________________ will happen.</para>
+      <para id="para-00034"><emphasis effect="bold">Appeal to logos:</emphasis> This information suggests that ____________________ needs to be investigated further because ____________________________.</para></item>
+      <item><emphasis effect="bold">Appeal to pathos:</emphasis> The story of _____________________ is uplifting/heartbreaking/hopeful/tragic and illustrates the need for ____________________.</item>
+      <item><emphasis effect="bold">Appeal to pathos:</emphasis> ___________________ is/are suffering from ________________, and that is something no one wants.</item>
+      <item><emphasis effect="bold">Appeal to kairos: _________________</emphasis> must be addressed now because <emphasis effect="bold">________________</emphasis>.</item>
+      <item><emphasis effect="bold">Appeal to kairos:</emphasis> These are times when ______________ ; therefore, _____________ is appropriate/necessary.</item>
+      </list>
+      </section>
+      <section id="sect-00006">
+      <title>Types of Supporting Evidence</title>
+      <para id="para-00035">Depending on the point you are making to support your position or argument, certain types of evidence may be more effective than others. Also, your instructor may require you to include a certain type of evidence. Choose the evidence that will be most effective to support the reasoning behind each point you make to support your thesis statement. Common types of evidence are these:</para>
+      <list list-type="bulleted" id="list-00009">
+      <item><term id="term-00010">Anecdote</term><emphasis effect="bold">:</emphasis> short narrative.
+      <quote id="quote-00001">
+      <para id="para-00036">Renada G., a junior at Powell College South, worked as a waitress for 15 hours a week during her first three semesters of college. But in her sophomore year, when her parents were laid off during the pandemic, Renada had to increase her hours to 35 per week and sell her car to stay in school. Her grades started slipping, and she began experiencing symptoms of depression and anxiety. When she called the campus health center to make an appointment for counseling, Renada was told she would have to wait two weeks before she could be seen.</para>
+      </quote></item>
+      <item><term id="term-00011">Definition</term><emphasis effect="bold">:</emphasis> explanation that emphasizes the meaning of an idea, term, or concept.
+      <quote id="quote-00002">
+      <para id="para-00037">Here is part of how <term class="no-emphasis" id="term-00012">Lyndon B. Johnson</term> defined the Great Society: “But most of all, the Great Society is not a safe harbor, a resting place, a final objective, a finished work. It is a challenge constantly renewed, beckoning us toward a destiny where the meaning of our lives matches the marvelous products of our labor.”</para>
+      </quote></item>
+      <item><term id="term-00013">Description</term><emphasis effect="bold">:</emphasis> evidence that portrays a person, place, thing, or idea with sensory or other vivid details.
+      <quote id="quote-00003">
+      <para id="para-00038">Bowen Lake is nestled in verdant foothills, lush with tall grasses speckled with wildflowers. Around the lake, the sweet scent of the purple and yellow flowers fills the air, and the fragrance of the hearty pines sweeps down the hillsides in a westerly breeze. Wood frogs’ and crickets’ songs suddenly stop, as the blowing of moose calling their calves echoes across the lake’s soundless surface. Or this was the scene before the deadly destruction of fires caused by climate change.</para>
+      </quote></item>
+      <item><term id="term-00014">Example</term><emphasis effect="bold">:</emphasis> evidence that illustrates an idea.
+      <quote id="quote-00004">
+      <para id="para-00039">When elaborating on America’s beauty being in danger, <term class="no-emphasis" id="term-00015">Johnson</term> says, “The water we drink, the food we eat, the very air that we breathe, are threatened with pollution. Our parks are overcrowded, our seashores overburdened. Green fields and dense forests are disappearing.”</para>
+      </quote></item>
+      <item><term id="term-00016">Expert opinion</term><emphasis effect="bold">:</emphasis> evidence or viewpoints provided by a professional in the field or someone whose ideas are respected on the subject.
+      <quote id="quote-00005">
+      <para id="para-00040">Speaking about <term class="no-emphasis" id="term-00017">President Lyndon B. Johnson</term> and the Vietnam War, noted historian and Johnson biographer <term class="no-emphasis" id="term-00018">Doris Kearns Goodwin</term> said, “It seemed the hole in his heart from the loss of work was too big to fill.”</para>
+      </quote></item>
+      <item><term id="term-00019">Fact</term><emphasis effect="bold">:</emphasis> information that is true and can be proven correct or accurate.
+      <quote id="quote-00006">
+      <para id="para-00041">Charles Blow has worked at the <emphasis effect="italics">Shreveport Times</emphasis>, <emphasis effect="italics">The Detroit News</emphasis>, <emphasis effect="italics">National Geographic</emphasis>, and <emphasis effect="italics">The New York Times</emphasis>.</para>
+      </quote></item>
+      <item><term id="term-00020">Interview</term><emphasis effect="bold">:</emphasis> evidence gathered firsthand from a source person, usually in a person-to-person conversation, by phone, or through a remote meeting.
+      <quote id="quote-00007">
+      <para id="para-00042">When interviewed by <term class="no-emphasis" id="term-00021">George Rorick</term> and asked about the identities of his readers, <term class="no-emphasis" id="term-00022">Charles Blow</term> said that readers’ emails do not elaborate on descriptions of who the people are. However, “the kinds of comments that they offer are very much on the thesis of the essay.”</para>
+      </quote></item>
+      <item><term id="term-00023">Quotation</term><emphasis effect="bold">:</emphasis> exact words repeated by someone other than the original author or speaker.
+      <quote id="quote-00008">
+      <para id="para-00043">In his speech, <term class="no-emphasis" id="term-00024">Lyndon B. Johnson</term> says, “The Great Society is a place where every child can find knowledge to enrich his mind and to enlarge his talents.”</para>
+      </quote></item>
+      <item><term id="term-00025">Statistic</term><emphasis effect="bold">:</emphasis> numerical fact or item of data, usually from a study.
+      <quote id="quote-00009">
+      <para id="para-00044">To support the need for change in classrooms, <term class="no-emphasis" id="term-00026">Johnson</term> uses these statistics: “Each year more than 100,000 high school graduates, with proved ability, do not enter college because they cannot afford it. And if we cannot educate today’s youth, what will we do in 1970 when elementary school enrollment will be five million greater than 1960?”</para>
+      </quote></item>
+      <item><term id="term-00027">Visual or graphic</term><emphasis effect="bold">:</emphasis> graphs, photographs, charts, or maps used in addition to written or spoken information.</item>
+      </list>
+      <figure id="fig-00003"><media alt="A bar graph of gene count, showing a grape, human, chicken, fruit fly, E. coli, and influenza, illustrates how visual evidence might be used in a position arugment.">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_10_05_007.jpg"/></media>
+      <caption>Bar graph of gene counts. Graphics like this one present information visually and concisely. (credit: “Between a Chicken and a Grape: Estimating the Number of Human Genes,” by Pertea, Mihaela, and Steven L. Salzberg/flickr, CC BY 2.0)</caption></figure>
+      </section>
+      <section id="sect-00007">
+      <title>Brainstorm for Supporting Points</title>
+      <para class="annotation dreaming-icon visual-icon" id="para-00045">Use one or more brainstorming techniques, such as Figure 10.8 illustrated here or the details generated from “because” statements, to develop ideas or particular points in support of your thesis. Your goal is to get as many ideas as possible. At this time, do not be concerned about how ideas flow, whether you will ultimately use an idea (you want more ideas than will end up in your finished paper), spelling, or punctuation.</para>
+      <figure id="fig-00004"><media alt="A web diagram with “Thesis” in the center circles contains eight radiating circles that each read, “The thesis is true because ________.">
+      <image mime-type="image/png" src="../../media/COMP_Figure_10_05_008.png"/></media>
+      <caption>Idea web</caption></figure>
+      <para id="para-00046">When you have finished, look over your brainstorming. Then circle three to five points to incorporate into your draft. Also, plan to answer <term id="term-00028">“reporters’ questions”</term> to provide readers with any needed background information. For example, the student writing about the need for more mental health counselors on her campus created and answered these questions:</para>
+      <list list-type="bulleted" id="list-00010">
+      <item><para id="para-00047"><emphasis effect="italics"><emphasis effect="bold">What</emphasis></emphasis> <emphasis effect="italics">is needed?</emphasis> More mental health counseling is needed for Powell College South.</para>
+      <para id="para-00048"><emphasis effect="italics"><emphasis effect="bold">Who</emphasis></emphasis> <emphasis effect="italics">would benefit from this?</emphasis> The students and faculty would benefit.</para></item>
+      <item><emphasis effect="italics"><emphasis effect="bold">Why</emphasis></emphasis> <emphasis effect="italics">is this needed?</emphasis> The college does not have enough counselors to meet all students’ needs.</item>
+      <item><emphasis effect="italics"><emphasis effect="bold">Where</emphasis></emphasis> <emphasis effect="italics">are more counselors needed?</emphasis> More counselors are needed at the south campus.</item>
+      <item><emphasis effect="italics"><emphasis effect="bold">When</emphasis></emphasis> <emphasis effect="italics">are the counselors needed?</emphasis> Counselors need to be hired now and be available both day and night to accommodate students’ schedules.</item>
+      <item><emphasis effect="italics"><emphasis effect="bold">How</emphasis></emphasis> <emphasis effect="italics">can the college afford this</emphasis>? Instead of hiring daycare workers, the college could use students and faculty from the Early Childhood Education program to run the program and use the extra money to pay the counselors.</item>
+      </list>
+      </section>
+      <section id="sect-00008">
+      <title>Using Logic</title>
+      <para id="para-00049">In a position argument, the appropriate use of <term id="term-00029">logic</term> is especially important for readers to trust what you write. It is also important to look for logic in material you read and possibly cite in your paper so that you can determine whether writers’ claims are reasonable. Two main categories of logical thought are <term id="term-00030">inductive reasoning</term> and <term id="term-00031">deductive reasoning</term>.</para>
+      <list list-type="bulleted" id="list-00011">
+      <item><term id="term-00032">Inductive reasoning</term> moves from specific to broad ideas. You begin by collecting details, observations, incidents, or facts; examining them; and drawing a conclusion from them. Suppose, for example, you are writing about attendance in college classes. For three weeks, you note the attendance numbers in all your Monday, Wednesday, and Friday classes (specific details), and you note that attendance is lower on Friday than on the other days (a specific detail). From these observations, you determine that many students prefer not to attend classes on Fridays (your conclusion).</item>
+      <item><term id="term-00033">Deductive reasoning</term> moves from general to specific ideas. You begin with a <term id="term-00034">hypothesis</term> or <term id="term-00035">premise</term>, a general concept, and then examine possibilities that would lead to a specific and logical conclusion. For instance, suppose you think that opportunities for foreign students at your college are inadequate (general concept). You examine the specific parts of that concept (e.g., whether your college provides multicultural clubs, help with language skills, or work-study opportunities) and determine that those opportunities are not available. You then determine that opportunities for foreign students are lacking at your college.</item>
+      </list>
+      </section>
+      <section id="sect-00009">
+      <title>Logical Fallacies and Propaganda</title>
+      <para id="para-00050"><term id="term-00036">Fallacies</term> are mistakes in logic. Readers and writers should be aware of these when they creep into writing, indicating that the points the writers make may not be valid. Two common fallacies are hasty generalizations and circular arguments. See Glance at Genre: Rhetorical Strategies for more on logical fallacies.</para>
+      <list list-type="bulleted" id="list-00012">
+      <item>A <term id="term-00037">hasty generalization</term>is a conclusion based on either inadequate or biased evidence. Consider this statement: “Two students in Math 103 were nervous before their recent test; therefore, all students in that class must have text anxiety.” This is a hasty generalization because the second part of the statement (the generalization about all students in the class) is inadequate to support what the writer noted about only two students.</item>
+      <item>A <term id="term-00038">circular argument</term> is one that merely restates what has already been said. Consider this statement: “<emphasis effect="italics">The Hate U Give</emphasis> is a well-written book because <term class="no-emphasis" id="term-00039">Angie Thomas</term>, its author, is a good novelist.” The statement that <term class="no-emphasis" id="term-00040">Thomas</term> is a good novelist does not explain why her book is well written.</item>
+      </list>
+      <para id="para-00051">In addition to checking work for fallacies, consider <term id="term-00041">propaganda</term>, information worded so that it endorses a particular viewpoint, often of a political nature. Two common types of propaganda are <term id="term-00042">bandwagon</term> and <term id="term-00043">fear</term>.</para>
+      <list list-type="bulleted" id="list-00013">
+      <item>In getting on the <term id="term-00044">bandwagon</term>, the writer encourages readers to conform to a popular trend and endorse an opinion, a movement, or a person because everyone else is doing so. Consider this statement: “Everyone is behind the idea that 7 a.m. classes are too early and should be changed to at least 8 a.m. Shouldn’t you endorse this sensible idea, too?”</item>
+      <item>In using <term id="term-00045">fear</term>, the writer presents a dire situation, usually followed by what could be done to prevent it. Consider this statement: “Our country is at a turning point. Enemies threaten us with their power, and our democracy is at risk of being crushed. The government needs a change, and Paul Windhaus is just the man to see we get that change.” This quotation appeals to fear about the future of the country and implies that electing a certain individual will solve the predicted problems.</item>
+      </list>
+      <figure id="fig-00005"><media alt="A U.S. navy World War I recruitment poster encourages enlistment by showing a sailor with luggage “off to see the world.”">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_10_05_009.jpeg"/></media>
+      <caption>Propaganda is often used during times of war or crisis and is often presented visually. This <term class="no-emphasis" id="term-00046">World War I</term> poster from the U.S. Navy appeals for men to enlist. It points out men in the navy have an opportunity to “see the world, save money, learn a trade, and serve their country” but avoids mentioning the likelihood of being in life-threatening situations during combat. (credit: Ruttan, Charles E./Library of Congress Prints and Photographs Division, Public Domain)</caption></figure>
+      </section>
+      <section id="sect-00010">
+      <title>Organize the Paper</title>
+      <para id="para-00052">To begin, write your thesis at the top of a blank page. Then select points from your brainstorming and reporters’ questions to organize and develop support for your thesis. Keep in mind that you can revise your thesis whenever needed.</para>
+      <para id="para-00053">To begin organizing her paper on increased mental health services on her college campus, the student wrote this thesis at the top of a page:</para>
+      <para class="student-sample" id="para-00054"><emphasis effect="italics">Because mental health is a major concern at Powell College South, students could benefit from expanding the services offered</emphasis>.</para>
+      <para id="para-00055">Next she decided the sequence in which to present the points. In a position or an argument essay, she could choose one of two methods: <term id="term-00047">thesis-first</term> organization or <term id="term-00048">delayed-thesis</term> organization.</para>
+      </section>
+      <section id="sect-00011">
+      <title>Thesis-First Organization</title>
+      <para class="annotation linguistic-icon" id="para-00056">Leading with a thesis tells readers from the beginning where you stand on the issue. In this organization, the thesis occupies both the first and last position in the essay, making it easy for readers to remember.</para>
+      <list list-type="bulleted" id="list-00014">
+      <item><para id="para-00057"><emphasis effect="bold">Introduce the issue and assert your thesis.</emphasis> Make sure the issue has at least two debatable sides. Your thesis establishes the position from which you will argue. Writers often state their thesis as the last sentence in the first paragraph, as the student writer has done:</para>
+      <para class="student-sample" id="para-00058">The problem of mental health has become front-page news in the last two months. <emphasis effect="italics">Hill’s Herald</emphasis>, Powell College South’s newspaper, reported 14 separate incidents of students who sought counseling but could not get appointments with college staff. <emphasis effect="highlight">Since mental health problems are widespread among the student population, the college should hire more health care workers to address this problem.</emphasis></para></item>
+      <item><para id="para-00059"><emphasis effect="bold">Summarize the counterclaims<emphasis effect="italics">.</emphasis></emphasis> Before elaborating on your claims, explain the opposition’s claims. Including this information at the beginning gives your argument something to focus on—and refute—throughout the paper. If you ignore counterclaims, your argument may appear incomplete, and readers may think you have not researched your topic sufficiently. When addressing a counterclaim, state it clearly, show empathy for those who have that view, and then immediately refute it with support developed through reasoning and evidence. Squeezing the counterclaims between the thesis and the evidence reserves the strongest places—the opening and closing—for your position.</para>
+      <para class="student-sample" id="para-00060"><emphasis effect="italics">Counterclaim 1</emphasis>: Powell College South already employs two counselors, and that number is sufficient to meet the needs of the student population.</para>
+      <para class="student-sample" id="para-00061"><emphasis effect="italics">Counterclaim 2</emphasis>: Students at Powell College South live in a metropolitan area large enough to handle their mental health needs.</para></item>
+      <item><para id="para-00062"><emphasis effect="bold">Refute the counterclaims.</emphasis> Look for weak spots in the opposition’s argument, and point them out. Use your opponent’s language to show you have read closely but still find problems with the claim. This is the way the writer refuted the first counterclaim:</para>
+      <para class="student-sample" id="para-00063">While Powell College South does employ two counselors, those counselors are overworked and often have no time slots available for students who wish to make appointments.</para></item>
+      <item><para id="para-00064"><emphasis effect="bold">State and explain your points, and then support them with evidence.</emphasis> Present your points clearly and precisely, using Reasoning Strategies: Improving Critical Thinking to explain and cite your evidence. The writer plans to use a problem-solution reasoning strategy to elaborate on these three points using these pieces of evidence:</para>
+      <para class="student-sample" id="para-00065">Point 1: Wait times are too long.</para>
+      <para class="student-sample" id="para-00066">Kay Payne, one of the campus counselors, states that the wait time for an appointment with her is approximately 10 days.</para>
+      <para class="student-sample" id="para-00067">Point 2: Mental health issues are widespread within the student community.</para>
+      <para class="student-sample" id="para-00068">In a recent on-campus student survey, 75 percent of 250 students say they have had some kind of mental health issues at some point in their life.</para>
+      <para class="student-sample" id="para-00069">Point 3: The staff-to-student ratio is too high.</para>
+      <para class="student-sample" id="para-00070">The International Accreditation of Counseling Services states that the recommended ratio is one full-time equivalent staff member for every 1,000 to 1,500 students.</para></item>
+      <item><para id="para-00071"><emphasis effect="bold">Restate your position as a conclusion.</emphasis> Near the end of your paper, synthesize your accumulated evidence into a broad general position, and restate your thesis in slightly different language.</para>
+      <para class="student-sample" id="para-00072">The number of students who need mental health counseling is alarming. The recent news articles that attest to their not being able to schedule appointments add to the alarm. While Powell College South offers some mental health counseling, the current number of counselors and others who provide health care is insufficient to handle the well-being of all its students. Action must be taken to address this problem.</para></item>
+      </list>
+      </section>
+      <section id="sect-00012">
+      <title>Delayed-Thesis Organization</title>
+      <para class="annotation linguistic-icon" id="para-00073">In this organizational pattern, introduce the issue and discuss the arguments for and against it, but wait to take a side until late in the essay. By delaying the stance, you show readers you are weighing the evidence, and you arouse their curiosity about your position. Near the end of the paper, you explain that after carefully considering both pros and cons, you have arrived at the most reasonable position.</para>
+      <list list-type="bulleted" id="list-00015">
+      <item><para id="para-00074"><emphasis effect="bold">Introduce the issue.</emphasis> Here, the writer begins with action that sets the scene of the problem.</para>
+      <para class="student-sample" id="para-00075">Tapping her foot nervously, Serena looked at her watch again. She had been waiting three hours to see a mental health counselor at Powell College South, and she did not think she could wait much longer. She had to get to work.</para></item>
+      <item><para id="para-00076"><emphasis effect="bold">Summarize the claims for one position.</emphasis> Before stating which side you support, explain how the opposition views the issue. This body paragraph presents evidence about the topic of more counselors:</para>
+      <para class="student-sample" id="para-00077">Powell College South has two mental health counselors on staff. If the college hires more counselors, more office space will have to be created. Currently Pennington Hall could accommodate those counselors. Additional counselors would allow more students to receive counseling.</para></item>
+      <item><para id="para-00078"><emphasis effect="bold">Refute the claims you just stated.</emphasis> Still not stating your position, point out the other side of the issue.</para>
+      <para class="student-sample" id="para-00079">While office space is available in Pennington Hall, that location is far from ideal. It is in a wooded area of campus, six blocks from the nearest dorm. Students who would go there might be afraid to walk through the woods or might be afraid to walk that distance. The location might deter them from making appointments.</para></item>
+      <item><para id="para-00080"><emphasis effect="bold">Now give the best reasoning and evidence to support your position.</emphasis> Because this is a delayed-thesis organization, readers are still unsure of your stance. This section should be the longest and most carefully documented part of the paper. After summarizing and refuting claims, the writer then elaborates on these three points using problem-solution reasoning supported by this evidence as discussed in Reasoning Strategies: Improving Critical Thinking, implying her position before moving to the conclusion, where she states her thesis.</para>
+      <para class="student-sample" id="para-00081">Point 1: Wait times are too long.</para>
+      <para class="student-sample" id="para-00082">Kay Payne, one of the campus counselors, states that the wait time for an appointment with her is approximately 10 days.</para>
+      <para class="student-sample" id="para-00083">Point 2: Mental health issues are widespread within the student community.</para>
+      <para class="student-sample" id="para-00084">In a recent on-campus student survey, 75 percent of 250 students say they have had some kind of mental health issues at some point in their life.</para>
+      <para class="student-sample" id="para-00085">Point 3: The staff-to-student ratio is too high.</para>
+      <para class="student-sample" id="para-00086">The International Association of Counseling Services states that one full-time equivalent staff member for every 1,000 to 1,500 students is the recommended ratio.</para></item>
+      <item><para id="para-00087"><emphasis effect="bold">State your thesis in your conclusion.</emphasis> Your rhetorical strategy is this: after giving each side a fair hearing, you have arrived at the most reasonable conclusion.</para>
+      <para class="student-sample" id="para-00088">According to the American Psychological Association, more than 40 percent of all college students suffer from some form of anxiety. Powell College South students are no different from college students elsewhere: they deserve to have adequate mental health counseling.</para></item>
+      </list>
+      </section>
+      <section id="sect-00013">
+      <title>Compose</title>
+      <para class="annotation linguistic-icon" id="para-00089">Drafting begins when you organize your evidence or research notes and then put them into some kind of written form. As you write, focus on building body paragraphs through the techniques presented in Reasoning Strategies: Improving Critical Thinking that show you how to support your position and then add evidence. Using a variety of evidence types builds credibility with readers. Remember that the recursiveness of the writing process allows you to move from composing to gathering evidence and back to brainstorming ideas or to organizing your draft at any time. Move around the writing process as needed.</para>
+      <para id="para-00090">Keep in mind that a first draft is just a beginning—you will revise it into a better work in later drafts. Your first draft is sometimes called a <emphasis effect="italics">discovery draft</emphasis> because you are discovering how to shape your paper: which ideas to include and how to support those ideas. These suggestions and graphic organizer may be helpful for your first draft:</para>
+      <list list-type="bulleted" id="list-00016">
+      <item>Write your thesis at the top of the paper.</item>
+      <item>Compose your body paragraphs: those that support your argument through reasoning strategies and those that address counterclaims.</item>
+      <item>Leave your introduction, conclusion, and title for later drafts.</item>
+      </list>
+      <para id="para-00091">Use a graphic organizer like Figure 10.9 to focus points, reasoning, and evidence for body paragraphs. You are free to reword your thesis, reasoning, counterclaim(s), refutation of counterclaim(s), concrete evidence, and explanation/elaboration/clarification at any time. You are also free to adjust the order in which you present your reasoning, counterclaim(s), and refuting of counterclaim(s).</para>
+      <table summary="" id="table-00001">
+      <tgroup cols="1">
+      <tbody>
+      <row>
+      <entry align="center"><para id="para-00092"><emphasis effect="bold">Composing Your First Draft</emphasis></para>
+      <para id="para-00093"/>
+      <para id="para-00094"><emphasis effect="bold">Position Argument</emphasis></para></entry>
+      </row>
+      <row>
+      <entry><para id="para-00095">Name ________________________________________________________________________</para>
+      <para id="para-00096">Thesis: In your thesis, remember to include 1) an explanation of the issue and 2) your position about what should happen regarding the issue.</para>
+      <para id="para-00097"/>
+      <para id="para-00098">Issue:</para>
+      <para id="para-00099"/>
+      <para id="para-00100">My position:</para>
+      <para id="para-00101"/>
+      <para id="para-00102">Thesis as a single declarative sentence: ________</para>
+      <para id="para-00103"/>
+      <para id="para-00104">Background information:</para>
+      <para id="para-00105"/>
+      <para id="para-00106">Reporters’ questions:</para>
+      <para id="para-00107">____________________________________________________________________</para>
+      <para id="para-00108">Point 1 in support of thesis:</para>
+      <para id="para-00109"/>
+      <para id="para-00110">Reasoning: explanation/elaboration/clarification:</para>
+      <para id="para-00111"/>
+      <para id="para-00112">Concrete evidence:</para>
+      <para id="para-00113">__________________________________________________________________________</para>
+      <para id="para-00114">Point 2 in support of thesis:</para>
+      <para id="para-00115"/>
+      <para id="para-00116">Reasoning: explanation/elaboration/clarification:</para>
+      <para id="para-00117"/>
+      <para id="para-00118">Concrete evidence:</para>
+      <para id="para-00119">_____________________________________________________________________________</para>
+      <para id="para-00120">Point 3 in support of thesis:</para>
+      <para id="para-00121"/>
+      <para id="para-00122">Reasoning: explanation/elaboration/clarification:</para>
+      <para id="para-00123"/>
+      <para id="para-00124">Concrete evidence:</para>
+      <para id="para-00125">___________________________________________________________________________</para>
+      <para id="para-00126">Points 4 &amp; 5 in support of thesis:</para>
+      <para id="para-00127"/>
+      <para id="para-00128">Reasoning: explanation/elaboration/clarification:</para>
+      <para id="para-00129">Concrete evidence:</para>
+      <para id="para-00130">________________________________________________________________________</para>
+      <para id="para-00131">Counterclaim:</para>
+      <para id="para-00132"/>
+      <para id="para-00133">Reasoning: explanation/elaboration/clarification:</para>
+      <para id="para-00134">__________________________________________________________________________</para>
+      <para id="para-00135">Refuting of counterclaim:</para>
+      <para id="para-00136"/>
+      <para id="para-00137">Reasoning: explanation/elaboration/clarification:</para></entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Position argument drafting organizer</caption>
+      </table>
+      </section>
+      <section id="sect-00014">
+      <title>Develop a Writing Project through Multiple Drafts</title>
+      <para id="para-00138">Your first draft is a kind of experiment in which you are concerned with ideas and with getting the direction and concept of the paper clear. Do not think that your first draft must be perfect; remind yourself that you are just honing your work. In most serious writing, every phase of the process can be considered recursive, helping you shape the best paper possible.</para>
+      </section>
+      </section>
+      <section class="peer-review" id="sect-00015">
+      <title>Critical Thinking and Counterclaims</title>
+      <para class="annotation linguistic-icon" id="para-00139">After you have completed the first draft, begin peer review. Peer reviewers can use these sentence starters when thinking critically about overall strengths and developmental needs.</para>
+      <list type="enumerated" id="list-00017">
+      <item>One point about your position that I think is strong is ______ because ________.</item>
+      <item>One point about your position that I think needs more development is _____ because _______.</item>
+      <item>One area that I find confusing is _____________; I was confused about _______.</item>
+      <item>One major point that I think needs more explanation or detail is _______.</item>
+      <item>In my opinion, the purpose of your paper is to persuade readers _______.</item>
+      <item>In my opinion, the audience for your paper is _______.</item>
+      <item>One area of supporting evidence that I think could use more development is _______.</item>
+      <item>One counterclaim you include is ________________.</item>
+      <item>Your development of the counterclaim is __________________ because ________________.</item>
+      </list>
+      <section id="sect-00016">
+      <title>Refuting Counterclaims</title>
+      <para id="para-00140">Peer reviewers are especially helpful with position and argument writing when it comes to refuting counterclaims. Have your peer reviewer read your paper again and look for supporting points and ideas to argue <emphasis effect="italics">against</emphasis>, trying to break down your argument. Then ask your reviewer to discuss the counterclaims and corresponding points or ideas in your paper. This review will give you the opportunity to think critically about ways to refute the counterclaims your peer reviewer suggests.</para>
+      <para class="annotation kinesthetic-icon" id="para-00141">As preparation for peer review, match each of the following arguments with their counterarguments.</para>
+      <media alt="atoms_isotopes">
+      <iframe width="660" height="371.4" src="../../media/Interactive/090721_opx_comp_ch10_drag_and_drop_matching/index.html"/>
+      </media>
+      </section>
+      </section>
+      <section class="revising" id="sect-00017">
+      <title>Reviewing a Draft and Responding to Counterclaims</title>
+      <para id="para-00142"><term id="term-00049">Revising</term> means reseeing, rereading, and rethinking your thoughts on paper until they fully match your intention. Mentally, it is conceptual work focused on units of meaning larger than the sentence. Physically, it is cutting, pasting, deleting, and rewriting until the ideas are satisfying. Be ready to spend a great deal of time revising your drafts, adding new information and incorporating sources smoothly into your prose.</para>
+      <section id="sect-00018">
+      <title>The Revising Process</title>
+      <para class="annotation dreaming-icon" id="para-00143">To begin revising, return to the basic questions of <term id="term-00050">topic</term> (<emphasis effect="italics">What am I writing about?</emphasis>), <term id="term-00051">purpose</term> (<emphasis effect="italics">Why am I writing about this topic?</emphasis>), <term id="term-00052">audience</term> (<emphasis effect="italics">For whom am I writing?</emphasis>), and <term id="term-00053">culture</term> (<emphasis effect="italics">What is the background of the people for whom I am writing?</emphasis>).</para>
+      <list list-type="bulleted" id="list-00018">
+      <item><emphasis effect="bold">Questions about the topic.</emphasis> Be sure your topic and thesis focus on your position, and omit extra material. Answer these questions:
+      <list type="enumerated" id="list-00019">
+      <item>What is the general scope of my topic? __________________________________</item>
+      <item>What is my thesis? __________________________________________________</item>
+      <item>Does my thesis focus on my topic? ______________________________________</item>
+      <item>Does my thesis clearly state my position? ______________________</item>
+      </list></item>
+      <item><emphasis effect="bold">Questions about purpose.</emphasis> It is often easier to locate your purpose—or lack of purpose—after you have written a draft or two. Answer these questions:
+      <list type="enumerated" id="list-00020">
+      <item>What do I hope to accomplish in writing about this topic? ____________________</item>
+      <item>Do all parts of the paper advance this purpose? ____________________________</item>
+      <item>Does my paper focus on my argument or position? _________________________</item>
+      </list></item>
+      <item><emphasis effect="bold">Questions about audience.</emphasis> Make sure your paper is aimed accurately at your readers. Answer these questions:
+      <list type="enumerated" id="list-00021">
+      <item>What does my audience know about this subject? _______________________</item>
+      <item>What does my audience need to know to understand the point of my paper? _______________________________________________________________</item>
+      <item><para id="para-00144">What questions or objections do I anticipate from my audience? ___________</para>
+      <para id="para-00145">________________________________________________________________</para></item>
+      </list></item>
+      <item><emphasis effect="bold">Questions about culture.</emphasis> Your paper should reflect consideration of cultural differences, if any, between you and your audience. Answer these questions:
+      <list type="enumerated" id="list-00022">
+      <item>What is the culture of the people for whom I am writing? Do all readers share the same culture? ________________________________________________________</item>
+      <item><para id="para-00146">How do my beliefs, values, and customs differ from those of my audience?</para>
+      <para id="para-00147"><emphasis effect="italics">____________________________________________________________________</emphasis></para></item>
+      <item>How do the cultures of the authors of sources I cite differ from my culture or the culture(s) of my audience? ______________________________________________</item>
+      </list></item>
+      </list>
+      <para id="para-00148">Because of the recursivity of the writing process, returning to these questions will help you fine-tune the language and structure of your writing and target the support you develop for your audience.</para>
+      </section>
+      <section id="sect-00019">
+      <title>Responding to Counterclaims</title>
+      <para id="para-00149">The more complex the issue, the more opposing sides it may have. For example, a writer whose position is that Powell College South Campus should offer daycare to its students with children might find opposition for different reasons. Someone may oppose the idea out of concern for cost; someone else may support the idea if the daycare is run on a volunteer basis; someone else may support the idea if the services are offered off campus.</para>
+      <para id="para-00150">As you revise, continue studying your peer reviewer’s comments about counterclaims. If you agree with any counterclaim, then say so in the paragraph in which you address counterclaims. This agreement will further establish your credibility by showing your fairness and concern for the issue. Look over your paper and peer review comments, and then consider these questions:</para>
+      <list list-type="bulleted" id="list-00023">
+      <item>In what ways do you address realistic counterclaims? What other counterclaims should you address? Should you add to or replace current counterclaims?</item>
+      <item>In what ways do you successfully refute counterclaims? What other refutations might you include?</item>
+      <item>Are there any counterclaims with which you agree? If so, how do you concede to them in your paper? In what ways does your discussion show fairness?</item>
+      </list>
+      <para id="para-00151">After completing your peer review and personal assessment, make necessary revisions based on these notes. See Annotated Student Sample an example of a student’s argumentative research essay. Note how the student</para>
+      <list list-type="bulleted" id="list-00024">
+      <item>presents the argument;</item>
+      <item>supports the viewpoint with reasoning and evidence;</item>
+      <item>includes support in the form of facts, opinions, paraphrases, and summaries;</item>
+      <item>provides citations (correctly formatted) about material from other sources in the paper;</item>
+      <item>uses ethos, pathos, and logos throughout the paper; and</item>
+      <item>addresses counterclaims (dissenting opinions).</item>
+      </list>
+      </section>
       </section>
   </content>
 </document>

@@ -6,9 +6,88 @@
     <md:uuid>7bb0f175-ad54-474d-b72a-c34631688f7b</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Articulate and analyze key rhetorical concepts in presenting a position or an argument.</item>
+      <item>Demonstrate awareness of context, audience, and purpose in a position argument.</item>
+      <item>Identify the thesis and supporting evidence of a position argument.</item>
+      <item>Distinguish different types of evidence used in a position argument.</item>
+      </list>
+      </section>
+      <para class="annotation linguistic-icon culture-icon" id="para-00002">The purpose of a position argument is to persuade readers to adopt a viewpoint. Writers of position arguments focus on a thesis that takes a stance on a debatable issue and support that thesis with reasoning and evidence. When writing persuasively, consider your audience and use the kinds of reasoning strategies and evidentiary appeals you believe will be convincing. In addition, use language with which your audience is most comfortable. In academic environments, academic language is generally most acceptable, although you may choose to challenge this notion for rhetorical purposes. Outside academic environments, tailor your language to connect best with your audience.</para>
+      <para id="para-00003">Reasoning is most effective when it is built on evidence that readers recognize as logical and practical. Suppose you want to persuade your audience that because of the insurrection at the U.S. Capitol on January 6, 2021, additional police should be hired to protect the building and the people who work there. You could include information about the number of police on duty that day, the number of people injured, and the amount of damage done. You then could explain how the number of police on duty was insufficient to protect the people and the Capitol.</para>
+      <para id="para-00004">Additionally, you identify and refute the <term id="term-00001">counterclaims</term>. An example of a counterclaim against hiring additional police officers might be that the cost is too high. Your response, then, might be that the cost could easily be shifted from another nationally funded source.</para>
+      <section id="sect-00002">
+      <title>Characteristics of Position Arguments</title>
+      <para id="para-00005">The characteristics of a position argument include the following elements.</para>
+      <section id="sect-00003">
+      <title>Ethos (Ethical Appeal)</title>
+      <para id="para-00006">You establish credibility by showing readers that your approach to the issue is fair and that you can be trusted. One way to demonstrate fairness and trustworthiness is to use neutral language that avoids name-calling. For instance, in your paper about hiring additional police to defend the Capitol, you would avoid taking political sides and would use neutral language when describing police, workers in the Capitol, and demonstrators.</para>
+      <para id="para-00007">To show trustworthiness, always follow these guidelines:</para>
+      <list list-type="bulleted" id="list-00002">
+      <item>Use only respected, reliable sources as evidence. Avoid sources that lean heavily to the political right or left or that are otherwise questionable as to accuracy. Reliable sources include scholarly, peer-reviewed articles and books; professional articles and books; and articles from magazines, newspapers, websites, and blogs. For more information about credible sources, see Research Process: Accessing and Recording Information and Annotated Bibliography: Gathering, Evaluating, and Documenting Sources.</item>
+      <item>Present evidence from sources in the same context in which it was originally presented. Do not change the original author’s meaning or tone. Be especially careful of such changes when you paraphrase or summarize. See Spotlight on… Citation for more about paraphrasing and summarizing.</item>
+      <item>Cite evidence to the proper sources. Use the citation style required by your instructor, usually MLA Documentation and Format or APA Documentation and Format Proper citations direct readers to more information about your sources and show you are not plagiarizing.</item>
+      <item>Incorporate common ground between readers who support your position and those who do not. To do this, many authors use evidence pulled from patriotic or religious documents to create ethical appeal. For instance, regarding the activity that took place at the Capitol, both sides might find common ground in the First Amendment of the U.S. Constitution, which outlines rights of the people. The protestors might cite the section of the amendment that deals with freedom of assembly; those on the other side might point out that the amendment guarantees “the right of the people peaceably to assemble” and that the assembly was not peaceable.</item>
+      </list>
+      </section>
+      <section id="sect-00004">
+      <title>Logos (Logical Appeal)</title>
+      <para id="para-00008">You appeal to your audience’s intelligence by showing that you understand the value of sound reasoning. To do this, state your position clearly and support it with rational arguments, critical thinking, and credible evidence. Also, avoid exaggerating or making claims you cannot support with reliable evidence. Many authors use facts and statistics to create logical appeal.</para>
+      <para id="para-00009">To appeal to logic, follow these guidelines:</para>
+      <list list-type="bulleted" id="list-00003">
+      <item>State your position clearly with easy-to-understand language. For example, to appeal to readers’ intelligence in your paper about hiring additional police to defend the Capitol, avoid using vocabulary that would feel unnatural. Instead of writing “The verbiage from the campaigners importuned the dispossession of their statesmen,” write “The protestors demanded the resignations of their congressional representatives.”</item>
+      <item>Support your position with reasoning that is neither incomplete nor faulty. Sound reasoning is that which all can agree makes sense. For example, you would not contend that to be ready for future protests, the Capitol police force must be doubled from 2,000 to 4,000 because you cannot know the number needed at any time. However, you could argue that the Capitol police force and government leaders should study the January 6, 2021, riot to determine how many additional police are needed, should such an occasion arise again.</item>
+      <item>Present your critical thinking through a well-constructed argument. By ordering your position argument in a manner that moves logically from one point to the next, you help guide readers through your thought process, which is reflected in the smooth flow of ideas that work together to support your thesis.</item>
+      <item>Incorporate credible evidence from trusted and reliable academic, government, media, and professional sources. Using these sources shows readers that you recognize biased material and have excluded it from your paper.</item>
+      </list>
+      </section>
+      <section id="sect-00005">
+      <title>Pathos (Emotional Appeal)</title>
+      <para id="para-00010">You appeal to your audience’s feelings—such as sympathy, anger, fear, insecurity, guilt, and conscience—to support your position.</para>
+      <para id="para-00011">For example, to appeal to your audience’s emotions in your paper about the need for more Capitol police, you might do the following:</para>
+      <list list-type="bulleted" id="list-00004">
+      <item>Help your readers understand feelings of fear. One way to appeal to this emotion is to quote from interviews with government workers and bystanders who were hiding behind locked doors and had no police protection.</item>
+      <item>Use vivid description and concrete language to recreate images that showed lone officers overwhelmed by crowds of people and beaten.</item>
+      <item>Use nonaggressive language to address the positions of readers who do not support your stance. For example, some readers may believe that the federal government spends too much money already and should not allocate more. By using language that is not inflammatory, you can show your empathy for others, and this may help you convince them to support your position.</item>
+      </list>
+      </section>
+      <section id="sect-00006">
+      <title>Kairos (Timeliness)</title>
+      <para id="para-00012">The sense of timing—presenting your position at the right time—is critical in a position argument. The issue must be worthy of attention at the time it is presented for readers to feel a sense of urgency. For example, in an argumentative paper about the significance of the <term class="no-emphasis" id="term-00002">Black Lives Matter</term> (BLM) movement, you could do the following:</para>
+      <list list-type="bulleted" id="list-00005">
+      <item>Point out the history of the BLM movement, which began in 2013 after the acquittal of the man accused of killing <term class="no-emphasis" id="term-00003">Trayvon Martin</term> in 2012.</item>
+      <item>Note that today, most of the speeches delivered in BLM rallies held across the country reference the May 2020 murder of <term class="no-emphasis" id="term-00004">George Floyd</term>.</item>
+      <item>Emphasize that Floyd’s killing remains front and center in the minds of rally participants. In other words, the topic of Floyd’s death is timely, and related circumstances indicate a favorable time for action.</item>
+      </list>
+      <para id="para-00013">You can find further discussion about these appeals in Rhetorical Analysis: Interpreting the Art of Rhetoric.</para>
+      </section>
+      </section>
+      <section id="sect-00007">
+      <title>Key Terms</title>
+      <para id="para-00014">These are key terms and characteristics of position arguments:</para>
+      <list list-type="bulleted" id="list-00006">
+      <item><term id="term-00005">Allusion</term><emphasis effect="bold">:</emphasis> direct or implied reference to a person, place, work of literature, idea, event, or anything a writer expects readers to know about. Allusion is a frequently used literary device.</item>
+      <item><term id="term-00006">Citation</term><emphasis effect="bold">:</emphasis> reference to the source of information used in a writer’s research.</item>
+      <item><term id="term-00007">Critical thinking</term><emphasis effect="bold">:</emphasis> ability to identify and solve problems by gathering information about a topic and then analyzing and evaluating evidence to form a judgment.</item>
+      <item><term id="term-00008">Counterclaim (dissenting opinion)</term><emphasis effect="bold">:</emphasis> statement of what the other side might say in opposition to the stance the writer takes about an issue.</item>
+      <item><term id="term-00009">Ethos</term><emphasis effect="bold">:</emphasis> appeal to readers’ ethical sense; establishing authority and credibility.</item>
+      <item><term id="term-00010">Evidence</term><emphasis effect="bold">:</emphasis> facts and other information that prove or disprove the validity of something written or stated.</item>
+      <item><term id="term-00011">Introduction</term><emphasis effect="bold">:</emphasis> first part of a paper. In position arguments, the writer alerts readers to the issue or problem discussed and often presents the thesis at the end of the introduction.</item>
+      <item><term id="term-00012">Kairos</term><emphasis effect="bold">:</emphasis> appeal to timeliness of the subject matter.</item>
+      <item><term id="term-00013">Logos</term><emphasis effect="bold">:</emphasis> appeal to readers’ sense of logic, or reason.</item>
+      <item><term id="term-00014">Pathos</term><emphasis effect="bold">:</emphasis> appeal to readers’ emotions.</item>
+      <item><term id="term-00015">Purpose</term><emphasis effect="bold">:</emphasis> author’s reason for writing the paper. In a position argument, the purpose is to persuade readers to agree with the writer’s stance.</item>
+      <item><term id="term-00016">Reasoning</term><emphasis effect="bold">:</emphasis> logical and sensible explanation of a concept.</item>
+      <item><term id="term-00017">Recursivity</term><emphasis effect="bold">:</emphasis> movement back and forth from one part of the writing process to another.</item>
+      <item><term id="term-00018">Rhetorical appeals</term><emphasis effect="bold">:</emphasis> methods of persuasion (ethos, logos, pathos, and kairos).</item>
+      <item><term id="term-00019">Rhetorical questions</term><emphasis effect="bold">:</emphasis> questions intended to make a point rather than to get an answer. Rhetorical questions, which often have no answers or no obvious answers, appear frequently in argument writing as a way of capturing audience attention.</item>
+      <item><term id="term-00020">Topic</term><emphasis effect="bold">:</emphasis> subject of a paper. In this genre, the topic is a debatable issue.</item>
+      <item><term id="term-00021">Thesis</term><emphasis effect="bold">:</emphasis> declarative sentence (sometimes two) that states a writer’s position about the debatable issue, or topic, of the paper.</item>
+      <item><term id="term-00022">Transitional words and phrases</term><emphasis effect="bold">:</emphasis> words and phrases that help readers connect ideas from one sentence to another or from one paragraph to another. Transitions establish relationships among ideas.</item>
+      </list>
       </section>
   </content>
 </document>

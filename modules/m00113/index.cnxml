@@ -6,9 +6,345 @@
     <md:uuid>3d2cf2b3-f279-404c-8ecd-1d487501168a</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list list-type="bulleted" id="list-00001">
+      <item>Use organizational and reasoning strategies to compose texts that integrate the writer’s ideas with those from appropriate sources.</item>
+      <item>Implement varying language structures in the process of composing.</item>
+      <item>Develop flexible strategies for drafting and revising.</item>
+      </list>
+      </section>
+      <para id="para-00002">In this section you will practice writing paragraphs that demonstrate your ability to use the reasoning strategies discussed.</para>
+      <section id="sect-00002">
+      <title>Summary of Assignment</title>
+      <para id="para-00003">Using three of the strategies for reasoning (analogy, cause and effect, classification and division, comparison and contrast, definition, or problem and solution), write at least three body paragraphs for your Position Argument: Practicing the Art of Rhetoric assignment. Write at least one single paragraph for each strategy you choose. You may write additional paragraphs in which you combine strategies.</para>
+      <para class="annotation visual-icon" id="para-00004"><emphasis effect="bold"><emphasis effect="italics">Another Lens.</emphasis></emphasis> Make a visual draft of your assignment by using photos you take, images you find online (be sure to adhere to copyright guidelines), images you create, or a combination of these. Your instructor will tell you whether to substitute visuals for all three paragraphs or just one or two. Put the title at the top of your poster and, if necessary, include explanations of your images. The images you use and the manner in which you arrange them should convey the same ideas you want to express about your subject in writing. The selected images should reflect your critical thinking on your subject and should invite the viewer also to think critically about your subject. You can read more about understanding various aspects of visual rhetoric in Image Analysis: Writing About What You See. Although the design arrangements, or layouts, for a poster are numerous, consider using one of these:</para>
+      <list list-type="bulleted" id="list-00002">
+      <item><emphasis effect="bold">Centered image—nucleus idea:</emphasis> The primary image is in the center of the poster. Other secondary images radiate outward from the primary image or are arranged around it another meaningful way.</item>
+      <item><emphasis effect="bold">Left-to-right flow—horizontal:</emphasis> Images progress across the poster like lines of text, from left to right.</item>
+      <item><emphasis effect="bold">Left-to-right flow—vertical:</emphasis> Images progress across the poster like lines of text in a column. Depending on the size of your poster, you could include from three to five columns of images.</item>
+      <item><emphasis effect="bold">Two contrasting fields:</emphasis> Images are divided into two sections of the poster, some on the left and some on the right.</item>
+      </list>
+      <figure id="fig-00001"><media alt="A cause-and-effect poster with two contrasting fields indicates the possible result of working in a lab without eye protection. The flask pictured overlapping a human face explodes on the right side. The text reads, “No eyeshield, no eye sight.”">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_11_05_010.jpg"/></media>
+      <caption>This cause-and-effect poster with two contrasting fields indicates the possible result of working without eye protection in a lab. (credit: Science Museum Group/Wikimedia Commons, CC BY 4.0)</caption></figure>
+      <figure id="fig-00002"><media alt="A poster shows a large antenna with the word “Communication” written above it. Two workers sit behind the antenna. The text below reads, “Exchanging ideas is a two way process.”">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_11_05_011.jpeg"/></media>
+      <caption>In this centered-image poster illustrating the strategy of definition, the sentence indicates a requirement of communication, and the images indicate ways in which people communicate. (credit: Dave Ahlschwede/Wikimedia Commons, Public Domain)</caption></figure>
+      </section>
+      <section class="quick-launch" id="sect-00003">
+      <title>Structural Paragraph Frames</title>
+      <para class="annotation visual-icon" id="para-00005">Once you have determined your reasoning strategy and purpose for a particular paragraph, consider how to develop the evidence within that paragraph through a topic sentence, explanation, and analysis. To do this task, choose the most appropriate structure for a given paragraph from the structures below, and complete the frame according to the prompts. You may alter the frames as needed. Remember that each paragraph that you develop should support your thesis. In other words, make sure that each topic sentence ties back to your thesis.</para>
+      <para id="para-00006"><emphasis effect="bold">First, record your working thesis:</emphasis> ________</para>
+      <para id="para-00007"><term id="term-00001">Analogy</term></para>
+      <list list-type="bulleted" id="list-00003">
+      <item><term id="term-00002">Working topic sentence</term> ______________ is like _________________ in many ways.</item>
+      </list>
+      <para id="para-00008"><emphasis effect="bold">Structure</emphasis></para>
+      <list list-type="bulleted" id="list-00004">
+      <item>explanation:</item>
+      <item>analysis:</item>
+      </list>
+      <para id="para-00009"><term id="term-00003">Cause and Effect</term></para>
+      <list list-type="bulleted" id="list-00005">
+      <item><para id="para-00010"><emphasis effect="bold">Working topic sentence for Structure #1</emphasis></para>
+      <para id="para-00011">Because (cause/s) ____________ (what had happened), (effect/s) ____________ (what happened as a result).</para></item>
+      <item><para id="para-00012"><emphasis effect="bold">Structure #1 for cause-and-effect paragraph</emphasis></para>
+      <para id="para-00013">cause(s):</para>
+      <para id="para-00014">effect(s):</para></item>
+      <item><para id="para-00015"><emphasis effect="bold">Working topic sentence for Structure #2</emphasis></para>
+      <para id="para-00016">(effect/s) _______________ (what happened as a result) because (cause/s)____________ (what had happened).</para></item>
+      <item><para id="para-00017"><emphasis effect="bold">Structure #2 for cause-and-effect paragraph</emphasis></para>
+      <para id="para-00018">cause(s):</para>
+      <para id="para-00019">effect(s):</para></item>
+      </list>
+      <para id="para-00020"><term id="term-00004">Classification and Division</term></para>
+      <list list-type="bulleted" id="list-00006">
+      <item><emphasis effect="bold">Working topic sentence for Structure #1</emphasis> (general subject) _____________ can be divided into (smaller categories) ______________, _______________, and _____________.</item>
+      <item><para id="para-00021"><emphasis effect="bold">Structure #1 for classification-and-division paragraphs: division</emphasis></para>
+      <para id="para-00022">larger subject:</para>
+      <para id="para-00023">first category:</para>
+      <para id="para-00024">second category:</para>
+      <para id="para-00025">third category:</para></item>
+      <item><para id="para-00026"><emphasis effect="bold">Working topic sentence for Structure #2</emphasis></para>
+      <para id="para-00027">(smaller category) _______________, ______________, and _____________ are (types) of (larger subject) ___________.</para></item>
+      <item><para id="para-00028"><emphasis effect="bold">Structure #2 for classification-and-division paragraph: classification</emphasis></para>
+      <para id="para-00029">smaller category:</para>
+      <para id="para-00030">smaller category:</para>
+      <para id="para-00031">smaller category:</para>
+      <para id="para-00032">larger subject:</para></item>
+      </list>
+      <para id="para-00033"><term id="term-00005">Comparison and Contrast</term></para>
+      <list list-type="bulleted" id="list-00007">
+      <item><para id="para-00034"><emphasis effect="bold">Working topic sentence for Structure #1</emphasis></para>
+      <para id="para-00035">One way in which (subject 1)__________ and (subject 2)__________ are alike is (similarity) ________; one way in which they differ is (difference) ________.</para></item>
+      <item><para id="para-00036"><emphasis effect="bold">Structure #1 for comparison-and-contrast paragraph</emphasis></para>
+      <para id="para-00037">Subject 1:</para>
+      <para id="para-00038">Subject 2:</para>
+      <para id="para-00039">Similarity(-ies) of subject 1 and subject 2:</para>
+      <para id="para-00040">Difference(s) of subject 1 and subject 2:</para></item>
+      <item><para id="para-00041"><emphasis effect="bold">Working topic sentence for Structure #2</emphasis></para>
+      <para id="para-00042">One way in which (subject 1) _________ and (subject 2) _________ are different is (difference)________; one way in which they are similar is (similarity)________.</para></item>
+      <item><para id="para-00043"><emphasis effect="bold">Structure #2 for comparison-and-contrast paragraph</emphasis></para>
+      <para id="para-00044">Subject 1:</para>
+      <para id="para-00045">Subject 2:</para>
+      <para id="para-00046">Difference(s) of subject 1 and subject 2:</para>
+      <para id="para-00047">Similarity(-ies) of subject 1 and subject 2:</para></item>
+      </list>
+      <para id="para-00048"><term id="term-00006">Problem and Solution</term></para>
+      <list list-type="bulleted" id="list-00008">
+      <item><para id="para-00049"><emphasis effect="bold">Working topic sentence for Structure #1</emphasis></para>
+      <para id="para-00050">The issue of (predicament or challenge) _____________________ was/can be solved by (what was/should be done)______________________.</para></item>
+      <item><para id="para-00051"><emphasis effect="bold">Structure #1 for problem-and-solution paragraph</emphasis></para>
+      <para id="para-00052">problem(s):</para>
+      <para id="para-00053">solution:</para></item>
+      <item><para id="para-00054"><emphasis effect="bold">Working topic sentence for Structure #2</emphasis></para>
+      <para id="para-00055">By (what was/should be done) ______________________, the issue of (predicament/challenge) __________________ was/could be solved.</para></item>
+      <item><para id="para-00056"><emphasis effect="bold">Structure #2 for problem-and-solution paragraph</emphasis></para>
+      <para id="para-00057">solution:</para>
+      <para id="para-00058">problem(s):</para></item>
+      </list>
+      <para id="para-00059"><term id="term-00007">Definition</term></para>
+      <list list-type="bulleted" id="list-00009">
+      <item><emphasis effect="bold">Working topic sentence</emphasis> Most people think ______________ means ______________; to me, however, _____________ means ____________________.</item>
+      <item><para id="para-00060"><emphasis effect="bold">Structure</emphasis></para>
+      <para id="para-00061">Common definition or denotation:</para>
+      <para id="para-00062">Expanded definition from writer:</para></item>
+      </list>
+      </section>
+      <section class="drafting" id="sect-00004">
+      <title>Reasoning Strategies</title>
+      <para class="annotation linguistic-icon" id="para-00063">As you write, keep in mind the reasoning strategy you are using. Then begin your draft by using the applicable frame for the paragraph. Beginning in this way will help you focus the details of the paragraph to ensure they support the thesis and provide the reasoning you need. Note that when you revise, you may choose to reword your frame and the sentences that develop it. Revisions like these are part of the <term id="term-00008">recursive</term> nature of the writing process.</para>
+      <para id="para-00064">Below are frames for types of writing, sample sentences of filled-in frames, patterns for the six reasoning strategies, and sample paragraphs. In the sample paragraphs, topic sentences are underlined, and transitional words and phrases are italicized.</para>
+      <section id="sect-00005">
+      <title>Analogy</title>
+      <list list-type="bulleted" id="list-00010">
+      <item><emphasis effect="bold">Frame for analogy paragraph:</emphasis> (subject 1) _______________ is like (subject 2) _______________ in this way: (way in which they are similar)_____________________.</item>
+      <item><para id="para-00065"><emphasis effect="bold">Filled-in frame for analogy paragraph comparing learning a foreign language with riding a bicycle:</emphasis></para>
+      <para id="para-00066"><emphasis effect="underline">Learning a foreign language</emphasis> is like <emphasis effect="underline">learning to ride a bicycle</emphasis> in this way: <emphasis effect="underline">you must learn to perform multiple tasks, some at the same time</emphasis>.</para></item>
+      <item><para id="para-00067"><emphasis effect="bold">Structure for analogy paragraph comparing learning a foreign language and learning to ride a bicycle:</emphasis></para>
+      <para id="para-00068"><emphasis effect="bold">comparison:</emphasis> learning a foreign language compared to learning to ride a bicycle</para>
+      <para id="para-00069"><emphasis effect="bold">reason/explanation/analysis</emphasis>: must learn the basic parts</para>
+      <para id="para-00070"><emphasis effect="bold">reason/explanation/analysis</emphasis>: must learn how parts work together</para>
+      <para id="para-00071"><emphasis effect="bold">reason/explanation/analysis</emphasis>: must learn multiple actions without thinking about them</para></item>
+      </list>
+      <section id="sect-00006">
+      <title>Sample analogy paragraph</title>
+      <para id="para-00072"><emphasis effect="underline">Learning a foreign language is like learning to ride a bicycle: you must learn to perform multiple tasks, some at the same time.</emphasis> You <emphasis effect="italics">first</emphasis> have to develop a foundational knowledge by learning how the individual parts of the bike work and how to use them, just as you learn the parts of speech of a language. <emphasis effect="italics">Then</emphasis> you must learn how these parts work together. <emphasis effect="italics">For example</emphasis>, through the action of pedaling the bike, you transfer energy to the wheels, causing them to rotate, <emphasis effect="italics">thus</emphasis> moving the bike forward. <emphasis effect="italics">Similarly</emphasis>, by learning how to use verbs in another language, you learn how to apply meaning that expresses an action or state of being. To steer the direction of the bike, you learn to change its path by turning the handlebars. To change the direction of a sentence, you learn how to control prepositions and modifiers. <emphasis effect="italics">Most important, though</emphasis>, you must get to the point at which the actions of pedaling, steering, and balancing happen simultaneously and with little thought to the individual actions, just as you must do when speaking a foreign language.</para>
+      </section>
+      </section>
+      <section id="sect-00007">
+      <title>Cause and Effect</title>
+      <list list-type="bulleted" id="list-00011">
+      <item><para id="para-00073"><emphasis effect="bold">Frame for cause-and-effect paragraph (Structure #1):</emphasis></para>
+      <para id="para-00074">Because (cause/s) _______________ (what had happened), then (effect/s) ____________ (what happened.</para></item>
+      <item><para id="para-00075"><emphasis effect="bold">Filled-in frame for a cause-and-effect paragraph about reasons for installing a traffic signal:</emphasis></para>
+      <para id="para-00076">Because <emphasis effect="underline">vehicles sped without regard to the speed limit, pedestrians dodged traffic and accidents increased</emphasis>; for those reasons, <emphasis effect="underline">a traffic signal was installed</emphasis>.</para></item>
+      <item><para id="para-00077"><emphasis effect="bold">Structure #1 for cause-and effect paragraph about reasons for installing a traffic signal:</emphasis></para>
+      <para id="para-00078"><emphasis effect="bold">explanation of the cause(s), followed by an explanation of the effect(s) that happened as a result of the cause(s)</emphasis></para>
+      <para id="para-00079"><emphasis effect="bold">cause:</emphasis> vehicles sped without regard to the speed limit</para>
+      <para id="para-00080"><emphasis effect="bold">cause</emphasis>: pedestrians had to dodge traffic</para>
+      <para id="para-00081"><emphasis effect="bold">cause:</emphasis> number of accidents increased</para>
+      <para id="para-00082"><emphasis effect="bold">effect:</emphasis> traffic signal was installed</para></item>
+      </list>
+      <section id="sect-00008">
+      <title>Sample cause-and-effect paragraph about reasons for installing a traffic signal (Structure #1)</title>
+      <para id="para-00083"><emphasis effect="underline">Many vehicles raced through the intersection of Clay Street and Eagle Avenue without regard to the posted speed limit.</emphasis> Pedestrians, many of whom were students, crossed the intersection to get to and from campus, <emphasis effect="italics">but</emphasis> they had to dodge in and out of constant traffic. The number of accidents rose far past an acceptable limit. <emphasis effect="italics">Indeed,</emphasis> one recent accident caused a loss of life. <emphasis effect="italics">For these reasons</emphasis>, a traffic signal was installed at the intersection of Clay Street and Eagle Avenue.</para>
+      <list list-type="bulleted" id="list-00012">
+      <item><para id="para-00084"><emphasis effect="bold">Frame for a cause-and-effect paragraph (Structure #2):</emphasis></para>
+      <para id="para-00085">(effect/s) __________________ (what happened) because (cause/s) ________________ (what had happened).</para></item>
+      <item><para id="para-00086"><emphasis effect="bold">Filled-in frame for a cause-and-effect paragraph about reasons for installing a traffic signal:</emphasis></para>
+      <para id="para-00087"><emphasis effect="underline">A traffic signal was installed</emphasis> because <emphasis effect="underline">vehicles sped, people had to dodge traffic, and accidents increased</emphasis>.</para></item>
+      <item><para id="para-00088"><emphasis effect="bold">Structure #2 for cause-and effect paragraph about reasons for installing a traffic signal:</emphasis></para>
+      <para id="para-00089"><emphasis effect="bold">explanation of the effect(s), followed by an explanation of the causes(s</emphasis>) <emphasis effect="bold">that led to the effect</emphasis></para>
+      <para id="para-00090"><emphasis effect="bold">effect:</emphasis> traffic signal was installed</para>
+      <para id="para-00091"><emphasis effect="bold">cause:</emphasis> vehicles sped without regard to speed limit</para>
+      <para id="para-00092"><emphasis effect="bold">cause:</emphasis> pedestrians had to dodge traffic</para>
+      <para id="para-00093"><emphasis effect="bold">cause:</emphasis> number of accidents increased</para></item>
+      </list>
+      </section>
+      <section id="sect-00009">
+      <title>Sample cause-and-effect paragraph about reasons for installing a traffic signal (Structure #2)</title>
+      <para id="para-00094"><emphasis effect="underline">A traffic signal was installed at the intersection of Clay Street and Eagle Avenue.</emphasis> <emphasis effect="italics">Before</emphasis> it was installed, many vehicles raced through the intersection without regard to the posted speed limit. Pedestrians, many of whom were students, crossed the intersection to get to and from campus, <emphasis effect="italics">but</emphasis> they had to dodge in and out of constant traffic. The number of accidents rose far past an acceptable limit. <emphasis effect="italics">Indeed,</emphasis> one recent accident resulted in a loss of life.</para>
+      </section>
+      </section>
+      <section id="sect-00010">
+      <title>Classification and Division</title>
+      <para id="para-00095">Notice that these paragraphs do not separate classification from division. Rather, they look at the same larger unit (sports drinks) from two angles: types of drinks that could be classified and the larger unit—sports drinks—broken down into smaller units contained within it.</para>
+      <list list-type="bulleted" id="list-00013">
+      <item><emphasis effect="bold">Frame for classification-and-division paragraph (Structure #1):</emphasis> (general subject) ____________ can be divided into (smaller categories) _______________, ______________, and ______________.</item>
+      <item><para id="para-00096"><emphasis effect="bold">Filled-in frame for a classification-and-division paragraph about types of sports drinks:</emphasis></para>
+      <para id="para-00097"><emphasis effect="underline">Sports drinks</emphasis> can be divided into <emphasis effect="underline">hypotonic</emphasis>, <emphasis effect="underline">isotonic</emphasis>, and <emphasis effect="underline">hypertonic</emphasis>.</para></item>
+      <item><para id="para-00098"><emphasis effect="bold">Structure #1 for classification-and-division paragraph about types of sports drinks:</emphasis></para>
+      <para id="para-00099"><emphasis effect="bold">identification of the general subject followed by categories of that general subject</emphasis></para>
+      <para id="para-00100"><emphasis effect="bold">general subject</emphasis>: sports drinks</para>
+      <para id="para-00101"><emphasis effect="bold">first category</emphasis>: hypotonic</para>
+      <para id="para-00102"><emphasis effect="bold">second category</emphasis>: isotonic</para>
+      <para id="para-00103"><emphasis effect="bold">third category</emphasis>: hypertonic</para></item>
+      </list>
+      <section id="sect-00011">
+      <title>Sample classification-and-division paragraph about types of sports drinks (Structure #1)</title>
+      <para id="para-00104"><emphasis effect="underline">All sports drinks are designed to increase hydration before, during, and after exercise or athletic involvement.</emphasis> They do this by replacing minerals <emphasis effect="italics">such as</emphasis> sodium and potassium lost through sweat and by replacing electrolytes and carbohydrates. <emphasis effect="italics">However</emphasis>, not all sports drinks are created equally. The <emphasis effect="italics">first</emphasis> type of sports drink, <term id="term-00009">hypotonic</term> (having a lower concentration of dissolved content than the human body), includes drinks that have both a low number of carbohydrates and a higher concentration of salt and sugar than the human body. <term id="term-00010">Isotonic</term> (having the same concentration of dissolved content as the human body) drinks have salt and sugar concentrations similar to the human body but have higher carbohydrate content. <emphasis effect="italics">Last</emphasis>, <term id="term-00011">hypertonic</term> (having a higher concentration of dissolved content than the human body) drinks are designed to supplement daily carbohydrate intake <emphasis effect="italics">and therefore</emphasis> have high levels of carbohydrates to provide quick energy replacement. Their salt and sugar concentration is significantly lower than the human body’s.</para>
+      <list list-type="bulleted" id="list-00014">
+      <item><para id="para-00105"><emphasis effect="bold">Structure #2 for classification-and-division paragraph about types of sports drinks:</emphasis></para>
+      <para id="para-00106">(smaller categories) ______________, _______________, and ____________ are divisions /types of (general subject)___________.</para></item>
+      <item><para id="para-00107"><emphasis effect="bold">Filled-in frame for a classification-and-division paragraph about types of sports drinks:</emphasis></para>
+      <para id="para-00108"><emphasis effect="underline">Hypotonic</emphasis>, <emphasis effect="underline">isotonic</emphasis>, and <emphasis effect="underline">hypertonic</emphasis> are types of <emphasis effect="underline">sports drinks</emphasis>.</para></item>
+      <item><para id="para-00109"><emphasis effect="bold">Structure #2 for classification-and-division paragraph about types of sports drinks:</emphasis></para>
+      <para id="para-00110"><emphasis effect="bold">categories of general subject followed by identification of the general subject</emphasis></para>
+      <para id="para-00111"><emphasis effect="bold">smaller category</emphasis>: hypotonic</para>
+      <para id="para-00112"><emphasis effect="bold">smaller category</emphasis>: isotonic</para>
+      <para id="para-00113"><emphasis effect="bold">smaller category</emphasis>: hypertonic</para>
+      <para id="para-00114"><emphasis effect="bold">general subject</emphasis>: sports drinks</para></item>
+      </list>
+      </section>
+      <section id="sect-00012">
+      <title>Sample classification-and-division paragraph about types of sports drinks (Structure #2)</title>
+      <para id="para-00115"><term id="term-00012">Hypotonic</term> (having a lower concentration of dissolved content than the human body) drinks include beverages that have both a low number of carbohydrates <emphasis effect="italics">and</emphasis> a concentration of salt and sugar higher than the human body. <term id="term-00013">Isotonic</term> (having the same concentration of dissolved content as the human body) beverages have salt and sugar concentrations similar to the human body but have higher carbohydrate content. <emphasis effect="italics">Last</emphasis>, <term id="term-00014">hypertonic</term> (having a higher concentration of dissolved content than the human body) beverages are designed to supplement daily carbohydrate intake <emphasis effect="italics">and therefore</emphasis> have high levels of carbohydrate to provide quick energy replacement. Their salt and sugar concentration is significantly lower than the human body’s. What do these beverages have in common? <emphasis effect="underline">All are types of sports drinks, designed to increase hydration before, during, and after exercise or athletic involvement.</emphasis></para>
+      </section>
+      </section>
+      <section id="sect-00013">
+      <title>Comparison and Contrast</title>
+      <list list-type="bulleted" id="list-00015">
+      <item><para id="para-00116"><emphasis effect="bold">Frame for a comparison-and-contrast paragraph (Structure #1):</emphasis></para>
+      <para id="para-00117">One way (subject 1) __________ and (subject 2) __________ are alike is (similarity) __________; one way they differ is (difference) __________.</para></item>
+      <item><para id="para-00118"><emphasis effect="bold">Filled-in frame for a comparison-and-contrast paragraph about virtual learning and face-to-face learning:</emphasis></para>
+      <para id="para-00119">One way <emphasis effect="underline">virtual learning</emphasis> and <emphasis effect="underline">face-to-face learning</emphasis> are alike is <emphasis effect="underline">that student responsibility is a key element in both</emphasis>; one way they differ is <emphasis effect="underline">in the methods students choose to be attentive</emphasis>.</para></item>
+      <item><para id="para-00120"><emphasis effect="bold">Structure #1 for comparison-and-contrast paragraph about virtual learning and face-to-face learning:</emphasis></para>
+      <para id="para-00121"><emphasis effect="bold">identification of two subjects followed by a point-by-point discussion</emphasis></para>
+      <para id="para-00122"><emphasis effect="bold">point 1:</emphasis> discussion of a similarity of virtual learning and face-to-face learning</para>
+      <para id="para-00123"><emphasis effect="bold">point 2:</emphasis> discussion of a difference between virtual learning and face-to-face learning</para></item>
+      </list>
+      <section id="sect-00014">
+      <title>Sample comparison-and-contrast paragraph about virtual learning and face-to-face learning (Structure #1)</title>
+      <para id="para-00124"><emphasis effect="underline">Student responsibility is a key factor in both virtual learning and face-to-face learning</emphasis>. In both settings, a student must be attentive in order to understand what is happening in the classroom and what is expected regarding readings, lab work, and other outside assignments. Differences occur in virtual classes and face-to-face classes, <emphasis effect="italics">though</emphasis>, in how students choose to be attentive. <emphasis effect="italics">Depending on</emphasis> how the virtual classes are set up, students’ attention can range from complete to nonexistent, <emphasis effect="italics">and</emphasis> the instructor might never know how much attention a particular student is paying. With in-person classes, <emphasis effect="italics">on the other hand</emphasis>, an instructor can see a student’s body language more closely and determine whether that student is attentive.</para>
+      <figure id="fig-00003"><media alt="A group of people sit together in a classroom during an informal face-to-face instruction session.">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_11_05_012.jpg"/></media>
+      <caption>Informal face-to-face instruction (credit: Leesa/Wikimedia Commons, CC BY 2.0)</caption></figure>
+      <list list-type="bulleted" id="list-00016">
+      <item><para id="para-00125"><emphasis effect="bold">Frame for a comparison-and-contrast paragraph (Structure #2):</emphasis></para>
+      <para id="para-00126">One way (subject 1) ________ and (subject 2) _________ are different is (difference) _________; a way they are alike is (similarity) _________.</para></item>
+      <item><para id="para-00127"><emphasis effect="bold">Filled-in frame for a comparison-and-contrast paragraph about virtual learning and face-to-face learning:</emphasis></para>
+      <para id="para-00128">One way <emphasis effect="underline">virtual learning</emphasis> and <emphasis effect="underline">face-to-face learning</emphasis> are different is <emphasis effect="underline">in the way students choose to be attentive</emphasis>; a way they are alike is <emphasis effect="underline">that student responsibility is a key element</emphasis>.</para></item>
+      <item><para id="para-00129"><emphasis effect="bold">Structure #2 for comparison-and-contrast paragraph about virtual learning and face-to-face learning:</emphasis></para>
+      <para id="para-00130"><emphasis effect="bold">identification of two subjects followed by a point-by-point discussion</emphasis></para>
+      <para id="para-00131"><emphasis effect="bold">point 1</emphasis>: discussion of a difference between virtual learning and face-to-face learning</para>
+      <para id="para-00132"><emphasis effect="bold">point 2:</emphasis> discussion of a similarity of virtual learning and face-to-face learning</para></item>
+      </list>
+      </section>
+      <section id="sect-00015">
+      <title>Sample comparison-and-contrast paragraph about virtual learning and face-to-face learning (Structure #2)</title>
+      <para id="para-00133"><emphasis effect="underline">One way that virtual learning and face-to-face learning are different is in the methods students choose to be attentive, <emphasis effect="italics">but</emphasis> they are alike in that student responsibility is a key factor in both</emphasis>. <emphasis effect="italics">With</emphasis> virtual learning, students must clear their study space of distractions and be sure to have reliable Internet connections. <emphasis effect="italics">Alternatively</emphasis>, in face-to-face learning, the study area and Internet connections are already in place and are provided by the school. <emphasis effect="italics">However</emphasis>, in both styles of classes, students have the responsibility to be attentive in order to understand what is happening in the classroom and what is expected as far as readings, lab work, and other outside assignments.</para>
+      </section>
+      </section>
+      <section id="sect-00016">
+      <title>Problem and Solution</title>
+      <list list-type="bulleted" id="list-00017">
+      <item><para id="para-00134"><emphasis effect="bold">Frame for problem-and-solution paragraph (Structure #1):</emphasis></para>
+      <para id="para-00135">The issue of (predicament/s or challenging issue/s) _____________________ was solved/can be solved by (what was done/what should be done) _____________________.</para></item>
+      <item><para id="para-00136"><emphasis effect="bold">Filled-in frame for problem-and-solution paragraph about trying juveniles as adults:</emphasis></para>
+      <para id="para-00137">The issue of <emphasis effect="underline">juveniles repeatedly committing crimes</emphasis> can be solved by <emphasis effect="underline">treating juvenile offenders as adults</emphasis>.</para></item>
+      <item><para id="para-00138"><emphasis effect="bold">Structure #1 for problem-and-solution paragraph about trying juveniles as adults:</emphasis></para>
+      <para id="para-00139"><emphasis effect="bold">an explanation of problem(s), followed by the solution</emphasis></para>
+      <para id="para-00140"><emphasis effect="bold">problem:</emphasis> number of juveniles committing serious crimes is rising</para>
+      <para id="para-00141"><emphasis effect="bold">problem:</emphasis> facilities to which these juveniles are sent have failed to rehabilitate them</para>
+      <para id="para-00142"><emphasis effect="bold">problem:</emphasis> youths continue their life of crime</para>
+      <para id="para-00143"><emphasis effect="bold">solution:</emphasis> juveniles should be tried as adults</para></item>
+      </list>
+      <section id="sect-00017">
+      <title>Sample problem-and-solution paragraph about trying juveniles as adults (Structure #1)</title>
+      <para id="para-00144"><emphasis effect="underline">Across the country, the number of juveniles committing serious crimes is rising dramatically</emphasis>. The facilities to which these juveniles are sent have failed to rehabilitate them, <emphasis effect="italics">and</emphasis> a high percentage of the youths continue with their life of crime. Law-abiding citizens of the country, <emphasis effect="italics">however</emphasis>, realize that this situation must change. <emphasis effect="italics">By</emphasis> trying juveniles as adults, the issue of juveniles repeatedly committing crimes can be solved.</para>
+      <list list-type="bulleted" id="list-00018">
+      <item><para id="para-00145"><emphasis effect="bold">Frame for problem-and-solution paragraph (Structure #2):</emphasis></para>
+      <para id="para-00146">By (what was done/what should be done) ____________________, the issue of (predicament/s or challenging issue/s) ___________________ would be solved/was solved.</para></item>
+      <item><para id="para-00147"><emphasis effect="bold">Filled-in frame for problem-and-solution paragraph about trying juveniles as adults:</emphasis></para>
+      <para id="para-00148">By <emphasis effect="underline">trying juveniles as adults</emphasis>, the issue of <emphasis effect="underline">juveniles repeatedly committing crimes</emphasis> can be solved.</para></item>
+      <item><para id="para-00149"><emphasis effect="bold">Structure #2 for problem-and-solution paragraph about trying juveniles as adults:</emphasis></para>
+      <para id="para-00150"><emphasis effect="bold">an explanation of a solution, followed by the problems that necessitated it</emphasis></para>
+      <para id="para-00151"><emphasis effect="bold">solution:</emphasis> juveniles are tried as adults</para>
+      <para id="para-00152"><emphasis effect="bold">problem:</emphasis> number of juveniles committing serious crimes is rising</para>
+      <para id="para-00153"><emphasis effect="bold">problem:</emphasis> facilities to which these juveniles are sent have failed to rehabilitate them</para>
+      <para id="para-00154"><emphasis effect="bold">problem:</emphasis> youths continue their life of crime</para></item>
+      </list>
+      </section>
+      <section id="sect-00018">
+      <title>Sample problem-and-solution paragraph about trying juveniles as adults (Structure #2)</title>
+      <para id="para-00155"><emphasis effect="underline">Juveniles should be tried as adults</emphasis>. Across the country, the number of juveniles committing serious crimes is rising dramatically. The facilities to which these juveniles are sent have failed to rehabilitate them, <emphasis effect="italics">though</emphasis>, and a high percentage of the youths continue with their life of crime. <emphasis effect="italics">Because of this lack of success,</emphasis> law-abiding citizens of the country realize that these problems must be addressed immediately.</para>
+      </section>
+      </section>
+      <section id="sect-00019">
+      <title>Definition</title>
+      <list list-type="bulleted" id="list-00019">
+      <item><para id="para-00156"><emphasis effect="bold">Frame for definition paragraph:</emphasis></para>
+      <para id="para-00157">To most people, (subject) is _______________; however, it really is ______________________.</para></item>
+      <item><para id="para-00158"><emphasis effect="bold">Filled-in frame for definition paragraph about a hero:</emphasis></para>
+      <para id="para-00159">To most people, a hero is <emphasis effect="underline">a famous person who is admired or idealized</emphasis>; however, <emphasis effect="underline">a hero is really anyone who goes out of the way to help others</emphasis>.</para></item>
+      <item><para id="para-00160"><emphasis effect="bold">Structure for definition paragraph:</emphasis></para>
+      <para id="para-00161"><emphasis effect="bold">common definition or denotation:</emphasis> a famous person who is admired or idealized</para>
+      <para id="para-00162"><emphasis effect="bold">writer’s expanded definition or connotation:</emphasis> anyone who goes out of the way to help others</para>
+      <para id="para-00163"><emphasis effect="bold">explanation/examples/details:</emphasis> healthcare professionals</para>
+      <para id="para-00164"><emphasis effect="bold">explanation/examples/details:</emphasis> grocery and convenience store workers</para></item>
+      </list>
+      <section id="sect-00020">
+      <title>Sample definition paragraph</title>
+      <para id="para-00165"><emphasis effect="underline">To most people, a hero is a famous person who is admired or idealized; however, it really is anyone who goes out of the way to help others.</emphasis> For example, during the pandemic that began in 2020, a number of people with everyday jobs suddenly became heroes. First, the need for healthcare went up sharply, and healthcare professionals worked many overtime hours and risked their lives to diagnose and treat others, with the hope of saving them. Consequently, these people became heroes. Also, because most people stayed at home and restaurants were closed, people purchased more food from grocery stores. Therefore, the people who delivered the food to grocery stores and the essential workers at the grocery stores became heroes to those who depended on their services.</para>
+      <figure id="fig-00004"><media alt="Three healthcare workers stand in a hospital wearing PPE (personal protective equipment) during the Covid pandemic.">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_11_05_013.jpg"/></media>
+      <caption>Health care workers in 2020 during the COVID-19 pandemic (credit: Javed Anees/Wikimedia Commons, CC0)</caption></figure>
+      </section>
+      </section>
+      </section>
+      <section id="sect-00021">
+      <title>Checking Validity</title>
+      <para class="annotation linguistic-icon" id="para-00166">After you have completed your paragraphs, check the validity, or soundness, of their logic. To perform this check, begin by assessing the logical connection of your topic sentences to your thesis statement. Because the topic sentences are the major supporting statements for your thesis, each one should support it. Ask and answer the following questions of each topic sentence:</para>
+      <list type="enumerated" id="list-00020">
+      <item>Does this topic sentence reflect the reasoning strategy you are using?</item>
+      <item>Does this topic sentence directly support the thesis statement?</item>
+      <item>Does the topic sentence make a sensible point?</item>
+      <item>What is the topic sentence’s purpose? Is it to provide
+      <list list-type="bulleted" id="list-00021">
+      <item>background information;</item>
+      <item>a reason;</item>
+      <item>an illustration;</item>
+      <item>an explanation; or</item>
+      <item>a response to a counterclaim? (See Position Argument: Practicing the Art of Rhetoric for more information about counterclaims.)</item>
+      </list></item>
+      </list>
+      <para id="para-00167">If you have trouble answering any of the questions and cannot establish the sentence’s validity, consider revising the topic sentence.</para>
+      <para id="para-00168">Next, check the validity of your body paragraphs’ development. To perform this check, copy and paste to a new page one topic sentence and the sentences that develop it. Then, answer these questions on all the major supporting ideas that you develop for each topic sentence:</para>
+      <list type="enumerated" id="list-00022">
+      <item>Does this body paragraph reflect the reasoning strategy you are using?</item>
+      <item>Does developing the idea in this body paragraph directly support its topic sentence?</item>
+      <item>Does this idea make a sensible point?</item>
+      <item>What is the purpose of developing this idea? Is it to provide
+      <list list-type="bulleted" id="list-00023">
+      <item>background information;</item>
+      <item>a reason for the topic sentence’s claim;</item>
+      <item>an illustration of the topic sentence’s point;</item>
+      <item>an explanation of the sentence’s point; or</item>
+      <item>evidence demonstrating the topic sentence’s point?</item>
+      </list></item>
+      </list>
+      <para id="para-00169">If you have trouble answering any of the questions and cannot establish a supporting idea’s validity, consider revising or replacing the idea with one that you can logically develop to prove, illustrate, or explain the topic idea.</para>
+      </section>
+      <section class="further-reading" id="sect-00022">
+      <title>Further Reading</title>
+      <para id="para-00170">The following titles are well-known examples of writings that use the reasoning strategies of analogy, cause and effect, classification and division, comparison and contrast, problem and solution, and definition.</para>
+      <para id="para-00171">Kennedy, John. “Inaugural Address.” <emphasis effect="italics">John F. Kennedy Presidential Library and Museum,</emphasis> 20 Jan. 1961, https://www.jfklibrary.org/learn/about-jfk/historic-speeches/inaugural-address. Accessed 25 Jan. 2021.</para>
+      <para id="para-00172">King, Martin Luther, Jr. “Letter from a Birmingham Jail [King, Jr.].” <emphasis effect="italics">African Studies Center—University of Pennsylvania,</emphasis> 16 April 1963, https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html. Accessed 1 Feb. 2021.</para>
+      <para id="para-00173">Lincoln, Abraham. “The Gettysburg Address.” <emphasis effect="italics">Abraham Lincoln Online</emphasis>, 19 Nov. 1863, http://www.abrahamlincolnonline.org/lincoln/speeches/gettysburg.htm. Accessed 1 Feb. 2021.</para>
+      <para id="para-00174">Yousafzai, Malala. “Nobel Peace Prize Acceptance Speech.” <emphasis effect="italics">Malala.org</emphasis>, 10 Dec. 2014, https://www.malala.org/newsroom/archive/malala-nobel-speech. Accessed 23 Jan. 2021.</para>
+      </section>
+      <section class="works-cited" id="sect-00023">
+      <title>Works Cited</title>
+      <para id="para-00175">Kerlin, Kat. “Wildlife Experience High Price of Oil.” <emphasis effect="italics">UC Davis,</emphasis> 2 June 2015, www.ucdavis.edu/news/wildlife-experience-high-price-oil/. Accessed 5 Mar. 2021.</para>
+      <para id="para-00176">Pennisi, Elizabeth. “$180 Million DNA ‘Barcode’ Project Aims to Discover 2 Million New Species.” <emphasis effect="italics">Science,</emphasis> 6 Jun. 2019, https://www.sciencemag.org/news/2019/06/180-million-dna-barcode-project-aims-discover-2-million-new-species. Accessed 1 Feb. 2021.</para>
+      <para id="para-00177">Plato. “Book VII.” <emphasis effect="italics">The Republic</emphasis>. E-book, Translated by B. Jowett, Project Gutenberg, 2016. https://www.gutenberg.org/files/1497/1497-h/1497-h.htm#link2H_4_0010.</para>
+      <para id="para-00178">“Poster Design Guide.” <emphasis effect="italics">Cain Project</emphasis>, 2003. Rice University, www.owlnet.rice.edu/~cainproj/designing. Accessed 25 Jan. 2021.</para>
+      <para id="para-00179">Royal Shakespeare Company. <emphasis effect="italics">Macbeth,</emphasis> https://www.rsc.org.uk/shakespeare-learning-zone/macbeth. Accessed 26 Apr. 2021.</para>
+      <para id="para-00180">Thurman, Susan Sommers, and William L. Gary, Jr. <emphasis effect="italics">Critical Literacy: Integrating Critical Thinking, Reading, and Writing</emphasis>. Cognella, Inc., 2019.</para>
+      <para id="para-00181">“World’s First Centre for Rapid DNA Species Identification Opens in Guelph.” <emphasis effect="italics">CBC News</emphasis>, 9 May 2007, https://www.cbc.ca/news/technology/world-s-first-centre-for-rapid-dna-species-identification- opens-in-guelph-1.663503. Accessed 1 Feb. 2021.</para>
       </section>
   </content>
 </document>
