@@ -329,7 +329,7 @@
       <section class="peer-review" id="sect-00015">
       <title>Critical Thinking and Counterclaims</title>
       <para class="annotation linguistic-icon" id="para-00139">After you have completed the first draft, begin peer review. Peer reviewers can use these sentence starters when thinking critically about overall strengths and developmental needs.</para>
-      <list type="enumerated" id="list-00017">
+      <list list-type="enumerated" id="list-00017">
       <item>One point about your position that I think is strong is ______ because ________.</item>
       <item>One point about your position that I think needs more development is _____ because _______.</item>
       <item>One area that I find confusing is _____________; I was confused about _______.</item>
@@ -357,27 +357,27 @@
       <para class="annotation dreaming-icon" id="para-00143">To begin revising, return to the basic questions of <term id="term-00050">topic</term> (<emphasis effect="italics">What am I writing about?</emphasis>), <term id="term-00051">purpose</term> (<emphasis effect="italics">Why am I writing about this topic?</emphasis>), <term id="term-00052">audience</term> (<emphasis effect="italics">For whom am I writing?</emphasis>), and <term id="term-00053">culture</term> (<emphasis effect="italics">What is the background of the people for whom I am writing?</emphasis>).</para>
       <list list-type="bulleted" id="list-00018">
       <item><emphasis effect="bold">Questions about the topic.</emphasis> Be sure your topic and thesis focus on your position, and omit extra material. Answer these questions:
-      <list type="enumerated" id="list-00019">
+      <list list-type="enumerated" id="list-00019">
       <item>What is the general scope of my topic? __________________________________</item>
       <item>What is my thesis? __________________________________________________</item>
       <item>Does my thesis focus on my topic? ______________________________________</item>
       <item>Does my thesis clearly state my position? ______________________</item>
       </list></item>
       <item><emphasis effect="bold">Questions about purpose.</emphasis> It is often easier to locate your purpose—or lack of purpose—after you have written a draft or two. Answer these questions:
-      <list type="enumerated" id="list-00020">
+      <list list-type="enumerated" id="list-00020">
       <item>What do I hope to accomplish in writing about this topic? ____________________</item>
       <item>Do all parts of the paper advance this purpose? ____________________________</item>
       <item>Does my paper focus on my argument or position? _________________________</item>
       </list></item>
       <item><emphasis effect="bold">Questions about audience.</emphasis> Make sure your paper is aimed accurately at your readers. Answer these questions:
-      <list type="enumerated" id="list-00021">
+      <list list-type="enumerated" id="list-00021">
       <item>What does my audience know about this subject? _______________________</item>
       <item>What does my audience need to know to understand the point of my paper? _______________________________________________________________</item>
       <item><para id="para-00144">What questions or objections do I anticipate from my audience? ___________</para>
       <para id="para-00145">________________________________________________________________</para></item>
       </list></item>
       <item><emphasis effect="bold">Questions about culture.</emphasis> Your paper should reflect consideration of cultural differences, if any, between you and your audience. Answer these questions:
-      <list type="enumerated" id="list-00022">
+      <list list-type="enumerated" id="list-00022">
       <item>What is the culture of the people for whom I am writing? Do all readers share the same culture? ________________________________________________________</item>
       <item><para id="para-00146">How do my beliefs, values, and customs differ from those of my audience?</para>
       <para id="para-00147"><emphasis effect="italics">____________________________________________________________________</emphasis></para></item>
