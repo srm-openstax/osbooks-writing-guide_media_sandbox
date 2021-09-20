@@ -6,9 +6,90 @@
     <md:uuid>1a89ae3e-4118-4ad4-96b5-a0ccf6e3f80a</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Demonstrate the ability to inquire, learn, think critically, and communicate when reading in varying rhetorical and cultural contexts.</item>
+      <item>Identify and analyze relationships between ideas, patterns of organization, and interplay between verbal and nonverbal elements in written texts.</item>
+      <item>Practice and apply strategies such as interpretation, synthesis, response, and critique to compose texts that integrate the writer’s ideas with those from appropriate sources.</item>
+      </list>
+      </section>
+      <section id="sect-00002">
+      <title>Introduction</title>
+      <figure id="fig-00001"><media alt="An Asian student, Lily Tran, leans against a tree.">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_13_04_009.jpg"/></media>
+      <caption>Lily Tran (Credit: Joshua Chua/Unsplash, Public Domain )</caption></figure>
+      <para id="para-00002">Lily Tran created this log entry during the research process for an argumentative research paper assigned in her first-year composition class, as shown in Chapter Annotated Student Sample.</para>
+      </section>
+      <section class="living-words" id="sect-00003">
+      <title>To Text</title>
+      <figure id="fig-00002"><media alt="A National Guard soldier at the Glendale, Arizona Food Bank pushes a grocery cart filled with supplies.">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_13_04_010.jpg"/></media>
+      <caption>National Guard soldiers at the Glendale, Arizona, food bank, 2021 (credit: U.S. Air National Guard video by Tech. Sgt. Michael Matkin/flickr, CC BY 2.0)</caption></figure>
+      <para class="public-domain" id="para-00003"><emphasis effect="bold">Freewrite:</emphasis> I found this photograph in an article I was reading about food insecurity during the COVID-19 pandemic. I copied and pasted it here as inspiration for my argumentative research paper.</para>
+      <para class="annotation-text" id="para-00004"><emphasis effect="italics">Lily Tran includes a visual in the freewrite section of her research log. The visual may or may not appear in the final paper, but here, it serves to stimulate her writing and thinking about her topic and possibly connect to other information she finds.</emphasis></para>
+      <para class="public-domain" id="para-00005">For a sustainable future, food production and processing have to change. So does global distribution.</para>
+      <para class="annotation-text" id="para-00006"><emphasis effect="italics">Tran begins to establish problem-and-solution reasoning, recognizing that there are different stages to food production and that all will be affected by any proposed solution.</emphasis></para>
+      <para class="public-domain" id="para-00007">The necessary changes will affect nearly all aspects of life, including world hunger, health and welfare, use of land resources, habitats, water, energy use and production, greenhouse gas emissions and climate change, and economics, as well as cultural and social values.</para>
+      <para class="annotation-text" id="para-00008"><emphasis effect="italics">Tran also employs cause-and-effect reasoning in beginning to think about the effects of any proposed change.</emphasis></para>
+      <para class="public-domain" id="para-00009">These needed changes may not be popular, but people will have to accept them.</para>
+      <para class="annotation-text" id="para-00010"><emphasis effect="italics">She recognizes potential counterarguments to address if the paper is to be persuasive. </emphasis></para>
+      <table summary="" id="table-00001">
+      <tgroup cols="3">
+      <colspec colnum="1" colname="c1"/>
+      <colspec colnum="2" colname="c2"/>
+      <colspec colnum="3" colname="c3"/>
+      <tbody>
+      <row>
+      <entry align="center"><emphasis effect="bold">Information</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Connection to Thesis/Main Points</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Notes/Cross-References/Synthesis</emphasis></entry>
+      </row>
+      <row>
+      <entry><para id="para-00011"><emphasis effect="bold">Date:</emphasis> 12/07/2020</para>
+      <para id="para-00012">Their report states, “If society continues on a ‘business-as-usual’ dietary trajectory, a 119% increase in edible crops grown will be required by 2050” (Berners-Lee).</para></entry>
+      <entry><para id="para-00013"> </para>
+      <para id="para-00014">Shows why a solution to food sustainability is needed</para></entry>
+      <entry><para id="para-00015"> </para>
+      <para id="para-00016">Create a concrete example to support this statistic. For example, if Farmer Joe grows . . .</para>
+      <para id="para-00017"> </para>
+      <para id="para-00018">Tie to the explanation of the problem for which I’m proposing a solution.</para></entry>
+      </row>
+      <row>
+      <entry><para class="annotation-text" id="para-00019"><emphasis effect="italics">Tran cites and quotes an alarming statistic from a secondary source.</emphasis></para></entry>
+      <entry><para class="annotation-text" id="para-00020"><emphasis effect="italics">She makes a connection to her thesis.</emphasis></para></entry>
+      <entry><para class="annotation-text" id="para-00021"><emphasis effect="italics">She anticipates that not all readers will respond to the statistic alone. To counteract this possibility, she may decide to create an original anecdotal example.</emphasis></para>
+      <para id="para-00022"> </para>
+      <para class="annotation-text" id="para-00023"><emphasis effect="italics">Tran then connects the information to the text structure: problem/solution.</emphasis></para></entry>
+      </row>
+      <row>
+      <entry namest="c1" nameend="c3"><para id="para-00024"><emphasis effect="bold">Source/Citation:</emphasis> Berners-Lee, M., et al. “Current Global Food Production Is Sufficient to Meet Human Nutritional Needs in 2050 Provided There Is Radical Societal Adaptation.” <emphasis effect="italics">Elementa: Science of the Anthropocene</emphasis>, vol. 6, 2018, <link url="https://openstax.org/r/onlineucpress">online.ucpress.edu/elementa/article/doi/10.1525/elementa.310/112838/Current-global-food-production-is-sufficient-to</link>. Accessed 7 Dec. 2020.</para>
+      <para id="para-00025"> </para>
+      <para class="annotation-text" id="para-00026"><emphasis effect="italics">Tran uses MLA 8th edition style guidelines to create this citation for her log entry. She includes all information needed for citing the entry in the works cited list for her paper.</emphasis></para></entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Research log entry</caption>
+      </table>
+      </section>
+      <section id="sect-00004">
+      <title>Discussion Questions</title>
+      <exercise id="exer-00001">
+      <problem id="prob-00001">
+      <para id="para-00027"><link class="os-embed" url="#exercise/EC_Ch13-Sec4_DQ1"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00002">
+      <problem id="prob-00002">
+      <para id="para-00028"><link class="os-embed" url="#exercise/EC_Ch13-Sec4_DQ2"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00003">
+      <problem id="prob-00003">
+      <para id="para-00029"><link class="os-embed" url="#exercise/EC_Ch13-Sec4_DQ3"/></para>
+      </problem>
+      </exercise>
       </section>
   </content>
 </document>
