@@ -6,9 +6,111 @@
     <md:uuid>0867e263-9025-4367-9da1-71d175c1ad80</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Apply critical thinking and communication in varying rhetorical and cultural contexts.</item>
+      <item>Identify and describe the genre conventions and rhetorical situation of case studies.</item>
+      <item>Analyze relationships between ideas and patterns of organization.</item>
+      </list>
+      </section>
+      <section id="sect-00002">
+      <title>Introduction</title>
+      <para id="para-00002">French physician <term class="no-emphasis" id="term-00001">Pierre Paul Broca</term> (1824–1880), an early researcher of brain science, is credited with developing theories about how the brain controls motor functions such as language. One of his patients, <term class="no-emphasis" id="term-00002">Louis Victor Leborgne</term>, suffered from a continuing loss of speech that resulted in an inability to form any syllables other than <emphasis effect="italics">tan</emphasis>. Following Leborgne’s death, Broca examined Leborgne’s brain and observed some abnormalities in the left frontal lobe. These observations would eventually lead to the larger discovery that different areas of the brain control different motor functions.</para>
+      <para id="para-00003">This sample case study imagines what Broca might have written about Leborgne. The contemporary references at the end of the study are those used by the actual writer of the case study, not Pierre Paul Broca.</para>
+      <figure id="fig-00001"><media alt="Pierre Paul Broca is a French physician, anatomist, and anthropologist.">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_15_04_004.jpg"/></media>
+      <caption>Pierre Paul Broca (credit: Anonymous/Wikimedia Commons, Public Domain)</caption></figure>
+      </section>
+      <section class="living-words" id="sect-00003">
+      <title>Patient Admission</title>
+      <para class="public-domain" id="para-00004">This 50-year-old Caucasian male was transferred from the psychiatry division to the surgical ward of Bicêtre Hospital in Paris on 11 April 1861. I performed a thorough physical examination upon his admission. The presenting diagnosis is diffuse gangrenous inflammation and infiltration of connective tissue of the entire lower right extremity, extending from the instep upward to the buttock. The patient shows complete paralysis of his right-side limbs. The left limbs are mobile with adequate control and power. Both bowel and bladder control are intact. The eyes are equally focused and reactive to light, although the vision in the left eye has deteriorated more than in the right eye. The patient exhibits difficulty in swallowing food, but the tongue is not paralyzed, and voice is normal.</para>
+      <para class="annotation-text" id="para-00005"><emphasis effect="bold"><emphasis effect="italics">Introduction.</emphasis></emphasis> <emphasis effect="italics">Broca first orients readers to the details of the case study: the participant, Leborgne, and how Leborgne came to be under his care.</emphasis></para>
+      <para class="annotation-text" id="para-00006"><emphasis effect="bold"><emphasis effect="italics">Background and Context.</emphasis></emphasis> <emphasis effect="italics">Broca gives a detailed description of the case study participant. He notes physical details of Leborgne’s paralysis so that readers understand that Leborgne retains control over his voice and tongue. This knowledge allows Broca to eliminate paralysis as a cause of the subject’s inability to use language.</emphasis></para>
+      <para class="public-domain" id="para-00007">The patient is completely unable to form words other than the single syllable <emphasis effect="italics">tan</emphasis>, which he most often repeats twice in rapid succession: “tan-tan.” This is said in varying tones and inflections. Paralysis of the patient’s dominant arm prevents writing. Nevertheless, the patient can communicate to a surprising extent through facial expressions and gestures with his left hand. His intellect appears normal, and he shows no signs of head trauma.</para>
+      <para class="annotation-text" id="para-00008"><emphasis effect="bold"><emphasis effect="italics">Research Question.</emphasis></emphasis> <emphasis effect="italics">In this paragraph, Broca further describes his participant and begins to bring the case study into focus. The details he provides about Leborgne’s ability to communicate and use language will be the focus of the study. Broca observes that Leborgne can communicate nonverbally, and no physical signs indicate that his brain may be affected. Broca wants to understand why Leborgne communicates as he does.</emphasis></para>
+      <section id="sect-00004">
+      <title>Patient History</title>
+      <para class="public-domain" id="para-00009"><emphasis effect="bold"><emphasis effect="italics">Personal History.</emphasis></emphasis> My personal interviews with family members revealed that Louis Victor Leborgne was born 21 July 1809, in Moret-sur-Loing. The town has many tanneries, a fact that may account for his use of the syllable <emphasis effect="italics">tan</emphasis>. His father is an elementary school teacher. The patient is one of six siblings. His previous occupation was <emphasis effect="italics">formier</emphasis> [artisan who made forms for shoemakers]. He is unmarried and has no children. Members of his immediate family visit but have been unable to provide care for him at home, resulting in an extended hospital stay of 21 years. Interviews with other patients in the ward have indicated that the patient is unfavorably viewed as egotistical and vindictive.</para>
+      <para class="annotation-text" id="para-00010"><emphasis effect="bold"><emphasis effect="italics">Description of Research Methods.</emphasis></emphasis> <emphasis effect="italics">In this section, Broca notes that he interviewed Leborgne’s family and other patients in the hospital and provides a hypothesis as to why Leborgne uses the syllable</emphasis> tan <emphasis effect="italics">to communicate.</emphasis></para>
+      <para class="annotation-text" id="para-00011"><emphasis effect="bold"><emphasis effect="italics">Organization.</emphasis></emphasis> <emphasis effect="italics">The author uses headings to organize the different sections of the case study. Main headings are centered; subheadings are left-justified.</emphasis></para>
+      <para class="public-domain" id="para-00012"><emphasis effect="bold"><emphasis effect="italics">Medical History.</emphasis></emphasis> My interviews with family members and hospital staff responsible for his care yielded only a cursory medical history. They did, however, reveal that the patient developed epilepsy in his childhood or youth; the exact age is unknown.</para>
+      <para class="public-domain" id="para-00013">At age 30, the patient lost the ability to speak but did not immediately seek medical attention. When the condition persisted, he came to <term class="no-emphasis" id="term-00003">Bicêtre Hospital</term> and was admitted to the psychiatry division in 1840 (exact date not recorded).</para>
+      <para class="annotation-text" id="para-00014"><emphasis effect="bold"><emphasis effect="italics">Limitations of Research.</emphasis></emphasis> <emphasis effect="italics">Broca again notes the use of personal interview data as a research method / primary source. He acknowledges the limitations of this method (“only a cursory medical history”) but was able to gather relevant details, such as when Leborgne developed epilepsy, when he lost the ability to speak, and when he was first admitted to the hospital.</emphasis></para>
+      <para class="public-domain" id="para-00015">Approximately 10 years after the onset of his first symptoms, Leborgne experienced gradual weakness of his right arm, which developed into complete paralysis in that limb. This condition was followed by weakness in his right leg and foot. Apparently, it took four years from the start of the paralysis of his right arm until the patient completely lost the ability to stand. In these years, his vision and mental faculties also deteriorated.</para>
+      <para class="public-domain" id="para-00016">The patient remains in bed, having refused to leave it for the past seven years. During this time, his clothing was changed once a week. The infrequent change of clothes caused a delay in discovering the extent of his gangrenous inflammation and infection. At this point, the patient could hardly move and was transferred to the surgical unit, where I first met him.</para>
+      <para class="annotation-text" id="para-00017"><emphasis effect="bold"><emphasis effect="italics">Background and Context.</emphasis></emphasis> <emphasis effect="italics">More details of Leborgne’s medical history are given. Broca concludes the patient history by relating the circumstances leading to his treatment of Leborgne. This section provides a detailed account of everything known about the participant and his condition. Broca doesn’t rely only on records to gather this history, though. He interviews hospital staff to try to gather additional information not recorded.</emphasis></para>
+      </section>
+      <section id="sect-00005">
+      <title>Treatment</title>
+      <para class="public-domain" id="para-00018">The gangrene being too extensive for surgery, I confined myself to testing his mental faculties and language comprehension. By using his fingers, the patient was able to respond accurately to mathematical questions. He understood and responded to verbal questions as well. At times, his answers were incorrect, such as claiming to have children; I attribute these lapses to sepsis, which by now was far advanced.</para>
+      <para class="annotation-text" id="para-00019"><emphasis effect="bold"><emphasis effect="italics">Research Methods.</emphasis></emphasis> <emphasis effect="italics">In this section, Broca begins to relate how he observed Leborgne’s ability to communicate.</emphasis></para>
+      <para class="annotation-text" id="para-00020"><emphasis effect="bold"><emphasis effect="italics">Analysis of Results.</emphasis></emphasis> <emphasis effect="italics">Broca tries to explain the reason for Leborgne’s incorrect responses.</emphasis></para>
+      <para class="public-domain" id="para-00021">Lacking any physical irregularities that would cause his loss of speech, I conclude the condition must be related to brain function. This condition is so singular that it seems useful to assign it a special name. I will designate it, therefore, as <emphasis effect="italics">aphemia</emphasis>, or loss of speech.</para>
+      <para class="public-domain" id="para-00022">The patient expired on 17 April 1861 at 11:00 a.m. Cause of death was gangrenous infection and sepsis.</para>
+      <para class="annotation-text" id="para-00023"><emphasis effect="bold"><emphasis effect="italics">Broad Theory.</emphasis></emphasis> <emphasis effect="italics">Broca poses a theory about Leborgne’s limited ability to communicate: “the condition must be related to brain function.” This theory will be tested later in the case study and, if correct, might be applicable to how the brain works for everyone.</emphasis></para>
+      </section>
+      <section id="sect-00006">
+      <title>Autopsy Findings</title>
+      <para class="public-domain" id="para-00024">I performed an autopsy 24 hours postmortem and found a number of irregularities in the patient’s brain. A softened area over the perisylvian region contained a cavity the size of a chicken’s egg, filled with serous fluid. Volume loss affected the gyri, subcortical perisylvian area, insula, and part of the striate nucleus. I weighed the brain and discovered it to be lighter than normal. I attribute the low weight to the loss of volume in the left cerebral hemisphere.</para>
+      <para class="public-domain" id="para-00025">I observed a significant malformation on the left frontal lobe, which I believe to be the source of the patient’s aphemia and, therefore, the brain location controlling speech production. Wishing to preserve the brain, I performed a surface examination only, without a full dissection. I have placed the preserved brain at the <term class="no-emphasis" id="term-00004">Musée Dupuytren</term> in Paris.</para>
+      <para class="annotation-text" id="para-00026"><emphasis effect="bold"><emphasis effect="italics">Research Methods.</emphasis></emphasis> <emphasis effect="italics">Broca provides details of the autopsy and describes the abnormalities he found in Leborgne’s brain. These details are crucial to the study because of Broca’s earlier comment about Leborgne’s inability to communicate resulting from brain function.</emphasis></para>
+      <para class="annotation-text" id="para-00027"><emphasis effect="bold"><emphasis effect="italics">Analysis of Results.</emphasis></emphasis> <emphasis effect="italics">Broca further hones his theories based on his observations of Leborgne’s brain. Broca hypothesizes that this malformation is the cause of Leborgne’s condition and, therefore, is located in the part of the brain that is related to speech.</emphasis></para>
+      </section>
+      <section id="sect-00007">
+      <title>Discussion</title>
+      <para class="public-domain" id="para-00028">I presented Leborgne’s case at the meeting of the <term class="no-emphasis" id="term-00005">Société d’Anthropologie de Paris</term> on 18 April 1861, where it generated considerable controversy. My former teacher <term class="no-emphasis" id="term-00006">Jean-Baptiste Bouillaud</term> had previously advanced the idea that the language function is localized in the frontal lobes, with which, based on my autopsy of Leborgne’s brain, I concur. Anatomist <term class="no-emphasis" id="term-00007">Louis Pierre Gratiolet</term> opposed the idea that there could exist a specific area responsible for speech, arguing that the brain functions as a whole. Esteemed physician <term class="no-emphasis" id="term-00008">Ernest Auburtin</term> asserted that specific areas of the brain have specific functions and further stated that motor articulation is not directly relevant to the ability to conceive words and ideas.</para>
+      <para class="annotation-text" id="para-00029"><emphasis effect="bold"><emphasis effect="italics">Advancing Knowledge.</emphasis></emphasis> <emphasis effect="italics">Broca uses his case study to contribute to the research on brain functions.</emphasis></para>
+      <para class="annotation-text" id="para-00030"><emphasis effect="bold"><emphasis effect="italics">Limitations of the Research.</emphasis></emphasis> <emphasis effect="italics">Broca notes that not all attending the meeting are in agreement, suggesting that further research is needed to learn more about the brain and whether specific parts control specific functions.</emphasis></para>
+      </section>
+      <section id="sect-00008">
+      <title>Conclusion</title>
+      <para class="public-domain" id="para-00031">Given my patient Leborgne’s success at responding to verbal and mathematical questions despite his loss of speech, I am convinced that brain function is localized. Auburtin’s theory of more compartmentalized specificity is intriguing, and I intend to pursue this idea. Leborgne’s preserved brain remains at the <term class="no-emphasis" id="term-00009">Musée Dupuytren</term>, where it is available for further study.</para>
+      <para class="annotation-text" id="para-00032"><emphasis effect="bold"><emphasis effect="italics">What’s Next.</emphasis></emphasis> <emphasis effect="italics">Inviting additional research, Broca calls on his audience to research localized brain function. He notes that Leborgne’s brain is available for researchers to observe.</emphasis></para>
+      </section>
+      <section id="sect-00009">
+      <title>References</title>
+      <para id="para-00033">Domanski, C. W. (2013). Mysterious “<emphasis effect="italics">Monsieur Leborgne</emphasis>”: The mystery of the famous patient in the history of neuropsychology is explained. <emphasis effect="italics">Journal of the History of the Neurosciences, 22</emphasis>(1), 47–52. https://www.tandfonline.com/doi/abs/10.1080/0964704X.2012.667528</para>
+      <para id="para-00034">Konnikova, M. (2013, February 8). The man who couldn’t speak and how he revolutionized psychology. <emphasis effect="italics">Scientific American</emphasis>. https://blogs.scientificamerican.com/literally-psyched/the-man-who-couldnt-speakand-how-he-revolutionized-psychology/</para>
+      <para id="para-00035">Mohammed, N., Narayan, V., Patra, D. P., &amp; Nanda, A. (2018). Louis Victor Leborgne (“Tan”). <emphasis effect="italics">World Neurosurgery, 114</emphasis>, 121–125. https://doi.org/10.1016/j.wneu.2018.02.021</para>
+      <para id="para-00036">Ruane, M. (2013, July). Discovering the identity of a 150-year-old patient. <emphasis effect="italics">Smithsonian</emphasis>. https://www.smithsonianmag.com/history/discovering-the-identity-of-a-150-year-old-patient-4563869/</para>
+      </section>
+      </section>
+      <section id="sect-00010">
+      <title>Discussion Questions</title>
+      <exercise id="exer-00001">
+      <problem id="prob-00001">
+      <para id="para-00037"><link class="os-embed" url="#exercise/EC_Ch15-Sec4_DQ1"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00002">
+      <problem id="prob-00002">
+      <para id="para-00038"><link class="os-embed" url="#exercise/EC_Ch15-Sec4_DQ2"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00003">
+      <problem id="prob-00003">
+      <para id="para-00039"><link class="os-embed" url="#exercise/EC_Ch15-Sec4_DQ3"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00004">
+      <problem id="prob-00004">
+      <para id="para-00040"><link class="os-embed" url="#exercise/EC_Ch15-Sec4_DQ4"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00005">
+      <problem id="prob-00005">
+      <para id="para-00041"><link class="os-embed" url="#exercise/EC_Ch15-Sec4_DQ5"/></para>
+      </problem>
+      </exercise>
+      </section>
+      <section id="sect-00011">
+      <title>Language and Expression</title>
+      <para class="annotation culture-icon linguistic-icon" id="para-00042">One significant finding of Broca’s case study was that Leborgne grew up in the town of Moret-sur-Loing. The town had many tanneries, leading Broca to theorize that Leborgne’s use of the syllable <emphasis effect="italics">tan</emphasis> was related to his home. <emphasis effect="italics">Why is this theory important?</emphasis> It illustrates how personal history affects people. It is possible that Leborgne used language in this way because of his history and cultural association with his hometown. Culture and identity have a big impact on how people use language, even among people who speak the same language.</para>
+      <figure id="fig-00002"><media alt="A diagram of a brain is labeled to show the Broca and Wernicke areas. The Broca area controls articulate speech function and the Wernicke area controls the comprehension of speech.">
+      <image mime-type="image/jpeg" src="../../media/COMP_Figure_15_04_005.jpg"/></media>
+      <caption>The Broca area—named for French anthropologist and pathologist Pierre Paul Broca (1824–1880), who discovered its function—is the part of the brain that controls articulate speech. The Wernicke area—named for German neurologist Carl Wernicke (1848–1905), who first described the area—is the part of the brain that controls the comprehension of speech. (credit: NIH publication 97-4257/Wikimedia Commons, Public Domain)</caption></figure>
       </section>
   </content>
 </document>

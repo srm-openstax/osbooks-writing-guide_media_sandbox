@@ -6,9 +6,219 @@
     <md:uuid>f0ad6ab3-2768-46e2-ae80-a240107fb4e9</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Define and give examples of homonyms, homographs, and homophones.</item>
+      <item>Demonstrate correct use of commonly confused words.</item>
+      </list>
+      </section>
+      <para id="para-00002">When writing about language, you don’t want to make the mistake of misusing language. <term id="term-00001">Homonyms</term> are words that sound the same and are spelled the same but have different meanings. <term id="term-00002">Homographs</term> are words that are spelled the same but may sound different and have different meanings. <term id="term-00003">Homophones</term> are words that sound the same but might have a different spelling, a different meaning, or both. Because they sound the same, they are often confused. Other words frequently confused sound slightly different and have slightly different spellings. It’s important to recognize and correct commonly confused words because spell checkers don’t always catch these errors.</para>
+      <section id="sect-00002">
+      <title>Homonyms</title>
+      <para id="para-00003">Because homonyms’ spelling and pronunciation are the same but their meanings are different, you probably don’t have to worry about misusing them, although they often belong to different parts of speech. However, some awareness of homonyms and their multiple meanings will help ensure that your language is precise. For more information about homonyms, see “Words and Language.”</para>
+      <para id="para-00004">Here are some common homonyms and their meanings:</para>
+      <table summary=" " id="table-00001">
+      <tgroup cols="2">
+      <colspec colnum="1" colname="c1"/>
+      <colspec colnum="2" colname="c2"/>
+      <tbody>
+      <row>
+      <entry>band</entry>
+      <entry><para id="para-00005">Verb: to come together</para>
+      <para id="para-00006">Noun: group of musicians</para></entry>
+      </row>
+      <row>
+      <entry>rock</entry>
+      <entry><para id="para-00007">Verb: to move back and forth</para>
+      <para id="para-00008">Noun: hard material found in the earth</para></entry>
+      </row>
+      <row>
+      <entry>tire</entry>
+      <entry><para id="para-00009">Verb: to become sleepy or lose energy</para>
+      <para id="para-00010">Noun: ring-shaped rubber component that fits over the wheel of a vehicle</para>
+      </entry>
+      </row>
+      <row>
+      <entry>current</entry>
+      <entry><para id="para-00011">Noun: flow of water or electricity</para>
+      <para id="para-00012">Adjective: up to date</para></entry>
+      </row>
+      <row>
+      <entry>train</entry>
+      <entry><para id="para-00013">Verb: to teach or learn through practice</para>
+      <para id="para-00014">Noun: group of connected railroad cars</para></entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption/>
+      </table>
+      </section>
+      <section id="sect-00003">
+      <title>Homographs</title>
+      <para id="para-00015">Homographs have the same spelling but different meanings. They are considered different from homonyms because they may be pronounced differently. Some disagreement exists among scholars as to whether pronunciation <emphasis effect="italics">must</emphasis> be different for a word to be considered a homograph. Some experts insist that origins must differ as well. However, all agree that meanings differ. For more information about homographs, see Words and Language.</para>
+      <para id="para-00016">Here are some common homographs and their meanings:</para>
+      <table summary=" " id="table-00002">
+      <tgroup cols="2">
+      <colspec colnum="1" colname="c1"/>
+      <colspec colnum="2" colname="c2"/>
+      <tbody>
+      <row>
+      <entry>lead</entry>
+      <entry><para id="para-00017">Noun: a metal (pronounced <emphasis effect="italics">led</emphasis>)</para>
+      <para id="para-00018">Verb: to be at the front, to guide (pronounced <emphasis effect="italics">leed</emphasis>)</para></entry>
+      </row>
+      <row>
+      <entry>bow</entry>
+      <entry><para id="para-00019">Verb: to bend forward</para>
+      <para id="para-00020">Noun: a position in which one bends forward</para>
+      <para id="para-00021">Noun: the front of a ship</para>
+      <para id="para-00022">Noun: a type of knot (pronounced <emphasis effect="italics">boh</emphasis>)</para></entry>
+      </row>
+      <row>
+      <entry>object</entry>
+      <entry><para id="para-00023">Noun: a material item; a grammatical term (accent on first syllable)</para>
+      <para id="para-00024">Verb: to express disapproval (accent on second syllable)</para></entry>
+      </row>
+      <row>
+      <entry>close</entry>
+      <entry><para id="para-00025">Adjective: near (<emphasis effect="italics">s</emphasis> pronounced like <emphasis effect="italics">ss</emphasis>)</para>
+      <para id="para-00026">Verb: to bar passage; to shut down (<emphasis effect="italics">s</emphasis> pronounced like <emphasis effect="italics">z</emphasis>)</para></entry>
+      </row>
+      <row>
+      <entry>minute</entry>
+      <entry><para id="para-00027">Noun: 60 seconds (pronounced <emphasis effect="italics">minit</emphasis>)</para>
+      <para id="para-00028">Adjective: tiny (pronounced <emphasis effect="italics">my-noot</emphasis> or <emphasis effect="italics">my-nyoot</emphasis>)</para></entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption/>
+      </table>
+      </section>
+      <section id="sect-00004">
+      <title>Homophones</title>
+      <para id="para-00029">Homophones are words that are spelled differently and have different meanings but sound the same. Homophones are often the words that cause the most confusion and the most frequent errors. For more information about homophones, see Words and Language.</para>
+      <para id="para-00030">Here are some common homophones and their meanings:</para>
+      <table summary=" " id="table-00003">
+      <tgroup cols="2">
+      <colspec colnum="1" colname="c1"/>
+      <colspec colnum="2" colname="c2"/>
+      <tbody>
+      <row>
+      <entry>weather/whether</entry>
+      <entry><para id="para-00031"><emphasis effect="bold">Weather</emphasis> means the conditions outside, such as temperature and sunshine.</para>
+      <para id="para-00032"><emphasis effect="bold">Whether</emphasis> is a conjunction that joins words or other parts of a sentence.</para></entry>
+      </row>
+      <row>
+      <entry>meat/meet</entry>
+      <entry><para id="para-00033"><emphasis effect="bold">Meat</emphasis> is animal-based food.</para>
+      <para id="para-00034">When you <emphasis effect="bold">meet</emphasis> someone, you encounter or get together with that person.</para></entry>
+      </row>
+      <row>
+      <entry>hear/here</entry>
+      <entry><para id="para-00035"><emphasis effect="bold">Hear</emphasis> is what you do when you listen to music.</para>
+      <para id="para-00036"><emphasis effect="bold">Here</emphasis> is a place nearby.</para></entry>
+      </row>
+      <row>
+      <entry>two/too/to</entry>
+      <entry><para id="para-00037"><emphasis effect="bold">Two</emphasis> is a number, more than one and less than three.</para>
+      <para id="para-00038"><emphasis effect="bold">Too</emphasis> may mean “also,” or it may mean “very” or “more (adjective) than desired.”</para>
+      <para id="para-00039"><emphasis effect="bold">To</emphasis> is a preposition indicating direction or motion, as in “I wrote <emphasis effect="bold">to</emphasis> the manager after I’d gone <emphasis effect="bold">to</emphasis> the office.”</para></entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption/>
+      </table>
+      <para id="para-00040">The following homophones are often confused. Note that one of each group is a <term id="term-00004">contraction</term>: two words shortened and joined by an apostrophe.</para>
+      <table summary=" " id="table-00004">
+      <tgroup cols="2">
+      <colspec colnum="1" colname="c1"/>
+      <colspec colnum="2" colname="c2"/>
+      <tbody>
+      <row>
+      <entry>their</entry>
+      <entry>Possessive pronoun, belonging to <emphasis effect="italics">them</emphasis>: “The family packed <emphasis effect="bold">their</emphasis> suitcases for <emphasis effect="bold">their</emphasis> vacation.” Both the suitcases and the vacation belong to the <emphasis effect="italics">family</emphasis>.</entry>
+      </row>
+      <row>
+      <entry>they’re</entry>
+      <entry>Contraction joining <emphasis effect="italics">they</emphasis> and <emphasis effect="italics">are</emphasis>: “<emphasis effect="bold">They’re</emphasis> leaving for the airport at 10:30.” In other words, <emphasis effect="italics">they are</emphasis> leaving.</entry>
+      </row>
+      <row>
+      <entry>there</entry>
+      <entry>Referring to a location: “‘Baggage claim is over <emphasis effect="bold">there</emphasis>,’ the airport worker said while pointing to the baggage carousels.” This form indicates a physical place.</entry>
+      </row>
+      <row>
+      <entry>your</entry>
+      <entry>Possessive pronoun, belonging to <emphasis effect="italics">you</emphasis>: “<emphasis effect="bold">Your</emphasis> new phone will be mailed on November 4.” The phone belongs to <emphasis effect="italics">you</emphasis>.</entry>
+      </row>
+      <row>
+      <entry>you’re</entry>
+      <entry>Contraction joining <emphasis effect="italics">you</emphasis> and <emphasis effect="italics">are</emphasis>: “<emphasis effect="bold">You’re</emphasis> registered for the conference.” In other words, <emphasis effect="italics">you are</emphasis> registered.</entry>
+      </row>
+      <row>
+      <entry>its</entry>
+      <entry>Possessive pronoun, belonging to <emphasis effect="italics">it</emphasis>: “<emphasis effect="bold">Its</emphasis> positive qualities outweigh <emphasis effect="bold">its</emphasis> negative ones.” Both the positive and the negative qualities belong to <emphasis effect="italics">it</emphasis>. <emphasis effect="italics">It</emphasis> could be a book, house, car, movie, phone, or any other object or idea.</entry>
+      </row>
+      <row>
+      <entry>it’s</entry>
+      <entry>Contraction joining <emphasis effect="italics">it</emphasis> and <emphasis effect="italics">is</emphasis>: “<emphasis effect="bold">It’s</emphasis> raining today.” In other words, <emphasis effect="italics">it is</emphasis> raining.</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption/>
+      </table>
+      </section>
+      <section id="sect-00005">
+      <title>What Is the <emphasis effect="italics">Effect</emphasis>? Or Is It <emphasis effect="italics">Affect</emphasis>?</title>
+      <para id="para-00041">One final category of commonly confused words are words that sound and look <emphasis effect="italics">similar</emphasis> but have different meanings.</para>
+      <table summary=" " id="table-00005">
+      <tgroup cols="2">
+      <colspec colnum="1" colname="c1"/>
+      <colspec colnum="2" colname="c2"/>
+      <tbody>
+      <row>
+      <entry>Affect</entry>
+      <entry><para id="para-00042">Verb: to influence an outcome: “Increasing the minimum wage will <emphasis effect="bold">affect</emphasis> the incomes of millions of Americans.”</para>
+      <para id="para-00043">Noun: body language that accompanies an expression of emotion: “The crime victim showed normal reactions and <emphasis effect="bold">affects.”</emphasis></para></entry>
+      </row>
+      <row>
+      <entry>Effect</entry>
+      <entry><para id="para-00044">Noun: the outcome or result of an influence: “The <emphasis effect="bold">effect</emphasis> of the increased minimum wage will be a 10 percent decrease in the federal poverty rate.”</para>
+      <para id="para-00045">Verb: to cause to come into existence: “Congress will <emphasis effect="bold">effect</emphasis> the new law.”</para></entry>
+      </row>
+      <row>
+      <entry>Insure</entry>
+      <entry>Verb: to protect against damage or loss: “Homeowners must <emphasis effect="bold">insure</emphasis> their property for the cost of full replacement.”</entry>
+      </row>
+      <row>
+      <entry>Ensure</entry>
+      <entry>Verb: to make certain of: “This policy will <emphasis effect="bold">ensure</emphasis> that the bank doesn’t incur a loss as a result of irreparable damage to the home.”</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption/>
+      </table>
+      </section>
+      <section id="sect-00006">
+      <title>Practice</title>
+      <para id="para-00046">Choose the correct word to complete each sentence.</para>
+      <list list-type="enumerated" id="list-00002">
+      <item>Can you (hear/here) the phone ring from (hear/here)?</item>
+      <item>Are you going (to/too/two) the movie theater at (to/too/two) p.m., or is that (to/too/two) early for you?</item>
+      <item>This show always has a depressing (affect/effect) on me.</item>
+      <item>(Its/It’s) hard to find small apartments for rent in this neighborhood.</item>
+      <item>Let’s (meet/meat) at the pizza place so that I can eat something without (meet/meat).</item>
+      <item>Although it will need work, (its/it’s) basic structure is sound.</item>
+      <item>Check about (ensuring/insuring) personal items in your apartment.</item>
+      <item>You can set the groceries on the table over (their/there/they’re).</item>
+      <item>I’m going to watch the game at (their/there/they’re) house.</item>
+      <item>How do you think the elections will (affect/effect) the neighborhood?</item>
+      <item>(Their/There/They’re) listening to music on (their/there/they’re) headphones.</item>
+      <item>(You’re/Your) going to trip if you don’t tie (you’re/your) shoelaces.</item>
+      <item>Bring (you’re/your) phone to the store to exchange it for a new one.</item>
+      <item>(Weather/whether) we travel depends on the (weather/whether).</item>
+      </list>
       </section>
   </content>
 </document>

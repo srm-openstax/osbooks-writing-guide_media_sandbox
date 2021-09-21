@@ -6,9 +6,36 @@
     <md:uuid>04d814fd-afc4-44f1-a2c0-7e74f31389cb</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Identify the structural components of case studies.</item>
+      <item>Determine the objectivity of case studies.</item>
+      <item>Apply the genre conventions of case studies in your own research.</item>
+      </list>
+      </section>
+      <para id="para-00002">The goal of case study authors is to expand knowledge in a field of study. In many case studies, researchers look for “blind spots”: areas of investigation that the current research is not addressing or not addressing sufficiently. Sometimes the authors of a study will explicitly state what they believe are the gaps in their research and call on other researchers to fill in those gaps.</para>
+      <section id="sect-00002">
+      <title>Components of Case Studies</title>
+      <para id="para-00003">Case studies generally have five main parts. They begin by presenting an overview of previous case studies on the topic. Sometimes called a <term id="term-00001">literature review</term>, this part of the case study provides background and helps readers understand where the current study fits within previous research. The second component of a case study is a detailed description of the <term id="term-00002">participants</term> and the <term id="term-00003">observation environment</term>. These descriptions of the individuals being studied and the conditions under which they are being studied provide additional background and context. The third component is the <term id="term-00004">methods</term> section, in which the author explains the ways in which data will be collected, such as interviews, surveys, observations, document analysis, and so on. The fourth component, following the methods section, is an organized presentation of the data collected, or the <term id="term-00005">findings</term> of the study. Finally, an <term id="term-00006">analysis</term> of the results concludes the case study. In this section, the author provides an interpretation of the collected data. This section usually includes an explanation of the limitations of and gaps in the case study’s data, methods, or anything else the author believes is important.</para>
+      <para id="para-00004">Similar to academic essays, case studies adhere to a formal structure and voice. They are organized clearly, edited carefully, and reflect objectivity. As with all academic work, sources are documented and cited, usually using APA Documentation and Format.</para>
+      </section>
+      <section id="sect-00003">
+      <title>Key Terms</title>
+      <para id="para-00005">A case study, at its most basic level, is about close observation as a basis for analysis. By observing individuals or groups in a particular setting, researchers attempt to learn something about the participants’ thoughts, actions, behavior, or feelings. To conduct a case study, you should be familiar with the following terms.</para>
+      <list list-type="bulleted" id="list-00002">
+      <item><term id="term-00007">Analysis:</term> Interpretation of data gathered in a case study.</item>
+      <item><term id="term-00008">Data:</term> Information gathered from observation, interviews, research, or any other part of a case study.</item>
+      <item><term id="term-00009">Field observations:</term> Observations made while participants are engaged in “real” activities at “real” places. Usually these are the workplace, school, or home. Other locations might be athletic or social venues or any other setting in which participants can be observed acting as they would if they were not being observed.</item>
+      <item><term id="term-00010">Findings or results:</term> What collected data reveals about the research question.</item>
+      <item><term id="term-00011">Participants:</term> The human or, in some cases, nonhuman subjects observed in specific settings for the purpose of collecting data and evidence.</item>
+      <item><term id="term-00012">Observation environment:</term> The location and conditions under which participants are observed.</item>
+      <item><term id="term-00013">Qualitative research:</term> Subjective information based on observations or elements that are difficult to replicate.</item>
+      <item><term id="term-00014">Quantitative research:</term> Specific data that can be replicated in a controlled environment.</item>
+      <item><term id="term-00015">Research question:</term> Focused question about the topic being researched. A research question is the basis of a case study.</item>
+      <item><term id="term-00016">Survey or interview questions:</term> Questions that the author of a case study asks participants in order to elicit relevant information.</item>
+      </list>
       </section>
   </content>
 </document>

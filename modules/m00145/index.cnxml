@@ -6,9 +6,39 @@
     <md:uuid>29fe70a4-134e-4723-9dc4-0cc32bddda21</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Write a reflection on the development of your composing processes.</item>
+      <item>Articulate how those processes affect your work.</item>
+      <item>Participate effectively in collaborative processes.</item>
+      </list>
+      </section>
+      <para class="annotation culture-icon linguistic-icon" id="para-00002">Think about the different groups to which you belong. When you go to work, you are part of a group in which you and your colleagues complete specific tasks to earn money. When you are with your family, you are with a group of people who are related to you. When you are with your friends, you are with a group of people who share interests similar to yours. When you are at school, you are with a group of people who are there to teach and to learn. These groups usually have hierarchies, language terms, dress codes (official or unofficial), and rules of behavior.</para>
+      <para id="para-00003">For example, think about the differences between standard English (formal, grammatically correct English) and the way you or people you know speak. Southerners might use expressions such as <emphasis effect="italics">y’all</emphasis> and <emphasis effect="italics">ain’t</emphasis>, long considered slang and/or incorrect. Some people pluralize nouns that would be grammatically correct as singular. Specific uses of English variants are often linked to a geographical region, ethnicity, or both.</para>
+      <para id="para-00004">Variations of standard English are often the norm among people of color, and people who hold power over social mobility, such as teachers, hiring managers, and so on, traditionally consider use of standard English necessary to demonstrate education and professionalism. Thus, people of color often have to use two variations of English to navigate between professional and personal settings. A formal, grammatically correct sentence in standard English might impress an employer but might make you look out of touch to some in your community.</para>
+      <section id="sect-00002">
+      <title>How Language Use Speaks to Who You Are</title>
+      <para class="annotation linguistic-icon culture-icon" id="para-00005">Pick a specific group of which you are a part, and reflect on that group’s use of language. The group you pick can be somewhat broad, such as “employees of <term class="no-emphasis" id="term-00001">Target</term>,” or more specific, such as “members of the <term class="no-emphasis" id="term-00002">University of North Carolina</term> marching band.” Ask yourself: <emphasis effect="italics">What words are used in this group that might not be understood by people outside the group? Has the group changed the spelling or meaning of any words to communicate with one another? Does the group use any acronyms?</emphasis> Reflect on how language is used in your group to communicate ideas.</para>
+      <para id="para-00006">Then, reflect on how language within your group is used to evaluate ethos, or credibility, of its members. <emphasis effect="italics">In other words, how is language used to identify people who are initiated as “part of the group”? What flaws in the use of language would show that someone is not part of the group?</emphasis></para>
+      <para id="para-00007">Write your reflection in your notebook. If appropriate, discuss your reflection with another student, noting areas of similarity and difference.</para>
+      </section>
+      <section class="further-reading" id="sect-00003">
+      <title>Further Reading</title>
+      <para id="para-00008">Colapinto, John. “Brain Games.” <emphasis effect="italics">New Yorker</emphasis>, 4 May 2009, www.newyorker.com/magazine/2009/05/11/brain-games.</para>
+      <para id="para-00009">“Guiding Principles for Ethical Research.” <emphasis effect="italics">National Institutes of Health</emphasis>, U.S. Department of Health and Human Services, 16 Mar. 2016, www.nih.gov/health-information/nih-clinical-research-trials-you/guiding-principles-ethical-research.</para>
+      <para id="para-00010">LaPointe, Leonard L. <emphasis effect="italics">Paul Broca and the Origins of Language in the Brain</emphasis>. Plural Publishing, 2013.</para>
+      </section>
+      <section class="works-cited" id="sect-00004">
+      <title>Works Cited</title>
+      <para id="para-00011">Colapinto, John. “Brain Games.” <emphasis effect="italics">New Yorker</emphasis>, 4 May 2009, www.newyorker.com/magazine/2009/05/11/brain-games.</para>
+      <para id="para-00012">“Explaining AP Style on Black and White.” <emphasis effect="italics">Associated Press News</emphasis>, 20 July 2020, apnews.com/article/9105661462.</para>
+      <para id="para-00013">Guenther, Katja. “‘It’s All Done with Mirrors’: V. S. Ramachandran and the Material Culture of Phantom Limb Research.” <emphasis effect="italics">Medical History</emphasis>, vol. 60, no. 3, 13 June 2016, pp. 342–358, doi:10.1017/mdh.2016.27.</para>
+      <para id="para-00014">“SIUE Researcher Gathers Stories in Nepal.” <emphasis effect="italics">Edwardsville Intelligencer</emphasis>, 28 July 2015, www.theintelligencer.com/local/article/SIUE-researcher-gathers-stories-in-Nepal-10441044.php.</para>
+      <para id="para-00015">Steinmetz, Katy. “People Have Invented More Than 200 Gender-Neutral Pronouns. Here’s Why ‘They’ Is Here to Stay.” <emphasis effect="italics">Time</emphasis>, 17 Jan. 2020, time.com/5763175/they-as-singular-pronoun/.</para>
+      <para id="para-00016">Worthy, L. D., Trisha Lavigne, and Fernando Romero. “Berry’s Model of Acculturation.” <emphasis effect="italics">Culture and Psychology: How People Shape and Are Shaped by Culture</emphasis>, Glendale Community College, 2020, open.maricopa.edu/culturepsychology/chapter/berrys-model-of-acculturation/.</para>
+      <para id="para-00017">“Writing Guides.” <emphasis effect="italics">Writing@CSU</emphasis>, Colorado State U, 2021, writing.colostate.edu/guides/index.cfm.</para>
       </section>
   </content>
 </document>

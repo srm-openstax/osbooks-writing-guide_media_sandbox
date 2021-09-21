@@ -6,9 +6,66 @@
     <md:uuid>2ebec782-8138-494c-aa77-5f920cf60050</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Revise writing to follow the genre conventions of case studies.</item>
+      <item>Evaluate the effectiveness and quality of a case study report.</item>
+      </list>
       </section>
+      <para id="para-00002">Case studies follow a structure of <emphasis effect="italics">background and context</emphasis>, <emphasis effect="italics">methods</emphasis>, <emphasis effect="italics">findings</emphasis>, and <emphasis effect="italics">analysis</emphasis>. Body paragraphs should have main points and concrete details. In addition, case studies are written in formal language with precise wording and with a specific purpose and audience (generally other professionals in the field) in mind. Case studies also adhere to the conventions of the discipline’s formatting guide (APA Documentation and Format in this study). Compare your case study with the following rubric as a final check.</para>
+      <table summary=" " id="table-00001">
+      <tgroup cols="4">
+      <colspec colnum="1" colname="c1"/>
+      <colspec colnum="2" colname="c2"/>
+      <colspec colnum="3" colname="c3"/>
+      <colspec colnum="4" colname="c4"/>
+      <tbody>
+      <row>
+      <entry align="center"><emphasis effect="bold">Score</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Critical Language Awareness</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Clarity and Coherence</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Rhetorical Choices</emphasis></entry>
+      </row>
+      <row>
+      <entry><para id="para-00003"><emphasis effect="bold">5</emphasis></para>
+      <para id="para-00004"><emphasis effect="bold">Skillful</emphasis></para></entry>
+      <entry>The text always adheres to the “Editing Focus” of this chapter: words often confused, as discussed in Section 15.6. The text also shows ample evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+      <entry>Paragraphs are unified under a single, clear topic. Abundant background and supporting details provide a sense of completeness. Evidence of qualitative and quantitative data collection is clear. Transitions and subheads connect ideas and sections, thus establishing coherence throughout. Applicable visuals clarify abstract ideas.</entry>
+      <entry>The writer clearly and consistently recognizes and works within the limits and purpose of the case study. The writer engages the audience by inviting them to contribute to the research and suggests ways for doing so. The implications, relevance, and consequences of the research are explained. The study shows mature command of language and consistent objectivity. Quotations from participant(s) are accurate and relevant.</entry>
+      </row>
+      <row>
+      <entry><para id="para-00005"><emphasis effect="bold">4</emphasis></para>
+      <para id="para-00006"><emphasis effect="bold">Accomplished</emphasis></para></entry>
+      <entry>The text usually adheres to the “Editing Focus” of this chapter: words often confused, as discussed in Section 15.6. The text also shows some evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+      <entry>Paragraphs usually are unified under a single, clear topic. Background and supporting details provide a sense of completeness. Evidence of qualitative and quantitative data collection is clear. Transitions and subheads connect ideas and sections, thus establishing coherence. Applicable visuals clarify abstract ideas.</entry>
+      <entry>The writer usually recognizes and works within the limits and purpose of the case study. The writer engages the audience by inviting them to contribute to the research and usually suggests ways for doing so. The implications, relevance, and consequences of the research are explained. The study shows command of language and objectivity. Quotations from participant(s) are usually accurate and relevant.</entry>
+      </row>
+      <row>
+      <entry><para id="para-00007"><emphasis effect="bold">3</emphasis></para>
+      <para id="para-00008"><emphasis effect="bold">Capable</emphasis></para></entry>
+      <entry>The text generally adheres to the “Editing Focus” of this chapter: words often confused, as discussed in Section 15.6. The text also shows limited evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+      <entry>Paragraphs generally are unified under a single, clear topic. Background and supporting details provide a sense of completeness. Some evidence of qualitative and quantitative data collection is clear. Some transitions and subheads connect ideas and sections, generally establishing coherence. Visuals may clarify abstract ideas or may seem irrelevant.</entry>
+      <entry>The writer generally recognizes and works within the limits and purpose of the case study. The writer sometimes engages the audience by inviting them to contribute to the research but may not suggest ways for doing so. The implications, relevance, and consequences of the research are explained, if not fully. The study shows some command of language and objectivity. Quotations from participant(s) are generally accurate, if not always relevant.</entry>
+      </row>
+      <row>
+      <entry><para id="para-00009"><emphasis effect="bold">2</emphasis></para>
+      <para id="para-00010"><emphasis effect="bold">Developing</emphasis></para></entry>
+      <entry>The text occasionally adheres to the “Editing Focus” of this chapter: words often confused, as discussed in Section 15.6. The text also shows emerging evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+      <entry>Paragraphs sometimes are unified under a single, clear topic. Background and supporting details are insufficient to provide a sense of completeness. There is little evidence of qualitative or quantitative data collection. Some transitions and subheads connect ideas and sections, but coherence may be lacking. Visuals are either missing or irrelevant.</entry>
+      <entry>The writer occasionally recognizes and works within the limits and purpose of the case study. The writer rarely engages the audience by inviting them to contribute to the research or suggests ways for doing so. The implications, relevance, and consequences of the research are haphazardly explained, if at all. The study shows little command of language or objectivity. Quotations from participant(s) are questionable and often irrelevant.</entry>
+      </row>
+      <row>
+      <entry><para id="para-00011"><emphasis effect="bold">1</emphasis></para>
+      <para id="para-00012"><emphasis effect="bold">Beginning</emphasis></para></entry>
+      <entry>The text does not adhere to the “Editing Focus” of this chapter: words often confused, as discussed in Section 15.6. The text also shows little to no evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+      <entry>Paragraphs are not unified under a single, clear topic. Background and supporting details are insufficient to provide a sense of completeness. There is little evidence of qualitative or quantitative data collection. Transitions and subheads are missing or inappropriate to provide coherence. Visuals are either missing or irrelevant.</entry>
+      <entry>The writer does not recognize or work within the limits and purpose of the case study. The writer does not engage the audience by inviting them to contribute to the research. The implications, relevance, and consequences of the research are haphazardly explained, if at all. The study shows little command of language or objectivity. Quotations, if any, from participant(s) are questionable and often irrelevant.</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption/>
+      </table>
   </content>
 </document>
