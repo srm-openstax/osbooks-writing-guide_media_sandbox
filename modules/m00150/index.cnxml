@@ -55,7 +55,7 @@
     <para class="annotation-text" id="para-00030"><emphasis effect="italics">Garrison introduces a final contemporary text for comparison. By citing multiple texts across time, Garrison strengthens her argument.</emphasis></para>
     <para class="student-sample" id="para-00031">Artists and writers such as <term class="no-emphasis" id="term-00040">Chopin, Jackson, Clinton, Teigen</term>, and <term class="no-emphasis" id="term-00041">Miller</term> engage in the gritty work of social reform that cannot be achieved through any other medium because culture cannot change unless the language in which people talk about the culture changes. This socially reformed reality is conceived only from the creativity of intelligent minds that are able both to envision and then to describe the world as it is yet to exist. In this way, artists who work with the medium of language become the prophets.</para>
     <para class="annotation-text" id="para-00032"><emphasis effect="italics">This conclusion looks to the future, which is a productive rhetorical or persuasive technique to give the audience an idea about what they can take away from this project.</emphasis></para>
-    <section class="works-cited" id="sect-00004">
+    <section id="sect-00004">
     <title>Works Cited</title>
     <para id="para-00033">Ali, Lorraine. “‘Such a Nasty Woman’: Trump’s Debate Dig Becomes a Feminist Rallying Cry.” <emphasis effect="italics">Los Angeles Times</emphasis>, 20 Oct. 2016, www.latimes.com/entertainment/tv/la-et-nasty-woman-trump-clinton-debate-jane-jackson-20161020-snap-story.html.</para>
     <para id="para-00034">Butler, Bethonie. “Trump Called Chrissy Teigen a ‘Filthy Mouthed Wife.’ Her Response Reflects Years of Social Media Savvy.” <emphasis effect="italics">Washington Post</emphasis>, 10 Sept. 2019, www.washingtonpost.com/arts-entertainment/2019/09/10/trump-called-chrissy-teigen-filthy-mouthed-wife-her-response-reflects-years-social-media-savvy/.</para>
@@ -69,31 +69,31 @@
     </section>
     <section id="sect-00005">
     <title>Discussion Questions</title>
-    <excercise>
+    <exercise id="exer-00001">
     <problem id="prob-00001">
     <para id="para-00041"><link class="os-embed" url="#exercise/EC_Ch16-Sec4_DQ1"/></para>
     </problem>
-    </excercise>
-    <excercise>
+    </exercise>
+    <exercise id="exer-00002">
     <problem id="prob-00002">
     <para id="para-00042"><link class="os-embed" url="#exercise/EC_Ch16-Sec4_DQ2"/></para>
     </problem>
-    </excercise>
-    <excercise>
+    </exercise>
+    <exercise id="exer-00003">
     <problem id="prob-00003">
     <para id="para-00043"><link class="os-embed" url="#exercise/EC_Ch16-Sec4_DQ3"/></para>
     </problem>
-    </excercise>
-    <excercise>
+    </exercise>
+    <exercise id="exer-00004">
     <problem id="prob-00004">
     <para id="para-00044"><link class="os-embed" url="#exercise/EC_Ch16-Sec4_DQ4"/></para>
     </problem>
-    </excercise>
-    <excercise>
+    </exercise>
+    <exercise id="exer-00005">
     <problem id="prob-00005">
     <para id="para-00045"><link class="os-embed" url="#exercise/EC_Ch16-Sec4_DQ5"/></para>
     </problem>
-    </excercise>
+    </exercise>
     </section>
     <section id="sect-00006">
     <title>For Reference: “The Storm” by Kate Chopin</title>
