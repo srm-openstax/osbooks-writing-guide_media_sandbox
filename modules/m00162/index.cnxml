@@ -6,9 +6,49 @@
     <md:uuid>8594c6a6-b6b3-4fa7-a39a-3ff3f60b8a04</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Apply editing strategies to highlight the features of visual rhetoric.</item>
+    <item>Edit to include concrete nouns and descriptive language when writing about images.</item>
+    <item>Identify instances of wordiness and overused modifiers and edit to eliminate them.</item>
+    </list>
+    </section>
+    <para class="annotation linguistic-icon" id="para-00002">People reading about visual and digital images expect to encounter vivid, descriptive language that allows them to picture the image as they read. Particularly helpful is detailed language, such as precise names for colors (for example, aqua, teal, or navy for different shades of blue) or similes (for example, <emphasis effect="italics">steel blue like the October sky seen through a heavy Los Angeles smog</emphasis>). This type of language helps readers visualize the image differently and broadens their range of experience. Such descriptive writing incorporates your personal experience with the elements of visual rhetoric discussed in this chapter.</para>
+    <para id="para-00003">Consider the following suggestions to help you bridge the gap between your experience and that of your reader.</para>
+    <list list-type="bulleted" id="list-00002">
+    <item><para id="para-00004"><emphasis effect="bold">First, use concrete, rather than abstract, nouns.</emphasis> An abstract noun is a word such as <emphasis effect="italics">concept</emphasis> or <emphasis effect="italics">practice</emphasis>. It refers to an idea rather than a thing. A concrete noun refers to something visible or tangible: <emphasis effect="italics">arc</emphasis>, <emphasis effect="italics">circle</emphasis>, or <emphasis effect="italics">line</emphasis>. Your reader can identify concrete nouns in the image and follow your description more meaningfully.</para>
+    <para id="para-00005"><emphasis effect="bold">Example 1</emphasis></para>
+    <para id="para-00006"><emphasis effect="bold">Original:</emphasis> The artist used a lot of colors for the face instead of dividing it into lights and darks.</para>
+    <para id="para-00007"><emphasis effect="bold">Revision:</emphasis> The French painter <term class="no-emphasis" id="term-00001">Henri Matisse</term> (1869–1954) used blues and greens, along with reds and yellows, to depict the woman’s face instead of separating it into realistic color and shading.</para>
+    <para id="para-00008"><emphasis effect="bold">Example 2</emphasis></para>
+    <para id="para-00009"><emphasis effect="bold">Original:</emphasis> By the placement of the figures, the sculptor depicts dominance.</para>
+    <para id="para-00010"><emphasis effect="bold">Revision:</emphasis> By placing the African and Indigenous figures behind and lower than the central figure mounted on horseback, the sculptor depicts the dominance of the White man, Theodore Roosevelt.</para></item>
+    <item><para id="para-00011"><emphasis effect="bold">Second, use adjectives sparingly.</emphasis> Readers rely on subjects and verbs to draw meaning from sentences. Those are the words that light up the synapses and neurons in people’s brains. They are the characters and actions in stories, while all other words act as “filler.” Although they provide color, interest, and detail, they lack the power of subjects and verbs. So let your subjects and verbs pack the punch, and reserve adjectives and adverbs for special occasions.</para>
+    <para id="para-00012">Consider the advice given by one of America’s classic writers, <term class="no-emphasis" id="term-00002">Mark Twain</term> (1835–1910): “When you catch an adjective, kill it. No, I don’t mean utterly, but kill most of them—then the rest will be valuable. They weaken when they are close together. They give strength when they are wide apart. An adjective habit, or a wordy, diffuse, flowery habit, once fastened upon a person, is as hard to get rid of as any other vice.”</para>
+    <para id="para-00013"><emphasis effect="bold">Example 1</emphasis></para>
+    <para id="para-00014"><emphasis effect="bold">Original:</emphasis> Inside and outside, the big, shiny memorial building was covered with many very small, brightly colored tiles.</para>
+    <para id="para-00015"><emphasis effect="bold">Revision:</emphasis> Both the interior and exterior of the memorial were adorned with mosaics.</para>
+    <para id="para-00016"><emphasis effect="bold">Example 2</emphasis></para>
+    <para id="para-00017"><emphasis effect="bold">Original:</emphasis> The bleak meadow, which looked very dreary and not very serene, with bits of snow all around, was the perfect backdrop for the majestic eagle and its massive nest.</para>
+    <para id="para-00018"><emphasis effect="bold">Revision:</emphasis> The snow dotting the meadow made it look bleak rather than serene, highlighting the majesty of both the eagle and its nest.</para></item>
+    <item><para id="para-00019"><emphasis effect="bold">Finally, strengthen verbs by removing weak, wordy structures.</emphasis> <emphasis effect="italics">There are</emphasis> and <emphasis effect="italics">it is</emphasis> are two such structures. If you look deeper into the sentence, you usually can find a verb masquerading as a noun. While you’re at it, eliminate unnecessary or filler words, such as prepositions or repetitive conjunctions.</para>
+    <para id="para-00020"><emphasis effect="bold">Example 1</emphasis></para>
+    <para id="para-00021"><emphasis effect="bold">Original:</emphasis> It is obvious that the artist intended that the painting should be something that projects clarity and insight.</para>
+    <para id="para-00022"><emphasis effect="bold">Revision:</emphasis> The artist obviously intended the painting to project clarity and insight.</para>
+    <para id="para-00023"><emphasis effect="bold">Example 2</emphasis></para>
+    <para id="para-00024"><emphasis effect="bold">Original:</emphasis> Throughout the United States near the end of the landscape painting era, there was growing disillusionment among artists with the naturalness of nature.</para>
+    <para id="para-00025"><emphasis effect="bold">Revision:</emphasis> As the landscape painting era neared an end, U.S. artists became increasingly disillusioned with the naturalness of nature.</para></item>
+    </list>
+    <section id="sect-00002">
+    <title>Practice Using Descriptive Diction</title>
+    <para id="para-00026">Revise the following descriptions to eliminate abstract nouns, adjectives, adverbs, and extra words. Be sure to keep the same meaning.</para>
+    <list list-type="enumerated" id="list-00003">
+    <item>The dirty, grimy, broken walls in the artist’s painting of the building really show anyone looking at it that there is no one living there because of the condition or maybe some other reason.</item>
+    <item>The drawing is really very beautiful; the artist has done a great job of making the face look like the real person’s face, especially the features.</item>
+    <item>In the picture, there are flowers in a vase and some food and other things on a table; in the background, there is a cat.</item>
+    </list>
+    </section>
+    </content>
 </document>

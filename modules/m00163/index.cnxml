@@ -6,9 +6,69 @@
     <md:uuid>69c9beef-f6de-4151-a4c5-95212355eea9</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Apply or challenge measurement outcomes for written discourse in the field of visual rhetoric.</item>
+    <item>Compare your written work with evaluation criteria.</item>
+    </list>
+    </section>
+    <para id="para-00002">Below are the criteria that your instructor will use to assess your written work for this chapter. As you read them, consider how they align with the elements of visual rhetoric identified and analyzed throughout this chapter. As you plan, write, and revise, consult the following rubric carefully to ensure that you are meeting the critical cultural and rhetorical expectations for assessing images. Consider also ways you might usefully and creatively challenge such expectations—for example, by adopting a unique voice in which to write that rejects language such as “point of view” but still results in an effective piece of persuasive writing.</para>
+    <section id="sect-00002">
+    <title>Rubric</title>
+    <table summary=" " id="table-00001">
+    <tgroup cols="4">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+    <tbody>
+    <row>
+    <entry><emphasis effect="bold">Score</emphasis></entry>
+    <entry><emphasis effect="bold">Critical Language Awareness</emphasis></entry>
+    <entry><emphasis effect="bold">Clarity and Coherence</emphasis></entry>
+    <entry><emphasis effect="bold">Rhetorical Choices</emphasis></entry>
+    </row>
+    <row>
+    <entry><para id="para-00003"><emphasis effect="bold">5</emphasis></para>
+    <para id="para-00004"><emphasis effect="bold">Skillful</emphasis></para></entry>
+    <entry>The text always adheres to the “Editing Focus” of this chapter: using descriptive diction, as discussed in Section 17.6, and employing sensory detail. The text also shows ample evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+    <entry>The thesis and organization are clear. Paragraphs are evenly and fully developed, with topic sentences. Sentence structure is balanced. The introduction offers a clearly relevant context, and the conclusion is insightful. The writer has used transitions to ensure coherence throughout.</entry>
+    <entry>The author demonstrates consistent skill in using the technical language associated with visual rhetoric—line, light, and point of view, for example—and consistently speaks to the reader in an engaging and professional tone.</entry>
+    </row>
+    <row>
+    <entry><para id="para-00005"><emphasis effect="bold">4</emphasis></para>
+    <para id="para-00006"><emphasis effect="bold">Accomplished</emphasis></para></entry>
+    <entry>The text usually adheres to the “Editing Focus” of this chapter: using descriptive diction, as discussed in Section 17.6, and employing sensory detail. The text also shows some evidence of the writer’s intent to meet or challenge conventional expectations in rhetorically effective ways.</entry>
+    <entry>The thesis and organization are clear. Paragraphs are evenly and fully developed, with topic sentences. Sentence structure is generally, if not consistently, balanced. The introduction offers a relevant context, and the conclusion is insightful. The writer has used transitions to ensure coherence in most places.</entry>
+    <entry>The author demonstrates some mastery of the technical language associated with visual rhetoric—line, light, and point of view, for example—and usually speaks to the reader in an engaging and professional tone.</entry>
+    </row>
+    <row>
+    <entry><para id="para-00007"><emphasis effect="bold">3</emphasis></para>
+    <para id="para-00008"><emphasis effect="bold">Capable</emphasis></para></entry>
+    <entry>The text generally adheres to the “Editing Focus” of this chapter: using descriptive diction, as discussed in Section 17.6, and employing sensory detail. The text also shows limited evidence of the writer’s intent to meet or challenge conventional expectations in rhetorically effective ways.</entry>
+    <entry>The thesis and organization are fairly clear. Some paragraphs may lack topic sentences, or topic sentences may be unclear. Some paragraphs may be undeveloped. Sentence structure may be unbalanced. The introduction offers a relevant context, and the conclusion is adequate, if not insightful. Transitions may be missing in key places.</entry>
+    <entry>The author demonstrates familiarity with, if not mastery of, the technical language associated with visual rhetoric—line, light, and point of view, for example—and usually speaks to the reader in an engaging and professional tone. There may be occasional lapses in vocabulary, tone, or comprehension.</entry>
+    </row>
+    <row>
+    <entry><para id="para-00009"><emphasis effect="bold">2</emphasis></para>
+    <para id="para-00010"><emphasis effect="bold">Developing</emphasis></para></entry>
+    <entry>The text occasionally adheres to the “Editing Focus” of this chapter: using descriptive diction, as discussed in Section 17.6, and employing sensory detail. The text also shows emerging evidence of the writer’s intent to meet or challenge conventional expectations in rhetorically effective ways.</entry>
+    <entry>The thesis may be implied rather than stated, and the organization may be unclear. Paragraphs may lack topic sentences and may be undeveloped. Sentence structure is likely to be simplistic. The introduction offers little context, and the conclusion is impractical or simplistic. Few transitions provide minimal, if any, coherence.</entry>
+    <entry>The author demonstrates little, if any, familiarity with the technical language associated with visual rhetoric—line, light, and point of view, for example. The tone may be inconsistent and informal or unprofessional at times. There may be occasional lapses in vocabulary and comprehension as well.</entry>
+    </row>
+    <row>
+    <entry><para id="para-00011"><emphasis effect="bold">1</emphasis></para>
+    <para id="para-00012"><emphasis effect="bold">Beginning</emphasis></para></entry>
+    <entry>The text does not adhere to the “Editing Focus” of this chapter: using descriptive diction, as discussed in Section 17.6, and employing sensory detail. The text also shows little to no evidence of the writer’s intent to meet or challenge conventional expectations in rhetorically effective ways.</entry>
+    <entry><para id="para-00013">The thesis is missing or irrelevant to the assignment. Paragraphs are unevenly developed and poorly organized.</para>
+    <para id="para-00014">Sentence structures and word choices may be simplistic or exhibit substantive errors that impede comprehension. The introduction or conclusion may be missing. Alternatively, the introduction provides no context, or the conclusion merely summarizes the paper. Lack of transitions contributes to general incoherence.</para></entry>
+    <entry>The author demonstrates little, if any, familiarity with the technical language associated with visual rhetoric—line, light, and point of view, for example. The tone is inconsistent and often informal or unprofessional. There may be lapses in vocabulary and comprehension as well.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    </section>
+    </content>
 </document>

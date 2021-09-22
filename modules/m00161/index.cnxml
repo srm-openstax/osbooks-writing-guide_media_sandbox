@@ -6,9 +6,320 @@
     <md:uuid>c30cc96b-f274-4f62-ac49-f7e35687ccaf</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Develop a writing project through multiple drafts.</item>
+    <item>Employ a variety of drafting strategies to complete an analysis of images.</item>
+    <item>Apply aspects of visual rhetoric to a writing project.</item>
+    <item>Participate in the collaborative and social aspects of writing processes.</item>
+    <item>Give and act effectively on productive feedback.</item>
+    </list>
+    </section>
+    <para id="para-00002">In this section, you will combine what you learned earlier about reflecting on and analyzing images with another way of writing about images: writing persuasively, or persuading. Like reflecting and analyzing, writing persuasively requires clear, vivid descriptions of the technical aspects of an artwork, such as point of view, arrangement, color, and symbolism, as explained in Glance at Genre: Relationship Between Image and Rhetoric. Remember that reflecting on an image helps you make sense of both the image and your experience from different perspectives. Reading other people’s reflections expands your universe of experience. Analyzing images improves your critical thinking skills by synthesizing description, reflection, and logical thinking to determine what an image’s design elements mean. You write persuasively about images when you determine that an image’s meaning has or does not have a value (that you define) for its viewers. For example, Leo Davis, in his analysis of <emphasis effect="italics">Dancing Sailors</emphasis> in Annotated Student Sample, determines the homoerotic message in the image and the painter’s tone or attitude toward his subject. You can also extend the scope of persuasion to make a recommendation about the status or merit of the work, as you will do in this assignment.</para>
+    <section id="sect-00002">
+    <title>Writing Persuasively about Images</title>
+    <para id="para-00003">Like reflection, persuasion starts with context and description and can include personal reflections. The difference is primarily in the purpose and often the tone, or attitude toward the subject and audience. The purpose generally falls into one of three categories:</para>
+    <list list-type="bulleted" id="list-00002">
+    <item><emphasis effect="italics"><emphasis effect="bold">What is the image’s value?</emphasis></emphasis> In the art world, these discussions are commonplace. Major publications such as the <emphasis effect="italics">New Yorker</emphasis> or <emphasis effect="italics">Harper’s Magazine</emphasis> publish reviews of artists, galleries, and exhibitions. Critics and scholars argue that such discussions serve to establish a society’s values and to benchmark the limits of what a society will and will not tolerate. Certainly, 2020 witnessed an explosion of such conversations. Protestors created images meant for display on public property, many of which were identified as graffiti or acts of vandalism; streets and other locations were renamed to reflect a growing awareness of the role that Black excellence has played in America’s history; and monuments and memorials relating to injustice were reevaluated, vandalized, and removed.</item>
+    <item><emphasis effect="italics"><emphasis effect="bold">What happened?</emphasis></emphasis> Forensic arguments often relate to legal situations, in which lawyers, judges, and juries try to determine what happened and how to respond. In the case of images, these techniques are applied to assess the circumstances of an image’s creation as well as its critical and modern reception.</item>
+    <item><emphasis effect="italics"><emphasis effect="bold">What should happen?</emphasis></emphasis> In the public sector, officials decide whether to fund artistic works. In the private sector, companies decide on images that faithfully represent their brands and values.</item>
+    </list>
+    <para id="para-00004">In persuasive writing, the purpose is usually revealed in a <term id="term-00001">thesis statement</term>, a single sentence, sometimes two, that defines the author’s position and gives one or more reasons for it. The thesis usually appears at the end of the introduction, although it can occur at the start of either the introduction or the conclusion.</para>
+    <para class="annotation culture-icon" id="para-00005">Look again at Figure 17.3, in which a woman wears a mask that reads, “I can’t breathe.” Table 17.1 below outlines a thesis statement based on that image that might apply to each of the three persuasive writing purposes.</para>
+    <table summary=" " id="table-00001">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <tbody>
+    <row>
+    <entry><emphasis effect="bold">Persuasion Purpose</emphasis></entry>
+    <entry><emphasis effect="bold">Sample Thesis Statement</emphasis></entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">What is the image’s value?</emphasis></entry>
+    <entry>The image of the mask, its text, and the woman wearing it convey an important message that serves as a valuable artifact representing many of the complexities of 2020.</entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">What happened?</emphasis></entry>
+    <entry>The mask wearer is sending a valuable message that people need to hear in the context of the controversies surrounding both the pandemic and the racial situation in America in 2020.</entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">What should happen?</emphasis></entry>
+    <entry>The mask’s message and context are inflammatory during a public health crisis; therefore, the use of masks with potentially political commentary should be discouraged in public places.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Sample thesis statements by persuasion purpose</caption>
+    </table>
+    <section id="sect-00003">
+    <title>Tone</title>
+    <para id="para-00006">The tone of a persuasive piece can range from educational to impassioned and is largely based on the audience to which it is directed. Most writing about images is done in the neutral tone typically adopted in academic writing, although you may find reviews or essays that are informal and others that are scholarly.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Taking a Side</title>
+    <para id="para-00007">In “‘Reading’ Images”, you read a description of and some reflections on Figure 17.3, an image of woman wearing a mask reading, “I Can’t Breathe.” You also read a brief analysis of the figure, combining description, historical context, and the visual design element of juxtaposition. Now, in Table 17.2, look at what two sides of a persuasive discussion of Figure 17.3 might look like.</para>
+    <table summary=" " id="table-00002">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <tbody>
+    <row>
+    <entry><emphasis effect="bold">Side A</emphasis></entry>
+    <entry><emphasis effect="bold">Side B</emphasis></entry>
+    </row>
+    <row>
+    <entry namest="c1" nameend="c2">Purpose / Thesis</entry>
+    </row>
+    <row>
+    <entry>Figure 17.3 represents an important moment in American history and should be included in a yearbook recording historical events of 2020.</entry>
+    <entry>Figure 17.3 depicts an ordinary occurrence and does not warrant inclusion in a yearbook recording historical events of 2020.</entry>
+    </row>
+    <row>
+    <entry namest="c1" nameend="c2">Audience</entry>
+    </row>
+    <row>
+    <entry namest="c1" nameend="c2">Committee commissioned by the National Endowment for the Humanities</entry>
+    </row>
+    <row>
+    <entry namest="c1" nameend="c2">Context</entry>
+    </row>
+    <row>
+    <entry namest="c1" nameend="c2">The committee has been commissioned to publish a yearbook of 2020, entitled <emphasis effect="italics">The Year Democracy Roared</emphasis>. They are looking for pictures that represent large movements in America in 2020 that tie into the country’s history and depict individuals in interesting or unique settings.</entry>
+    </row>
+    <row>
+    <entry namest="c1" nameend="c2">Evidence</entry>
+    </row>
+    <row>
+    <entry><list list-type="bulleted" id="list-00003">
+    <item>The image features a Black woman wearing a mask that reads, “I Can’t Breathe.”</item>
+    <item>The pandemic of 2020 caused many people to wear masks, either by choice or by mandate.</item>
+    <item>Some people did not support mask wearing because of their political beliefs regarding personal liberties.</item>
+    <item>During 2020, the Black Lives Matter movement gained widespread support.</item>
+    <item>“I Can’t Breathe” was one of several slogans adopted by the Black Lives Matter movement.</item>
+    <item>The image juxtaposes the mask with the slogan in an ironic statement open to multiple interpretations.</item></list></entry>
+    <entry><list list-type="bulleted" id="list-00004">
+    <item>Many people wore masks in 2020 for reasons unassociated with politics or controversy.</item>
+    <item>Many people decorated their masks with a variety of images and slogans.</item>
+    <item>The choice of whether to wear a mask was, in many cases, not a choice but a mandate.</item>
+    <item>This woman is not in obvious distress or at a protest.</item>
+    <item>The image includes another woman, reflected in the first woman’s sunglasses, not wearing a mask, calling into question the seriousness of her mask message.</item>
+    <item>The woman does not appear to be part of a larger movement, engaged in a unique or interesting activity, or placed in an unusual setting.</item></list></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Elements of a persuasive argument about an image</caption>
+    </table>
+    </section>
+    </section>
+    <section id="sect-00005">
+    <title>Summary of Assignment: Writing Persuasively about an Image</title>
+    <para id="para-00008">Public works projects such as stadiums or convention centers, private developments such as condominiums and shopping centers, and online spaces such as websites and social media platforms all commission artists to create exclusive works for display. These works are intended to reflect the vision of the artist as well as to promote the brand or mission of the space. Imagine that you have been asked to analyze an artist’s work to determine whether the artist should contribute to the development of a local space that you select. Select the work of an artist, either <link url="https://openstax.org/r/Sara.Ludy">Sara Ludy</link> or another artist whose work is familiar to you or whose work you would like to learn more about. See “Further Resources” at the end of this chapter for suggested museums to visit in person or online. You can choose from historical figures or living artists. You can even choose an artist who illustrated a graphic novel you have read. Once you have chosen an artist and an image created by that artist, identify the aspects of the work you wish to assess, and support your analysis with technical descriptions of the image. Then, explain why you reached your decision about the artist’s contribution to the selected space.</para>
+    <para id="para-00009">The parts in this section will take you through the development of a sample essay, using the example of American sculptor <term class="no-emphasis" id="term-00002">James Earle Fraser</term>’s (1876–1953) <term class="no-emphasis" id="term-00003"><emphasis effect="italics">Equestrian Statue of Theodore Roosevelt</emphasis></term>. As you follow along in this process, consider how it applies to your topic. Think of the process as divided into these six steps:</para>
+    <list list-type="enumerated" id="list-00005">
+    <item>Identify the rhetorical situation.</item>
+    <item>Outline the elements you intend to analyze.</item>
+    <item>Write an introduction in which you frame the image and the context in which you intend to discuss it.</item>
+    <item>As you draft, or before you draft the body of the essay, write topic sentences to identify the focus of each paragraph on a specific technical or contextual aspect of the image.</item>
+    <item>Build your paragraphs by describing the relevant elements.</item>
+    <item>Conclude by suggesting directions to consider in the future.</item>
+    </list>
+    <section id="sect-00006">
+    <title>Another Lens 1</title>
+    <para class="annotation visual-icon linguistic-icon" id="para-00010">Visit <link url="https://openstax.org/r/Sara.Ludy">Sara Ludy’s website</link> and select an image, a rendering, or an animation that speaks to you in some way, and identify the technical aspects you wish to assess. Support your analysis with descriptions of the image, using the vocabulary introduced in “Reading” Images and Glance at Genre: Relationship Between Image and Rhetoric. Then, as an option, consider whether or not you would advise an individual to purchase the work or how you would advise an organization to use it (or not use it) as a representative image—for example, as part of a logo or cover for a publication.</para>
+    </section>
+    <section id="sect-00007">
+    <title>Another Lens 2</title>
+    <para class="annotation visual-icon linguistic-icon" id="para-00011">Another option for assessing an artist’s work is to compare and contrast this work with another piece, either by Sara Ludy or by a different artist. In doing so, you may consider ways in which the artist and their work have changed over time, or you may consider the influence one artist has on another. Finally, you may consider the images in different contexts through the lens of the artists’ experiences, places in history, personal identities, and artistic practices.</para>
+    </section>
+    <section id="sect-00008">
+    <title>Another Lens 3</title>
+    <para class="annotation visual-icon linguistic-icon speech-icon" id="para-00012">Consider the work from a multimodal perspective, or choose an entirely different work. If you are interested in the connections of art and culture, consider choosing a piece of historic or contemporary Native American art. You can find information and view images at the websites for the <link url="https://openstax.org/r/National">National Museum of the American Indian</link> and the <link url="https://openstax.org/r/Hearts-of-Our"><emphasis effect="italics">Hearts of Our People: Native Women Artists</emphasis></link> exhibition at the Smithsonian American Art Museum. Create an <term id="term-00004">infographic</term> or a short video assessing the chosen artwork. An infographic incorporates multiple images and texts into a single image that can be read and understood quickly. A short video could work in a similar way, but the images would be presented sequentially with narration, either spoken or written. Your multimodal work should consider the elements of visual rhetoric discussed throughout this chapter and combine reflection with analysis and persuasion. See <link document="m00001">Multimodal and Online Writing: Creative Interaction between Text and Image</link> for more information on creating a multimodal work.</para>
+    </section>
+    </section>
+    <section class="quick-launch" id="sect-00009">
+    <title>Identify Rhetorical Context</title>
+    <figure id="fig-00001"><media alt="Equestrian Statue of Theodore Roosevelt, located in New York City and created by James Earle Fraser, shows Roosevelt astride a horse while a Native and a Black person walk on either side of him.">
+    <image mime-type="image/jpeg" src="../../media/COMP_Figure_17_05_019.jpg"/></media>
+    <caption><emphasis effect="italics">Equestrian Statue of Theodore Roosevelt</emphasis>, 1940, by James Earle Fraser, New York City (credit: edwardhblake/Wikimedia Commons, CC BY 2.0)</caption></figure>
+    <para id="para-00013">In this writing example, the statue of former U.S. president <term class="no-emphasis" id="term-00005">Theodore Roosevelt</term> (1858–1919) (Figure 17.17) is analyzed as part of the museum’s decision to keep it or remove it. To begin, the author of this paper (a college student, U.S. citizen, and nursing major) defines the rhetorical situation: purpose, audience, genre, stance, context, and culture. Complete the first step in the assignment as this author has done by consulting the writer’s triangle to sketch out these elements. The writer’s triangle (Figure 17.17) includes audience, genre, and stance and is surrounded by the circle of context/culture. The image allows you to “shorthand” your ideas about these elements during the brainstorming phase, as the author has done beneath the figure.</para>
+    <figure id="fig-00002"><media alt="A triangle inside a circle, titled Writer‛s Triangle, shows “Context” and “Culture” in the circle while “Audience, Genre, Purpose,” and “Stance” appear inside the triangle.">
+    <image mime-type="image/png" src="../../media/COMP_Figure_17_05_020.png"/></media>
+    <caption>Writer’s triangle</caption></figure>
+    <list list-type="bulleted" id="list-00006">
+    <item><emphasis effect="bold">Purpose:</emphasis> To analyze the Equestrian Statue of Theodore Roosevelt</item>
+    <item><emphasis effect="bold">Audience:</emphasis> Instructor, fellow students, and U.S. residents</item>
+    <item><emphasis effect="bold">Genre:</emphasis> Print or digital newsletter or magazine article</item>
+    <item><emphasis effect="bold">Stance:</emphasis> To support the American Museum of Natural History’s decision to remove the statue of Theodore Roosevelt</item>
+    <item><emphasis effect="bold">Context:</emphasis> Roosevelt’s presidency and what he accomplished, the relationship between him and the American Museum of Natural History, and the elements of the statue warranting its inclusion or exclusion</item>
+    <item><emphasis effect="bold">Culture:</emphasis> Critics have said that the statue depicts Black people and Native Americans as conquered and culturally substandard.</item>
+    </list>
+    <para id="para-00014">Note: Do not confuse context with your rhetorical situation, which, in this case, is a writing assignment for a college course, part of a portfolio and a learning technique in which you practice a type of civil discourse. Meanwhile, context in this case refers to the image—the circumstances of its creation, its technical elements, and how its meaning may change over time.</para>
+    <para id="para-00015">Sometimes the elements of your rhetorical situation are not made explicit. Signs that you need clarification include the following:</para>
+    <list list-type="bulleted" id="list-00007">
+    <item>Trouble getting started</item>
+    <item>Difficulty understanding how much background information to provide</item>
+    <item>Not knowing which terms are too technical or which need to be defined</item>
+    </list>
+    <para id="para-00016">For clarity about purpose, audience, genre, or culture, talk to your peers and instructor using the questions in Table 17.3 as a guide.</para>
+    <table summary=" " id="table-00003">
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <tbody>
+    <row>
+    <entry/>
+    <entry><emphasis effect="bold">Questions to Consider</emphasis></entry>
+    <entry><emphasis effect="bold">Your Responses</emphasis></entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Purpose</emphasis></entry>
+    <entry>With regard to the image, are you writing to describe, to reflect, to analyze, or to evaluate (persuade)?</entry>
+    <entry/>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Audience</emphasis></entry>
+    <entry>Who is the audience? What do they already know about the image? What do they need to know? Toward what cultural issues might you need to show sensitivity?</entry>
+    <entry/>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Genre</emphasis></entry>
+    <entry>What are the characteristics of the genre in which you will compose your analysis of the image?</entry>
+    <entry/>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Stance</emphasis></entry>
+    <entry>What direction should your thesis statement take?</entry>
+    <entry/>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Context</emphasis></entry>
+    <entry>Within what social, political, economic, or cultural context was the image created, and for what purpose?</entry>
+    <entry/>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Culture</emphasis></entry>
+    <entry>What cultural issues are related to the image? From what cultural viewpoint are you writing? What is the cultural viewpoint of your audience?</entry>
+    <entry/>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Questions to determine the elements of your rhetorical situation</caption>
+    </table>
+    <para id="para-00017">Regarding context, you may need to do some research on the image:</para>
+    <list list-type="bulleted" id="list-00008">
+    <item>Who is the image’s author?</item>
+    <item>When was it created?</item>
+    <item>For what purpose was it created?</item>
+    <item>Has the image been featured in reviews or the news?</item>
+    <item>Does the image include important symbols or references?</item>
+    </list>
+    <para id="para-00018">After you have defined your rhetorical situation, write a working thesis for your paper. Consider using one or a combination of these frames. You may change the phrasing as needed to make your point.</para>
+    <list list-type="bulleted" id="list-00009">
+    <item>The artist’s choice of ________ shapes the viewer’s understanding of ________.</item>
+    <item>The artist incorporates ________ to symbolize ________.</item>
+    <item>The image’s point of view reveals that ________.</item>
+    <item>The artist’s style, including ________, suggests that ________.</item>
+    <item>The image evokes feelings of ________.</item>
+    </list>
+    </section>
+    <section class="drafting" id="sect-00010">
+    <title>The Visual to the Textual</title>
+    <para id="para-00019">After you have a working thesis, move on to the next major step: outlining the visual elements you intend to analyze. Review the material in “Reading” Images and Glance at Genre: Relationship Between Image and Rhetoric. In the case of the Roosevelt statue, the author has thought about which technical elements of the statue to analyze. The author also has considered the important aspects of the historical context shaping Theodore Roosevelt’s life, presidency, and legacy; the museum and the cultural events in the year the statue was erected; and the cultural events in the year the decision was made to remove the statue. Remember that you may need to do some additional research to supplement your understanding of the context.</para>
+    <section id="sect-00011">
+    <title>Analyze the Image</title>
+    <para id="para-00020">With a larger understanding of your subject’s social, political, and cultural context, you can now begin to analyze the image. Limit your descriptions to what you can see and what your observations imply. Consider the following examples:</para>
+    <list list-type="bulleted" id="list-00010">
+    <item><emphasis effect="bold">Pattern.</emphasis> Identify the repetition of the figures, but note the differences in the ways each is depicted. Identify any lines or other elements that are repeated with variation.</item>
+    <item><emphasis effect="bold">Point of view.</emphasis> The statue is tall and on a pedestal, requiring viewers to look up or see it from a distance.</item>
+    <item><emphasis effect="bold">Arrangement.</emphasis> Three figures are arranged in a triangle, suggesting an apex with two supporting angles. Among the figures, the president is tallest, always visible, whereas the two accompanying figures can be seen fully only from either the front or the back. From the side, one or the other is always obscured.</item>
+    <item><emphasis effect="bold">Symbolism.</emphasis> Each man is dressed in the clothing representative of his homeland. The two to the side are clearly allegorical, whereas the one on top is given individuality and freedom of expression.</item>
+    <item><emphasis effect="bold">Conclusion.</emphasis> Outline criteria that could be used in the future to determine how symbols of or memorials to historical figures should be assessed.</item>
+    </list>
+    </section>
+    <section id="sect-00012">
+    <title>Write an Introduction</title>
+    <para id="para-00021">In your introduction, name the artist, the image, and the context in which you intend to discuss it. See the suggestions above for research you may need to do regarding context. If you do research, remember to cite the sources you check because this information did not originate with you. The context may consist of one or two paragraphs, depending on how much information your audience needs to understand your analysis. (This is one reason to have a good understanding of your audience.) This type of introduction appears frequently in visual analyses and persuasive papers.</para>
+    <para id="para-00022">The two keys to writing a strong context are (1) being selective about what you include and (2) framing your own analysis. For example, Theodore Roosevelt is an important historical figure, and many books have been written about him. Even two paragraphs are insufficient to summarize every relevant detail about him. Likewise, the <term class="no-emphasis" id="term-00006">American Museum of Natural History</term> plays a significant role in documenting mammalian life and has a vital, if at times controversial, role in American scientific history. In the two paragraphs below, the author selects details about the president, the museum, and the statue that both highlight the reasons they are admired and touch on their potential failings. These details are not all-inclusive; they are carefully culled from all of the available information to lead up to the subsequent analysis, which focuses on the reasons to remove the statue. The last sentence in the second paragraph is the thesis, in which the author states her agreement with the museum’s decision.</para>
+    </section>
+    <section id="sect-00013">
+    <title>Contextual Introduction</title>
+    <quote id="quote-00001">
+    <para class="student-sample" id="para-00023">Theodore Roosevelt cultivated a hearty outdoor lifestyle, exploring the Dakota Territory in the 1890s, serving as a Rough Rider during the Spanish-American War (1898), and advocating for the conservation of America’s natural resources. Despite criticism for the way in which he acquired the land and rights to construct the Panama Canal, he was widely respected both at home and abroad, being awarded the Nobel Peace Prize (1906) for helping negotiate a peace treaty between Japan and Russia. After his presidency, he traveled extensively throughout Africa and South America, where he killed many animals and returned them to serve as specimens in America’s natural history museums. He was himself shot while campaigning, but as the bullet did not penetrate his lung, he gave his speech regardless, earning him the reputation of a bull moose.</para>
+    <para class="student-sample" id="para-00024">A statue commemorating Roosevelt was presented to the public in 1940, two decades after his death, and placed in front of the American Museum of Natural History in New York City, where Roosevelt served as governor from 1899 to 1900. On one side of Roosevelt, depicted on horseback at the center of the sculpture, walks an African person, and on the other an Indigenous person. All three figures have a straight, proud posture and look directly ahead of them, toward the future. Given its placement, the statue is likely intended as an allegory, depicting the men of two continents—Africa and North America, including its Indigenous people—on a voyage of discovery and learning. Over time, however, and given the hierarchical framing of the image, with the White man clothed in a suit and atop a horse, central to the image, the statue’s meaning has changed, leading to the praiseworthy and long-awaited decision to remove it in 2020.</para>
+    </quote>
+    </section>
+    <section id="sect-00014">
+    <title>Create Topic Sentences</title>
+    <para id="para-00025">Use the models below to create your own topic sentences to focus each paragraph on a specific technical or contextual aspect of the image.</para>
+    <list list-type="bulleted" id="list-00011">
+    <item><emphasis effect="bold">Pattern.</emphasis> The sculpture unites the three figures—four, including the horse—primarily through the repetition of musculature, armor, weapons, and costumes.</item>
+    <item><emphasis effect="bold">Point of view.</emphasis> Because the sculpture is large, tall, and set on a pedestal, it requires viewers either to look up at it or to regard it from a distance—both postures requiring a certain degree of reverence.</item>
+    <item><emphasis effect="bold">Arrangement.</emphasis> The sculpture’s three human figures are arranged in a triangle, suggesting an apex with two supporting angles.</item>
+    <item><emphasis effect="bold">Symbolism.</emphasis> Each man is dressed in the clothing of his homeland, giving each allegorical significance as racial, rather than individual, representations.</item>
+    </list>
+    </section>
+    <section id="sect-00015">
+    <title>Build Body Paragraphs</title>
+    <para id="para-00026">Support each topic sentence by describing in detail the elements you have chosen to assess. When describing the image, avoid overuse of adjectives and adverbs. Use concrete rather than abstract nouns. Abstract nouns name ideas, such as <emphasis effect="italics">perspective</emphasis> or <emphasis effect="italics">theme</emphasis>; concrete nouns refer to specific, tangible elements, such as <emphasis effect="italics">triangle</emphasis>, <emphasis effect="italics">line</emphasis>, or <emphasis effect="italics">granite</emphasis>. Incorporate strong verbs as well as the necessary forms of <emphasis effect="italics">to be</emphasis> (<emphasis effect="italics">is</emphasis>, <emphasis effect="italics">are</emphasis>, <emphasis effect="italics">was</emphasis>, <emphasis effect="italics">were</emphasis>). Think about what the features in the image are <emphasis effect="italics">doing—</emphasis>the ways they interact with one another, the space around them, and the viewer’s relationship to them. Finally, avoid speculation while going beyond description. Keep the discussion rooted in the evidence, and show readers what the evidence points to, what it means.</para>
+    </section>
+    <section id="sect-00016">
+    <title>Sample Body Paragraph: Arrangement</title>
+    <quote id="quote-00002">
+    <para class="student-sample" id="para-00027">The sculpture’s three human figures are arranged in a triangle, suggesting an apex with two supporting angles. President Roosevelt is by far the tallest of the three and always visible from whichever angle the viewer faces the sculpture. Meanwhile, the two flanking figures can be seen fully only from the front or the back, suggesting that they lack nuance or subtlety because they can be seen and understood only directly. When seen from an angle, they are either overshadowed by the White man on horseback or disappear from view. Similarly, level with the Native American and the African is the horse, all three depicted with sharply defined muscles, highlighting their strength. Roosevelt is similarly well defined but fully clothed and towering over both the animal and the two men. Overall, the sculpture suggests, at the very least, a hierarchy among the three men and, at worst, a dominance of the White man over those of color.</para>
+    </quote>
+    </section>
+    <section id="sect-00017">
+    <title>Formulate a Conclusion</title>
+    <para id="para-00028">After you have developed the body paragraphs in which you analyze and reflect on the image, conclude by expanding on your thesis and suggesting directions to consider in the future. One important role of the conclusion is to further the discourse by showing how this rhetorical moment is merely one example of other such discourses and how they can be used productively in other contexts. In this case, an effective strategy would be to outline criteria for memorials of historical figures, even those with complicated legacies and flaws.</para>
+    </section>
+    <section id="sect-00018">
+    <title>Sample Conclusion</title>
+    <quote id="quote-00003">
+    <para class="student-sample" id="para-00029">The people concerned with public spaces—city planners, museum curators, and government and other leaders—must determine who is worthy of remembrance and how. In doing so, they need to consider historical, contextual, cultural, and artistic concerns, and they must seek and respond to public input. Now is the time to draft guidelines for these decisions.</para>
+    </quote>
+    </section>
+    </section>
+    <section class="peer-review" id="sect-00019">
+    <title>Separate the Personal from the Technical</title>
+    <para id="para-00030">After you have drafted your paper, you are ready to review the work of your peers. Keep in mind that you and your peers are almost certainly going to respond to images differently. This is the value of critical discourse about visual rhetoric: pooling shared responses and experiences helps develop a greater understanding of the human condition. As you review your peers’ writing, part of your task is to separate your personal responses from the writer’s analysis of the image’s technical elements.</para>
+    <para class="annotation dreaming-icon" id="para-00031">Here are some topics and questions to get you started on a peer analysis of someone else’s work:</para>
+    <list list-type="bulleted" id="list-00012">
+    <item><emphasis effect="bold">Consider the context, including culture.</emphasis> Indicate places where the writer has done well or can supply more information.
+    <list list-type="bulleted" bullet-style="open-circle" id="list-00013">
+    <item>In what ways has the author included enough information to prepare you for the analysis?</item>
+    <item>What else would you like to know?</item>
+    <item>Is any information superfluous or irrelevant?</item>
+    <item>In what ways has the author addressed cultural issues—their own and those of the intended audience?</item>
+    <item>What else should be considered?</item>
+    </list></item>
+    <item><emphasis effect="bold">Read the first sentence of each paragraph.</emphasis> Write your answers to these questions.
+    <list list-type="bulleted" bullet-style="open-circle" id="list-00014">
+    <item>Does a clear outline emerge?</item>
+    <item>What, if any, changes can you suggest to improve the flow?</item>
+    </list></item>
+    <item><emphasis effect="bold">Examine each paragraph.</emphasis> Highlight places where descriptions or analyses are insufficient, and make suggestions for improvement.
+    <list list-type="bulleted" bullet-style="open-circle" id="list-00015">
+    <item>In what ways does the paragraph reflect a clear, vivid, and technical description of the image?</item>
+    <item>In what ways does the paragraph move beyond description into analysis to explain the effect of the technical elements?</item>
+    </list></item>
+    <item><emphasis effect="bold">Read the conclusion.</emphasis> If the author has not outlined strategies for the future or contributed to ongoing discourse, provide your suggestions, or brainstorm some ideas with them.</item>
+    </list>
+    </section>
+    <section class="revising" id="sect-00020">
+    <title>Hone Your Practice</title>
+    <para class="annotation dreaming-icon" id="para-00032">Writing the first draft is hard work, and you are right to feel pride and a sense of accomplishment after completing it. Thus, any critique can feel unjust and even personally wounding. Remember, though, that writing is a process and that everyone is an apprentice, working toward expertise and, eventually, mastery. So take every opportunity you can to learn from others and hone your skills.</para>
+    <para id="para-00033">First, reward yourself for completing the first draft. You may choose to take a long walk, prepare a favorite meal, or enjoy some leisure time with friends. Savor the moment. Time away from the writing process is time for your writing and thinking muscles to recover. Consider some light reading. Think about it this way—you’ll never build muscle if you go to the gym all day while you starve yourself. In the same way, you’ve expended a lot of vocabulary and sentence- structure energy. Feed it to rebuild it.</para>
+    <para id="para-00034">Finally, return to your work with a goal in mind and a plan to put it into place. Look at the feedback you received. Does your work require major revision or minor tweaks? If the latter, then your task is simple: make a to-do list and get started! If the former, go back to the drawing board and diagnose your own process, considering the following questions:</para>
+    <list list-type="bulleted" id="list-00016">
+    <item>Is your current understanding of context, culture, audience, or purpose different from what it was at the outset? If so, what changes do you need to make?</item>
+    <item>Are your descriptions insufficient, unclear, or vague? Revisit “Reading” Images and Glance at Genre: Relationship Between Image and Rhetoric and consider the terminology and techniques introduced there in light of your image.</item>
+    <item>Is your analysis insufficient or missing? Review Glance at Genre: Relationship Between Image and Rhetoric and the example in Writing Process: Thinking Critically and Writing Persuasively about Images. Reflect on your image and consider your assumptions.</item>
+    <item>Do you have a clear introduction, conclusion, and body paragraphs with topic sentences? Is each paragraph fleshed out with meaningful descriptions and analysis?</item>
+    </list>
+    <para id="para-00035">After you think about these topics and take notes based on your thoughts, you can make a plan and revise your work with confidence.</para>
+    </section>
+    </content>
 </document>

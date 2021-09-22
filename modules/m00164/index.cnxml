@@ -6,9 +6,98 @@
     <md:uuid>5395bbc9-c323-40d0-a85f-c2b2006d5ca1</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Examine and apply key techniques used in film and movies to personal rhetorical and cultural contexts.</item>
+    <item>Implement a variety of technologies to address a range of audiences.</item>
+    <item>Create a multimodal work that incorporates visual rhetorical techniques.</item>
+    </list>
+    </section>
+    <figure id="fig-00001"><media alt="Ken Burns is an American historian and documentarian.">
+    <image mime-type="image/jpeg" src="../../media/COMP_Figure_17_08_023.jpg"/></media>
+    <caption><link url="https://openstax.org/r/Ken-Burns">Ken Burns</link> (b. 1953), American historian and documentarian (credit: Jim Wallace/Wikimedia Commons, CC-BY-2.0)</caption></figure>
+    <section id="sect-00002">
+    <title>Lights, Camera Angles, Actions</title>
+    <para id="para-00002">This chapter focuses largely on still images, but many of the same principles apply to moving images, or film. Documentaries in particular combine a series of still or moving images with historical and narrative text. This section shows how the concepts of visual rhetoric apply to the documentary work of <term class="no-emphasis" id="term-00001">Ken Burns</term>. It also encourages you to examine your experience through such techniques by creating a film autobiography.</para>
+    <para class="annotation culture-icon" id="para-00003">The field of movie and film artistry is vast, constituting an entire field of study in its own right. One notable figure in the field is the American history film documentarian Ken Burns (b. 1953), who is responsible for nearly 200 films as writer, director, producer, or all of the above. From <term class="no-emphasis" id="term-00002"><emphasis effect="italics">The Civil War</emphasis></term> (1990) to <term class="no-emphasis" id="term-00003"><emphasis effect="italics">The Vietnam War</emphasis></term> (2017), from <term class="no-emphasis" id="term-00004"><emphasis effect="italics">Jackie Robinson</emphasis></term> (2016) to <term class="no-emphasis" id="term-00005"><emphasis effect="italics">Country Music</emphasis></term> (2019), Ken Burns has documented the American experience in richer and more layered ways than can be achieved via print text alone.</para>
+    <para id="para-00004">Burns’s style is deceptively simple. His documentaries are narrated in an informative, objective manner, sometimes by a well-known figure in politics, sports, or entertainment whose work is related to the documentary topic. The images consist of archival footage, which differs depending on the topic, ranging from black-and-white photographs to grainy home videos. These are interspersed with interviews from eyewitnesses and experts.</para>
+    <para id="para-00005">Of the many techniques that Burns employs, three are of particular interest: <term id="term-00006">foreshadowing</term>, <term id="term-00007">the personal vs. the universal</term>, and <term id="term-00008">juxtaposition</term>.</para>
+    <section id="sect-00003">
+    <title>Foreshadowing</title>
+    <para id="para-00006">Documentaries are not known for being riveting, suspenseful, edge-of-your seat thrillers, but Ken Burns keeps audiences enthralled for hours on end. <emphasis effect="italics">The Civil War</emphasis>, for example, consists of nine episodes totaling 11 hours and 30 minutes. One important way Burns keeps audiences engaged is by implying that things are not as they seem or that a major change is just on the horizon. Such warnings are delivered by his narrators often just after a peak emotional moment either of contentment and resolution or of fear and anxiety. The effect is to make the audience question what could possibly happen next and to keep them tuned in for the next episode.</para>
+    </section>
+    <section id="sect-00004">
+    <title>The Personal vs. the Universal</title>
+    <para id="para-00007">History may move in giant sweeps across times and places, but it happens day by day with the mundane choices made by ordinary people. Burns excels at highlighting the small, personal tales of individuals who changed the course of history and the ways massive historical movements affected individual people’s lives. The back-and-forth of these forces plays out in his work like a delicate ballet in which the lead dancers move toward and away from one another on stage, amplifying the tension each time.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Juxtaposition</title>
+    <para id="para-00008">Like any serious historian, Burns is interested not merely in <emphasis effect="italics">what</emphasis> happened but also in <emphasis effect="italics">why.</emphasis> This investigation requires that he go beyond appearances, a challenge for a filmmaker who relies on images to make his meaning clear to viewers. Burns often demonstrates for viewers how people and events converge by showing an ordinary American soldier, farmer, or sports figure, for example, alongside a powerful political figure. Alternatively, he may pan out from a newspaper headline only to zoom in on a story printed deep within the fold. In the viewer’s mind, the placement of such figures plants an impression that is immediately upended or replaced. The experience can be jarring, but the technique leads to deep learning and retention, which is one reason Burns’s documentaries leave a lasting impression on his audience.</para>
+    <para class="annotation visual-icon auditory-icon" id="para-00009">Burns often works in conjunction with the Public Broadcasting Service (PBS), which funds and airs much of his work. To see these techniques in action, visit his page on the PBS website and watch a <link url="https://openstax.org/r/short-clip">short clip of his biography of Jack Johnson</link> (1878–1946), the first Black American heavyweight boxer to became world champion—in the height of the Jim Crow era.</para>
+    </section>
+    </section>
+    <section id="sect-00006">
+    <title>Publish Your Work: Film Autobiography</title>
+    <para class="annotation speech-icon visual-icon linguistic-icon kinesthetic-icon" id="para-00010">Make a documentary of your own! Select a meaningful moment in your life—an event, an anniversary, an accomplishment, a disappointment—and create a 3–5 minute multimodal video about it, incorporating video, still images, and text that explore the significance of the moment in your life. Post your finished product to YouTube. Table 17.4 lists resources you can use to produce and publish your video, including ways to limit viewership and address privacy concerns.</para>
+    <table summary=" " id="table-00001">
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <tbody>
+    <row>
+    <entry namest="c1" nameend="c3"><emphasis effect="bold">Video Creation Software</emphasis></entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Name</emphasis></entry>
+    <entry><emphasis effect="bold">Notes</emphasis></entry>
+    <entry><emphasis effect="bold">Location</emphasis></entry>
+    </row>
+    <row>
+    <entry>Lightworks</entry>
+    <entry>Best for beginners. Includes stock images.</entry>
+    <entry><link url="https://openstax.org/r/LWKS">LWKS</link></entry>
+    </row>
+    <row>
+    <entry>VideoPad</entry>
+    <entry>Open access and easy to use. Limited functionality.</entry>
+    <entry><link url="https://openstax.org/r/VideoPad">VideoPad</link></entry>
+    </row>
+    <row>
+    <entry>HitFilm Express</entry>
+    <entry>Somewhat advanced. Allows special effects. Must share status update on social media to use.</entry>
+    <entry><link url="https://openstax.org/r/HitFilm">HitFilm</link></entry>
+    </row>
+    <row>
+    <entry>OpenShot</entry>
+    <entry>For intermediate users.</entry>
+    <entry><link url="https://openstax.org/r/Open-Shot">OpenShot</link></entry>
+    </row>
+    <row>
+    <entry namest="c1" nameend="c3"><emphasis effect="bold">YouTube Resources</emphasis></entry>
+    </row>
+    <row>
+    <entry namest="c1" nameend="c2"><emphasis effect="bold">Description</emphasis></entry>
+    <entry><emphasis effect="bold">Location</emphasis></entry>
+    </row>
+    <row>
+    <entry namest="c1" nameend="c2">Upload videos to YouTube privately so that you control who sees them and when.</entry>
+    <entry><link url="https://openstax.org/r/YouTube">YouTube</link></entry>
+    </row>
+    <row>
+    <entry>Set your YouTube audience to comply with the Children’s Online Privacy Protection Act.</entry>
+    <entry><link url="https://openstax.org/r/Channel-Setting">Channel Setting</link></entry>
+    </row>
+    <row>
+    <entry namest="c1" nameend="c2">Set your YouTube video to be visible only to your professor and classmates.</entry>
+    <entry><link url="https://openstax.org/r/Sharing-With">Sharing With a Specific Audience</link></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Resources for making a film autobiography</caption>
+    </table>
+    <para id="para-00011">A film autobiography can help you consider the way you use images in discourse. It also serves as good practice in thinking critically about your experiences and their relation to both images and language. Finally, a film autobiography allows you to communicate your experiences and reflections with others, expanding their worldview as well as your own.</para>
+    </section>
+    </content>
 </document>
