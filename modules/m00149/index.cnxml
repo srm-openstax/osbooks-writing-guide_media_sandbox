@@ -6,9 +6,59 @@
     <md:uuid>b12ea1d1-befd-4661-abb8-6e2b1ce5fed1</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Define key terms and organizational patterns of textual analysis.</item>
+    <item>Explain how genre conventions are shaped by purpose, culture, and expectation.</item>
+    </list>
+    </section>
+    <para id="para-00002">As a <term id="term-00001">genre</term>—or literary category in which works feature similar forms, styles, or subject matter—textual analysis is less of a genre in itself and more of an exploration and interpretation of other genres. That is, textual analysis is explanatory and interpretive. When you receive an assignment to analyze a text, you focus on the elements that give it meaning. Usually your instructor will assign a specific writing task: to analyze and explain certain aspects of a text, to compare or contrast certain elements within a single text or in two or more texts, or to relate certain text elements to historical context or current events (as student writer Gwyn Garrison has done in the “Annotated Student Sample.” These writing tasks thus explore genre characteristics of fiction, drama, poetry, literary nonfiction, film, and other forms of literary language.</para>
+    <figure id="fig-00001"><media alt="Four lab beakers show blue and purple liquid, the various components of a single substance.">
+    <image mime-type="image/jpeg" src="../../media/COMP_Figure_16_03_003.jpg"/></media>
+    <caption>Like scientists who analyze components of a substance, writers of textual analysis examine a fiction or literary nonfiction work to understand and interpret its meaning by looking at its components. (credit: Alina.Popova.26/Wikimedia Commons, CC BY 4.0)</caption></figure>
+    <para id="para-00003">When you write a textual analysis, ask yourself questions such as these:</para>
+    <list list-type="bulleted" id="list-00002">
+    <item>In what ways can this text be read?</item>
+    <item>What are some different ways of reading it?</item>
+    <item>Which reading makes the most sense to me?</item>
+    <item>Which passages in the text support this reading?</item>
+    <item>Whom does my analysis need to convince? (Who is my audience?)</item>
+    </list>
+    <section id="sect-00002">
+    <title>Textual Analysis and Interpretive Communities</title>
+    <para class="annotation culture-icon linguistic-icon" id="para-00004">How you read and analyze a text depends on who you are. Who you are depends on the influences that have shaped you, or the communities to which you belong. Everyone belongs to various communities: families, social and economic groups (e.g., students or teachers, middle or working class), organizations (e.g., Democratic or Republican Party, Masons, Habitat for Humanity), geographic locales (e.g., rural or urban, north or south), and institutions (e.g., school, church, fraternity). Your membership in one or more communities may determine how you view and respond to the world. The communities that influence you most are called <term id="term-00002">interpretive communities</term>; they influence the meaning you make of the world. People who belong to the same community may well have similar assumptions and therefore are likely to analyze texts in similar ways.</para>
+    <para id="para-00005">Before writing an interpretive or textual analysis essay, it is helpful to ask, <emphasis effect="italics">Who am I when writing this piece?</emphasis> Be aware of your age, gender, race, ethnic identity, economic class, geographic location, educational level, or political or religious persuasion. Ask to what extent and for what purpose any of these identities emerges in your writing. Readers will examine the biases you may bring to your work, understanding that everyone views the world—and, consequently, texts—from their own vantage point.</para>
+    <para id="para-00006">College is, of course, a large interpretive community. The various smaller communities that exist within it are called disciplines: English, history, biology, business, art, and so on. Established ways of interpreting texts exist within disciplines. Often when you write a textual analysis, you will do so from the perspective of a traditional academic interpretive community or from the perspective of one who challenges that community.</para>
+    <para id="para-00007">Whether you deliberately identify yourself and any biases you might bring with you in your essay depends on the assignment you are given. Some assignments ask you to remove your personal perspective as much as possible from your writing, others ask that you acknowledge and explain it, and others fall somewhere in between.</para>
+    <figure id="fig-00002"><media alt="A diverse group of student volunteers and staff represents both similar and different cultural and interpretive communities.">
+    <image mime-type="image/jpeg" src="../../media/COMP_Figure_16_04_004.jpg"/></media>
+    <caption>The individuals in this group of student volunteers and staff represent both similar and different cultural and interpretive communities. (credit: Virginia State Parks/Wikimedia Commons, CC BY 2.0)</caption></figure>
+    </section>
+    <section id="sect-00003">
+    <title>Conventions of Textual Analysis</title>
+    <para class="annotation linguistic-icon" id="para-00008">When asked to analyze or interpret a literary work, whether fiction or nonfiction, you will likely focus on some of these literary elements to explain how an author uses them to make meaning.</para>
+    <list list-type="bulleted" id="list-00003">
+    <item><emphasis effect="bold">Alliteration:</emphasis> literary device consisting of repetition of initial consonant sounds. (“Away from the steamy sidewalk, the children sat in a circle.”)</item>
+    <item><emphasis effect="bold">Analysis:</emphasis> close examination and explanation of a text, supported by reasoning and evidence.</item>
+    <item><emphasis effect="bold">Antagonist:</emphasis> character or force opposing the main character (protagonist) in a story.</item>
+    <item><emphasis effect="bold">Climax:</emphasis> moment of emotional or intellectual intensity or a point in the plot when one opposing force overcomes another and the conflict is resolved.</item>
+    <item><emphasis effect="bold">Epiphany:</emphasis> flash of intuitive understanding by the narrator or a character in a story.</item>
+    <item><emphasis effect="bold">Figurative language:</emphasis> language that suggests special meanings or effects. Similes and metaphors are examples of figurative, rather than literal, language. (“She stands like a tree, solid and rooted.”)</item>
+    <item><emphasis effect="bold">Imagery:</emphasis> language that appeals to one (or more) of the five senses. (“The cicadas hummed nonstop all day, but never loud enough to dull the roar of the leaf blowers.)</item>
+    <item><emphasis effect="bold">Metaphor:</emphasis> direct comparison between two unlike things. (“She is a sly fox in her undercover work for the government.”)</item>
+    <item><emphasis effect="bold">Narrator:</emphasis> someone who tells a story. A character narrator is a part of the story, whereas an omniscient narrator tells a story about others.</item>
+    <item><emphasis effect="bold">Persona:</emphasis> mask to disguise or cover the author’s real self when presenting a story or other literary work.</item>
+    <item><emphasis effect="bold">Plot:</emphasis> sequence of events in a story or play.</item>
+    <item><emphasis effect="bold">Point of view:</emphasis> vantage point from which a story or event is perceived and told. The most frequently used points of view are first person and third person. In first person, the narrator is a character or observer in the story (fiction) or the author of it (nonfiction). In third person, the narrator has no part in the story other than telling it.</item>
+    <item><emphasis effect="bold">Protagonist:</emphasis> main character or hero in a story.</item>
+    <item><emphasis effect="bold">Rhyme:</emphasis> repetition of sounds, usually at the ends of lines in poems, but also occurring at other intervals in a line.</item>
+    <item><emphasis effect="bold">Rhythm:</emphasis> rise and fall of stressed sounds within sentences, paragraphs, and stanzas.</item>
+    <item><emphasis effect="bold">Simile:</emphasis> indirect comparison of unlike things using the word <emphasis effect="italics">as</emphasis> or <emphasis effect="italics">like</emphasis>. (“When he does undercover work, he is as sly as a fox.”)</item>
+    <item><emphasis effect="bold">Symbol:</emphasis> object that represents itself and something else at the same time. A red rose is both a rose of a certain color and the suggestion of something romantic.</item>
+    <item><emphasis effect="bold">Theme:</emphasis> meaning or thesis of a literary text.</item>
+    </list>
+    </section>
+    </content>
 </document>
