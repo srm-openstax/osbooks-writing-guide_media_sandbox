@@ -6,9 +6,34 @@
     <md:uuid>916f9a97-5c9a-4bb0-b413-4578af006238</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Apply methods commonly used for analysis and interpretation in writing.</item>
+    <item>Demonstrate competent use of the literary present tense in textual analysis.</item>
+    </list>
+    </section>
+    <para class="annotation linguistic-icon" id="para-00002">Although some texts may have been written years ago, they live in the present. This expression means that when you analyze a literary text such as a story, play, poem, or novel, you use a form of the present tense in your discussion. Narration in the story may be in the past tense—the narrator tells the story as though it has already happened—but your discussion of the literary work is done in the present tense. Characters <emphasis effect="italics">do</emphasis> this or <emphasis effect="italics">say</emphasis> that. The leaves <emphasis effect="italics">fall</emphasis> or the wind is <emphasis effect="italics">howling</emphasis>, even though in the text, the leaves <emphasis effect="italics">fell</emphasis> and the wind <emphasis effect="italics">was howling</emphasis>. Your discussion nevertheless remains in the present tense. Also, when discussing the author in relation to the literary text, use the present tense, even if the author is no longer living or wrote the text in the past. Look at these examples:</para>
+    <list list-type="labeled-item" id="list-00002">
+    <item><emphasis effect="bold">Incorrect:</emphasis> The narrator <emphasis effect="italics">stated</emphasis> that the time is now.</item>
+    <item><emphasis effect="bold">Correct:</emphasis> The narrator <emphasis effect="italics">states</emphasis> that the time is now.</item>
+    <item><emphasis effect="bold">Incorrect:</emphasis> Kate Chopin <emphasis effect="italics">seemed</emphasis> to sympathize with Calixta.</item>
+    <item><emphasis effect="bold">Correct:</emphasis> Kate Chopin <emphasis effect="italics">seems</emphasis> to sympathize with Calixta.</item>
+    <item><emphasis effect="bold">Incorrect:</emphasis> At the end, Clarisse <emphasis effect="italics">was</emphasis> happy to remain ignorant about her husband and Calixta.</item>
+    <item><emphasis effect="bold">Correct:</emphasis> At the end, Clarisse <emphasis effect="italics">is</emphasis> happy to remain ignorant about her husband and Calixta.</item>
+    </list>
+    <section id="sect-00002">
+    <title>Use the Literary Present Tense with Consistency</title>
+    <para class="annotation linguistic-icon" id="para-00003">Although the present tense is used in literary discussions and references to literary texts, some instances will occur in which you have to distinguish between times of events. Thus, using the present tense may not apply to all actions within a text. The characters within a text often have done something, or something has happened, in the past—before the action of the story. In such cases, refer to these past actions in the past tense. Also, use the past tense when referring to the author and events in the author’s life that do not relate directly to the text. See the examples below:</para>
+    <list list-type="labeled-item" id="list-00003">
+    <item><emphasis effect="bold">Incorrect:</emphasis> Kate Chopin <emphasis effect="italics">is</emphasis> born in 1850.</item>
+    <item><emphasis effect="bold">Correct:</emphasis> Kate Chopin <emphasis effect="italics">was</emphasis> born in 1850.</item>
+    <item><emphasis effect="bold">Incorrect:</emphasis> Alcée <emphasis effect="italics">reminds</emphasis> Calixta of what <emphasis effect="italics">happens</emphasis> in Assumption years ago.</item>
+    <item><emphasis effect="bold">Incorrect:</emphasis> Alcée <emphasis effect="italics">reminded</emphasis> Calixta of what <emphasis effect="italics">happened</emphasis> in Assumption years ago.</item>
+    <item><emphasis effect="bold">Correct:</emphasis> Alcée <emphasis effect="italics">reminds</emphasis> Calixta of what <emphasis effect="italics">happened</emphasis> in Assumption years ago.</item>
+    </list>
+    <para id="para-00004">When revising and editing your textual analysis, review it for consistency and clarity in literary present tense when you discuss the text, events within the text, and the author’s relationship to it. Use the past tense, however, when dealing with information outside the text, such as historical context or events related to the author’s life. Be sure to distinguish between past and present events by using the correct tense. For more about the <emphasis effect="bold">literary present tense</emphasis>, see <link target-id="sect-00006" document="m00184">Verbs</link>.</para>
+    </section>
     </content>
 </document>
