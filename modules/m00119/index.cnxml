@@ -190,8 +190,8 @@
       <para id="para-00028"><link target-id="table-00004" document="m00119"/> reviews the differences between quoting and paraphrasing and when to use each.</para>
       <table summary="" id="table-00004">
       <tgroup cols="2">
-      <colspec colnum="1" colname="c1"/>
-      <colspec colnum="2" colname="c2"/>
+      <colspec colwidth="1*" colnum="1" colname="c1"/>
+      <colspec colwidth="1*" colnum="2" colname="c2"/>
       <tbody>
       <row>
       <entry><emphasis effect="bold">Quotation</emphasis></entry>

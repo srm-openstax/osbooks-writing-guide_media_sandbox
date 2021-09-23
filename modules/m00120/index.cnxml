@@ -22,40 +22,70 @@
       <section id="sect-00003">
       <title>Select the Right Signal Phrase</title>
       <para id="para-00005"><link url="https://openstax.org/r/signalphrases">Signal phrases</link> tell readers that the words or ideas that follow come from another source. Signal phrases often contain a verb that indicates the tone or intention of the author. To avoid monotony, vary the placement and words of the signal phrases you use. Note the differences, both slight and significant, in the following signal words and phrases as you integrate some of them into your draft:</para>
-      <list list-type="bulleted" bullet-style="none" id="list-00002">
-      <item>acknowledges</item>
-      <item>admits</item>
-      <item>agrees</item>
-      <item>argues</item>
-      <item>asserts</item>
-      <item>believes</item>
-      <item>claims</item>
-      <item>comments</item>
-      <item>concedes</item>
-      <item>concludes</item>
-      <item>declares</item>
-      <item>denies</item>
-      <item>emphasizes</item>
-      <item>endorses</item>
-      <item>follows up</item>
-      <item>grants</item>
-      <item>illustrates</item>
-      <item>implies</item>
-      <item>insists</item>
-      <item>maintains</item>
-      <item>notes</item>
-      <item>observes</item>
-      <item>points out</item>
-      <item>refutes</item>
-      <item>reports</item>
-      <item>reveals</item>
-      <item>says</item>
-      <item>shows</item>
-      <item>states</item>
-      <item>suggests</item>
-      <item>thinks</item>
-      <item>writes</item>
-      </list>
+      <table frame="none" summary="" id="table-00001">
+        <tgroup cols="3" align="left">
+        <colspec colname="col1" colnum="1"/>
+        <colspec colname="col2" colnum="2"/>
+        <colspec colname="col3" colnum="3"/>
+        <tbody>
+        <row>
+        <entry>acknowledges</entry>
+        <entry>denies</entry>
+        <entry>points out</entry>
+        </row>
+        <row>
+        <entry>admits</entry>
+        <entry>emphasizes</entry>
+        <entry>refutes</entry>
+        </row>
+        <row>
+        <entry>agrees</entry>
+        <entry>endorses</entry>
+        <entry>reports</entry>
+        </row>
+        <row>
+        <entry>argues</entry>
+        <entry>follows up</entry>
+        <entry>reveals</entry>
+        </row>
+        <row>
+        <entry>asserts</entry>
+        <entry>grants</entry>
+        <entry>says</entry>
+        </row>
+        <row>
+        <entry>believes</entry>
+        <entry>illustrates</entry>
+        <entry>shows</entry>
+        </row>
+        <row>
+        <entry>claims</entry>
+        <entry>implies</entry>
+        <entry>states</entry>
+        </row>
+        <row>
+        <entry>comments</entry>
+        <entry>insists</entry>
+        <entry>suggests</entry>
+        </row>
+        <row>
+        <entry>concedes</entry>
+        <entry>maintains</entry>
+        <entry>thinks</entry>
+        </row>
+        <row>
+        <entry>concludes</entry>
+        <entry>notes</entry>
+        <entry>writes</entry>
+        </row>
+        <row>
+        <entry>declares</entry>
+        <entry>observes</entry>
+        <entry/>
+        </row>
+        </tbody>
+        </tgroup>
+        </table>
       </section>
       </section>
       <section id="sect-00004">
@@ -68,7 +98,7 @@
       </section>
       <section id="sect-00006">
       <title>Omit or Substitute Words Judiciously</title>
-      <para id="para-00009">Cutting words for the sake of brevity is often useful, but do not distort meaning. Indicate omitted words by using ellipsis points (three dots within a sentence, four to indicate a second sentence). Use brackets ([ ]) to indicate any changes or additions.</para>
+      <para id="para-00009">Cutting words for the sake of brevity is often useful, but do not distort meaning. Indicate omitted words by using ellipsis points (three dots within a sentence, four to indicate a complete sentence is being omitted). Use brackets ([ ]) to indicate any changes or additions.</para>
       <para id="para-00010"><term id="term-00002">Distorted Quotation</term></para>
       <para id="para-00011">“The plot is exciting . . . the dialogue has . . . energy and impact.”</para>
       <para id="para-00012">The critic’s words are taken out of context. Negatives are removed, as are the critic’s dismissive comments about the film and the exceptions to the opinion.</para>
@@ -84,7 +114,7 @@
       <para id="para-00016">Set quotations of more than four lines in block format. Block quotations are indented but spaced the same as the normal text. Format block quotations as follows:</para>
       <list list-type="bulleted" id="list-00003">
       <item>Introduce the quotation in the last line of normal text with a sentence that ends with a colon.</item>
-      <item>Indent 10 spaces, and then begin the quotation.</item>
+      <item>Indent one half inch, and then begin the quotation.</item>
       <item>Do not use quotation marks, as the indentation signals direct quotation.</item>
       <item>Include the page number, in parentheses, after the end punctuation.</item>
       </list>
