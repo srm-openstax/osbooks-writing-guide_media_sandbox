@@ -6,9 +6,217 @@
     <md:uuid>5eca92d8-773a-4aeb-b46a-2f4ec034d67c</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Demonstrate knowledge of linguistic structures, including grammar.</item>
+    <item>Implement appropriate pronouns in written work.</item>
+    </list>
+    </section>
+    <para class="annotation linguistic-icon" id="para-00002">You likely use <term id="term-00001">Pronouns</term> —words that substitute for nouns or noun phrases—in every text that you write, including this portfolio reflection. Pronouns are one of the eight main parts of speech, the others being nouns, verbs, adverbs, adjectives, prepositions, conjunctions, and interjections.</para>
+    <section id="sect-00002">
+    <title>Reference, Antecedent, and Case</title>
+    <section id="sect-00003">
+    <title>Reference</title>
+    <para id="para-00003"><term id="term-00002">Pronoun reference</term> is the practice of using pronouns to replace nouns. The important thing to know about pronoun reference is that every pronoun must match the noun it replaces in terms of gender and number. <term id="term-00003">Gender</term> refers to the noun as either masculine, feminine, or neuter.</para>
+    <para id="para-00004"><emphasis effect="bold">Masculine: Jorge</emphasis> is an educated man. <emphasis effect="bold">He</emphasis> is Toby’s neighbor.</para>
+    <para id="para-00005"><emphasis effect="bold">Feminine:</emphasis> Rico’s <emphasis effect="bold">sister</emphasis> decided to go skating. <emphasis effect="bold">She</emphasis> came back early.</para>
+    <para id="para-00006"><emphasis effect="bold">Neuter:</emphasis> The <emphasis effect="bold">car</emphasis> has four new <emphasis effect="bold">tires</emphasis>. <emphasis effect="bold">It</emphasis> runs much better with <emphasis effect="bold">them</emphasis>.</para>
+    <para id="para-00007">However, if you’re not certain of someone’s gender identity or don’t want to project it on them, use the gender-neutral pronouns <emphasis effect="italics">them</emphasis>, <emphasis effect="italics">they</emphasis>, and <emphasis effect="italics">their</emphasis>. See “Spotlight on… Pronouns in Context” for more about using gender-neutral pronouns.</para>
+    <para id="para-00008"><emphasis effect="bold">Gender neutral:</emphasis> Pat likes to eat pizza. They like pineapple and bacon with lots of cheese.</para>
+    <para id="para-00009"><emphasis effect="bold">Number</emphasis> means singular or plural.</para>
+    <para id="para-00010"><emphasis effect="bold">Singular:</emphasis> Toby has <emphasis effect="bold">one daughter</emphasis>. <emphasis effect="bold">She</emphasis> is studying art.</para>
+    <para id="para-00011"><emphasis effect="bold">Plural:</emphasis> Jorge has <emphasis effect="bold">two children</emphasis>. <emphasis effect="bold">They</emphasis> go to the same school.</para>
+    <para id="para-00012">In addition to gender and number, <term id="term-00004">clarity</term> is often a major issue when using pronouns. For example: <emphasis effect="italics">When Lizzie smacked her arm into the glass window, she broke it.</emphasis> Did Lizzie break her arm, or did she break the window? In this case, the reference is not clear. One way to clarify the meaning would be to write the sentence this way: <emphasis effect="italics">Lizzie broke the window when she smacked her arm into it</emphasis>.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Antecedent</title>
+    <para id="para-00013">The <term id="term-00005">antecedent</term> is the noun, nouns, or other pronoun or pronouns that the pronoun replaces. The antecedent usually appears earlier in the sentence or in a previous sentence, and the pronoun appears later in the same sentence or in another sentence.</para>
+    <para id="para-00014"><emphasis effect="bold">Example 1:</emphasis> Although my <emphasis effect="bold">friends</emphasis> tease me about my dancing style, I love <emphasis effect="bold">them</emphasis> anyway.</para>
+    <para id="para-00015"><emphasis effect="bold">Example 2:</emphasis> <emphasis effect="bold">Mariah</emphasis> said <emphasis effect="bold">she</emphasis> wanted to go home.</para>
+    <para id="para-00016"><emphasis effect="bold">Example 3:</emphasis> The <emphasis effect="bold">car</emphasis> was far away. Jessica couldn’t see what model <emphasis effect="bold">it</emphasis> was.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Case</title>
+    <para id="para-00017"><term id="term-00006">Pronoun case</term> refers to the grammatical function of the pronoun in a sentence. Pronouns that are the <term id="term-00007">subjects</term> (the person, place, or thing that performs the action of the verb or represents what or whom sentence is about) of a sentence are written in the <term id="term-00008">subjective case</term>. For example: <emphasis effect="bold"><emphasis effect="italics">I</emphasis></emphasis> <emphasis effect="italics">like pizza</emphasis>. Pronouns that are <term id="term-00009">objects</term> (nouns or pronouns affected by the action of a verb) of a sentence or preposition are written in the <term id="term-00010">objective case</term>. For example: <emphasis effect="italics">Laura gave <emphasis effect="bold">him</emphasis></emphasis> <emphasis effect="italics">the baseball. Jorge and Toby were standing in front of <emphasis effect="bold">us</emphasis></emphasis> <emphasis effect="italics">in line</emphasis>. Lastly, <term id="term-00011">possessive</term> pronouns show ownership and are written in the <term id="term-00012">possessive case</term>. For example: <emphasis effect="italics">The cat picked up <emphasis effect="bold">its</emphasis></emphasis> <emphasis effect="italics">toy. Those notes are <emphasis effect="bold">his</emphasis></emphasis> <emphasis effect="italics">and <emphasis effect="bold">mine</emphasis>.</emphasis></para>
+    <para id="para-00018">You already know that you cannot have a sentence without a subject and that subjects and objects in sentences must be nouns or pronouns. Remember, a pronoun is a stand-in for a noun. It is always playing substitute for a noun or nouns “already out there somewhere.” Imagine writing without pronouns:</para>
+    <quote id="quote-00001">
+    <para id="para-00019">When <emphasis effect="bold">Marcy</emphasis> woke this morning, <emphasis effect="bold">Marcy</emphasis> had a headache, so <emphasis effect="bold">Marcy</emphasis> went to <emphasis effect="bold">Marcy’s</emphasis> medicine cabinet and took one of <emphasis effect="bold">Marcy’s</emphasis> headache pills that <emphasis effect="bold">Marcy’s</emphasis> doctor had prescribed for <emphasis effect="bold">Marcy</emphasis>.</para>
+    </quote>
+    <para id="para-00020">Instead:</para>
+    <quote id="quote-00002">
+    <para id="para-00021">When Marcy woke this morning, <emphasis effect="bold">she</emphasis> had a headache, so <emphasis effect="bold">she</emphasis> went to <emphasis effect="bold">her</emphasis> medicine cabinet and took one of <emphasis effect="bold">her</emphasis> headache pills that <emphasis effect="bold">her</emphasis> doctor had prescribed for <emphasis effect="bold">her</emphasis>.</para>
+    </quote>
+    </section>
+    </section>
+    <section id="sect-00006">
+    <title>Types of Pronouns</title>
+    <para id="para-00022">When you think of pronouns, <term id="term-00013">personal pronouns</term> such as those discussed in the previous section, referring to a specific person or object, are likely the first that come to mind. However, the world of pronouns extends to reflexive, indefinite, and demonstrative pronouns as well.</para>
+    <section id="sect-00007">
+    <title>Personal Pronouns</title>
+    <para id="para-00023">Knowing the difference between <term id="term-00014">subject personal pronouns</term> and <term id="term-00015">object personal pronouns</term> will help you use them correctly.</para>
+    <table summary=" " id="table-00001">
+    <tgroup cols="4">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+    <tbody>
+    <row>
+    <entry align="center"><emphasis effect="bold">Form</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">First Person</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Second Person</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Third Person</emphasis></entry>
+    </row>
+    <row>
+    <entry align="center"><emphasis effect="bold">Subject</emphasis></entry>
+    <entry align="center">I, we</entry>
+    <entry align="center">you</entry>
+    <entry align="center">he, she, it, they</entry>
+    </row>
+    <row>
+    <entry align="center"><emphasis effect="bold">Object</emphasis></entry>
+    <entry align="center">me, us</entry>
+    <entry align="center">you</entry>
+    <entry align="center">him, her, it, them</entry>
+    </row>
+    <row>
+    <entry align="center"><emphasis effect="bold">Possessive</emphasis></entry>
+    <entry align="center">my, mine, our, ours</entry>
+    <entry align="center">your, yours</entry>
+    <entry align="center">his, hers, its, their, theirs</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption/>
+    </table>
+    <table summary=" " id="table-00002">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <tbody>
+    <row>
+    <entry align="center"><emphasis effect="bold">Subject Position</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Object Position</emphasis></entry>
+    </row>
+    <row>
+    <entry align="center"><para id="para-00024">I</para>
+    <para id="para-00025">you</para>
+    <para id="para-00026">she</para>
+    <para id="para-00027">he</para>
+    <para id="para-00028">it</para>
+    <para id="para-00029">we</para>
+    <para id="para-00030">they</para>
+    <para id="para-00031">who</para>
+    <para id="para-00032">whoever</para></entry>
+    <entry align="center"><para id="para-00033">me</para>
+    <para id="para-00034">you</para>
+    <para id="para-00035">her</para>
+    <para id="para-00036">him</para>
+    <para id="para-00037">it</para>
+    <para id="para-00038">us</para>
+    <para id="para-00039">them</para>
+    <para id="para-00040">whom</para>
+    <para id="para-00041">whomever</para></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption/>
+    </table>
+    <para id="para-00042">Seeing both versions across from each other helps emphasize that each personal pronoun has its counterpart. In other words, if it isn’t <emphasis effect="italics">we</emphasis>, then it is <emphasis effect="italics">us</emphasis>, and if it isn’t <emphasis effect="italics">me</emphasis>, then it is <emphasis effect="italics">I</emphasis>.</para>
+    <para id="para-00043"><emphasis effect="bold">Correct</emphasis> → <emphasis effect="bold"><emphasis effect="italics">She</emphasis></emphasis> <emphasis effect="italics">is such a sweet little dog</emphasis>.</para>
+    <para id="para-00044"><emphasis effect="bold">Incorrect</emphasis> <emphasis effect="italics">→ <emphasis effect="bold">Her</emphasis></emphasis> <emphasis effect="italics">is such a sweet little dog.</emphasis></para>
+    <para id="para-00045">It is fairly obvious here which pronoun is correct. You have been saying it correctly all along, probably without being able to articulate the grammatical rule that made you do so. However, knowing the <term class="no-emphasis" id="term-00016">subject</term> or <term id="term-00017">object distinction</term> can be especially helpful in knowing whether to use <emphasis effect="italics">I</emphasis> or <emphasis effect="italics">me</emphasis>. People often make mistakes when a sentence has a plural object. For example:</para>
+    <para id="para-00046">Jasmine and <emphasis effect="bold">I</emphasis> ordered pizza for dinner. The pizza was delivered to Jasmine and <emphasis effect="bold">me</emphasis>.</para>
+    <para id="para-00047">In the first sentence, the plural subject is <emphasis effect="italics">Jasmine</emphasis> and <emphasis effect="italics">I</emphasis>. <emphasis effect="italics">I</emphasis> is the <term class="no-emphasis" id="term-00018">subject personal pronoun</term>. In the second sentence, <emphasis effect="italics">me</emphasis> is an <term id="term-00019">object of the preposition</term> (<emphasis effect="italics">to</emphasis>), and the <term class="no-emphasis" id="term-00020">object personal pronoun</term>—<emphasis effect="italics">me</emphasis>—is correct. If the second sentence had the singular object pronoun <emphasis effect="italics">me</emphasis>, no problem would arise. You would simply say that the pizza was delivered <emphasis effect="italics">to me</emphasis>, not <emphasis effect="italics">to I</emphasis>. Remember that an object personal pronoun stays an object personal pronoun no matter how many other objects are part of it.</para>
+    </section>
+    <section id="sect-00008">
+    <title>Reflexive Pronouns</title>
+    <para id="para-00048"><term id="term-00021">Reflexive pronouns</term> are straightforward. They are pronouns that “reflect,” as an image does in a mirror. They refer to the same person or thing.</para>
+    <para id="para-00049"><emphasis effect="bold">John</emphasis> couldn’t stop looking at <emphasis effect="bold">himself</emphasis> in the mirror.</para>
+    <para id="para-00050"><emphasis effect="italics">John</emphasis> is the original noun, or antecedent, and <emphasis effect="italics">himself</emphasis> is the pronoun that points back at him. Note that reflexive pronouns <emphasis effect="italics">always</emphasis> end in <emphasis effect="italics">self</emphasis> or <emphasis effect="italics">selves</emphasis>.</para>
+    <table summary=" " id="table-00003">
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <tbody>
+    <row>
+    <entry align="center"><emphasis effect="bold">First Person</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Second Person</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Third Person</emphasis></entry>
+    </row>
+    <row>
+    <entry align="center">myself, ourselves</entry>
+    <entry align="center">yourself, yourselves</entry>
+    <entry align="center">himself, herself, itself, themselves</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption/>
+    </table>
+    </section>
+    <section id="sect-00009">
+    <title>Indefinite Pronouns</title>
+    <para id="para-00051">While reflexive pronouns always refer to themselves—that is, the subject and object are the same person, place, thing, or idea—<term id="term-00022">indefinite pronouns</term> are the opposite. As their name suggests, they are not definite; they are <term class="no-emphasis" id="term-00023"><emphasis effect="italics">in</emphasis>definite</term> and do not refer to specific nouns. They do get their meaning across, but the nouns they refer to are not known. These are some of the most common indefinite pronouns:</para>
+    <table summary=" " id="table-00004">
+    <tgroup cols="4">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+    <tbody>
+    <row>
+    <entry><para id="para-00052">all</para>
+    <para id="para-00053">another</para>
+    <para id="para-00054">any</para>
+    <para id="para-00055">anybody</para>
+    <para id="para-00056">anything</para>
+    <para id="para-00057">both</para>
+    <para id="para-00058">each</para></entry>
+    <entry><para id="para-00059">either</para>
+    <para id="para-00060">everybody</para>
+    <para id="para-00061">everyone</para>
+    <para id="para-00062">everything</para>
+    <para id="para-00063">few</para>
+    <para id="para-00064">many</para>
+    <para id="para-00065">more</para></entry>
+    <entry><para id="para-00066">most</para>
+    <para id="para-00067">much</para>
+    <para id="para-00068">nobody</para>
+    <para id="para-00069">none</para>
+    <para id="para-00070">no one</para>
+    <para id="para-00071">nothing</para>
+    <para id="para-00072">one</para></entry>
+    <entry><para id="para-00073">other</para>
+    <para id="para-00074">several</para>
+    <para id="para-00075">some</para>
+    <para id="para-00076">somebody</para>
+    <para id="para-00077">someone</para>
+    <para id="para-00078">something</para></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption/>
+    </table>
+    </section>
+    <section id="sect-00010">
+    <title>Demonstrative Pronouns</title>
+    <para id="para-00079"><term id="term-00024">Demonstrative pronouns</term> point directly at something. They use all their pronoun power to indicate their preference, so much so that when someone uses a demonstrative pronoun, it is hard <emphasis effect="italics">not</emphasis> to imagine them pointing at something directly. Good news and bad news come along with demonstrative pronouns. The good news is that there are only four demonstrative pronouns: <emphasis effect="italics">this</emphasis>, <emphasis effect="italics">that</emphasis>, <emphasis effect="italics">these</emphasis>, and <emphasis effect="italics">those</emphasis>. The bad news—and it’s not really bad—is that words that commonly play the role of <term class="no-emphasis" id="term-00025">pronouns</term> are multitalented. The same word can play another role (part of speech) in a sentence. Sometimes these four words function as <term id="term-00026">adjectives</term>, which always modify nouns and pronouns. In the sentence <emphasis effect="italics">That is my car</emphasis>, the word <emphasis effect="italics">that</emphasis> is playing the role of a pronoun. It is the <term class="no-emphasis" id="term-00027">subject</term> of the sentence. Only nouns or pronouns can be subjects. However, if the sentence read <emphasis effect="italics">That car is mine</emphasis>, then <emphasis effect="italics">that</emphasis> would be an adjective because it modifies (tells something about) the noun <emphasis effect="italics">car</emphasis>.</para>
+    </section>
+    </section>
+    <section id="sect-00011">
+    <title>Common Mix-Ups</title>
+    <list list-type="bulleted" id="list-00002">
+    <item><emphasis effect="bold">It’s</emphasis> vs. <emphasis effect="bold">its:</emphasis> This is an easy one to mix up but easy to correct. <emphasis effect="bold">It’s</emphasis> means <emphasis effect="bold">it is</emphasis> or <emphasis effect="bold">it has</emphasis>. For example: <emphasis effect="bold"><emphasis effect="italics">It’s</emphasis></emphasis> <emphasis effect="italics">a hot day</emphasis> or <emphasis effect="bold"><emphasis effect="italics">It is</emphasis></emphasis> <emphasis effect="italics">a hot day</emphasis>. <emphasis effect="bold">Its</emphasis> refers to possession. For example: <emphasis effect="italics">This car has <emphasis effect="bold">its</emphasis></emphasis> <emphasis effect="italics">problems</emphasis>. To be sure you are correct, substitute <emphasis effect="italics">it is</emphasis>. To say <emphasis effect="italics">The car has <emphasis effect="bold">it is</emphasis></emphasis> <emphasis effect="italics">problems</emphasis> makes no sense, so <emphasis effect="bold">its</emphasis> is correct.</item>
+    <item><emphasis effect="bold">Who</emphasis> vs. <emphasis effect="bold">whom:</emphasis> Perhaps the most effective way to recognize which to use is to equate <emphasis effect="bold">who</emphasis> to <emphasis effect="italics">he</emphasis> and <emphasis effect="bold">whom</emphasis> to <emphasis effect="italics">him</emphasis>. For example: <emphasis effect="bold"><emphasis effect="italics">Who/Whom</emphasis></emphasis> <emphasis effect="italics">wrote the book? <emphasis effect="bold">He</emphasis></emphasis> <emphasis effect="italics">wrote the book</emphasis>, so <emphasis effect="italics">who</emphasis> is correct. Remember that <emphasis effect="italics">whom</emphasis> is in the objective case. Think about it like this: <emphasis effect="bold"><emphasis effect="italics">whom</emphasis></emphasis> is like <emphasis effect="italics">them</emphasis>, so you might say, <emphasis effect="italics">This is for them</emphasis>. Therefore, <emphasis effect="italics">This is for whom?</emphasis> or <emphasis effect="italics">Whom is this for?</emphasis> would be correct.</item>
+    <item><emphasis effect="bold">I</emphasis> vs. <emphasis effect="bold">me:</emphasis> <emphasis effect="bold">I</emphasis> is always a subject; <emphasis effect="bold">me</emphasis> is always an object. So <emphasis effect="italics">Demarcus and I left the building</emphasis> is correct because <emphasis effect="italics">I</emphasis> is the subject. Conversely, <emphasis effect="italics">Give the package to me</emphasis> and <emphasis effect="italics">You gave me good advice</emphasis> are both correct because <emphasis effect="italics">me</emphasis> is an object. Remember to use the correct pronoun with compound objects, as in the sentence <emphasis effect="italics">Reflection has helped other class members and <emphasis effect="bold">me</emphasis></emphasis> <emphasis effect="italics">improve our writing</emphasis>.</item>
+    </list>
+    <para id="para-00080">In Chapter 20, you have learned how to use different types of pronouns to substitute for nouns and noun phrases. You have also learned about common mix-ups when using pronouns. In this activity, drag each pronoun to the sentence it correctly completes.</para>
+    <media alt="atoms_isotopes">
+    <iframe width="660" height="371.4" src="../../media/Interactive/090921_opx_comp_ch20_drag_and_1c_drop_matching/index.html"/>
+    </media>
+    </section>
+    </content>
 </document>

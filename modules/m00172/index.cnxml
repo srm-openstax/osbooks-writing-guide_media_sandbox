@@ -6,9 +6,69 @@
     <md:uuid>c13d93c3-792c-4330-b580-5877646e16b5</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Produce effective written and oral content based on genre conventions, including common formats and design features.</item>
+    <item>Demonstrate understanding and use of genre conventions for structure, coherence, tone, and mechanics.</item>
+    </list>
+    </section>
+    <para id="para-00002">Ask a peer to use the following rubric to evaluate your final presentation draft. The rubric covers oral fluency, rhetorical choices, and organizational principles necessary for creating a strong presentation. After going through the rubric, your peer reviewer may leave comments or other feedback to help you understand their reasoning. Although you may not agree with all of their ideas, peer reviewers offer an opportunity for you to get an outsider’s perspective on your writing. Be sure to ask questions about parts you do not understand, and listen closely to your peer reviewer’s reasoning. Then review your script again according to the feedback you think you can address.</para>
+    <section id="sect-00002">
+    <title>Rubric</title>
+    <table summary=" " id="table-00001">
+    <tgroup cols="4">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+    <tbody>
+    <row>
+    <entry align="center"><emphasis effect="bold">Score</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Critical Language Awareness</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Clarity and Coherence</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Rhetorical Choices</emphasis></entry>
+    </row>
+    <row>
+    <entry><para id="para-00003"><emphasis effect="bold">5</emphasis></para>
+    <para id="para-00004"><emphasis effect="bold">Skillful</emphasis></para></entry>
+    <entry>The outline and its delivery have a clear focus and thesis, exemplify strong oral fluency, and appeal to readers’ intelligence and sympathies. The outline ?also shows ample evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+    <entry>The topic or claim is stated clearly and is expertly supported with abundant credible evidence. The writer’s ideas are always clearly presented and linked with appropriate transitions. The conclusion ties back to the thesis. Media and visual aids are skillfully used as support.</entry>
+    <entry>The language is consistently clear and appropriate and accurately reflects the overall tone. The writer consistently demonstrates awareness of the audience and highly skilled use of rhetorical strategies and devices, such as parallelism and repetition.</entry>
+    </row>
+    <row>
+    <entry><para id="para-00005"><emphasis effect="bold">4</emphasis></para>
+    <para id="para-00006"><emphasis effect="bold">Accomplished</emphasis></para></entry>
+    <entry>The outline and its delivery have a generally clear focus and thesis, exemplify moderate oral fluency, and generally appeal to readers’ intelligence and sympathies. The text ?also shows some evidence of the writer’s intent to meet or challenge conventional expectations in rhetorically effective ways.</entry>
+    <entry>The topic or claim is stated clearly and is supported with sufficient credible evidence. The writer’s ideas are usually presented clearly and linked with appropriate transitions. The conclusion ties back to the thesis. Media and visual aids are used appropriately as support.</entry>
+    <entry>The language is usually clear and appropriate and accurately reflects the overall tone. The writer usually demonstrates awareness of the audience and skilled use of rhetorical strategies and devices, such as parallelism and repetition.</entry>
+    </row>
+    <row>
+    <entry><para id="para-00007"><emphasis effect="bold">3</emphasis></para>
+    <para id="para-00008"><emphasis effect="bold">Capable</emphasis></para></entry>
+    <entry>The outline and its delivery have a somewhat clear focus and thesis, exemplify some oral fluency, and appeal somewhat to readers’ intelligence and sympathies. The text ?also shows limited evidence of the writer’s intent to meet or challenge conventional expectations in rhetorically effective ways.</entry>
+    <entry>The topic or claim is stated fairly clearly and is supported with sufficient, if not abundant, credible evidence. The writer’s ideas are presented fairly clearly, but the writing may be choppy because of insufficient or inappropriate transitions. The conclusion may be missing or may not tie back to the thesis. Media and visual aids may not be used appropriately as support—too many, too few, too small, or inaudible.</entry>
+    <entry>The language is usually clear but may be inappropriate at times and may not always reflect the overall tone. The writer demonstrates some awareness of the audience and use of rhetorical strategies and devices, such as parallelism and repetition, but more are needed for a strong presentation.</entry>
+    </row>
+    <row>
+    <entry><para id="para-00009"><emphasis effect="bold">2</emphasis></para>
+    <para id="para-00010"><emphasis effect="bold">Developing</emphasis></para></entry>
+    <entry>The outline and its delivery have evidence of an emerging focus and thesis, exemplify emerging oral fluency, and provide limited appeal to readers’ intelligence and sympathies. The text ?also shows emerging evidence of the writer’s intent to meet or challenge conventional expectations in rhetorically effective ways.</entry>
+    <entry>The topic or claim is unclear and insufficiently supported with credible evidence. The writer’s ideas are unclear and disconnected, a result of insufficient or inappropriate transitions. The conclusion may be missing or may not tie back to the thesis. Media and visual aids contribute little to the presentation.</entry>
+    <entry>The language may be unclear or inappropriate and may not reflect the overall tone. The writer demonstrates little, if any, awareness of the audience and little use of rhetorical strategies and devices, such as parallelism and repetition.</entry>
+    </row>
+    <row>
+    <entry><para id="para-00011"><emphasis effect="bold">1</emphasis></para>
+    <para id="para-00012"><emphasis effect="bold">Beginning</emphasis></para></entry>
+    <entry>The outline and its delivery have little to no focus or thesis, show little evidence of oral fluency, and provide little to no appeal to readers’ intelligence or sympathies. The text ?also shows little to no evidence of the writer’s intent to meet or challenge conventional expectations in rhetorically effective ways.</entry>
+    <entry>The topic or claim is not supported with credible evidence. The writer’s ideas are unclear and disconnected, a result of insufficient or inappropriate transitions. There is no clear conclusion. Media and visual aids either are missing or contribute little to the presentation.</entry>
+    <entry>The language is unclear and inappropriate and does not reflect the overall tone. The writer demonstrates little or no awareness of their audience and little to no use of rhetorical strategies or devices, such as parallelism and repetition.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption/>
+    </table>
+    </section>
+    </content>
 </document>

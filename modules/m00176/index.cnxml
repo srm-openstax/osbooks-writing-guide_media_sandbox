@@ -6,9 +6,14 @@
     <md:uuid>4acfdbfa-a67b-4197-a00a-5c71293ea1e2</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Reflect on and write about the development of composing processes and how those processes affect your work.</item>
+    <item>Demonstrate honesty and objectivity in reflecting on written work.</item>
+    </list>
+    </section>
+    <para id="para-00002">You have written your way through a long semester, and the journey is nearly complete. Now is the time to step back and reflect on what you have written, what you have mastered, what skill gaps remain, and what you will do to continue growing and improving as a communicator. This reflection will be based on the work you have done and what you have learned during the semester. Because the subject of this reflection is you and your work, no further research is required. The information you need is in the work you have done in this course and in your head. Now, you will work to organize and transfer this information to an organized written text. Every assignment you have completed provides you with insight into your writing process as you think about the assignment’s purpose, its execution, and your learning along the way. The skill of reflection requires you to be critical and honest about your habits, feelings, skills, and writing. In the end, you will discover that you have made progress as a writer, perhaps in ways not yet obvious.</para>
+    </content>
 </document>

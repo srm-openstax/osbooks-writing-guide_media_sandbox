@@ -6,9 +6,63 @@
     <md:uuid>d4fa5ca4-a8a4-4ce2-b268-48c86a16e4b0</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Write reflectively about the process of creating a script for a presentation.</item>
+    <item>Demonstrate how the composing process affects the final product.</item>
+    </list>
+    </section>
+    <para id="para-00002">Reflecting on your writing enhances the writing process by allowing you to deepen your understanding of the process of drafting, revising, and evaluating. Now that you have finished another writing project, it’s time to add another section to your portfolio. Think critically about the process you followed for this assignment, reflecting on how your writing developed over time, specifically as it relates to writing for an audience.</para>
+    <section id="sect-00002">
+    <title>Reflective Task</title>
+    <para id="para-00003">As you reflect on writing for your presentation, ask yourself the following questions:</para>
+    <list list-type="bulleted" id="list-00002">
+    <item>How did you decide on the topic and subject of your script?</item>
+    <item>How did the research process inform the development of your thesis?</item>
+    <item>How did you organize your outline? Why did you choose this method of organization?</item>
+    <item>What sources did you use to develop key points?</item>
+    <item>How did you engage the audience in the introduction of your script? What methods of engagement did you use?</item>
+    <item>How did you build credibility and engagement with your audience?</item>
+    <item>How did collaboration with peers help you as you wrote and revised your script?</item>
+    <item>What specific feedback was helpful in the revision process?</item>
+    <item>How did you incorporate structural elements such as tone, parallelism, and repetition into your writing? How did they affect the text?</item>
+    <item>What considerations for delivery did you make within your writing?</item>
+    <item>Did you find writing for speech more or less difficult than writing a traditional paper? In what ways?</item>
+    <item>What might you do differently if you were to begin again or write a different script?</item>
+    <item>What insights about your topic did you gain from writing your paper?</item>
+    </list>
+    </section>
+    <section class="further-reading" id="sect-00003">
+    <title>Further Reading</title>
+    <para id="para-00004">The following titles are well-known examples of script within the genre.</para>
+    <para id="para-00005">Churchill, Winston. “We Shall Fight on the Beaches.” 4 June 1940. <emphasis effect="italics">International Churchill Society</emphasis>, winstonchurchill.org/resources/speeches/1940-the-finest-hour/we-shall-fight-on-the-beaches/.</para>
+    <para id="para-00006">Gandhi, Mohandas K. “The ‘Quit India’ Speech.” 8 Aug. 1942. <emphasis effect="italics">Mahatma Gandhi One Spot Information Website</emphasis>, Bombay Sarvodaya Mandal / Gandhi Research Foundation, www.mkgandhi.org/speeches/qui.htm.</para>
+    <para id="para-00007">Gehrig, Lou. “Farewell to Baseball Address.” 4 July 1939. <emphasis effect="italics">American Rhetoric: Top 100 Speeches</emphasis>, www.americanrhetoric.com/speeches/lougehrigfarewelltobaseball.htm.</para>
+    <para id="para-00008">Kennedy, John F. “Address to Joint Session of Congress.” 25 May 1961. <emphasis effect="italics">John F. Kennedy Presidential Library and Museum</emphasis>, National Archives, www.jfklibrary.org/learn/about-jfk/historic-speeches/address-to-joint-session-of-congress-may-25-1961.</para>
+    <para id="para-00009">King, Martin Luther, Jr. “I Have a Dream.” 28 Aug. 1963. “The 1963 March on Washington,” <emphasis effect="italics">NAACP</emphasis>, www.naacp.org/find-resources/history-explained/1963-march-washington.</para>
+    <para id="para-00010">Washington, George. “Washington’s Address to Congress Resigning His Commission.” 23 Dec. 1783. <emphasis effect="italics">Founders Online</emphasis>, National Archives, founders.archives.gov/documents/Jefferson/01-06-02-0319-0004.</para>
+    </section>
+    <section class="works-cited" id="sect-00004">
+    <title>Works Cited</title>
+    <para id="para-00011">“About.” <emphasis effect="italics">Disability Visibility Project</emphasis>, 2021, disabilityvisibilityproject.com/about/.</para>
+    <para id="para-00012">“Access Is Love.” <emphasis effect="italics">Disability &amp; Intersectionality Summit</emphasis>, 2021, www.disabilityintersectionalitysummit.com/access-is-love.</para>
+    <para id="para-00013">Bates, Jefferson D. <emphasis effect="italics">Writing with Precision: How to Write So That You Cannot Possibly Be Misunderstood</emphasis>. Acropolis Books, 1985.</para>
+    <para id="para-00014">“Chief Joseph.” <emphasis effect="italics">Encyclopædia Britannica</emphasis>, 17 Sept. 2020, www.britannica.com/biography/Chief-Joseph.</para>
+    <para id="para-00015">Chief Joseph. <emphasis effect="italics">I Will Fight No More Surrender Speech (1877)</emphasis>. apush-xl.com/DocumentsJOSEPH.pdf.</para>
+    <para id="para-00016">Churchill, Winston. “We Shall Fight on the Beaches.” 4 June 1940. <emphasis effect="italics">International Churchill Society</emphasis>, winstonchurchill.org/resources/speeches/1940-the-finest-hour/we-shall-fight-on-the-beaches/.</para>
+    <para id="para-00017">Humphrey, Judith. “Writing Professional Speeches: Seven Steps for Perfecting Your Craft.” <emphasis effect="italics">Vital Speeches of the Day</emphasis>, vol. 54, no. 11, 15 Mar. 1988, pp. 343–345.</para>
+    <para id="para-00018">KariO. “How Long Does It Take a Plastic Bottle to Biodegrade?” <emphasis effect="italics">Postconsumers</emphasis>, 31 Oct. 2011, www.postconsumers.com/2011/10/31/how-long-does-it-take-a-plastic-bottle-to-biodegrade.</para>
+    <para id="para-00019">Kennedy, John F. “Inaugural Address of John F. Kennedy.” 20 Jan. 1961. <emphasis effect="italics">The Avalon Project: Documents in Law, History and Diplomacy</emphasis>, Yale Law School Lillian Goldman Law Library, avalon.law.yale.edu/20th_century/kennedy.asp.</para>
+    <para id="para-00020">King, Martin Luther, Jr. “I Have a Dream, Martin Luther King Jr. Full Speech Best Audio.” 28 Aug. 1963. <emphasis effect="italics">YouTube</emphasis>, uploaded by Classical Media, 26 Jan. 2015, www.youtube.com/watch?v=ARvrvJV4th4</para>
+    <para id="para-00021">Koch, Arthur, and Jason Schmitt. <emphasis effect="italics">Speaking with a Purpose</emphasis>. 9th ed., Pearson, 2014.</para>
+    <para id="para-00022">Lincoln, Abraham. “The Gettysburg Address.” 19 Nov. 1863. <emphasis effect="italics">Abraham Lincoln Online</emphasis>, www.abrahamlincolnonline.org/lincoln/speeches/gettysburg.htm.</para>
+    <para id="para-00023">“A Million Bottles a Minute: World’s Plastic Binge ‘AS Dangerous as Climate Change’.” <emphasis effect="italics">The Guardian</emphasis>, Guardian News and Media, 28 June 2017, www.theguardian.com/environment/2017/jun/28/a-million-a-minute-worlds-plastic-bottle-binge-as-dangerous-as-climate-change.</para>
+    <para id="para-00024">“Parallelism.” <emphasis effect="italics">American Rhetoric: Rhetorical Figures in Sound</emphasis>, created by Michael E. Eidenmuller, www.americanrhetoric.com/figures/parallelism.htm.</para>
+    <para id="para-00025">Pulrang, Andrew. “Frequently Asked Questions.” <emphasis effect="italics">#CripTheVote Blog</emphasis>, 27 Mar. 2018, cripthevote.blogspot.com/2018/03/frequently-asked-questions.html.</para>
+    <para id="para-00026">Rapp, Christof. “Aristotle’s <emphasis effect="italics">Rhetoric</emphasis>.” <emphasis effect="italics">Stanford Encyclopedia of Philosophy</emphasis>, Stanford U Center for the Study of Language and Information, 1 Feb. 2010, plato.stanford.edu/entries/aristotle-rhetoric/.</para>
+    <para id="para-00027">Roosevelt, Franklin D. “FDR’s Pearl Harbor Speech (December 8, 1941).” 8 Dec. 1941. <emphasis effect="italics">YouTube</emphasis>, uploaded by Audio Law Library, 20 Jan. 2018, www.youtube.com/watch?v=kHsCyxdfjvQ.</para>
+    </section>
+    </content>
 </document>
