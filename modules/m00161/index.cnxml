@@ -34,8 +34,8 @@
     <colspec colnum="2" colname="c2"/>
     <tbody>
     <row>
-    <entry><emphasis effect="bold">Persuasion Purpose</emphasis></entry>
-    <entry><emphasis effect="bold">Sample Thesis Statement</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Persuasion Purpose</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Sample Thesis Statement</emphasis></entry>
     </row>
     <row>
     <entry><emphasis effect="bold">What is the image’s value?</emphasis></entry>
@@ -66,30 +66,30 @@
     <colspec colnum="2" colname="c2"/>
     <tbody>
     <row>
-    <entry><emphasis effect="bold">Side A</emphasis></entry>
-    <entry><emphasis effect="bold">Side B</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Side A</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Side B</emphasis></entry>
     </row>
     <row>
-    <entry namest="c1" nameend="c2">Purpose / Thesis</entry>
+    <entry align="center" namest="c1" nameend="c2">Purpose / Thesis</entry>
     </row>
     <row>
     <entry>Figure 17.3 represents an important moment in American history and should be included in a yearbook recording historical events of 2020.</entry>
     <entry>Figure 17.3 depicts an ordinary occurrence and does not warrant inclusion in a yearbook recording historical events of 2020.</entry>
     </row>
     <row>
-    <entry namest="c1" nameend="c2">Audience</entry>
+    <entry align="center" namest="c1" nameend="c2">Audience</entry>
     </row>
     <row>
-    <entry namest="c1" nameend="c2">Committee commissioned by the National Endowment for the Humanities</entry>
+    <entry align="center" namest="c1" nameend="c2">Committee commissioned by the National Endowment for the Humanities</entry>
     </row>
     <row>
-    <entry namest="c1" nameend="c2">Context</entry>
+    <entry align="center" namest="c1" nameend="c2">Context</entry>
     </row>
     <row>
-    <entry namest="c1" nameend="c2">The committee has been commissioned to publish a yearbook of 2020, entitled <emphasis effect="italics">The Year Democracy Roared</emphasis>. They are looking for pictures that represent large movements in America in 2020 that tie into the country’s history and depict individuals in interesting or unique settings.</entry>
+    <entry align="center" namest="c1" nameend="c2">The committee has been commissioned to publish a yearbook of 2020, entitled <emphasis effect="italics">The Year Democracy Roared</emphasis>. They are looking for pictures that represent large movements in America in 2020 that tie into the country’s history and depict individuals in interesting or unique settings.</entry>
     </row>
     <row>
-    <entry namest="c1" nameend="c2">Evidence</entry>
+    <entry align="center" namest="c1" nameend="c2">Evidence</entry>
     </row>
     <row>
     <entry><list list-type="bulleted" id="list-00003">
@@ -162,36 +162,36 @@
     <tbody>
     <row>
     <entry/>
-    <entry><emphasis effect="bold">Questions to Consider</emphasis></entry>
-    <entry><emphasis effect="bold">Your Responses</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Questions to Consider</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Your Responses</emphasis></entry>
     </row>
     <row>
-    <entry><emphasis effect="bold">Purpose</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Purpose</emphasis></entry>
     <entry>With regard to the image, are you writing to describe, to reflect, to analyze, or to evaluate (persuade)?</entry>
     <entry/>
     </row>
     <row>
-    <entry><emphasis effect="bold">Audience</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Audience</emphasis></entry>
     <entry>Who is the audience? What do they already know about the image? What do they need to know? Toward what cultural issues might you need to show sensitivity?</entry>
     <entry/>
     </row>
     <row>
-    <entry><emphasis effect="bold">Genre</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Genre</emphasis></entry>
     <entry>What are the characteristics of the genre in which you will compose your analysis of the image?</entry>
     <entry/>
     </row>
     <row>
-    <entry><emphasis effect="bold">Stance</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Stance</emphasis></entry>
     <entry>What direction should your thesis statement take?</entry>
     <entry/>
     </row>
     <row>
-    <entry><emphasis effect="bold">Context</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Context</emphasis></entry>
     <entry>Within what social, political, economic, or cultural context was the image created, and for what purpose?</entry>
     <entry/>
     </row>
     <row>
-    <entry><emphasis effect="bold">Culture</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Culture</emphasis></entry>
     <entry>What cultural issues are related to the image? From what cultural viewpoint are you writing? What is the cultural viewpoint of your audience?</entry>
     <entry/>
     </row>

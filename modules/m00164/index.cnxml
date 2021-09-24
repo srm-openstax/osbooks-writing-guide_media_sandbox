@@ -48,12 +48,12 @@
     <colspec colnum="3" colname="c3"/>
     <tbody>
     <row>
-    <entry namest="c1" nameend="c3"><emphasis effect="bold">Video Creation Software</emphasis></entry>
+    <entry align="center" namest="c1" nameend="c3"><emphasis effect="bold">Video Creation Software</emphasis></entry>
     </row>
     <row>
-    <entry><emphasis effect="bold">Name</emphasis></entry>
-    <entry><emphasis effect="bold">Notes</emphasis></entry>
-    <entry><emphasis effect="bold">Location</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Name</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Notes</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Location</emphasis></entry>
     </row>
     <row>
     <entry>Lightworks</entry>
@@ -76,11 +76,11 @@
     <entry><link url="https://openstax.org/r/Open-Shot">OpenShot</link></entry>
     </row>
     <row>
-    <entry namest="c1" nameend="c3"><emphasis effect="bold">YouTube Resources</emphasis></entry>
+    <entry align="center" namest="c1" nameend="c3"><emphasis effect="bold">YouTube Resources</emphasis></entry>
     </row>
     <row>
-    <entry namest="c1" nameend="c2"><emphasis effect="bold">Description</emphasis></entry>
-    <entry><emphasis effect="bold">Location</emphasis></entry>
+    <entry align="center" namest="c1" nameend="c2"><emphasis effect="bold">Description</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Location</emphasis></entry>
     </row>
     <row>
     <entry namest="c1" nameend="c2">Upload videos to YouTube privately so that you control who sees them and when.</entry>
