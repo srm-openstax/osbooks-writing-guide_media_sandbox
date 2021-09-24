@@ -195,65 +195,52 @@
     <section class="drafting" id="sect-00006">
     <title>Getting Started and Following Through</title>
     <para id="para-00020">As you work through the task of reflecting, consider the purpose of each assignment and your approach to it, in addition to the information you have included in the chapter reflection table. Also, read some models to help stimulate your reflective thinking: Final Reflective Essay by <link url="https://openstax.org/r/Andrew_Duffy">Andrew Duffy</link>; Final Reflection by <link url="https://openstax.org/r/Anthony_Roco">Anthony Roco</link>; E-Portfolio Reflection by <link url="https://openstax.org/r/Sean_Porter">Sean Porter</link>; or this <link url="https://openstax.org/r/Portfolio_Summative">Portfolio Summative Reflection</link>. Then, use the template below as a way to create your own unique reflection on yourself as a developing writer. Focus on the larger impact of what you have learned. Also offer some insight on what you still need to work on, and explain why. Each aspect that you write about will show a level of progress and awareness toward improvement. Just as important, it will help you focus on future writing assignments and allow you to recognize your growth as a writer.</para>
-    <table summary=" " id="table-00002" frame="topbot" rowsep="0">
-    <tgroup cols="1">
-    <colspec colnum="1" colname="c1"/>
-    <tbody>
-    <row>
-    <entry align="center"><emphasis effect="bold">Portfolio Reflection Template</emphasis></entry>
-    </row>
-    <row>
-    <entry>Dear Reader,</entry>
-    </row>
-    <row>
-    <entry>Welcome to my English Composition portfolio. Here, you will find ________.</entry>
-    </row>
-    <row>
-    <entry><emphasis effect="bold">Complete this statement:</emphasis> <emphasis effect="italics">This semester, I learned that I am (not) a writer because</emphasis> ________.</entry>
-    </row>
-    <row>
-    <entry><emphasis effect="bold">Answer these questions in paragraph form. For each claim you make, show your reasoning and provide quoted evidence from your portfolio:</emphasis></entry>
-    </row>
-    <row>
-    <entry><list list-type="bulleted" id="list-00003">
-    <item>Which is the strongest piece of writing in the portfolio?
-    <list list-type="bulleted" bullet-style="open-circle" id="list-00004">
-    <item>What are the strengths of this essay, and why do you think so?</item>
-    <item>In what specific ways has your writing improved this semester?</item>
-    <item>How does this essay demonstrate this improvement?</item>
-    </list></item>
-    <item>Which is the least effective piece of writing in the portfolio?
-    <list list-type="bulleted" bullet-style="open-circle" id="list-00005">
-    <item>What are the weaknesses of this essay, and why do you think so?</item>
-    <item>If you could revise this essay one more time, what would you change, and why?</item>
-    <item>Specifically, which writing skills still need work, and how will you continue to work on them?</item>
-    </list></item>
-    <item>How did the process of revision help you re-envision your essays and make changes?
-    <list list-type="bulleted" bullet-style="open-circle" id="list-00006">
-    <item>In what ways was it useful to see what other students were writing?</item>
-    <item>How did knowing that others would provide feedback during drafting affect your writing process?</item>
-    <item>How did revision affect your skills as a peer workshop partner?</item>
-    </list></item>
-    <item>In what ways did your writing process evolve over the course of the semester?
-    <list list-type="bulleted" bullet-style="open-circle" id="list-00007">
-    <item>Discuss the issue of perspective, such as when you first entered the course and now.</item>
-    <item>What did you learn about writing through its genres, elements of the rhetorical situation, processes, skills, and strategies?</item>
-    <item>How have you changed as a writer?</item>
-    <item>How have your feelings about writing changed?</item>
-    </list></item>
-    <item>Finish this statement: <emphasis effect="italics">Before I took this class, I never knew</emphasis> ________.</item>
-    </list></entry>
-    </row>
-    <row>
-    <entry>Sincerely,</entry>
-    </row>
-    <row>
-    <entry><emphasis effect="italics">Your Name</emphasis></entry>
-    </row>
-    </tbody>
-    </tgroup>
-    <caption>Portfolio reflection template</caption>
-    </table>
+    <table summary=" " id="table-00002" frame="all">
+      <tgroup cols="1">
+      <colspec colnum="1" colname="c1"/>
+      <tbody>
+      <row>
+      <entry>
+      <para id="para-00049"><emphasis effect="bold">Portfolio Reflection Template</emphasis></para>
+      <para id="para-00050">Dear Reader,</para>
+      <para id="para-00051">Welcome to my English Composition portfolio. Here, you will find ________.</para>
+      <para id="para-00052"><emphasis effect="bold">Complete this statement:</emphasis> <emphasis effect="italics">This semester, I learned that I am (not) a writer because</emphasis> ________.</para>
+      <para id="para-00053"><emphasis effect="bold">Answer these questions in paragraph form. For each claim you make, show your reasoning and provide quoted evidence from your portfolio:</emphasis></para>
+      <para id="para-00054"><list list-type="bulleted" id="list-00003">
+      <item>Which is the strongest piece of writing in the portfolio?
+      <list list-type="bulleted" bullet-style="open-circle" id="list-00004">
+      <item>What are the strengths of this essay, and why do you think so?</item>
+      <item>In what specific ways has your writing improved this semester?</item>
+      <item>How does this essay demonstrate this improvement?</item>
+      </list></item>
+      <item>Which is the least effective piece of writing in the portfolio?
+      <list list-type="bulleted" bullet-style="open-circle" id="list-00005">
+      <item>What are the weaknesses of this essay, and why do you think so?</item>
+      <item>If you could revise this essay one more time, what would you change, and why?</item>
+      <item>Specifically, which writing skills still need work, and how will you continue to work on them?</item>
+      </list></item>
+      <item>How did the process of revision help you re-envision your essays and make changes?
+      <list list-type="bulleted" bullet-style="open-circle" id="list-00006">
+      <item>In what ways was it useful to see what other students were writing?</item>
+      <item>How did knowing that others would provide feedback during drafting affect your writing process?</item>
+      <item>How did revision affect your skills as a peer workshop partner?</item>
+      </list></item>
+      <item>In what ways did your writing process evolve over the course of the semester?
+      <list list-type="bulleted" bullet-style="open-circle" id="list-00007">
+      <item>Discuss the issue of perspective, such as when you first entered the course and now.</item>
+      <item>What did you learn about writing through its genres, elements of the rhetorical situation, processes, skills, and strategies?</item>
+      <item>How have you changed as a writer?</item>
+      <item>How have your feelings about writing changed?</item>
+      </list></item>
+      <item>Finish this statement: <emphasis effect="italics">Before I took this class, I never knew</emphasis> ________.</item>
+      </list></para>
+      <para id="para-00055">Sincerely,</para>
+      <para id="para-00056"><emphasis effect="italics">Your Name</emphasis></para>
+      </entry>
+      </row>
+      </tbody>
+      </tgroup>
+      </table>
     <section id="sect-00007">
     <title>Structuring Your Responses</title>
     <para id="para-00021">As you respond to each of the questions above, use a paragraph planner such as this one.</para>
