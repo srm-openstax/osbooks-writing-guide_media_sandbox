@@ -87,16 +87,14 @@
     <title>Conclusion</title>
     <para id="para-00023">This portion of the script provides a summary and is your final opportunity to make an impression on your audience. Typically, in this section, you restate the thesis convincingly and, if applicable in a persuasive script, tell your audience what you believe they should do. Also, you briefly revisit each key idea in the context of how it supports your thesis. Strong conclusions are especially important in scripts.</para>
     <para id="para-00024">One strategy for writing conclusions is the “mirrored” conclusion that ties back to the introduction. For example, if you use a statistic to engage your audience’s attention, you return to that statistic in the conclusion. Consider the following example.</para>
-    <quote id="quote-00001">
     <para class="student-sample" id="para-00025"><emphasis effect="bold">Introduction:</emphasis> It takes 450 years for one plastic bottle to decompose in a landfill. Now consider the fact that, according to the U.S. government, at least <emphasis effect="bold">50 million</emphasis> plastic bottles are thrown away <emphasis effect="italics">each day</emphasis> in the United States.</para>
     <para class="student-sample" id="para-00026"><emphasis effect="bold">Mirrored Conclusion:</emphasis> Each time you’re tempted to reach for a plastic bottle, contemplate the <emphasis effect="bold">50 million</emphasis> that end up in landfills each year. Consider other options that spare our environment from the centuries of decomposition that each one contributes to.</para>
-    </quote>
     <para id="para-00027">For writers who have difficulty beginning, one idea is to reverse-engineer the structure of the script. Beginning with the conclusion will help you know where you need to end up, thus making it easier to create a roadmap for getting there. This strategy can provide consistency and add emphasis to the key ideas in the script.</para>
     </section>
     <section id="sect-00009">
     <title>Outline</title>
     <para id="para-00028">Keeping in mind the basic parts of a script outline, you can now begin to craft a skeletal version your own. Use <link target-id="table-00001" document="m00171"/> to gather and organize your initial thoughts.</para>
-    <table summary=" " id="table-00001">
+    <table summary=" " id="table-00001" pgwide="1">
     <tgroup cols="3">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -278,13 +276,9 @@
     <section id="sect-00013">
     <title>Repetition and Parallelism</title>
     <para id="para-00073">Repetition and parallelism are literary devices that authors and speakers use for emphasis, persuasion, contrast, and rhythm. In <term id="term-00016">repetition</term>, a word, phrase, or sound is repeated for effect. Repetition is also employed in a variety of figurative language. The following example is an excerpt from the surrender speech of <term class="no-emphasis" id="term-00017">Chief Joseph</term> (1840–1904), the <term class="no-emphasis" id="term-00018">Nez Percé</term> leader who surrendered to the <term class="no-emphasis" id="term-00019">U.S. Army</term> in 1877 after the U.S. government had appropriated Nez Percé land. Rather than be forced to live on reservations, Chief Joseph and his followers unsuccessfully attempted to flee to Canada, a journey of about 1,500 miles, during which they were pursued and vastly outnumbered by the U.S. Army. Notice the use of repetition to emphasize the cold and the death toll.</para>
-    <quote id="quote-00003">
     <para class="public-domain" id="para-00074">I am tired of fighting. Our chiefs are killed; Looking Glass is <emphasis effect="bold">dead</emphasis>, Too-hul-hul-sote is <emphasis effect="bold">dead.</emphasis> The old men are all <emphasis effect="bold">dead</emphasis>. . . . He who led on the young men is <emphasis effect="bold">dead</emphasis>. It is <emphasis effect="bold">cold</emphasis>, and we have no blankets; the little children are <emphasis effect="bold">freezing to death</emphasis>. My people, some of them, have run away to the hills and have no blankets, no food. No one knows where they are—perhaps <emphasis effect="bold">freezing to death</emphasis>. I want to have time to look for my children. . . . Maybe I shall find them among the <emphasis effect="bold">dead</emphasis>.</para>
-    </quote>
     <para id="para-00075"><term id="term-00020">Parallelism</term> is the use of similar or equivalent constructions of phrases or clauses to emphasize an idea. Parallelism is especially helpful for organizational and structural concerns in a script or composition. Consider this excerpt from President <term class="no-emphasis" id="term-00021">John F. Kennedy</term>’s inaugural address:</para>
-    <quote id="quote-00004">
     <para class="public-domain" id="para-00076">Let every nation know, whether it wishes us well or ill, that we shall <emphasis effect="bold">pay any price, bear any burden, meet any hardship, support any friend, oppose any foe</emphasis> in order to assure the survival and the success of liberty.</para>
-    </quote>
     <para id="para-00077">Kennedy uses parallelism for impact as well as to organize his support for the idea that the United States works collaboratively for “the success of liberty.” Parallelism and repetition can work hand in hand as organizational strategies and to emphasize ideas in your script.</para>
     <para id="para-00078"><term id="term-00022">Anaphora</term> and <term id="term-00023">epistrophe</term> are two related forms of parallelism.</para>
     <table summary=" " id="table-00004">
@@ -356,7 +350,7 @@
     </section>
     <section id="sect-00018">
     <title>Checklist for Revision</title>
-    <list list-type="bulleted" bullet-style="none" mark-prefix="□" id="list-00016">
+    <list bullet-style="none" mark-prefix="□" id="list-00016">
     <item>Read the draft aloud.
     <list list-type="bulleted" bullet-style="open-circle" id="list-00017">
     <item>Is it organized logically?</item>

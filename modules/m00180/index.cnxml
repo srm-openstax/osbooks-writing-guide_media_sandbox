@@ -63,8 +63,8 @@
     <row>
     <entry>Chapter Number</entry>
     <entry>Key Skills Learned</entry>
-    <entry>Successes</entry>
-    <entry>Challenges</entry>
+    <entry align="center">Successes</entry>
+    <entry align="center">Challenges</entry>
     </row>
     <row>
     <entry>1</entry>
@@ -195,7 +195,7 @@
     <section class="drafting" id="sect-00006">
     <title>Getting Started and Following Through</title>
     <para id="para-00020">As you work through the task of reflecting, consider the purpose of each assignment and your approach to it, in addition to the information you have included in the chapter reflection table. Also, read some models to help stimulate your reflective thinking: Final Reflective Essay by <link url="https://openstax.org/r/Andrew_Duffy">Andrew Duffy</link>; Final Reflection by <link url="https://openstax.org/r/Anthony_Roco">Anthony Roco</link>; E-Portfolio Reflection by <link url="https://openstax.org/r/Sean_Porter">Sean Porter</link>; or this <link url="https://openstax.org/r/Portfolio_Summative">Portfolio Summative Reflection</link>. Then, use the template below as a way to create your own unique reflection on yourself as a developing writer. Focus on the larger impact of what you have learned. Also offer some insight on what you still need to work on, and explain why. Each aspect that you write about will show a level of progress and awareness toward improvement. Just as important, it will help you focus on future writing assignments and allow you to recognize your growth as a writer.</para>
-    <table summary=" " id="table-00002">
+    <table summary=" " id="table-00002" frame="topbot">
     <tgroup cols="1">
     <colspec colnum="1" colname="c1"/>
     <tbody>
