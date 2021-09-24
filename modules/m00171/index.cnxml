@@ -98,9 +98,9 @@
     <para id="para-00028">Keeping in mind the basic parts of a script outline, you can now begin to craft a skeletal version your own. Use <link target-id="table-00001" document="m00171"/> to gather and organize your initial thoughts.</para>
     <table summary=" " id="table-00001">
     <tgroup cols="3">
-    <colspec colnum="1" colname="c1"/>
-    <colspec colnum="2" colname="c2"/>
-    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="2*"/>
     <tbody>
     <row>
     <entry><para id="para-00029"><emphasis effect="bold">Topic:</emphasis></para>
@@ -186,11 +186,15 @@
     <item>Reason(s): Plastic production requires a lot of energy and resources.</item>
     <item>Evidence: <emphasis effect="highlight">1.5 million barrels of oil are used each year to make plastic bottles.</emphasis></item>
     </list></entry>
+    </row>
+    <row>
     <entry namest="c2" nameend="c3"><para id="para-00058">Key Idea 2: Most plastic is never recycled.</para>
     <list list-type="bulleted" id="list-00011">
     <item>Reason(s): Recycling plastic is not efficient.</item>
     <item>Evidence: <emphasis effect="highlight">Only 9% of plastic ever produced has been recycled.</emphasis></item>
     </list></entry>
+    </row>
+    <row>
     <entry namest="c2" nameend="c3"><para id="para-00059">Key Idea 3: Plastic waste is filling our landfills.</para>
     <list list-type="bulleted" id="list-00012">
     <item>Reason(s): Plastic manufacturing is increasing, and there is nowhere to put all the used plastic.</item>
@@ -226,8 +230,8 @@
     <para id="para-00066"><link target-id="table-00003" document="m00171"/> shows an example of signpost language. Notice the boldfaced words, called <term id="term-00014">transitions</term>, which help readers and listeners navigate between ideas and concepts. Signposts should clearly connect ideas, are often parallel (repeated words or grammatical forms), and mark the most important parts of an argument or explanation.</para>
     <table summary=" " id="table-00003">
     <tgroup cols="2">
-    <colspec colnum="1" colname="c1"/>
-    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
     <tbody>
     <row>
     <entry align="center"><emphasis effect="bold">Signpost</emphasis></entry>
@@ -266,9 +270,7 @@
     <title>Tone</title>
     <para id="para-00067"><term class="no-emphasis" id="term-00015">Tone</term> is a writer or speaker’s attitude as it is conveyed in a composition or script. A writer or speaker’s language choices as well as other elements specific to speech, such as gestures and body language, help create tone. The tone of a presentation depends largely on its purpose, audience, and message.</para>
     <para id="para-00068">Consider the student sample from “<link document="m00170">Annotated Student Sample</link>.”</para>
-    <quote id="quote-00002">
     <para class="student-sample" id="para-00069">Without warning, the smaller dog launched itself from its owner’s lap, snarling and snapping at the guide dog. The owner of the small dog jumped up and retrieved her animal from the Labrador’s vest and stomped back to her seat. That neither she nor the still-yapping dog had an obvious panic attack amazed me, as I questioned, to myself of course, what possible service was being provided—other than a moment of exercise.</para>
-    </quote>
     <para id="para-00070">The author’s tone of disapproval is evident when he relates the actions of the untrained, unrestrained dog causing trouble for others. The attitude is emphasized by words with negative connotations such as <emphasis effect="italics">snarling</emphasis> and <emphasis effect="italics">stomped</emphasis>.</para>
     <para id="para-00071">The tone you choose for your script will help you relate to your audience. It can help your audience feel connected to you and promote your credibility as well as that of the message you wish to impart.</para>
     <para id="para-00072">Notice, too, the use of the first person in script writing. While you may have been taught not to use first-person pronouns in most formal or academic writing, speech is completely different. Even in formal scripts, the use of <emphasis effect="italics">I</emphasis> helps connect listeners to the speaker. In general, effective speakers also use simple, declarative statements in the active voice (subject + verb + object) to emphasize their key ideas and to keep audiences focused on them. Longer, complex sentences may cause audience members to lose focus. Thoughts and sentences should flow conversationally. See “<link target-id="sect-00002" document="m00184">Clear and Effective Sentences</link>” for more about effective sentences, including use of the active voice.</para>
