@@ -14,8 +14,10 @@
       <item>Evaluate the effectiveness and quality of a case study report.</item>
       </list>
       </section>
-      <para id="para-00002">Case studies follow a structure of <emphasis effect="italics">background and context</emphasis>, <emphasis effect="italics">methods</emphasis>, <emphasis effect="italics">findings</emphasis>, and <emphasis effect="italics">analysis</emphasis>. Body paragraphs should have main points and concrete details. In addition, case studies are written in formal language with precise wording and with a specific purpose and audience (generally other professionals in the field) in mind. Case studies also adhere to the conventions of the discipline’s formatting guide (APA Documentation and Format in this study). Compare your case study with the following rubric as a final check.</para>
-      <table summary=" " id="table-00001">
+      <para id="para-00002">Case studies follow a structure of <emphasis effect="italics">background and context</emphasis>, <emphasis effect="italics">methods</emphasis>, <emphasis effect="italics">findings</emphasis>, and <emphasis effect="italics">analysis</emphasis>. Body paragraphs should have main points and concrete details. In addition, case studies are written in formal language with precise wording and with a specific purpose and audience (generally other professionals in the field) in mind. Case studies also adhere to the conventions of the discipline’s formatting guide (<link target-id="sect-00013" document="m00184">APA Documentation and Format</link> in this study). Compare your case study with the following rubric as a final check.</para>
+      <section id="sect-00002">
+        <title>Rubric</title>
+        <table summary=" " id="table-00001">
       <tgroup cols="4">
       <colspec colnum="1" colname="c1"/>
       <colspec colnum="2" colname="c2"/>
@@ -67,5 +69,6 @@
       </tgroup>
       <caption/>
       </table>
+    </section>
   </content>
 </document>

@@ -17,11 +17,11 @@
       </section>
       <section id="sect-00002">
       <title>Introduction</title>
-      <para id="para-00002">French physician <term class="no-emphasis" id="term-00001">Pierre Paul Broca</term> (1824–1880), an early researcher of brain science, is credited with developing theories about how the brain controls motor functions such as language. One of his patients, <term class="no-emphasis" id="term-00002">Louis Victor Leborgne</term>, suffered from a continuing loss of speech that resulted in an inability to form any syllables other than <emphasis effect="italics">tan</emphasis>. Following Leborgne’s death, Broca examined Leborgne’s brain and observed some abnormalities in the left frontal lobe. These observations would eventually lead to the larger discovery that different areas of the brain control different motor functions.</para>
-      <para id="para-00003">This sample case study imagines what Broca might have written about Leborgne. The contemporary references at the end of the study are those used by the actual writer of the case study, not Pierre Paul Broca.</para>
       <figure id="fig-00001"><media alt="Pierre Paul Broca is a French physician, anatomist, and anthropologist.">
-      <image mime-type="image/jpeg" src="../../media/COMP_Figure_15_04_004.jpg"/></media>
-      <caption>Pierre Paul Broca (credit: Anonymous/Wikimedia Commons, Public Domain)</caption></figure>
+        <image mime-type="image/jpeg" src="../../media/COMP_Figure_15_04_004.jpg"/></media>
+        <caption>Pierre Paul Broca (credit: “Paul Broca” by Anonymous/Wikimedia Commons, Public Domain)</caption></figure>
+        <para id="para-00002">French physician <term class="no-emphasis" id="term-00001">Pierre Paul Broca</term> (1824–1880), an early researcher of brain science, is credited with developing theories about how the brain controls motor functions such as language. One of his patients, <term class="no-emphasis" id="term-00002">Louis Victor Leborgne</term>, suffered from a continuing loss of speech that resulted in an inability to form any syllables other than <emphasis effect="italics">tan</emphasis>. Following Leborgne’s death, Broca examined Leborgne’s brain and observed some abnormalities in the left frontal lobe. These observations would eventually lead to the larger discovery that different areas of the brain control different motor functions.</para>
+      <para id="para-00003">This sample case study imagines what Broca might have written about Leborgne. The contemporary references at the end of the study are those used by the actual writer of the case study, not Pierre Paul Broca.</para>
       </section>
       <section class="living-words" id="sect-00003">
       <title>Patient Admission</title>
@@ -69,7 +69,7 @@
       <para class="public-domain" id="para-00031">Given my patient Leborgne’s success at responding to verbal and mathematical questions despite his loss of speech, I am convinced that brain function is localized. Auburtin’s theory of more compartmentalized specificity is intriguing, and I intend to pursue this idea. Leborgne’s preserved brain remains at the <term class="no-emphasis" id="term-00009">Musée Dupuytren</term>, where it is available for further study.</para>
       <para class="annotation-text" id="para-00032"><emphasis effect="bold"><emphasis effect="italics">What’s Next.</emphasis></emphasis> <emphasis effect="italics">Inviting additional research, Broca calls on his audience to research localized brain function. He notes that Leborgne’s brain is available for researchers to observe.</emphasis></para>
       </section>
-      <section id="sect-00009">
+      <section class="section-workscited" id="sect-00009">
       <title>References</title>
       <para id="para-00033">Domanski, C. W. (2013). Mysterious “<emphasis effect="italics">Monsieur Leborgne</emphasis>”: The mystery of the famous patient in the history of neuropsychology is explained. <emphasis effect="italics">Journal of the History of the Neurosciences, 22</emphasis>(1), 47–52. https://www.tandfonline.com/doi/abs/10.1080/0964704X.2012.667528</para>
       <para id="para-00034">Konnikova, M. (2013, February 8). The man who couldn’t speak and how he revolutionized psychology. <emphasis effect="italics">Scientific American</emphasis>. https://blogs.scientificamerican.com/literally-psyched/the-man-who-couldnt-speakand-how-he-revolutionized-psychology/</para>
@@ -110,7 +110,7 @@
       <para class="annotation culture-icon linguistic-icon" id="para-00042">One significant finding of Broca’s case study was that Leborgne grew up in the town of Moret-sur-Loing. The town had many tanneries, leading Broca to theorize that Leborgne’s use of the syllable <emphasis effect="italics">tan</emphasis> was related to his home. <emphasis effect="italics">Why is this theory important?</emphasis> It illustrates how personal history affects people. It is possible that Leborgne used language in this way because of his history and cultural association with his hometown. Culture and identity have a big impact on how people use language, even among people who speak the same language.</para>
       <figure id="fig-00002"><media alt="A diagram of a brain is labeled to show the Broca and Wernicke areas. The Broca area controls articulate speech function and the Wernicke area controls the comprehension of speech.">
       <image mime-type="image/jpeg" src="../../media/COMP_Figure_15_04_005.jpg"/></media>
-      <caption>The Broca area—named for French anthropologist and pathologist Pierre Paul Broca (1824–1880), who discovered its function—is the part of the brain that controls articulate speech. The Wernicke area—named for German neurologist Carl Wernicke (1848–1905), who first described the area—is the part of the brain that controls the comprehension of speech. (credit: NIH publication 97-4257/Wikimedia Commons, Public Domain)</caption></figure>
+      <caption>The Broca area—named for French anthropologist and pathologist Pierre Paul Broca (1824–1880), who discovered its function—is the part of the brain that controls articulate speech. The Wernicke area—named for German neurologist Carl Wernicke (1848–1905), who first described the area—is the part of the brain that controls the comprehension of speech. (credit: “BrocasAreaSmall” by NIH publication 97-4257/Wikimedia Commons, Public Domain)</caption></figure>
       </section>
   </content>
 </document>
