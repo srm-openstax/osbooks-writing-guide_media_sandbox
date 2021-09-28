@@ -39,7 +39,7 @@
       <para id="para-00006"><emphasis effect="bold">First, record your working thesis:</emphasis> ________</para>
       <table summary="" id="table-00001">
         <tgroup cols="1" align="left">
-        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="1" colname="c1" colwidth="1*"/>
         <tbody>
         <row>
         <entry><para id="para-00007"><term id="term-00001">Analogy</term></para>

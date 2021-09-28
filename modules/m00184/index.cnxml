@@ -1,79 +1,78 @@
 <document xmlns="http://cnx.rice.edu/cnxml" class="handbook">
-<title>Handbook</title>
-<metadata xmlns:md="http://cnx.rice.edu/mdml">
-<md:title>Handbook</md:title>
-<md:content-id>m00184</md:content-id>
-<md:uuid>e8c5f0e9-738e-47a2-bc20-2597e799ff52</md:uuid>
-</metadata>
-<content class="handbook">
+    <title>Handbook</title>
+    <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Handbook</md:title>
+    <md:content-id>m00184</md:content-id>
+    <md:uuid>e8c5f0e9-738e-47a2-bc20-2597e799ff52</md:uuid>
+    </metadata>
+    <content class="handbook">
     <section id="sect-00014">
     <title>Introduction</title>
-   <para id="para-00001">placeholder text</para>
+    <para id="para-00001">Placeholder Text</para>
     </section>
     
     <section id="sect-00001">
     <title>Paragraphs and Transitions</title>
-    <para id="para-00002">placeholder text</para>
+    <para id="para-00002">Placeholder Text</para>
     </section>
     
     <section id="sect-00002">
-    <title>Clear and Effective Sentences</title>
-    <para id="para-00003">placeholder text</para>
-</section>
+    <para id="para-00003">Placeholder Text</para>
+    </section>
     
     <section id="sect-00003">
     <title>Sentence Errors</title>
-    <para id="para-00004">placeholder text</para>
+    <para id="para-00004">Placeholder Text</para>
     </section>
     
     <section id="sect-00004">
     <title>Words and Language</title>
-    <para id="para-00005">placeholder text</para>
+    <para id="para-00005">Placeholder Text</para>
     </section>
     
     <section id="sect-00005">
     <title>Point of View</title>
-    <para id="para-00006">placeholder text</para>
+    <para id="para-00006">Placeholder Text</para>
     </section>
     
     <section id="sect-00006">
     <title>Verbs</title>
-    <para id="para-00007">placeholder text</para>
+    <para id="para-00007">Placeholder Text</para>
     </section>
     
     <section id="sect-00007">
     <title>Pronouns</title>
-    <para id="para-00008">placeholder text</para>
+    <para id="para-00008">Placeholder Text</para>
     </section>
     
     <section id="sect-00008">
     <title>Punctuation</title>
-    <para id="para-00009">placeholder text</para>
+    <para id="para-00009">Placeholder Text</para>
     </section>
     
     <section id="sect-00009">
     <title>Mechanics</title>
-    <para id="para-00010">placeholder text</para>
+    <para id="para-00010">Placeholder Text</para>
     </section>
     
     <section id="sect-00010">
     <title>Quotations</title>
-    <para id="para-00011">placeholder text</para>
+    <para id="para-00011">Placeholder Text</para>
     </section>
     
     <section id="sect-00011">
     <title>Index and Guide to Documentation</title>
-    <para id="para-00012">placeholder text</para>
+    <para id="para-00012">Placeholder Text</para>
     </section>
     
     <section id="sect-00012">
     <title>MLA Documentation and Format</title>
-    <para id="para-00013">placeholder text</para>
+    <para id="para-00013">Placeholder Text</para>
     </section>
     
     <section id="sect-00013">
     <title>APA Documentation and Format</title>
-    <para id="para-00014">placeholder text</para>
+    <para id="para-00014">Placeholder Text</para>
     </section>
     </content>
-</document>
+    </document>
