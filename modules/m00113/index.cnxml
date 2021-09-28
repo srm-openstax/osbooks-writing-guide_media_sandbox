@@ -38,8 +38,8 @@
       <para class="annotation visual-icon" id="para-00005">Once you have determined your reasoning strategy and purpose for a particular paragraph, consider how to develop the evidence within that paragraph through a topic sentence, explanation, and analysis. To do this task, choose the most appropriate structure for a given paragraph from the structures below, and complete the frame according to the prompts. You may alter the frames as needed. Remember that each paragraph that you develop should support your thesis. In other words, make sure that each topic sentence ties back to your thesis.</para>
       <para id="para-00006"><emphasis effect="bold">First, record your working thesis:</emphasis> ________</para>
       <table summary="" id="table-00001">
-        <tgroup cols="1" align="left">
-        <colspec colnum="1" colname="c1" colwidth="1*"/>
+        <tgroup cols="1">
+        <colspec colnum="1" colname="c1"/>
         <tbody>
         <row>
         <entry><para id="para-00007"><term id="term-00001">Analogy</term></para>
