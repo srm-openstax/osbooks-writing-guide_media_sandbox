@@ -6,9 +6,247 @@
     <md:uuid>99d654f3-2c90-4ab5-9e4e-6b9d374acd8b</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Successfully apply citation conventions to your writing, understanding the ideas of intellectual property that motivate their use.</item>
+    <item>Evaluate research materials for credibility, sufficiency, accuracy, timeliness, and bias.</item>
+    <item>Compose to discover and reconsider ideas.</item>
+    <item>Compose an annotated bibliography that uses correct style conventions and integrates the writer’s ideas with ideas from related sources.</item>
+    </list>
+    </section>
+    <para class="annotation linguistic-icon" id="para-00002">Now it is time to try your hand at creating your own annotated bibliography. As you work through identifying and writing about your sources, you may want to seek out additional ones to help support your argument or thesis. This recursive process is similar to the fine-tuning that occurs in the writing process, in which a writer moves fluidly among drafting, editing, and revising. You can return to your annotated bibliography during the course of research and writing to modify, further develop, analyze, and add to your sources. Remember, using a variety of sources can broaden your perspective about your topic by showing how different scholars and popular publications approach it.</para>
+    <section id="sect-00002">
+    <title>Summary of Assignment: Annotated Bibliography</title>
+    <para id="para-00003">For this assignment, you will create an annotated bibliography based on your research for one of the writing assignments in this course. After collecting and choosing sources, you will write citations using MLA Documentation and Format and compose a one- or two-paragraph annotation for each source. Remember, the purpose of the annotation is to provide</para>
+    <list list-type="bulleted" id="list-00002">
+    <item>a brief summary that allows readers to understand the background of the source and its basic claims; and</item>
+    <item>an evaluation and reflection on the source’s reliability, its usefulness, and the author’s or organization’s credibility.</item>
+    </list>
+    <para class="annotation culture-icon" id="para-00004">While the format for your MLA citation should follow the prescriptive pattern from the Handbook, you will decide on the language and structure of the annotations you include. While your topic, personal style, and ideas may lend themselves to a more standardized format, it is possible that they may instead challenge codified conventions in favor of a style more authentic to you.</para>
+    <para class="annotation kinesthetic-icon auditory-icon" id="para-00005"><emphasis effect="bold"><emphasis effect="italics">Another Lens 1.</emphasis></emphasis> Consider alternatives to a formal annotated bibliography that complements differing learning styles or abilities. If your instructor is amenable, you may informally annotate sources in their margins or use an online annotation program such as <link url="https://openstax.org/r/Kami">Kami</link>.</para>
+    <para class="annotation speech-icon" id="para-00006"><emphasis effect="bold"><emphasis effect="italics">Another Lens 2.</emphasis></emphasis> Another alternative is to discuss, with a partner or in a small group, each source’s credentials, key ideas, and usefulness to your project. In either case, using a graphic organizer similar to the one in the next section should help you organize your ideas.</para>
+    </section>
+    <section class="quick-launch" id="sect-00003">
+    <title>Quick Launch: Organizing Information</title>
+    <para class="annotation linguistic-icon dreaming-icon" id="para-00007">Begin by collecting sources. A good way to start is to make a list of keywords, known authors, organizations, and previously identified sources related to your topic. For example, imagine you have been assigned an argument project and chosen artificial intelligence as the topic. Begin, then, with the keywords <emphasis effect="italics">artificial intelligence</emphasis>. A Google search will reveal a wealth of information on the topic, likely too much to help you craft a meaningful argument. However, a basic search will allow you to</para>
+    <list list-type="bulleted" id="list-00003">
+    <item>effectively define <emphasis effect="italics">artificial intelligence</emphasis> as “the simulation of human intelligence by machines programmed to mimic human thought and actions”;</item>
+    <item>name four types of artificial intelligence: reactive machines, limited memory, theory of mind, and self-aware;</item>
+    <item>identify leading industries in which artificial intelligence is already present, such as self-driving cars and virtual butlers; and</item>
+    <item>recognize the existence of a spectrum of thought surrounding the ethics and governance of artificial intelligence.</item>
+    </list>
+    <para id="para-00008">You also may discover some alternative search terms to use, such as <emphasis effect="italics">machine learning</emphasis>, <emphasis effect="italics">data mining</emphasis>, <emphasis effect="italics">robotics</emphasis>, and <emphasis effect="italics">neuroscience</emphasis>. Although you may not ultimately use them in your argument, the sources that you find may point you toward a more focused thesis.</para>
+    <para id="para-00009">When you finish your keyword search, the next step is to search academic databases. Use your library’s resources to find scholarly sources such as journal articles, books, textbooks, expert interviews, and reputable periodical pieces. Aim for five to seven sources to begin with, though you likely will add more as you work on your project. You may already have an idea of what claims you want to make in your argument, but the sources may shape them as well. As you review the sources you collect, choose those that give you a varied range of perspectives on the topic. Remember that you can return to this procedure at various points in your research, adding sources as your needs change and as you refine your claims. While you search for sources, keep in mind the specifics of your research project, and limit your search to sources that specifically support your argument, inform a counterargument, or otherwise add information that enhances your research.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Thesis</title>
+    <para class="annotation dreaming-icon" id="para-00010">Before you choose sources, you must have an idea of what you want to say. If you’re creating an annotated bibliography for the argument described Writing Process: Integrating Research, you likely have already drafted a thesis statement. If you are creating an annotated bibliography for another topic, you will need to draft a working thesis. Your thesis will state your position on the topic. It is often a single clear, concise sentence that reveals your side in the argument. You will use your sources to support the thesis you draft.</para>
+    <para id="para-00011">These frames may be useful when you draft your working thesis:</para>
+    <list list-type="bulleted" id="list-00004">
+    <item>Because ________, [someone] should ________.</item>
+    <item>________ saves ________, reduces ________, and helps ________.</item>
+    <item>The lack of ________ shows ________.</item>
+    <item>________ influences ________ and, by extension, ________.</item>
+    <item>________ accurately (inaccurately) portrays ________ because ________.</item>
+    <item>________ is a result of ________, ________, and ________.</item>
+    <item>Although some argue that ________, a close examination shows that ________.</item>
+    <item>________ and ________ prove that ________.</item>
+    </list>
+    </section>
+    <section id="sect-00005">
+    <title>Citations and Annotations</title>
+    <para class="annotation linguistic-icon" id="para-00012">For each source you choose, first write the source citation in MLA format. An example of a citation for the research project on artificial intelligence might be:</para>
+    <table summary=" " frame="all" id="table-00001">
+    <tgroup cols="1">
+    <colspec colnum="1" colname="c1"/>
+    <tbody>
+    <row>
+    <entry>
+    <para class="student-sample" id="para-00013"><emphasis effect="highlight-grey">Buiten, Miriam C. “Towards Intelligent Regulation of Artificial Intelligence.” <emphasis effect="italics">European Journal of Risk Regulation</emphasis>, vol. 10, no. 1, 2019, pp. 41–59, <link url="https://openstax.org/r/cambridge.org">www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/towards-intelligent-regulation-of-artificial-intelligence/AF1AD1940B70DB88D2B24202EE933F1B</link>. Accessed 23 Jan. 2021.</emphasis></para>
+    </entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00014">After preparing citations for each of your sources, write the annotations. To do this, consider the following:</para>
+    <list list-type="bulleted" id="list-00005">
+    <item>The purpose of the work</item>
+    <item>For whom the work is written</item>
+    <item>How to summarize the content</item>
+    <item>The author/organization producing the work</item>
+    <item>Distinctive or interesting features of the content (particularly in comparison with other sources)</item>
+    <item>The relevance of the work to your topic</item>
+    <item>Strengths, weaknesses, and bias present</item>
+    <item>Conclusions and implications</item>
+    </list>
+    <para id="para-00015">To annotate, you will typically begin with a summary of one to three sentences. For longer or more complex sources, the summary may be longer. Then discuss unique features of the content, an evaluation of the source, and a reflection on how the source is useful to your research. For each source, use a graphic organizer such as Table 14.3. It will help you collect the needed information, organize your thoughts, and get started summarizing and analyzing your sources.</para>
+    <table summary=" " id="table-00002">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <tbody>
+    <row>
+    <entry><emphasis effect="bold">Source Citation</emphasis></entry>
+    <entry/>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Intended Audience</emphasis></entry>
+    <entry/>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Main Ideas, Arguments, and Themes Present</emphasis></entry>
+    <entry/>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Author’s Point of View, Bias, and Expertise</emphasis></entry>
+    <entry/>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Comparison with Other Sources on the Topic</emphasis></entry>
+    <entry/>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Evaluation of Source’s Relevance to Topic</emphasis></entry>
+    <entry/>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Evaluation of Strengths and Weaknesses</emphasis></entry>
+    <entry/>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Conclusions Drawn by Author</emphasis></entry>
+    <entry/>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Source evaluation organizer</caption>
+    </table>
+    </section>
+    <section class="drafting" id="sect-00006">
+    <title/>
+    <para id="para-00016">Creating an annotated bibliography requires you to read your sources critically. As you first collect your sources, briefly review and examine the information they contain, specifically through the lens of how each can add to your research. As you read more critically, choose those that represent different perspectives on your topic as well as those that have similar viewpoints but arrive at them in different ways or from various angles.</para>
+    <para id="para-00017">If you have been using a graphic organizer for each source, as suggested, the information you need and your ideas about the source will be right there for you. If you haven’t organized your research in this way, now is a good time to do it, when you do not yet need to structure good paragraphs. When it is time for you to write your annotations, having your thoughts already mapped out will make your work easier. For the hypothetical artificial intelligence project, you might organize information for the article cited earlier as shown in Table14.4.</para>
+    <table summary=" " id="table-00003">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <tbody>
+    <row>
+    <entry><emphasis effect="bold">Source Citation</emphasis></entry>
+    <entry>Buiten, Miriam C. “Towards Intelligent Regulation of Artificial Intelligence.” <emphasis effect="italics">European Journal of Risk Regulation</emphasis>, vol. 10, no. 1, 2019, pp. 41–59, <link url="https://openstax.org/r/cambridge.org">www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/towards-intelligent-regulation-of-artificial-intelligence/AF1AD1940B70DB88D2B24202EE933F1B</link>. Accessed 23 Jan. 2021.</entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Intended Audience</emphasis></entry>
+    <entry>The journal is published by Cambridge University Press. Therefore, it is peer reviewed and intended for an academic audience.</entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Main Ideas, Arguments, and Themes Present</emphasis></entry>
+    <entry>Discusses the unpredictability and difficulty of controlling artificial intelligence and examines what, if anything, can be done to increase transparency, specifically as it relates to biases of algorithms</entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Author’s Point of View, Bias, and Expertise</emphasis></entry>
+    <entry>Buiten is a law and economics professor at the University of Mannheim. She is the author or coauthor of nine publications, and contributed to others, about law and technology and digitalization, competition law, and European law.</entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Comparison with Other Sources on the Topic</emphasis></entry>
+    <entry>Other sources call for total transparency in legal matters regarding artificial intelligence. This article questions whether such transparency is useful and/or feasible on the basis of current laws</entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Evaluation of Source’s Relevance to Topic</emphasis></entry>
+    <entry>Focuses on legal transparency for artificial intelligence, related to the question of whether artificial intelligence is harmful or helpful to society</entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Evaluation of Strengths and Weaknesses</emphasis></entry>
+    <entry>Well-researched; uses dozens of peer-reviewed sources</entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Conclusions Drawn by Author</emphasis></entry>
+    <entry>Transparency for artificial intelligence will be difficult and expensive to comply with and should be better defined in legal contexts before it is required.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Completed source evaluation organizer</caption>
+    </table>
+    <para id="para-00018">For some sources, you may be unable to find information for each category. In particular, for sources that are very short or from which you use only one or two bits of information, your annotations will not be long or complex, and your graphic organizer may seem sparse. That is to be expected. What is important at this stage is to identify how you will use your resources as they relate to your argument or thesis.</para>
+    <para id="para-00019">After you have outlined your sources by using the graphic organizer or a similar method, it is time to start writing the actual annotations. Remember the three tasks in writing an annotation:</para>
+    <list list-type="enumerated" id="list-00006">
+    <item><term id="term-00001">Summarize</term> the central idea or scope of the source, particularly as it relates to your research project.</item>
+    <item><term id="term-00002">Evaluate</term> the source for authority, author’s perspective, reliability, validity, and bias.</item>
+    <item><term id="term-00003">Reflect</term> on how the source affects your research and your thinking.</item>
+    </list>
+    <para id="para-00020">Your annotated bibliography should include at least some of these functions and, depending on the source, may contain all of them. Below is an example of an annotated bibliography entry for the article on artificial intelligence. The entry begins with the correctly formatted citation, followed by two paragraphs summarizing, evaluating, and reflecting. Because you already have completed the graphic organizer, much of the analysis is already done there. Simply take that thinking and shape it into useful paragraphs, like those the writer created here.</para>
+    <figure id="fig-00001"><media alt="A sample of Annotated Bibliography Entry is labeled “1” Margin” at the top and left of the page; “Centered” at the title; “Citation”  at the MLA entry; “Hanging indent” as part of the MLA entry; and “Summary Evaluation, and Reflection” at the matching parts of the written text.">
+    <image mime-type="image/png" src="../../media/COMP_Figure_14_04_019.png"/></media>
+    <caption>Sample annotated bibliography entry</caption></figure>
+    <para id="para-00021">You can break down this sample annotation, analyzing each part separately as shown in Figure 14.15.</para>
+    <para id="para-00022">Buiten, Miriam C. “Towards Intelligent Regulation of Artificial Intelligence.” <emphasis effect="italics">European Journal of Risk Regulation</emphasis>, vol. 10, no. 1, 2019, pp. 41–59, <link url="https://openstax.org/r/cambridge_org">www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/towards-intelligent-regulation-of-artificial-intelligence/AF1AD1940B70DB88D2B24202EE933F1B</link>. Accessed 23 Jan. 2021.</para>
+    <para class="annotation-text" id="para-00023"><emphasis effect="bold"><emphasis effect="italics">Format.</emphasis></emphasis> <emphasis effect="italics">Notice the MLA format, including information listing the author, title, publishing journal, and DOI or link to the article. The reader will be able to find and read the article easily.</emphasis></para>
+    <para class="student-sample" id="para-00024">Authority: Miriam Buiten is a law and economics professor. She has authored or coauthored eight journal articles and one book, covering topics such as law, technology, and digitalization; competition law; and European law. This article appears in a journal published by Cambridge University Press. It is peer reviewed and intended for an academic audience. The author discusses the unpredictability and difficulty of controlling artificial intelligence and examines what, if anything, can be done to increase transparency, specifically as it relates to the biases present in artificial intelligence algorithms.</para>
+    <para class="annotation-text" id="para-00025"><emphasis effect="bold"><emphasis effect="italics">Authority.</emphasis></emphasis> <emphasis effect="italics">The author is named and introduced with background information establishing her authority in the field. The publishing organization is also named, establishing credibility as a peer-reviewed journal.</emphasis></para>
+    <para class="annotation-text" id="para-00026"><emphasis effect="bold"><emphasis effect="italics">Summary.</emphasis></emphasis> <emphasis effect="italics">The contents of the text are summarized briefly, allowing readers to quickly understand the topic and scope of the article and to begin to piece together its relevance to the overall research project.</emphasis></para>
+    <para class="student-sample" id="para-00027">This source focuses on legal transparency for artificial intelligence, which is related to the question of whether artificial intelligence is harmful or helpful to society. The author argues that transparency for artificial intelligence will be difficult and expensive to comply with and should be better defined in legal contexts before it is required. Many other sources call for total transparency in legal matters regarding artificial intelligence. However, this article questions whether such transparency is useful and/or feasible based on current laws. The article is well researched, using dozens of peer-reviewed sources.</para>
+    <para class="annotation-text" id="para-00028"><emphasis effect="bold"><emphasis effect="italics">Evaluation.</emphasis></emphasis> <emphasis effect="italics">This paragraph includes an evaluative statement that shows the article’s validity.</emphasis></para>
+    <para class="student-sample" id="para-00029">This article aids the researcher in shaping her argument that oversight of artificial intelligence is a highly complex endeavor that, although important, will be difficult to achieve. It is useful to the argument that laws need to develop at a much quicker pace to keep up with rapidly developing technology.</para>
+    <para class="annotation-text" id="para-00030"><emphasis effect="bold"><emphasis effect="italics">Reflection.</emphasis></emphasis> <emphasis effect="italics">This part of the paragraph reveals how the source fits into the research puzzle, noting that it indirectly supports the claim that developing oversight for artificial intelligence is not a simple task and would require the law to evolve quickly.</emphasis></para>
+    <para class="annotation-text" id="para-00031"><emphasis effect="bold"><emphasis effect="italics">Style.</emphasis></emphasis> <emphasis effect="italics">The annotation is written in third person, referring to “the researcher” and “her,” as opposed to using first-person pronouns such as</emphasis> me <emphasis effect="italics">and</emphasis> I.</para>
+    </section>
+    <section id="sect-00007">
+    <title>Formatting</title>
+    <para id="para-00032">The format of an annotated bibliography can vary depending on the discipline and purpose. Therefore, be clear at the outset which style you need to use. In academic writing, that information often will come from your instructor. Generally, annotated bibliographies will be written in MLA Documentation and Format, APA Documentation and Format, or Chicago style.</para>
+    <para id="para-00033">This text uses MLA style. MLA source citations follow several principles in place of specific rules. The style has been adapted in recent years to respond to the evolving nature of text in an increasingly digital world. Thus, the <emphasis effect="italics">MLA Handbook</emphasis> is organized by the <emphasis effect="italics">process</emphasis> of citation, rather than listing rules for every type of source. However, certain overall guidelines apply. When you cite a source, first identify core elements that are present. Remember from earlier in this chapter that these are author(s), title of source, title of container, version, number, publisher, publication date, and location.</para>
+    <figure class="unnumbered" id="fig-00002">
+    <media alt="In an MLA citation, the author’s name (last name first) is followed by the title, the container of the title, the numerical coding, the date, page references, the URL, and optionally, the date accessed. The first line is flush to the left margin. Second and subsequent lines are indented 1/2 inch.">
+    <image mime-type="image/jpeg" src="../../media/COMP_Figure_14_04_020.png"/>
+    </media>
+    </figure>
+    <para class="annotation-text" id="para-00034"><emphasis effect="italics"><emphasis effect="bold">Author.</emphasis> The entry with gold highlighting begins with the author’s last name, followed by a comma and the remainder of the name. The author’s name is followed by a period.</emphasis></para>
+    <para class="annotation-text" id="para-00035"><emphasis effect="italics"><emphasis effect="bold">Title of Source.</emphasis> The title of the source follows the author’s name in purple highlighting. The title is either italicized or placed within quotation marks, depending on the type of source, and followed by a period. Book titles are italicized, while print or online articles are placed in quotation marks, as shown.</emphasis></para>
+    <para class="annotation-text" id="para-00036"><emphasis effect="italics"><emphasis effect="bold">Title of Container.</emphasis> The container, highlighted in blue, is the larger work to which a source belongs. An article may belong to a website or journal, a song to an album, or a video to a video-sharing site. This container comes next in the citation. It is generally italicized and followed by a comma. However, some sources do not have containers; for example, a book (versus a chapter in a book) or an entire website (versus a single page on a website) is self-contained and thus has no container to cite.</emphasis></para>
+    <para class="annotation-text" id="para-00037"><emphasis effect="italics"><emphasis effect="bold">Version.</emphasis> Next, the version is listed, if there is one. For example, a textbook edition or version of a text would appear here, followed by a comma. This citation example doesn’t have a version, so that information is skipped.</emphasis></para>
+    <para class="annotation-text" id="para-00038"><emphasis effect="italics"><emphasis effect="bold">Number.</emphasis> Some sources, especially academic journals, are part of a numbered sequence as shown in green highlighting. Journals usually have both volume and issue numbers; include both in your citation, separated by commas.</emphasis></para>
+    <para class="annotation-text" id="para-00039"><emphasis effect="italics"><emphasis effect="bold">Publisher.</emphasis> The next element in the citation is the publisher, followed by a comma. The publisher does not have to be listed for some sources, including periodicals, works published by the author or editor, websites with the same name as the publisher, or websites that host works but do not actually publish them. Because this sample source is a periodical, no publisher is listed in the citation.</emphasis></para>
+    <para class="annotation-text" id="para-00040"><emphasis effect="italics"><emphasis effect="bold">Publication Date.</emphasis> List the most recent date of publication available for the version of the source you used. The date is followed by a comma as shown in red highlighting.</emphasis></para>
+    <para class="annotation-text" id="para-00041"><emphasis effect="italics"><emphasis effect="bold">Location.</emphasis> Location, shown in dark and light gray highlighting, refers to where in the source you found the information, including page numbers and URLs. Be as specific as possible, as this information allows readers to return to your source to read it for themselves. When listing a URL, remove the beginning tag of http:// or https://.</emphasis></para>
+    <section id="sect-00008">
+    <title>Optional elements</title>
+    <para id="para-00042">You may want to add optional elements to help readers identify the source more easily. These can include the following:</para>
+    <list list-type="bulleted" id="list-00007">
+    <item>City of publication, generally only for books that were published before 1900 or whose publishers either have offices in more than one country or are unknown in North America (MLA 8)</item>
+    <item>Access date, which is present in the sample annotation</item>
+    <item>DOI (digital object identifier), which may be used in place of a URL if available</item>
+    <item>Original publication date, if it differs from the publication date used for the citation</item>
+    </list>
+    </section>
+    <section id="sect-00009">
+    <title>Alphabetizing and Indenting</title>
+    <para id="para-00043">Other rules also apply to MLA citations in a research project. Most of these are formatting and style rules that add to a polished final product. Remember to list sources in alphabetical order according to the author’s last name. If the source has more than one author, list it according to the last name of the first author mentioned. If the source has no author named, insert it into your alphabetical list according to the first word in the title. For example, if Miriam C. Buiten’s name were not mentioned, you would enter the item under <emphasis effect="italics">T</emphasis>, the first letter of the first word in the title, <emphasis effect="italics">Towards</emphasis>. In your bibliography, double-space the citation, and do not leave a space between entries.</para>
+    <para id="para-00044">In an annotated bibliography, indent the entire annotation in the same manner as the source citation after the first line. In most word processing programs, you can create this formatting by highlighting the citation and annotation paragraphs and then creating a hanging indent. In Microsoft Word, open the Paragraph Settings icon on the Home tab. Under the tab that reads Indents and Spacing, find the section labeled Indentation. On the right side of that section is the label Special. Click the drop-down menu, and choose Hanging. Different word processing programs may require you to create hanging indentations in another way. Consult an MLA guide often to ensure that your citations are correct.</para>
+    </section>
+    <section id="sect-00010">
+    <title>Annotations</title>
+    <para id="para-00045">Annotations are the most important part of an annotated bibliography. Although there is no set format for writing annotations, remember to write them in paragraph form and to summarize, evaluate, and/or reflect. Annotation lengths will vary depending on the length of the source, how it is used in your project, and how much analysis you do within the annotation. However, a general length of one to two paragraphs consisting of 100 to 200 words is roughly the standard.</para>
+    </section>
+    </section>
+    <section id="sect-00011">
+    <title>Descriptive/Informative and Analytical/Critical Annotations</title>
+    <para id="para-00046">There are two major types of annotated bibliographies. The first is <term id="term-00004">descriptive</term>, or informative, summarizing the material and explaining why the source is useful for your topic. This type of annotated bibliography also points out special features of the text, including any data, graphics, or other characteristics. Although you discuss the author’s main arguments and conclusions, you do not analyze or evaluate them. Descriptive annotations are useful for helping readers understand an author’s main ideas but less helpful for showing how the source has influenced the research project as a whole.</para>
+    <para id="para-00047">The other type of annotated bibliography is <term id="term-00005">analytical</term>, or critical. This type includes all the features of a descriptive annotated bibliography, including a summary of the material. In addition, it includes your analysis of the information in each source and explanation of how the source has influenced the development of your research. With analytical or critical annotations, you examine the strengths, weaknesses, and biases present in the author’s information and explain how the author’s work and conclusions apply to your research.</para>
+    <para id="para-00048">In projects for this course, especially those using rhetorical arguments, you will almost always create analytical or critical annotated bibliographies, though the detail in which you analyze may vary from source to source. The detail in these bibliographies will contribute to your knowledge base and provide information for others.</para>
+    </section>
+    <section class="further-reading" id="sect-00012">
+    <title>Further Reading</title>
+    <para id="para-00049">To learn more about creating an annotated bibliography, consider the following sources:</para>
+    <para id="para-00050">“Annotated Bibliographies.” <emphasis effect="italics">OWL: The Purdue Online Writing Lab</emphasis>, Purdue U, owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/index.html.</para>
+    <para id="para-00051">Beatty, Luke, and Cynthia A. Cochran. <emphasis effect="italics">Writing the Annotated Bibliography: A Guide for Students and Researchers</emphasis>. Routledge, 2020.</para>
+    <para id="para-00052">“How to Prepare an Annotated Bibliography: The Annotated Bibliography.” <emphasis effect="italics">Cornell University Library</emphasis>, Cornell U, 5 May 2021, guides.library.cornell.edu/annotatedbibliography.</para>
+    </section>
+    <section class="works-cited" id="sect-00013">
+    <title>Works Cited</title>
+    <para id="para-00053">Krause, Steven D. <emphasis effect="italics">The Process of Research Writing</emphasis>. 2007, www.stevendkrause.com/tprw/.</para>
+    <para id="para-00054">“MLA Citation Guide (8th Edition): Annotated Bibliography.” <emphasis effect="italics">LibGuides at Columbia College (BC)</emphasis>, LibGuides, 16 June 2021, columbiacollege-ca.libguides.com/mla/annot_bib.</para>
+    <para id="para-00055">“MLA Formatting and Style Guide.” <emphasis effect="italics">OWL: The Purdue Online Writing Lab</emphasis>, Purdue U, 2021, owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html.</para>
+    </section>
+    </content>
 </document>
