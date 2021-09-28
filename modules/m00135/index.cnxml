@@ -29,7 +29,7 @@
     <para class="annotation speech-icon" id="para-00006"><emphasis effect="bold"><emphasis effect="italics">Another Lens 2.</emphasis></emphasis> Another alternative is to discuss, with a partner or in a small group, each source’s credentials, key ideas, and usefulness to your project. In either case, using a graphic organizer similar to the one in the next section should help you organize your ideas.</para>
     </section>
     <section class="quick-launch" id="sect-00003">
-    <title>Quick Launch: Organizing Information</title>
+    <title>Organizing Information</title>
     <para class="annotation linguistic-icon dreaming-icon" id="para-00007">Begin by collecting sources. A good way to start is to make a list of keywords, known authors, organizations, and previously identified sources related to your topic. For example, imagine you have been assigned an argument project and chosen artificial intelligence as the topic. Begin, then, with the keywords <emphasis effect="italics">artificial intelligence</emphasis>. A Google search will reveal a wealth of information on the topic, likely too much to help you craft a meaningful argument. However, a basic search will allow you to</para>
     <list list-type="bulleted" id="list-00003">
     <item>effectively define <emphasis effect="italics">artificial intelligence</emphasis> as “the simulation of human intelligence by machines programmed to mimic human thought and actions”;</item>
@@ -84,8 +84,8 @@
     <para id="para-00015">To annotate, you will typically begin with a summary of one to three sentences. For longer or more complex sources, the summary may be longer. Then discuss unique features of the content, an evaluation of the source, and a reflection on how the source is useful to your research. For each source, use a graphic organizer such as <link target-id="table-00002" document="m00135"/>. It will help you collect the needed information, organize your thoughts, and get started summarizing and analyzing your sources.</para>
     <table summary=" " id="table-00002">
     <tgroup cols="2">
-    <colspec colnum="1" colname="c1"/>
-    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
     <tbody>
     <row>
     <entry><emphasis effect="bold">Source Citation</emphasis></entry>
@@ -130,8 +130,8 @@
     <para id="para-00017">If you have been using a graphic organizer for each source, as suggested, the information you need and your ideas about the source will be right there for you. If you haven’t organized your research in this way, now is a good time to do it, when you do not yet need to structure good paragraphs. When it is time for you to write your annotations, having your thoughts already mapped out will make your work easier. For the hypothetical artificial intelligence project, you might organize information for the article cited earlier as shown in <link target-id="table-00003" document="m00135"/>.</para>
     <table summary=" " id="table-00003">
     <tgroup cols="2">
-    <colspec colnum="1" colname="c1"/>
-    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
     <tbody>
     <row>
     <entry><emphasis effect="bold">Source Citation</emphasis></entry>
