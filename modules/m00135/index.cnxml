@@ -64,7 +64,7 @@
     <tbody>
     <row>
     <entry>
-    <para class="student-sample" id="para-00013"><emphasis effect="highlight-grey">Buiten, Miriam C. “Towards Intelligent Regulation of Artificial Intelligence.” <emphasis effect="italics">European Journal of Risk Regulation</emphasis>, vol. 10, no. 1, 2019, pp. 41–59, <link url="https://openstax.org/r/cambridge.org">www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/towards-intelligent-regulation-of-artificial-intelligence/AF1AD1940B70DB88D2B24202EE933F1B</link>. Accessed 23 Jan. 2021.</emphasis></para>
+    <para class="student-sample" id="para-00013">Buiten, Miriam C. “Towards Intelligent Regulation of Artificial Intelligence.” <emphasis effect="italics">European Journal of Risk Regulation</emphasis>, vol. 10, no. 1, 2019, pp. 41–59, www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/towards-intelligent-regulation-of-artificial-intelligence/AF1AD1940B70DB88D2B24202EE933F1B. Accessed 23 Jan. 2021.</para>
     </entry>
     </row>
     </tbody>
@@ -84,8 +84,8 @@
     <para id="para-00015">To annotate, you will typically begin with a summary of one to three sentences. For longer or more complex sources, the summary may be longer. Then discuss unique features of the content, an evaluation of the source, and a reflection on how the source is useful to your research. For each source, use a graphic organizer such as <link target-id="table-00002" document="m00135"/>. It will help you collect the needed information, organize your thoughts, and get started summarizing and analyzing your sources.</para>
     <table summary=" " id="table-00002">
     <tgroup cols="2">
-    <colspec colnum="1" colname="c1" colwidth="2*"/>
-    <colspec colnum="2" colname="c2" colwidth="3*"/>
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
     <tbody>
     <row>
     <entry><emphasis effect="bold">Source Citation</emphasis></entry>
@@ -135,7 +135,7 @@
     <tbody>
     <row>
     <entry><emphasis effect="bold">Source Citation</emphasis></entry>
-    <entry>Buiten, Miriam C. “Towards Intelligent Regulation of Artificial Intelligence.” <emphasis effect="italics">European Journal of Risk Regulation</emphasis>, vol. 10, no. 1, 2019, pp. 41–59, <link url="https://openstax.org/r/cambridge.org">www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/towards-intelligent-regulation-of-artificial-intelligence/AF1AD1940B70DB88D2B24202EE933F1B</link>. Accessed 23 Jan. 2021.</entry>
+    <entry>Buiten, Miriam C. “Towards Intelligent Regulation of Artificial Intelligence.” <emphasis effect="italics">European Journal of Risk Regulation</emphasis>, vol. 10, no. 1, 2019, pp. 41–59, www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/towards-intelligent-regulation-of-artificial-intelligence/AF1AD1940B70DB88D2B24202EE933F1B. Accessed 23 Jan. 2021.</entry>
     </row>
     <row>
     <entry><emphasis effect="bold">Intended Audience</emphasis></entry>
@@ -181,7 +181,7 @@
     <image mime-type="image/png" src="../../media/COMP_Figure_14_04_019.png"/></media>
     <caption>Sample annotated bibliography entry</caption></figure>
     <para id="para-00021">You can break down this sample annotation, analyzing each part separately as shown in <link target-id="fig-00001" document="m00135"/>.</para>
-    <para id="para-00022">Buiten, Miriam C. “Towards Intelligent Regulation of Artificial Intelligence.” <emphasis effect="italics">European Journal of Risk Regulation</emphasis>, vol. 10, no. 1, 2019, pp. 41–59, <link url="https://openstax.org/r/cambridge_org">www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/towards-intelligent-regulation-of-artificial-intelligence/AF1AD1940B70DB88D2B24202EE933F1B</link>. Accessed 23 Jan. 2021.</para>
+    <para id="para-00022">Buiten, Miriam C. “Towards Intelligent Regulation of Artificial Intelligence.” <emphasis effect="italics">European Journal of Risk Regulation</emphasis>, vol. 10, no. 1, 2019, pp. 41–59, www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/towards-intelligent-regulation-of-artificial-intelligence/AF1AD1940B70DB88D2B24202EE933F1B. Accessed 23 Jan. 2021.</para>
     <para class="annotation-text" id="para-00023"><emphasis effect="bold"><emphasis effect="italics">Format.</emphasis></emphasis> <emphasis effect="italics">Notice the MLA format, including information listing the author, title, publishing journal, and DOI or link to the article. The reader will be able to find and read the article easily.</emphasis></para>
     <para class="student-sample" id="para-00024">Authority: Miriam Buiten is a law and economics professor. She has authored or coauthored eight journal articles and one book, covering topics such as law, technology, and digitalization; competition law; and European law. This article appears in a journal published by Cambridge University Press. It is peer reviewed and intended for an academic audience. The author discusses the unpredictability and difficulty of controlling artificial intelligence and examines what, if anything, can be done to increase transparency, specifically as it relates to the biases present in artificial intelligence algorithms.</para>
     <para class="annotation-text" id="para-00025"><emphasis effect="bold"><emphasis effect="italics">Authority.</emphasis></emphasis> <emphasis effect="italics">The author is named and introduced with background information establishing her authority in the field. The publishing organization is also named, establishing credibility as a peer-reviewed journal.</emphasis></para>
