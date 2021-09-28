@@ -64,7 +64,7 @@
     <section id="sect2-00008">
     <title>Transitional Words and Phrases</title>
     <para id="para-00018">Following are some transitional words and phrases and their functions in paragraphs. Use this list when drafting or revising to help guide readers through your writing. (See <link document="m00104">Editing Focus: Paragraphs and Transitions</link> for a discussion on transitions.)</para>
-    <table id="table-00001" summary=" ">
+    <table summary=" " id="table-00001" frame="all">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -146,7 +146,7 @@
     <section id="sect2-00013">
     <title>Use Action Verbs</title>
     <para id="para-00031">Using action verbs is one of the most direct ways to cut unneeded words. Whenever you find a phrase like the ones below, consider substituting an action verb.</para>
-    <table id="table-00002" summary=" ">
+    <table summary=" " id="table-00002" frame="all">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -197,7 +197,7 @@
     <item>more or less</item>
     </list>
     <para id="para-00038">Some common filler phrases have single-word alternatives, which are preferable.</para>
-    <table id="table-00003" summary=" ">
+    <table summary=" " id="table-00003" frame="all">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -428,7 +428,7 @@
     <section id="sect2-00036">
     <title>Words Commonly Confused</title>
     <para id="para-00119">The words in the following list are commonly confused or misused by writers. As you write, consult this list or use a reliable online tool, such as <link url="https://openstax.org/r/merriam-webster">Merriam-Webster</link>, to check the meanings and usage of words you’re unsure of. Keep a list of words that cause you trouble as you become aware of them. Then, after you draft a document, do a search for the words on your list. (For a discussion of homonyms, homographs, and homophones, see <link document="m00142">Editing Focus: Words Often Confused</link>.)</para>
-    <table id="table-00004" summary=" ">
+    <table summary=" " id="table-00004" frame="all">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -1422,7 +1422,7 @@
     <section id="sect2-00113">
     <title>Documentation Styles by Discipline</title>
     <para id="para-00420">Each discipline has its own authority or authorities that provide rules about issues such as spelling of technical terms, preferred punctuation, and editing mechanics, as well as documentation style. In addition, if you write for publication in a magazine, professional journal, book, or website, the publisher will have a “house” style, which may vary in some details from the conventions listed in the authoritative guidelines for the discipline in which you are writing. Below are the sources of style manuals for various disciplines. Always check with your instructor about which style to use in a class.</para>
-    <table id="table-00005" summary=" ">
+    <table summary=" " id="table-00005" frame="all">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -2569,12 +2569,12 @@
     <title>94. Article in a magazine</title>
     <para id="para-00703">For a magazine article you read on a database or online, give the DOI if the article has one; otherwise give the URL. For a magazine article you consulted in print, end the entry after the page number unless a DOI is provided.</para>
     <list id="list-00077" list-type="bulleted">
-    <item><para id="para-00704"><emphasis effect="highlight">Database</emphasis></para>
-    <para id="para-00705"><emphasis effect="highlight">Sneed, A. (2017, September 19). Giant shape-shifters. <emphasis effect="italics">Scientific American, 317</emphasis>(4), 20. https://doi.org/10.1038/scientificamerican1017-20</emphasis></para></item>
-    <item><para id="para-00706"><emphasis effect="highlight">Print</emphasis></para>
-    <para id="para-00707"><emphasis effect="highlight">Sneed, A. (2017, September 19). Giant shape-shifters. <emphasis effect="italics">Scientific American, 317</emphasis>(4), 20.</emphasis></para></item>
-    <item><para id="para-00708"><emphasis effect="highlight">Online</emphasis></para>
-    <para id="para-00709"><emphasis effect="highlight">Myszkowski, S. (2018, October 10). On the trail of missing American Indian women. <emphasis effect="italics">The Atlantic.</emphasis> https://www.theatlantic.com/health/archive/2018/10/trail-missing-american-indian-women/571657/</emphasis></para></item>
+    <item><para id="para-00704">Database</para>
+    <para id="para-00705">Sneed, A. (2017, September 19). Giant shape-shifters. <emphasis effect="italics">Scientific American, 317</emphasis>(4), 20. https://doi.org/10.1038/scientificamerican1017-20</para></item>
+    <item><para id="para-00706">Print</para>
+    <para id="para-00707">Sneed, A. (2017, September 19). Giant shape-shifters. <emphasis effect="italics">Scientific American, 317</emphasis>(4), 20.</para></item>
+    <item><para id="para-00708">Online</para>
+    <para id="para-00709">Myszkowski, S. (2018, October 10). On the trail of missing American Indian women. <emphasis effect="italics">The Atlantic.</emphasis> https://www.theatlantic.com/health/archive/2018/10/trail-missing-american-indian-women/571657/</para></item>
     </list>
     </section>
     <section id="sect2-00253">
