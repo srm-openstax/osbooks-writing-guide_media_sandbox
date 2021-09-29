@@ -256,6 +256,12 @@
     <item>Look at the draft again, this time reading it closely.</item>
     <item>Ask yourself the following questions, and comment on the peer review sheet as shown.</item>
     </list>
+    <table summary=" " frame="all" id="table-00004">
+    <tgroup cols="1">
+    <colspec colnum="1" colname="c1"/>
+    <tbody>
+    <row>
+    <entry>      
     <para id="para-00045"><emphasis effect="bold">Peer Review: Rhetorical Analysis</emphasis></para>
     <para id="para-00046"><emphasis effect="bold">Name of Writer:</emphasis> ________ <emphasis effect="bold">Name of Reviewer:</emphasis> ________</para>
     <para id="para-00047"><emphasis effect="bold">Title</emphasis></para>
@@ -281,6 +287,11 @@
     <list list-type="bulleted" id="list-00010">
     <item>Does the conclusion support your peer’s thesis statement? If not, what revisions does your peer need to make?</item>
     </list>
+    </entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
     <section id="sect-00010">
     <title>The Golden Rule</title>
     <para id="para-00051">An important part of the peer review process is to keep in mind the familiar wisdom of the “Golden Rule”: treat others as you would have them treat you. This foundational approach to human relations extends to commenting on others’ work. Like your peers, you are in the same situation of needing opinion and guidance. Whatever you have written will seem satisfactory or better to you because you have written it and know what you mean to say.</para>
