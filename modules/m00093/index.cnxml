@@ -83,8 +83,8 @@
     <para id="para-00027">Once the context and situation for the analysis are clear, move directly to your thesis statement. In this case, your thesis statement will be your opinion of how successful the author has been in achieving the established goal through the use of rhetorical strategies. Read the sentences in <link target-id="table-00001" document="m00093"/>, and decide which would make the best thesis statement. Explain your reasoning in the right-hand column of this or a similar chart.</para>
     <table summary=" " id="table-00001">
     <tgroup cols="2">
-    <colspec colnum="1" colname="c1"/>
-    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
     <tbody>
     <row>
     <entry><emphasis effect="bold">Sentence</emphasis></entry>
