@@ -6,9 +6,71 @@
     <md:uuid>2e850a22-0667-4ae3-8056-70d495ce622e</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Evaluate the elements of a rhetorical analysis.</item>
+    <item>Identify and correct errors involving mixed sentence structures.</item>
+    <item>Evaluate an essay for clarity, coherence, and language.</item>
+    </list>
+    </section>
+    <para id="para-00002">At various points in your writing, especially after you complete the first draft, check the rubric provided here. Your instructor is likely to use a similar rubric to evaluate your rhetorical analysis. Aligning your writing to applicable points in the rubric—especially to those reflecting a score of 5— will keep you focused and guide you in your work.</para>
+    <section id="sect-00002">
+    <title>Rubric</title>
+    <table summary=" " id="table-00001">
+    <tgroup cols="4">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+    <tbody>
+    <row>
+    <entry align="center"><emphasis effect="bold">Score</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Critical Language Awareness</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Clarity and Coherence</emphasis></entry>
+    <entry align="center"><emphasis effect="bold">Rhetorical Choices</emphasis></entry>
+    </row>
+    <row>
+    <entry><para id="para-00003"><emphasis effect="bold">5</emphasis></para>
+    <para id="para-00004"><emphasis effect="bold">Skillful</emphasis></para></entry>
+    <entry>The text always adheres to the “Editing Focus” of this chapter—mixed sentence constructions, as discussed in Section 9.6—and maintains consistency in constructing the grammatical paths of sentences. The text also shows ample evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+    <entry>The essay presents all information clearly and logically. Well-chosen transitions connect paragraphs and sections, and the essay focuses consistently on its thesis statement. Claims are fully supported with quoted or paraphrased evidence.</entry>
+    <entry>The writer skillfully identifies rhetorical strategies and writes with precision and insight. The writer maintains a consistent voice and an awareness of the rhetorical situation.</entry>
+    </row>
+    <row>
+    <entry><para id="para-00005"><emphasis effect="bold">4</emphasis></para>
+    <para id="para-00006"><emphasis effect="bold">Accomplished</emphasis></para></entry>
+    <entry>The text usually adheres to the “Editing Focus” of this chapter—mixed sentence constructions, as discussed in Section 9.6—and maintains consistency in constructing the grammatical paths of sentences. The text also shows some evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+    <entry>The essay presents most information clearly and logically. Well-chosen transitions connect most paragraphs and sections, and the essay focuses on its thesis statement. Claims are well supported with quoted or paraphrased evidence.<emphasis effect="bold"/></entry>
+    <entry>The writer identifies rhetorical strategies and writes with precision and insight. The writer maintains a consistent voice and an awareness of the rhetorical situation, although there may be an occasional slip.</entry>
+    </row>
+    <row>
+    <entry><para id="para-00007"><emphasis effect="bold">3</emphasis></para>
+    <para id="para-00008"><emphasis effect="bold">Capable</emphasis></para></entry>
+    <entry>The text generally adheres to the “Editing Focus” of this chapter—mixed sentence constructions, as discussed in Section 9.6—and maintains consistency in constructing the grammatical paths of sentences. The text also shows limited evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+    <entry>The essay presents most information clearly and logically. Transitions connect most paragraphs and sections, but the essay may stray occasionally from its thesis statement. Claims are generally supported with quoted or paraphrased evidence.<emphasis effect="bold"/></entry>
+    <entry>The writer identifies most, if not all, rhetorical strategies and writes with some insight. The writer maintains a fairly consistent voice and an awareness of the rhetorical situation, although there may be slips.</entry>
+    </row>
+    <row>
+    <entry><para id="para-00009"><emphasis effect="bold">2</emphasis></para>
+    <para id="para-00010"><emphasis effect="bold">Developing</emphasis></para></entry>
+    <entry>The text occasionally adheres to the “Editing Focus” of this chapter—mixed sentence constructions, as discussed in Section 9.6—and maintains consistency in constructing the grammatical paths of sentences. The text also shows emerging evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+    <entry>The essay presents some information clearly, but the organization is confusing and/or illogical. Transitions connect some paragraphs and sections, but the transitions may be confusing or misleading. The essay may stray from its thesis statement and is either too short or too long. Claims often lack the support of additional quoted or paraphrased evidence.<emphasis effect="bold"/></entry>
+    <entry>The writer identifies some rhetorical strategies but neglects to elaborate on them sufficiently. The writer maintains an inconsistent voice and awareness of the rhetorical situation.</entry>
+    </row>
+    <row>
+    <entry><para id="para-00011"><emphasis effect="bold">1</emphasis></para>
+    <para id="para-00012"><emphasis effect="bold">Beginning</emphasis></para></entry>
+    <entry>The text does not adhere to the “Editing Focus” of this chapter—mixed sentence constructions, as discussed in Section 9.6—and does not maintain consistency in constructing the grammatical paths of sentences. The text also shows little to no evidence of the writer’s intent to consciously meet or challenge conventional expectations in rhetorically effective ways.</entry>
+    <entry><para id="para-00013">The essay lacks clarity, and the organization is confusing and/or illogical. Transitions connect some paragraphs and sections, but the transitions may be too few, confusing, or misleading. The essay often strays from its thesis statement, if it has one, and is either too short or too long.</para>
+    <para id="para-00014">Claims that do appear are not effectively supported.</para></entry>
+    <entry>The writer identifies few if any rhetorical strategies and neglects to elaborate on them. The writer maintains an inconsistent voice and shows little, if any, awareness of the rhetorical situation.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption/>
+    </table>
+    </section>
+    </content>
 </document>

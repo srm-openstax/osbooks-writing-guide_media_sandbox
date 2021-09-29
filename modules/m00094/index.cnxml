@@ -6,9 +6,67 @@
     <md:uuid>91fc827e-54b5-420b-b0d8-50b9e56819fc</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Apply knowledge of linguistic structures, including grammar and punctuation.</item>
+    <item>Recognize and correct errors in mixed sentence construction.</item>
+    </list>
+    </section>
+    <para class="annotation linguistic-icon" id="para-00002">A mixed-construction sentence contains parts that do not fit together because of grammatical structure or meaning. These sentence errors occur when writers begin a statement in one way, or one direction, and then unintentionally change grammatical paths. This kind of sentence construction can detract from an otherwise solidly analytical text.</para>
+    <list list-type="bulleted" id="list-00002">
+    <item><para id="para-00003"><emphasis effect="bold">Mixed Sentence 1:</emphasis> Learning to ballroom dance it has shown increased agility, and you live longer.</para>
+    <para id="para-00004"><emphasis effect="bold">First Problem:</emphasis> The reader expects a verb to follow “learning to ballroom dance” so that <emphasis effect="italics">learning</emphasis> will mean something. But the word <emphasis effect="italics">it</emphasis> interrupts before the verb appears. <emphasis effect="italics">It</emphasis> collides with the first part of the sentence rather than completing it, and the sentence ends up making little sense.</para>
+    <para id="para-00005"><emphasis effect="bold">Second Problem:</emphasis> The second part of the sentence, “and you live longer,” is confusing because it introduces <emphasis effect="italics">you</emphasis> instead of continuing the idea of learning to ballroom dance.</para>
+    <para id="para-00006">To eliminate confusion, you would have to rewrite either the first or the second part of the sentence.</para>
+    <para id="para-00007"><emphasis effect="bold">Revised:</emphasis> Studies have shown that learning to ballroom dance increases agility and lengthens life span.</para></item>
+    </list>
+    <para id="para-00008">In fact, because it is the dancing itself and not the learning that has these effects, the sentence could be edited further.</para>
+    <para id="para-00009"><emphasis effect="bold">Further Revision:</emphasis> Ballroom dancing has been shown to increase agility and lengthen life.</para>
+    <para id="para-00010">In the following examples, the writer needs to revise either the second part to fit with the first part or the first part to fit with the second.</para>
+    <list list-type="bulleted" id="list-00003">
+    <item><para id="para-00011"><emphasis effect="bold">Mixed Sentence 2:</emphasis> By starting my general studies classes last semester gave me the opportunity to take classes in my major this fall.</para>
+    <para id="para-00012"><emphasis effect="bold">Second Part Revised:</emphasis> By starting my general studies classes last spring<emphasis effect="underline">, I had</emphasis> the opportunity to take classes in my major this fall.</para>
+    <para id="para-00013"><emphasis effect="bold">First Part Revised:</emphasis> <emphasis effect="underline">Starting</emphasis> my general studies classes last spring gave me the opportunity to take classes in my major this fall.</para></item>
+    </list>
+    <para id="para-00014">Read the following mixed-construction sentences, and note the ways they have been corrected.</para>
+    <list list-type="bulleted" id="list-00004">
+    <item><para id="para-00015"><emphasis effect="bold">Mixed Sentence 3:</emphasis> For people who have hobbies, they are happier than others.</para>
+    <para id="para-00016"><emphasis effect="bold">Revision:</emphasis> People who have hobbies are happier than others.</para></item>
+    <item><para id="para-00017"><emphasis effect="bold">Mixed Sentence 4:</emphasis> The required qualification is someone who writes well.</para>
+    <para id="para-00018"><emphasis effect="bold">Problem:</emphasis> The qualification is the <emphasis effect="italics">ability to write well</emphasis>, not the person.</para>
+    <para id="para-00019"><emphasis effect="bold">Revision:</emphasis> The required qualification is the ability to write well.</para>
+    <para id="para-00020"><emphasis effect="bold">Further Revision:</emphasis> The company requires someone who writes well.</para></item>
+    <item><para id="para-00021"><emphasis effect="bold">Mixed Sentence 5:</emphasis> Nurses, an excellent career choice, involves an extra semester.</para>
+    <para id="para-00022"><emphasis effect="bold">Problem:</emphasis> <emphasis effect="italics">Nurses</emphasis> are not a profession, <emphasis effect="italics">nursing</emphasis> is.</para>
+    <para id="para-00023"><emphasis effect="bold">Revision:</emphasis> Nursing, an excellent career choice, involves an extra semester.</para></item>
+    </list>
+    <section id="sect-00002">
+    <title><emphasis effect="italics">Just Because… Doesn’t Mean</emphasis> and <emphasis effect="italics">Is When</emphasis> Constructions</title>
+    <para id="para-00024"><emphasis effect="italics">Just because . . . doesn’t mean</emphasis> constructions are common in speech but should be avoided in writing. They are another example of mixed sentence construction.</para>
+    <list list-type="bulleted" id="list-00005">
+    <item><para id="para-00025"><emphasis effect="italics"><emphasis effect="bold">Just Because . . .</emphasis> Construction:</emphasis> Just because I want to work in Washington doesn’t mean I’ll get a good job there.</para>
+    <para id="para-00026"><emphasis effect="bold">Revision:</emphasis> Simply wanting to work in Washington doesn’t guarantee a good job there. <emphasis effect="bold">Revision:</emphasis> Although I want to work in Washington, I will need to find a good job there.</para></item>
+    </list>
+    <para id="para-00027">Another common mixed construction in spoken English involves the use of <emphasis effect="italics">is when</emphasis>. This construction should also be avoided in writing.</para>
+    <list list-type="bulleted" id="list-00006">
+    <item><para id="para-00028"><emphasis effect="italics"><emphasis effect="bold">Is When</emphasis> Construction:</emphasis> A feeling of accomplishment is when I finish revising a paper.</para>
+    <para id="para-00029"><emphasis effect="bold">Problem:</emphasis> “A feeling of accomplishment” is a noun phrase followed by a linking verb. This construction means that what follows the verb either describes the noun or renames it in different words. Therefore, to balance the sentence, you need an adjective or noun to complete the subject. <emphasis effect="italics">When</emphasis>, however, is an adverb referring to time, and in this sentence, it begins an adverb clause. In other words, “a feeling” cannot be the same as or described in terms of time.</para>
+    <para id="para-00030"><emphasis effect="bold">Revision:</emphasis> A feeling of accomplishment <emphasis effect="underline">is finishing</emphasis> revising a paper.</para>
+    <para id="para-00031"><emphasis effect="bold">Revision:</emphasis> <emphasis effect="underline">I feel a sense</emphasis> of accomplishment <emphasis effect="underline">when I</emphasis> finish revising a paper.</para></item>
+    </list>
+    </section>
+    <section id="sect-00003">
+    <title>Your Turn</title>
+    <para id="para-00032">Now, correct the following mixed-construction sentences. After you have finished, go back and check your rhetorical analysis for mixed-construction sentences, and revise them as needed.</para>
+    <list type="enumerated" id="list-00007">
+    <item>Putting your computer to sleep is when you can save the most electricity.</item>
+    <item>If you plant your seeds too close, anyone knows tomatoes cannot grow with corn.</item>
+    <item>Swimming in deep water is the danger of tides.</item>
+    <item>Just because you like math doesn’t mean to eliminate classes in the humanities.</item>
+    <item>For people who want to be firefighters may have to work long and often intense shifts.</item>
+    </list>
+    </section>
+    </content>
 </document>

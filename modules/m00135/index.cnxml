@@ -16,10 +16,10 @@
     <item>Compose an annotated bibliography that uses correct style conventions and integrates the writer’s ideas with ideas from related sources.</item>
     </list>
     </section>
-    <para class="annotation linguistic-icon" id="para-00002">Now it is time to try your hand at creating your own annotated bibliography. As you work through identifying and writing about your sources, you may want to seek out additional ones to help support your argument or thesis. This recursive process is similar to the fine-tuning that occurs in the writing process, in which a writer moves fluidly among drafting, editing, and revising. You can return to your annotated bibliography during the course of research and writing to modify, further develop, analyze, and add to your sources. Remember, using a variety of sources can broaden your perspective about your topic by showing how different scholars and popular publications approach it.</para>
+    <para class="annotation linguistic-icon" id="para-00002">Now it is time to try your hand at creating your own annotated bibliography. As you work through identifying and writing about your sources, you may want to seek out additional ones to help support your argument or thesis. This recursive process is similar to the fine-tuning that occurs during the writing process, in which a writer moves fluidly among drafting, editing, and revising. You can return to your annotated bibliography during the course of research and writing to modify, further develop, analyze, and add to your sources. Remember, using a variety of sources can broaden your perspective about your topic by showing how different scholars and popular publications approach it.</para>
     <section id="sect-00002">
     <title>Summary of Assignment: Annotated Bibliography</title>
-    <para id="para-00003">For this assignment, you will create an annotated bibliography based on your research for one of the writing assignments in this course. After collecting and choosing sources, you will write citations using <link target-id="sect-00012" document="m00184">MLA Documentation and Format</link> and compose a one- or two-paragraph annotation for each source. Remember, the purpose of the annotation is to provide</para>
+    <para id="para-00003">For this assignment, you will create an annotated bibliography based on your research for one of the writing assignments in this course, preferably <link document="m00119">Writing Process: Integrating Research</link>. After collecting and choosing sources, you will write citations using <link target-id="sect-00012" document="m00184">MLA Documentation and Format</link> and compose a one- or two-paragraph annotation for each source. Remember, the purpose of the annotation is to provide</para>
     <list list-type="bulleted" id="list-00002">
     <item>a brief summary that allows readers to understand the background of the source and its basic claims; and</item>
     <item>an evaluation and reflection on the source’s reliability, its usefulness, and the author’s or organization’s credibility.</item>
@@ -37,7 +37,7 @@
     <item>identify leading industries in which artificial intelligence is already present, such as self-driving cars and virtual butlers; and</item>
     <item>recognize the existence of a spectrum of thought surrounding the ethics and governance of artificial intelligence.</item>
     </list>
-    <para id="para-00008">You also may discover some alternative search terms to use, such as <emphasis effect="italics">machine learning</emphasis>, <emphasis effect="italics">data mining</emphasis>, <emphasis effect="italics">robotics</emphasis>, and <emphasis effect="italics">neuroscience</emphasis>. Although you may not ultimately use them in your argument, the sources that you find may point you toward a more focused thesis.</para>
+    <para id="para-00008">You also may discover some alternative search terms to use, such as <emphasis effect="italics">machine learning</emphasis>, <emphasis effect="italics">data mining</emphasis>, <emphasis effect="italics">robotics</emphasis>, and <emphasis effect="italics">neuroscience</emphasis>. Although you may not ultimately use them in your argument, the sources that you find may point you toward a focused thesis.</para>
     <para id="para-00009">When you finish your keyword search, the next step is to search academic databases. Use your library’s resources to find scholarly sources such as journal articles, books, textbooks, expert interviews, and reputable periodical pieces. Aim for five to seven sources to begin with, though you likely will add more as you work on your project. You may already have an idea of what claims you want to make in your argument, but the sources may shape them as well. As you review the sources you collect, choose those that give you a varied range of perspectives on the topic. Remember that you can return to this procedure at various points in your research, adding sources as your needs change and as you refine your claims. While you search for sources, keep in mind the specifics of your research project, and limit your search to sources that specifically support your argument, inform a counterargument, or otherwise add information that enhances your research.</para>
     </section>
     <section id="sect-00004">
@@ -58,18 +58,10 @@
     <section id="sect-00005">
     <title>Citations and Annotations</title>
     <para class="annotation linguistic-icon" id="para-00012">For each source you choose, first write the source citation in MLA format. An example of a citation for the research project on artificial intelligence might be:</para>
-    <table summary=" " frame="all" id="table-00001">
-    <tgroup cols="1">
-    <colspec colnum="1" colname="c1"/>
-    <tbody>
-    <row>
-    <entry>
+    <section class="section-workscited" id="sect-00014">
+    <title/>
     <para class="student-sample" id="para-00013">Buiten, Miriam C. “Towards Intelligent Regulation of Artificial Intelligence.” <emphasis effect="italics">European Journal of Risk Regulation</emphasis>, vol. 10, no. 1, 2019, pp. 41–59, www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/towards-intelligent-regulation-of-artificial-intelligence/AF1AD1940B70DB88D2B24202EE933F1B. Accessed 23 Jan. 2021.</para>
-    </entry>
-    </row>
-    </tbody>
-    </tgroup>
-    </table>
+    </section>
     <para id="para-00014">After preparing citations for each of your sources, write the annotations. To do this, consider the following:</para>
     <list list-type="bulleted" id="list-00005">
     <item>The purpose of the work</item>
@@ -181,7 +173,10 @@
     <image mime-type="image/png" src="../../media/COMP_Figure_14_04_019.png"/></media>
     <caption>Sample annotated bibliography entry</caption></figure>
     <para id="para-00021">You can break down this sample annotation, analyzing each part separately as shown in <link target-id="fig-00001" document="m00135"/>.</para>
+    <section class="section-workscited" id="sect-00015">
+      <title/>
     <para id="para-00022">Buiten, Miriam C. “Towards Intelligent Regulation of Artificial Intelligence.” <emphasis effect="italics">European Journal of Risk Regulation</emphasis>, vol. 10, no. 1, 2019, pp. 41–59, www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/towards-intelligent-regulation-of-artificial-intelligence/AF1AD1940B70DB88D2B24202EE933F1B. Accessed 23 Jan. 2021.</para>
+    </section>
     <para class="annotation-text" id="para-00023"><emphasis effect="bold"><emphasis effect="italics">Format.</emphasis></emphasis> <emphasis effect="italics">Notice the MLA format, including information listing the author, title, publishing journal, and DOI or link to the article. The reader will be able to find and read the article easily.</emphasis></para>
     <para class="student-sample" id="para-00024">Authority: Miriam Buiten is a law and economics professor. She has authored or coauthored eight journal articles and one book, covering topics such as law, technology, and digitalization; competition law; and European law. This article appears in a journal published by Cambridge University Press. It is peer reviewed and intended for an academic audience. The author discusses the unpredictability and difficulty of controlling artificial intelligence and examines what, if anything, can be done to increase transparency, specifically as it relates to the biases present in artificial intelligence algorithms.</para>
     <para class="annotation-text" id="para-00025"><emphasis effect="bold"><emphasis effect="italics">Authority.</emphasis></emphasis> <emphasis effect="italics">The author is named and introduced with background information establishing her authority in the field. The publishing organization is also named, establishing credibility as a peer-reviewed journal.</emphasis></para>
@@ -203,7 +198,7 @@
     </figure>
     <para class="annotation-text" id="para-00034"><emphasis effect="italics"><emphasis effect="bold">Author.</emphasis> The entry with gold highlighting begins with the author’s last name, followed by a comma and the remainder of the name. The author’s name is followed by a period.</emphasis></para>
     <para class="annotation-text" id="para-00035"><emphasis effect="italics"><emphasis effect="bold">Title of Source.</emphasis> The title of the source follows the author’s name in purple highlighting. The title is either italicized or placed within quotation marks, depending on the type of source, and followed by a period. Book titles are italicized, while print or online articles are placed in quotation marks, as shown.</emphasis></para>
-    <para class="annotation-text" id="para-00036"><emphasis effect="italics"><emphasis effect="bold">Title of Container.</emphasis> The container, highlighted in blue, is the larger work to which a source belongs. An article may belong to a website or journal, a song to an album, or a video to a video-sharing site. This container comes next in the citation. It is generally italicized and followed by a comma. However, some sources do not have containers; for example, a book (versus a chapter in a book) or an entire website (versus a single page on a website) is self-contained and thus has no container to cite.</emphasis></para>
+    <para class="annotation-text" id="para-00036"><emphasis effect="italics"><emphasis effect="bold">Title of Container.</emphasis> The container, highlighted in teal, is the larger work to which a source belongs. An article may belong to a website or journal, a song to an album, or a video to a video-sharing site. This container comes next in the citation. It is generally italicized and followed by a comma. However, some sources do not have containers; for example, a book (versus a chapter in a book) or an entire website (versus a single page on a website) is self-contained and thus has no container to cite.</emphasis></para>
     <para class="annotation-text" id="para-00037"><emphasis effect="italics"><emphasis effect="bold">Version.</emphasis> Next, the version is listed, if there is one. For example, a textbook edition or version of a text would appear here, followed by a comma. This citation example doesn’t have a version, so that information is skipped.</emphasis></para>
     <para class="annotation-text" id="para-00038"><emphasis effect="italics"><emphasis effect="bold">Number.</emphasis> Some sources, especially academic journals, are part of a numbered sequence as shown in green highlighting. Journals usually have both volume and issue numbers; include both in your citation, separated by commas.</emphasis></para>
     <para class="annotation-text" id="para-00039"><emphasis effect="italics"><emphasis effect="bold">Publisher.</emphasis> The next element in the citation is the publisher, followed by a comma. The publisher does not have to be listed for some sources, including periodicals, works published by the author or editor, websites with the same name as the publisher, or websites that host works but do not actually publish them. Because this sample source is a periodical, no publisher is listed in the citation.</emphasis></para>
@@ -233,7 +228,7 @@
     <title>Descriptive/Informative and Analytical/Critical Annotations</title>
     <para id="para-00046">There are two major types of annotated bibliographies. The first is <term id="term-00004">descriptive</term>, or informative, summarizing the material and explaining why the source is useful for your topic. This type of annotated bibliography also points out special features of the text, including any data, graphics, or other characteristics. Although you discuss the author’s main arguments and conclusions, you do not analyze or evaluate them. Descriptive annotations are useful for helping readers understand an author’s main ideas but less helpful for showing how the source has influenced the research project as a whole.</para>
     <para id="para-00047">The other type of annotated bibliography is <term id="term-00005">analytical</term>, or critical. This type includes all the features of a descriptive annotated bibliography, including a summary of the material. In addition, it includes your analysis of the information in each source and explanation of how the source has influenced the development of your research. With analytical or critical annotations, you examine the strengths, weaknesses, and biases present in the author’s information and explain how the author’s work and conclusions apply to your research.</para>
-    <para id="para-00048">In projects for this course, especially those using rhetorical arguments, you will almost always create analytical or critical annotated bibliographies, though the detail in which you analyze may vary from source to source. The detail in these bibliographies will contribute to your knowledge base and provide information for others.</para>
+    <para id="para-00048">In projects for this course, especially those using arguments, you will almost always create analytical or critical annotated bibliographies, though the detail in which you analyze may vary from source to source. The detail in these bibliographies will contribute to your knowledge base and provide information for others.</para>
     </section>
     <section class="further-reading" id="sect-00012">
     <title>Further Reading</title>

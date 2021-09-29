@@ -6,9 +6,85 @@
     <md:uuid>d5fc68dc-4c53-443c-95e4-9b3d3b8de96d</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes:</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Identify factors that influence the ways that work is designed, documented, and disseminated.</item>
+    <item>Apply methods and technologies commonly used for communication in various fields.</item>
+    <item>Write an effective résumé and accompanying cover letter.</item>
+    <item>Interpret legal language and rewrite it in plain English.</item>
+    </list>
+    </section>
+    <para id="para-00002">In the business and legal worlds, written and spoken rhetoric is crucial to successful outcomes and the internal workings of an organization.</para>
+    <section id="sect-00002">
+    <title>Rhetoric in Business</title>
+    <para class="annotation linguistic-icon" id="para-00003">The ability to write persuasively by using rhetorical strategies is crucial to the success of a business, including its profitability, employee satisfaction, and efficient operations. More immediately, though, using rhetorical devices to get hired is no less crucial a skill. The purpose of business writing is often to sell, whether an idea, a candidate, a product, or a strategy. For most people, the first step in business writing is an effective application letter and résumé with the goal of obtaining an interview.</para>
+    <figure id="fig-00001"><media alt="A business person interviews an applicant at a table in front of a large window.">
+    <image mime-type="image/jpeg" src="../../media/COMP_Figure_09_08_013.jpg"/></media>
+    <caption>A strong cover letter and résumé will impress prospective employers, who will be well disposed toward interviewing you. Remember the purpose of these written pieces is to obtain an interview, not the job—at least not yet. (credit: “Women in Tech - 82” by WOCinTechChat.com/flickr, CC BY 2.0)</caption></figure>
+    <section id="sect-00003">
+    <title>Application Letters and Résumés</title>
+    <para class="annotation linguistic-icon" id="para-00004">When writing letters of application and résumés, keep in mind that you are writing to sell. In this case, you need to “sell” yourself to a company. Thus, you want to convey information rhetorically and persuasively. The most effective application letters have one element in common: they focus as much as possible <emphasis effect="italics">not</emphasis> on you, the applicant, but on the <emphasis effect="italics">company</emphasis> and the ways in which you could be an asset as an employee. Therefore, keep in mind that <emphasis effect="italics">your</emphasis> need for work is not a real concern to a prospective employer. Rather, <emphasis effect="italics">their</emphasis> needs and <emphasis effect="italics">your potential</emphasis> are. If you are applying for a job, ask yourself these questions: What can you do to fill a present or future need? What exactly is the employer looking for (as opposed to what <emphasis effect="italics">you</emphasis> are looking for)? If an employer has indicated criteria for applicants, what are those criteria, and how can you show you fulfill them?</para>
+    <para id="para-00005">Keep these ideas in mind when writing an application letter. Because you are focusing on your value to a company, do not start like this student did:</para>
+    <quote id="quote-00001">
+    <para class="student-sample" id="para-00006">My name is Brett Ellison. I am graduating this spring and would like to apply for the position you have advertised. It looks interesting and would suit me well.</para>
+    </quote>
+    <para id="para-00007">It will take exciting and convincing writing to build interest after such a generic introduction. Your name, graduation date, and opinion of the job are of little interest to a future employer. Consider the difference with this opening:</para>
+    <quote id="quote-00002">
+    <para class="student-sample" id="para-00008">For the job opening you have advertised online in data management, you have asked for a recent graduate with skills in. . . . Four years of college with a major in computer science and an internship with Coverall Insurance have given me the skills you require.</para>
+    </quote>
+    <para id="para-00009">The applicant mentions the required skills and follows with a statement indicating they possess the skills. When you begin this way, you emphasize the company’s needs, not your own. The first paragraph should then end with a statement that you are attaching your current résumé and that you request the company’s consideration.</para>
+    <para id="para-00010">In the next paragraph, highlight a specific achievement connected to that skill and your abilities. Include other aspects of your background as relevant. Try to keep each paragraph to no more than six lines. If possible, continue to focus on the company and its needs, showing that you know something about them. Keep it short; one page will be sufficient to highlight your skills. Avoid mentioning areas of weakness or skills you do not have. Conclude with an expression of gratitude for their consideration.</para>
+    <para id="para-00011">If you have a recommendation or lead for the job, you can naturally begin with that, as this student did in the following letter:</para>
+    <figure class="unnumbered" id="fig-00002"><media alt="Mikaela Rodgers writes a cover letter to Barbara Serrano, the director of the Kentucky Council on the Arts, to inquire about an internship program.">
+    <image mime-type="image/jpeg" src="../../media/COMP_Figure_09_08_016.png"/></media>
+    </figure>
+    <para id="para-00012">A current résumé should always accompany your application letter. Try to tailor your résumé to highlight unique credentials you may have and ones that may set you apart from other applicants. Your résumé should complement the letter, meaning the two parts should fit together and not contradict each other. A good idea is to edit the résumé to fit the job you want by adding or highlighting parts that pertain specifically to the position; changing the order of details; or using italics, boldface type, or bullets for listing facts or dates. The résumé should not be a one-size-fits-all product or give the impression that it is a standard statement with no real pertinence to the specific job. Use your résumé as a selling tool to persuade a company or organization to grant you an interview. Actually getting the job comes later.</para>
+    <para id="para-00013">A key element in any résumé, following your identifying information, is a statement of your career goal. Although it is inevitable that others will have similar plans, try to stand out by sounding decisive or presenting a vision of what you can accomplish. Imagine being the reader of your résumé rather than the writer. That person may devote only seconds to skimming it, and the first thing they will notice is the career goal, which you can change each time you send out a résumé. Your personal aim or goal gives you the chance to indicate something in one line that would make the reader want to continue. The following are effective statements:</para>
+    <list list-type="bulleted" id="list-00002">
+    <item>To use my programming skills to create innovative and useful content for a growing company</item>
+    <item>To use what I have learned in management classes for the progress of a growing firm</item>
+    <item>To contribute to a sales force based on best practices of marketing</item>
+    <item>To work in the public sector for personal as well as social progress</item>
+    <item>To combine a productive work ethic with openness to change and travel</item>
+    </list>
+    </section>
+    <section id="sect-00004">
+    <title>Sample Résumé</title>
+    <para id="para-00014">Below is Mikaela Rodgers’s résumé:</para>
+    <figure class="unnumbered" id="fig-00003"><media alt="Mikaela Rodgers submits her resume to Barbara Serrano, the director of the Kentucky Council on the Arts, to support her cover letter of inquiry about an internship program.">
+    <image mime-type="image/jpeg" src="../../media/COMP_Figure_09_08_017.png"/></media>
+    </figure>
+    <para id="para-00015">Previewing a wide variety of <link url="https://openstax.org/r/sample">sample résumés</link> will give you plenty of ideas.</para>
+    </section>
+    </section>
+    <section id="sect-00005">
+    <title>Language in Law</title>
+    <para class="annotation linguistic-icon culture-icon" id="para-00016">In the legal world, communication is equally or even more crucial. In addition to the ability to speak convincingly, the ability to use rhetorical strategies to write persuasively is of critical importance in legal professions and in everyday situations regarding disputes, contracts, and other matters involving legalities. In courtrooms and behind the scenes, the ability to persuade a judge to make a decision or ruling in favor of a particular client before or during a trial affects all aspects of a case, including the legal team’s ability to persuade a jury of its position. Furthermore, disputes between family members, buyers and sellers, renters and landlords, and employees and managers are often settled with the help of appropriately used rhetorical strategies.</para>
+    <figure id="fig-00004"><media alt="A stack of papers is loosely spread out on a table. The word contract appears in the top center of one page, and a pen rests on top of the page.">
+    <image mime-type="image/jpeg" src="../../media/COMP_Figure_09_08_014.jpg"/></media>
+    <caption>Because contracts and similar binding agreements feature in many legal disputes, it is important to understand and interpret the language in which they are written. Arguing for your interpretation involves the use of rhetorical strategies. (credit: “Legal Contract &amp; Signature - Warm Tones” by Blogtrepreneur [howtostartablogonline.net/legal]/Wikimedia Commons, CC BY 2.0)</caption></figure>
+    <para class="annotation linguistic-icon culture-icon" id="para-00017">Language use in the legal profession relies on <emphasis effect="italics">precedent</emphasis>, meaning evidence or examples of past legal cases and their verdicts. Legal English aims to be consistent, complete, valid, and formal. It must correspond to what is expected by the court to which it will be communicated. Legal briefs, for example, are documents written to persuade the court to agree with the writer’s position, whether for a plaintiff or a defendant. To gain judicial agreement, legal language must avoid open-ended interpretations because ambiguity (two valid points of view without a single resolution) is counterproductive. Instead, lawyers and those who write for them often adapt a writing template already familiar to and required by a court.</para>
+    <para id="para-00018">American legal English has its roots in history. It was adopted from England, where Roman rulers and later French invaders left an inheritance of terminology still used today. Many familiar legal terms are hundreds of years old. For example, the verb <emphasis effect="italics">shall</emphasis> replaces <emphasis effect="italics">must</emphasis> or <emphasis effect="italics">have to</emphasis> (“The plaintiff shall . . .”). The word is an imperative, binding and unconditional, unlike its uncertain use in modern English (“Shall I do that?”). Also, the word <emphasis effect="italics">consideration</emphasis> indicates a sum of money or settlement to be paid, not “the act of caring” (“The land shall be transferred for a consideration of . . .”). Antiquated expressions appear frequently—<emphasis effect="italics">heretofore</emphasis>, <emphasis effect="italics">forthwith</emphasis>, <emphasis effect="italics">until such time that</emphasis>, <emphasis effect="italics">party of the first part</emphasis>, <emphasis effect="italics">party of the second part</emphasis>, <emphasis effect="italics">due process</emphasis>—as do Latin expressions<emphasis effect="italics">—pro bono</emphasis>, <emphasis effect="italics">pro se</emphasis>, <emphasis effect="italics">ad hoc</emphasis>, <emphasis effect="italics">bona fide</emphasis>, <emphasis effect="italics">de facto</emphasis>. Doubling of concepts is also common: <emphasis effect="italics">null and void</emphasis>, <emphasis effect="italics">breaking and entering</emphasis>, <emphasis effect="italics">pain and suffering</emphasis>, <emphasis effect="italics">legal and binding</emphasis>.</para>
+    <para id="para-00019">However, the linguistic situation has changed somewhat with the move toward “plain English,” meaning avoidance of the jargon and excesses of legal writing. Rather than long sentences and paragraphs with minimal punctuation and spacing of text, “plain English” reforms and simplifies the terminology to make it readily understandable for people outside the legal profession.</para>
+    <para class="annotation linguistic-icon" id="para-00020"><emphasis effect="bold"><emphasis effect="italics">Plain English.</emphasis></emphasis> “Plain English” was formally introduced in the United States in 2010 by President <term class="no-emphasis" id="term-00001">Barack Obama</term> in the official <term class="no-emphasis" id="term-00002">Plain Writing Act of 2010</term> adopted by Congress. It was part of a <term class="no-emphasis" id="term-00003">paperwork reduction</term> program extending to all areas of government communication with the goal of reducing the amount of written communication issued by all agencies. Common opinion recognized that what needed to be said could be done more efficiently if people understood the content of laws and regulations.</para>
+    <para id="para-00021">As an example, the following regulations from the New Jersey state office for overseeing real estate transactions are unclear and confusing. Despite the capital letters, the text consists of long, dense paragraphs that actually discourage reading and understanding. Because a situation in which someone breaks a lease is likely to be stressful, language such as this, with long sentences and legal terms, only worsens the possible confrontation. The assumption is that the tenant will have to either wade through the language independently or rely on a lawyer as a paid guide.</para>
+    <figure class="unnumbered" id="fig-00005"><media alt="An excerpt from a lease agreement states what will happen when a lease term expires and what will happen if the owner is unable to deliver possession of a property on an agreed upon date.">
+    <image mime-type="image/jpeg" src="../../media/COMP_Figure_09_08_018.png"/></media>
+    </figure>
+    <para id="para-00022">On the other hand, the following document explains in plain English, with short sentences and paragraphs, the procedures for securing federal student aid. Not only are the instructions clear, but they also explain some of the reasoning for them.</para>
+    <figure class="unnumbered" id="fig-00006"><media alt="A brochure gives prospective college students advice about financial aid, including filling out the FAFSA form.">
+    <image mime-type="image/jpeg" src="../../media/COMP_Figure_09_08_019.png"/></media>
+    </figure>
+    <para id="para-00023">The plain language of this document aims to make information easily comprehensible. It is broken into brief, concise paragraphs with short, clear sentences. Punctuation is basic and emphatic. Students already uncertain about financial security are made to feel welcome and have the sense that the procedure can be done without their becoming mired in dense language and regulations.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Your Turn</title>
+    <list type="enumerated" id="list-00003">
+    <item><para class="annotation linguistic-icon" id="para-00024"><emphasis effect="bold">Business.</emphasis> If you have a résumé, update and revise it according to the suggestions presented in this section. If you do not have a résumé, now is the time to create one. Select a format and complete it with your information, including a professional objective. (You can access the <link url="https://openstax.org/r/site">site</link> provided earlier in this section or consult <term class="no-emphasis" id="term-00004">Microsoft Word</term> for résumé templates.) Once you have revised or completed your résumé, find an announcement about a summer job or internship and write an appropriate application letter.</para></item>
+    <item><emphasis effect="bold">Legal.</emphasis> With the <term class="no-emphasis" id="term-00005">Plain Writing Act of 2010</term> in mind, rewrite the section of the New Jersey rental agreement reproduced in this section. Change sentence and paragraph length when appropriate to simplify language and clarify meaning. Remember that your readers consist of average people looking to rent an apartment.</item>
+    </list>
+    </section>
+    </content>
 </document>

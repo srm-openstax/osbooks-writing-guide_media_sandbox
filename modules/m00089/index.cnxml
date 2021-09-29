@@ -6,9 +6,49 @@
     <md:uuid>fed9ad71-4bff-456a-854e-2b067063385d</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Identify and explain ethos, logos, pathos, and kairos.</item>
+    <item>Identify and analyze logical fallacies used in persuasion.</item>
+    <item>Explain how rhetorical strategies are used in real-life situations.</item>
+    </list>
+    </section>
+    <para class="annotation visual-icon auditory-icon" id="para-00002">Communicative situations nearly always contain <term id="term-00001">rhetoric</term>, the craft of persuading through writing or speaking. Think of your earliest instances of communication with parents or caregivers. Before you were proficient in language, you learned to navigate situations with your other senses, such as sight, sound, and touch. Consider people’s facial expressions and tones of voice. How did you know when they were pleased, displeased, or confused by your actions? The emphasis is on the word <emphasis effect="italics">how</emphasis>, because the <emphasis effect="italics">how</emphasis> is what starts you on the path of analyzing the forms, intent, and effectiveness of communication. The point is that even facial expressions and tones of voice serve communicative functions and contain a rhetoric that one can observe, process, and analyze.</para>
+    <para class="annotation speech-icon" id="para-00003">Now, as an adult, you have learned to use rhetoric to be persuasive and to recognize when others are trying to persuade you. Imagine the following situation. A basic question arises among roommates: <emphasis effect="italics">Where should we go for dinner?</emphasis> Your roommates want to go to Emiliano’s Pizza Pavilion again, and their reasoning seems sound. First, having tried all pizza places in town, they know Emiliano makes the tastiest pizza—just the right combination of spices, vegetables, and cheese, all perfectly baked in the right oven at the right temperature. Furthermore, the pizza is fairly cheap and probably will provide leftovers for tomorrow. And they add that you don’t really want to stay home all alone by yourself.</para>
+    <para id="para-00004">You, on the other hand, are less keen on the idea; maybe you’re tired of Emiliano’s pizza or of pizza in general. You seem resistant to their suggestion, so they continue their attempts at persuasion by trying different tactics. They tell you that “everyone” is going to Emiliano’s, not only because the food is good but because it’s <emphasis effect="italics">the</emphasis> place to be on a Thursday evening, hoping that others’ decisions might convince you. Plus, Emiliano’s has “a million things on the menu,” so if you don’t want pizza, you can have “anything you want.” This evidence further strengthens their argument, or so they think.</para>
+    <para id="para-00005">Your roommates continue, playing on your personal experience, adding that the last time you didn’t join them, you went somewhere else and then got the flu, so you shouldn’t make the same mistake twice. They add details and try to entice you with images of the pizza—a delicious, jeweled circle of brilliant color that tastes like heaven, with bubbling cheese calling out to you to devour it. Finally, they try an extreme last-ditch accusation. They claim you could be hostile to immigrants such as Emiliano and his Haitian and Dominican staff, who are trying to succeed in the competitive pizza market, so your unwillingness to go will hurt their chances of making a living.</para>
+    <para id="para-00006">However, because you know something about rhetoric and how your roommates are using it to persuade, you can deconstruct their reasoning, some of which is flawed or even deceptive. Your decision is up to you, of course, and you will make it independent of (or dependent on) these rhetorical appeals and strategies.</para>
+    <section id="sect-00002">
+    <title>Rhetorical Strategies</title>
+    <para class="annotation linguistic-icon" id="para-00007">As part of becoming familiar with rhetorical strategies in real life, you will recognize three essential building blocks of rhetoric:</para>
+    <list list-type="bulleted" id="list-00002">
+    <item><term id="term-00002">Ethos</term> is the presentation of a believable, authoritative voice that elicits an audience’s trust. In the case of the pizza example, the roommates have tried all other pizzerias in town and have a certain expertise.</item>
+    <item><term id="term-00003">Pathos</term> is the use of appeals to feelings and emotions shared by an audience. Emiliano’s pizza tastes good, so it brings pleasure. Plus, you don’t want to be all alone when others are enjoying themselves, nor do you want to feel responsible for the pizzeria’s economic decline.</item>
+    <item><term id="term-00004">Logos</term> is the use of credible information—facts, reasons, examples—that moves toward a sensible and acceptable conclusion. Emiliano’s is good value for the money and provides leftovers.</item>
+    </list>
+    <para id="para-00008">In addition to these strategies, the roommates in the example use more subtle ones, such as personification and sensory language. <term id="term-00005">Personification</term> is giving an inanimate object human traits or abilities (the cheese is calling out). <term id="term-00006">Sensory language</term> appeals to the five senses (a delicious, jeweled circle of brilliant color).</para>
+    </section>
+    <section id="sect-00003">
+    <title>Logical Fallacies</title>
+    <para class="annotation linguistic-icon" id="para-00009">Familiar with the three main rhetorical strategies and literary language, you also recognize the “sneakier” uses of flawed reasoning, also known as <term id="term-00007">logical fallacies</term>. Some of the roommates’ appeals are based on these fallacies:</para>
+    <list list-type="bulleted" id="list-00003">
+    <item><term id="term-00008">Bandwagon</term><emphasis effect="bold">:</emphasis> argument that everyone is doing something, so you shouldn’t be left behind by not doing it too. “Everyone” goes to Emiliano’s, especially on Thursdays.</item>
+    <item><term id="term-00009">Hyperbole</term><emphasis effect="bold">:</emphasis> exaggeration. Emiliano’s has “a million things on the menu,” and you can get “anything you want.”</item>
+    <item><term id="term-00010">Ad hominem</term><emphasis effect="bold">:</emphasis> attacking the person, not the argument. Because you are hesitant about joining your roommates, you are accused of hostility toward immigrants.</item>
+    <item><term id="term-00011">Causal fallacy</term><emphasis effect="bold">:</emphasis> claiming or implying that an event that follows another event is the result of it. Because you ate elsewhere, you got the flu.</item>
+    <item><term id="term-00012">Slippery slope</term><emphasis effect="bold">:</emphasis> argument that a single action could lead to disastrous consequences. If Emiliano’s misses your business, they may go bankrupt.</item>
+    </list>
+    <para id="para-00010">In a matter of minutes, your roommates use all these strategies to try to persuade you to act or to agree with their thinking. Identifying and understanding such strategies, and others, is a key element of critical thinking. You can learn more about logical fallacies at the <link url="https://openstax.org/r/Purdue_University_Online">Purdue University Online Writing Lab</link>.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Kairos</title>
+    <para id="para-00011">As a whole, rhetoric also depends on another Greek rhetorical strategy, <term id="term-00013">kairos</term>. Kairos is the idea that timing is important in trying to persuade an audience. An appeal may succeed or fail depending on when it is made. The moment must be right, and an effective communicator needs to be aware of their audience in terms of kairos. Going back to the roommates and pizza example, kairos might be an influence in your decision; if you were tired of pizza, had to save money, or wanted to study alone, your roommates would have less chance of persuasion. As a more serious example, if a recent series of car accidents has caused serious injuries on the freeway, an audience might be more receptive to a proposal to reassess speed limits and road signage. Awareness of rhetorical strategies in everyday situations such as this will help you recognize and evaluate them in matters ultimately more significant than pizza.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Rhetoric in Politics, Business, and Law</title>
+    <para class="annotation culture-icon" id="para-00012">Rhetoric appears in all areas of contemporary life because language is a primary persuasive force. It is most obvious in the political arena, where votes are at stake, whether for political candidates, expenditures, or legislation. In the legal world, it is obvious as well when one group attempts to convince another of a person’s innocence or guilt or that they should accept certain conditions. In the business world, memos, reports, letters, and meetings involve effective and different rhetorical strategies as one person or group tries to push an agenda or make an evaluation concerning a person or process. Strategic communication, for example, uses rhetoric in planning, introducing, and evaluating policies. Both short-term and long-range policies depend on effective communication that employs rhetorical strategies to make points and motivate positive action for the benefit of the company.</para>
+    </section>
+    </content>
 </document>

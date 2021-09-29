@@ -6,9 +6,305 @@
     <md:uuid>eaf5a88e-dd93-46b6-ba7f-dc2a303d05b9</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title/>
-      <para id="para-00001">Placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Develop a rhetorical analysis through multiple drafts.</item>
+    <item>Identify and analyze rhetorical strategies in a rhetorical analysis.</item>
+    <item>Demonstrate flexible strategies for generating ideas, drafting, reviewing, collaborating, revising, rewriting, and editing.</item>
+    <item>Give and act on productive feedback for works in progress.</item>
+    </list>
+    </section>
+    <para class="annotation dreaming-icon" id="para-00002">The ability to think critically about rhetoric is a skill you will use in many of your classes, in your work, and in your life to gain insight from the way a text is written and organized. You will often be asked to explain or to express an opinion about what someone else has communicated and how that person has done so, especially if you take an active interest in politics and government. Like Eliana Evans in the previous section, you will develop similar analyses of written works to help others understand <emphasis effect="italics">how</emphasis> a writer or speaker may be trying to reach them.</para>
+    <section id="sect-00002">
+    <title>Summary of Assignment: Rhetorical Analysis</title>
+    <para id="para-00003">The assignment is to write a rhetorical analysis of a piece of persuasive writing. It can be an editorial, a movie or book review, an essay, a chapter in a book, or a letter to the editor. For your rhetorical analysis, you will need to consider the rhetorical situation—subject, author, purpose, context, audience, and culture—and the strategies the author uses in creating the argument. Back up all your claims with evidence from the text. In preparing your analysis, consider these questions:</para>
+    <list list-type="bulleted" id="list-00002">
+    <item>What is the subject? Be sure to distinguish what the piece is about.</item>
+    <item>Who is the writer, and what do you know about them? Be sure you know whether the writer is considered objective or has a particular agenda.</item>
+    <item>Who are the readers? What do you know or what can you find out about them as the particular audience to be addressed at this moment?</item>
+    <item>What is the purpose or aim of this work? What does the author hope to achieve?</item>
+    <item>What are the time/space/place considerations and influences of the writer? What can you know about the writer and the full context in which they are writing?</item>
+    <item>What specific techniques has the writer used to make their points? Are these techniques successful, unsuccessful, or questionable?</item>
+    </list>
+    <para id="para-00004">For this assignment, read the following opinion piece by Octavio Peterson, printed in his local newspaper. You may choose it as the text you will analyze, continuing the analysis on your own, or you may refer to it as a sample as you work on another text of your choosing. Your instructor may suggest presidential or other political speeches, which make good subjects for rhetorical analysis.</para>
+    <para id="para-00005">When you have read the piece by Peterson advocating for the need to continue teaching foreign languages in schools, reflect carefully on the impact the letter has had on you. You are not expected to agree or disagree with it. Instead, focus on the rhetoric—the way Peterson uses language to make his point and convince you of the validity of his argument.</para>
+    <para class="annotation visual-icon auditory-icon" id="para-00006"><emphasis effect="bold"><emphasis effect="italics">Another Lens.</emphasis></emphasis> Consider presenting your rhetorical analysis in a multimodal format. Use a blogging site or platform such as WordPress or Tumblr to explore the blogging genre, which includes video clips, images, hyperlinks, and other media to further your discussion. Because this genre is less formal than written text, your tone can be conversational. However, you still will be required to provide the same kind of analysis that you would in a traditional essay. The same materials will be at your disposal for making appeals to persuade your readers. Rhetorical analysis in a blog may be a new forum for the exchange of ideas that retains the basics of more formal communication. When you have completed your work, share it with a small group or the rest of the class. See Multimodal and Online Writing: Creative Interaction between Text and Image for more about creating a multimodal composition.</para>
+    <figure class="unnumbered" id="fig-00001"><media alt="Reader Octavio D. Peterson writes a letter to the Greendale Daily Courier in support of funding for foreign language instruction.">
+    <image mime-type="image/jpeg" src="../../media/COMP_Figure_09_05_015.png"/></media>
+    </figure>
+    <section id="sect-00003">
+    <title>GREENDALE DAILY COURIER</title>
+    <para id="para-00007">READERS’ VIEWS</para>
+    <para id="para-00008">I am writing as both a concerned parent and a citizen in response to the recently announced Board of Managers forum to be held at City Hall on allocation of resources for education. Among the items for discussion is the likelihood that budget cuts for next year will result in the curtailment of foreign-language instruction—a move that needs serious consideration.</para>
+    <para id="para-00009">I’ve spent most of my life in Greendale and graduated from elementary and high school before going to Westover State for my engineering degree. For 18 years, I’ve worked in Greendale city management, and my children are in school here. I have always supported the heroic efforts of teachers and administrators in making our schools as fine as they have come to be, and I have tried to keep myself informed about school policies. Now, however, as an active and loyal member of this community, I am alarmed by the announcement that an integral part of the curriculum is under financial strain and might vanish like a puff of smoke. Once gone, soon forgotten—to the detriment of all of us.</para>
+    <para id="para-00010">What am I referring to, you ask? Look at the middle of page 4 in the recent publication of plans for a revised city budget: Some know-nothing, who dares not be identified, has stated that all foreign-language instruction may be stopped in the next school year. This very “unimportant” item, which another coward has sought to bury conveniently, actually counts for a lot with me, counts with many others, and should count a lot for you as well. Indeed, this looming catastrophe could actually be a great opportunity to <emphasis effect="italics">reinforce</emphasis>—not <emphasis effect="italics">reduce</emphasis>—a commitment that needs <emphasis effect="italics">renewing</emphasis>, not canceling! Rather than end it, we must continue it. Rather than curtail it, we must make it as strong as neighboring school districts are doing. If we don’t, we will be the only district without it. Do we want our children left with an educational disadvantage? Do we want property values and tax revenue to plummet as parents flee from an inferior school district?</para>
+    <para id="para-00011">Folks may think I’m just talking off the top of my head, but I’ve done some reading around to see what other states have going on. And what I see isn’t good. Not good at all, in fact. Only 20% of K–12 students nationwide study a foreign language. We, however, have enjoyed the benefits of learning for so long because we are ranked among the “nation’s finest” as far as educational opportunity. And that’s a reason a lot of us live here.</para>
+    <para id="para-00012">Yet if the rest of the country trails us—and that is shameful, but nothing we can do about it—the rest of the world does not! Indeed, some countries in Europe have 100% of their elementary and secondary school students learning a second language, and many do a third! English is most often what they choose to learn. And in the good ol’ U.S., over 10% of K–12 students are actually learning English as a second language while speaking another at home, all the way from California with almost 20% to West Virginia with less than 1%! This statistic proves that kids learn easily, and in fact it gives them a competitive edge over the other 80% of American kids who won’t know a word of anything but English.</para>
+    <para id="para-00013">All over Europe, all over Asia, all over Africa and South America, millions of people know and use English. It has become an international language of commerce, travel, entertainment, and politics. They can communicate with us as well as they communicate in their first languages. That may be very convenient because we think we don’t have to learn another language. But think about it: We are at a DIS-advantage here both in everyday communication and in business negotiations. We need to understand how business is done overseas, how people of other nationalities think and act, and be able to do that without relying on interpreters. Indeed, knowing another person’s language is a great advantage, for you can understand what the interpreter doesn’t translate.</para>
+    <para id="para-00014">Knowing only one language isolates us culturally and gives the impression we don’t give a hang, that we are OK with being know-nothings and are somehow better than other people. Don’t we care about that?</para>
+    <para id="para-00015">And forget business for a minute. In a global society, people will need to communicate in languages other than English. My sister is a doctor who uses Spanish every day in her work as she deals with patients in life-threatening situations. Fortunately, she has the skill of speaking another language. Whether we’re doctors or anything else, at some point we will face a situation in which knowing another language will be helpful or even crucial.</para>
+    <para id="para-00016">Is ignorance and arrogance the impression we want to give others? We can do much better! I know budgets are limited by state cutbacks, and tough decisions must be made about how to allocate tax dollars. But for so long we have offered students something. Sure, some students are sitting at home secretly rejoicing in a watered-down curriculum that will free up some extra time for texting and hanging out. Sure, some dislike having to learn Spanish or Chinese and have never seen the need for it. But just like lots of things in life, we know it’s “good for us” in the long run, don’t we? I do know that some colleges have done away with foreign-language requirements for their own reasons, and many residents here and elsewhere think that is the road to travel now for financial reasons.</para>
+    <para id="para-00017">But I think just the opposite: we are shortchanging our future leaders, our city, our state, our country, and our place in the world if we shrink our horizons, pull in our horns, and build in narrow perspectives.</para>
+    <para id="para-00018">Please, won’t you stand with me on this, as so many others already have, to use our resources in the best ways? Let’s not allow our children to lag behind our neighbors here and abroad, for without knowledge and the ability to communicate, we are doomed.</para>
+    <para id="para-00019">Your neighbor,</para>
+    <para id="para-00020">Octavio D. Peterson</para>
+    <para id="para-00021">octaviosemail@anyonesmail.com</para>
+    </section>
+    </section>
+    <section class="quick-launch" id="sect-00004">
+    <title>Start with a Thesis Statement</title>
+    <para class="annotation dreaming-icon linguistic-icon" id="para-00022">After you have read this opinion piece, or another of your choice, several times and have a clear understanding of it as a piece of rhetoric, consider whether the writer has succeeded in being persuasive. You might find that in some ways they have and in others they have not. Then, with a clear understanding of your purpose—to analyze how the writer seeks to persuade—you can start framing a <term id="term-00001">thesis statement</term>: a declarative sentence that states the topic, the angle you are taking, and the aspects of the topic the rest of the paper will support.</para>
+    <para id="para-00023">Complete the following sentence frames as you prepare to start:</para>
+    <list type="enumerated" id="list-00003">
+    <item>The subject of my rhetorical analysis is ________.</item>
+    <item>My goal is to ________, not necessarily to ________.</item>
+    <item>The writer’s main point is ________.</item>
+    <item>I believe the writer has succeeded (or not) because ________.</item>
+    <item>I believe the writer has succeeded in ________ (name the part or parts) but not in ________ (name the part or parts).</item>
+    <item>The writer’s strongest (or weakest) point is ________, which they present by ________.</item>
+    </list>
+    </section>
+    <section class="drafting" id="sect-00005">
+    <title>Text Evidence and Analysis of Effect</title>
+    <para class="annotation linguistic-icon" id="para-00024">As you begin to draft your rhetorical analysis, remember that you are giving your opinion on the author’s use of language. For example, Peterson has made a decision about the teaching of foreign languages, something readers of the newspaper might have different views on. In other words, there is room for debate and persuasion.</para>
+    <para id="para-00025">The context of the situation in which Peterson finds himself may well be more complex than he discusses. In the same way, the context of the piece you choose to analyze may also be more complex. For example, perhaps Greendale is facing an economic crisis and <emphasis effect="italics">must</emphasis> pare its budget for educational spending and public works. It’s also possible that elected officials have made budget cuts for education a part of their platform or that school buildings have been found obsolete for safety measures. On the other hand, maybe a foreign company will come to town only if more Spanish speakers can be found locally. These factors would play a part in a real situation, and rhetoric would reflect that. If applicable, consider such possibilities regarding the subject of your analysis. Here, however, these factors are unknown and thus do not enter into the analysis.</para>
+    <section id="sect-00006">
+    <title>Introduction</title>
+    <para id="para-00026">One effective way to begin a rhetorical analysis is by using an anecdote, as Eliana Evans has done. For a rhetorical analysis of the opinion piece, a writer might consider an anecdote about a person who was in a situation in which knowing another language was important or not important. If they begin with an anecdote, the next part of the introduction should contain the following information:</para>
+    <list list-type="bulleted" id="list-00004">
+    <item>Author’s name and position, or other qualification to establish ethos</item>
+    <item>Title of work and genre</item>
+    <item>Author’s thesis statement or stance taken (“Peterson argues that . . .”)</item>
+    <item>Brief introductory explanation of how the author develops and supports the thesis or stance</item>
+    <item>If relevant, a brief summary of context and culture</item>
+    </list>
+    <para id="para-00027">Once the context and situation for the analysis are clear, move directly to your thesis statement. In this case, your thesis statement will be your opinion of how successful the author has been in achieving the established goal through the use of rhetorical strategies. Read the sentences in Table 9.1, and decide which would make the best thesis statement. Explain your reasoning in the right-hand column of this or a similar chart.</para>
+    <table summary=" " id="table-00001">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <tbody>
+    <row>
+    <entry><emphasis effect="bold">Sentence</emphasis></entry>
+    <entry><emphasis effect="bold">Why or Why Not?</emphasis></entry>
+    </row>
+    <row>
+    <entry>Only 50 percent of the students have said they want to study Spanish or any other language, so statistics show a lack of interest in spite of Octavio Peterson’s rhetorical claims.</entry>
+    <entry/>
+    </row>
+    <row>
+    <entry>A public vote should be taken to see how many residents support Octavio Peterson’s rhetoric and ideas on language and whether his divisive opinion can be considered as it stands.</entry>
+    <entry/>
+    </row>
+    <row>
+    <entry>Because Octavio Peterson’s ideas on foreign language teaching are definitely worthy of support, I will summarize his letter and show why he is correct.</entry>
+    <entry/>
+    </row>
+    <row>
+    <entry>This analysis of Peterson’s language shows how he uses rhetorical strategies to persuade readers to consider the future of language learning in the city’s schools.</entry>
+    <entry/>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Thesis statement choices</caption>
+    </table>
+    <para id="para-00028">The introductory paragraph or paragraphs should serve to move the reader into the body of the analysis and signal what will follow.</para>
+    </section>
+    <section id="sect-00007">
+    <title>Body</title>
+    <para id="para-00029">Your next step is to start supporting your thesis statement—that is, how Octavio Peterson, or the writer of your choice, does or does not succeed in persuading readers. To accomplish this purpose, you need to look closely at the rhetorical strategies the writer uses.</para>
+    <para id="para-00030">First, list the rhetorical strategies you notice while reading the text, and note where they appear. Keep in mind that you do not need to include every strategy the text contains, only those essential ones that emphasize or support the central argument and those that may seem fallacious. You may add other strategies as well. The first example in Table 9.2 has been filled in.</para>
+    <table summary=" " id="table-00002">
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <tbody>
+    <row>
+    <entry><emphasis effect="bold">Rhetorical Device/Strategy</emphasis></entry>
+    <entry><emphasis effect="bold">Paragraph(s) Location</emphasis></entry>
+    <entry><emphasis effect="bold">Effect on Argument</emphasis></entry>
+    </row>
+    <row>
+    <entry>Ethos, credibility</entry>
+    <entry>First, second, fourth </entry>
+    <entry>By referring to himself, his education, his job, and his community involvement as a parent and concerned resident and by saying he has researched the subject, the writer establishes credibility.</entry>
+    </row>
+    <row>
+    <entry>Pathos, emotion</entry>
+    <entry/>
+    <entry/>
+    </row>
+    <row>
+    <entry>Logos, reason</entry>
+    <entry/>
+    <entry/>
+    </row>
+    <row>
+    <entry>Kairos, timeliness</entry>
+    <entry/>
+    <entry/>
+    </row>
+    <row>
+    <entry>Repetition</entry>
+    <entry/>
+    <entry/>
+    </row>
+    <row>
+    <entry>Figurative language</entry>
+    <entry/>
+    <entry/>
+    </row>
+    <row>
+    <entry>Speaking familiarly or “folksily”</entry>
+    <entry/>
+    <entry/>
+    </row>
+    <row>
+    <entry>Rhetorical question</entry>
+    <entry/>
+    <entry/>
+    </row>
+    <row>
+    <entry>Parallel structure</entry>
+    <entry/>
+    <entry/>
+    </row>
+    <row>
+    <entry>Addressing counterclaims</entry>
+    <entry/>
+    <entry/>
+    </row>
+    <row>
+    <entry>Bandwagon</entry>
+    <entry/>
+    <entry/>
+    </row>
+    <row>
+    <entry>Ad hominem (name-calling)</entry>
+    <entry/>
+    <entry/>
+    </row>
+    <row>
+    <entry>Hyperbole (exaggeration)</entry>
+    <entry/>
+    <entry/>
+    </row>
+    <row>
+    <entry>Causal fallacy</entry>
+    <entry/>
+    <entry/>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Rhetorical strategies</caption>
+    </table>
+    <para id="para-00031">When you have completed your list, consider how to structure your analysis. You will have to decide which of the writer’s statements are most effective. The strongest point would be a good place to begin; conversely, you could begin with the writer’s weakest point if that suits your purposes better. The most obvious organizational structure is one of the following:</para>
+    <list list-type="bulleted" id="list-00005">
+    <item>Go through the composition paragraph by paragraph and analyze its rhetorical content, focusing on the strategies that support the writer’s thesis statement.</item>
+    <item>Address key rhetorical strategies individually, and show how the author has used them.</item>
+    </list>
+    <para id="para-00032">As you read the next few paragraphs, consult Table 9.3 for a visual plan of your rhetorical analysis. Your first body paragraph is the first of the analytical paragraphs. Here, too, you have options for organizing. You might begin by stating the writer’s strongest point. For example, you could emphasize that Peterson appeals to ethos by speaking personally to readers as fellow citizens and providing his credentials to establish credibility as someone trustworthy with their interests at heart.</para>
+    <para id="para-00033">Following this point, your next one can focus, for instance, on Peterson’s view that cutting foreign language instruction is a danger to the education of Greendale’s children. The points that follow support this argument, and you can track his rhetoric as he does so.</para>
+    <para id="para-00034">You may then use the second or third body paragraph, connected by a transition, to discuss Peterson’s appeal to logos. One possible transition might read, “To back up his assertion that omitting foreign languages is detrimental to education, Peterson provides examples and statistics.” Locate examples and quotes from the text as needed. You can discuss how, in citing these statistics, Peterson uses logos as a key rhetorical strategy.</para>
+    <para id="para-00035">In another paragraph, focus on other rhetorical elements, such as parallelism, repetition, and rhetorical questions. Moreover, be sure to indicate whether the writer acknowledges counterclaims and whether they are accepted or ultimately rejected.</para>
+    <para id="para-00036">The question of other factors at work in Greendale regarding finances, or similar factors in another setting, may be useful to mention here if they exist. As you continue, however, keep returning to your list of rhetorical strategies and explaining them. Even if some appear less important, they should be noted to show that you recognize how the writer is using language. You will likely have a minimum of four body paragraphs, but you may well have six or seven or even more, depending on the work you are analyzing.</para>
+    <para id="para-00037">In your final body paragraph, you might discuss the argument that Peterson, for example, has made by appealing to readers’ emotions. His calls for solidarity at the end of the letter provide a possible solution to his concern that the foreign language curriculum “might vanish like a puff of smoke.”</para>
+    <para id="para-00038">Use Table 9.3 to organize your rhetorical analysis. Be sure that each paragraph has a topic sentence and that you use transitions to flow smoothly from one idea to the next.</para>
+    <table summary=" " id="table-00003">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <tbody>
+    <row>
+    <entry><emphasis effect="bold">Body paragraph 1</emphasis></entry>
+    <entry><para id="para-00039">Write a topic sentence explaining your first point of analysis. If you begin with what you think is the writer’s strongest point, state what it is and explain the rhetorical strategies used to support it. Provide appropriate quotations from the text.</para>
+    <para id="para-00040">Suggestion: Address ethos, pathos, and logos first. You may need more than one paragraph to cover them.</para></entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Body paragraph 2</emphasis></entry>
+    <entry>If needed, continue your discussion of ethos, pathos, and/or logos, explaining how they function in the text and providing examples. Once you have completed your discussion, move on to your next point, which will address one or more specific strategies used.</entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Body paragraph 3</emphasis></entry>
+    <entry>Following a transition, write a topic sentence to address another point or points in the text. Discuss the strategies used, provide examples and quotations as appropriate, and show how they support (or don’t support) the writer’s thesis statement. Consider rhetorical strategies such as parallelism, repetition, rhetorical questions, and figurative language.</entry>
+    </row>
+    <row>
+    <entry><emphasis effect="bold">Body paragraphs 4–6 (or more if needed)</emphasis></entry>
+    <entry>Continue as needed. In this paragraph, you might point out rhetorical fallacies, such as bandwagon, ad hominem, or any others you notice, if you have not yet done so. Indicate how they strengthen or weaken the writer’s position. If you have already addressed all the elements of your analysis, discuss the writer’s approach to counterclaims. You may need more than four body paragraphs for your rhetorical analysis.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Drafting organizer</caption>
+    </table>
+    </section>
+    <section id="sect-00008">
+    <title>Conclusion</title>
+    <para id="para-00041">As you conclude your essay, your own logic in discussing the writer’s argument will make it clear whether you have found their claims convincing. Your opinion, as framed in your conclusion, may restate your thesis statement in different words, or you may choose to reveal your thesis at this point. The real function of the conclusion is to confirm your evaluation and show that you understand the use of the language and the effectiveness of the argument.</para>
+    <para id="para-00042">In your analysis, note that objections could be raised because Peterson, for example, speaks only for himself. You may speculate about whether the next edition of the newspaper will feature an opposing opinion piece from someone who disagrees. However, it is not necessary to provide answers to questions you raise here. Your conclusion should summarize briefly how the writer has made, or failed to make, a forceful argument that may require further debate.</para>
+    <para id="para-00043">For more guidance on writing a rhetorical analysis, visit the <link url="https://openstax.org/r/Illinois">Illinois Writers Workshop website</link> or watch <link url="https://openstax.org/r/this-tutorial">this tutorial</link>.</para>
+    </section>
+    </section>
+    <section class="peer-review" id="sect-00009">
+    <title>Guidelines toward Revision and the “Golden Rule”</title>
+    <para id="para-00044">Now that you have a working draft, your next step is to engage in peer review, an important part of the writing process. Often, others can identify things you have missed or can ask you to clarify statements that may be clear to you but not to others. For your peer review, follow these steps.</para>
+    <list type="enumerated" id="list-00006">
+    <item>Quickly skim through your peer’s rhetorical analysis draft once, and then ask yourself, <emphasis effect="italics">What is the main point or argument of my peer’s work?</emphasis></item>
+    <item>Highlight, underline, or otherwise make note of statements or instances in the paper where you think your peer has made their main point.</item>
+    <item>Look at the draft again, this time reading it closely.</item>
+    <item>Ask yourself the following questions, and comment on the peer review sheet as shown.</item>
+    </list>
+    <para id="para-00045"><emphasis effect="bold">Peer Review: Rhetorical Analysis</emphasis></para>
+    <para id="para-00046"><emphasis effect="bold">Name of Writer:</emphasis> ________ <emphasis effect="bold">Name of Reviewer:</emphasis> ________</para>
+    <para id="para-00047"><emphasis effect="bold">Title</emphasis></para>
+    <list list-type="bulleted" id="list-00007">
+    <item>Is the title of this work straightforward and consistent with the content? If not, how can your peer revise their title?</item>
+    <item>If the title is more creative, does it attract readers and make them want to read further? If not, how can your peer revise the title?</item>
+    </list>
+    <para id="para-00048"><emphasis effect="bold">Thesis Statement</emphasis></para>
+    <list list-type="bulleted" id="list-00008">
+    <item>Does the thesis statement succinctly communicate the purpose? If not, how can your peer better communicate this in a thesis statement?</item>
+    <item>Does your peer offer an appropriate discussion of their chosen rhetorical topic, purpose, writer, reader(s), and context? If not, how can your peer better address these areas?</item>
+    <item>Does your peer address the writer’s success in persuading readers and explain how the writer succeeds or does not succeed? If not, how can your peer better provide reasoning and text evidence to support their evaluation?</item>
+    <item>Depending on your peer’s approach, does the thesis statement appear in an appropriate place? If not, how can your peer improve the placement or strength of the statement?</item>
+    </list>
+    <para id="para-00049"><emphasis effect="bold">Body</emphasis></para>
+    <list list-type="bulleted" id="list-00009">
+    <item>Does your peer mention the three major appeals and provide sufficient explanations and examples of their use? If not, what needs to be added or revised?</item>
+    <item>Does your peer mention relevant rhetorical strategies and explain their functions? If not, how can your peer improve this part of the analysis?</item>
+    <item>Does your peer note any logical fallacies, explain why the author uses them, and analyze their effects on the text? If not, what does your peer need to add or change?</item>
+    <item>Does your peer note and explain the writer’s counterclaims? If the writer doesn’t address them, has your peer noted this omission? If not, what does your peer need to add?</item>
+    </list>
+    <para id="para-00050"><emphasis effect="bold">Conclusion</emphasis></para>
+    <list list-type="bulleted" id="list-00010">
+    <item>Does the conclusion support your peer’s thesis statement? If not, what revisions does your peer need to make?</item>
+    </list>
+    <section id="sect-00010">
+    <title>The Golden Rule</title>
+    <para id="para-00051">An important part of the peer review process is to keep in mind the familiar wisdom of the “Golden Rule”: treat others as you would have them treat you. This foundational approach to human relations extends to commenting on others’ work. Like your peers, you are in the same situation of needing opinion and guidance. Whatever you have written will seem satisfactory or better to you because you have written it and know what you mean to say.</para>
+    <para id="para-00052">However, your peers have the advantage of distance from the work you have written and can see it through their own eyes. Likewise, if you approach your peer’s work fairly and free of personal bias, you’re likely to be more constructive in finding parts of their writing that need revision. Most important, though, is to make suggestions tactfully and considerately, in the spirit of helping, not degrading someone’s work. You and your peers may be reluctant to share your work, but if everyone approaches the review process with these ideas in mind, everyone will benefit from the opportunity to provide and act on sincerely offered suggestions.</para>
+    </section>
+    </section>
+    <section class="revising" id="sect-00011">
+    <title>Staying Open to Feedback and Working with It</title>
+    <para class="annotation linguistic-icon" id="para-00053">Once the peer review process is complete, your next step is to revise the first draft by incorporating suggestions and making changes on your own. Consider some of these potential issues when incorporating peers’ revisions and rethinking your own work.</para>
+    <list list-type="bulleted" id="list-00011">
+    <item>Too much summarizing rather than analyzing</item>
+    <item>Too much informal language or an unintentional mix of casual and formal language</item>
+    <item>Too few, too many, or inappropriate transitions</item>
+    <item>Illogical or unclear sequence of information</item>
+    <item>Insufficient evidence to support main ideas effectively</item>
+    <item>Too many generalities rather than specific facts, maybe from trying to do too much in too little time</item>
+    </list>
+    <para id="para-00054">In any case, revising a draft is a necessary step to produce a final work. Rarely will even a professional writer arrive at the best point in a single draft. In other words, it’s seldom a problem if your first draft needs refocusing. However, it may become a problem if you don’t address it. The best way to shape a wandering piece of writing is to return to it, reread it, slow it down, take it apart, and build it back up again. Approach first-draft writing for what it is: a warm-up or rehearsal for a final performance.</para>
+    <section id="sect-00012">
+    <title>Suggestions for Revising</title>
+    <para class="annotation linguistic-icon" id="para-00055">When revising, be sure your thesis statement is clear and fulfills your purpose. Verify that you have abundant supporting evidence and that details are consistently on topic and relevant to your position. Just before arriving at the conclusion, be sure you have prepared a logical ending. The concluding statement should be strong and should not present any new points. Rather, it should grow out of what has already been said and return, in some degree, to the thesis statement. In the example of Octavio Peterson, his purpose was to persuade readers that teaching foreign languages in schools in Greendale should continue; therefore, the conclusion can confirm that Peterson achieved, did not achieve, or partially achieved his aim.</para>
+    <para id="para-00056">When revising, make sure the larger elements of the piece are as you want them to be before you revise individual sentences and make smaller changes. If you make small changes first, they might not fit well with the big picture later on.</para>
+    <para id="para-00057">One approach to big-picture revising is to check the organization as you move from paragraph to paragraph. You can list each paragraph and check that its content relates to the purpose and thesis statement. Each paragraph should have one main point and be self-contained in showing how the rhetorical devices used in the text strengthen (or fail to strengthen) the argument and the writer’s ability to persuade. Be sure your paragraphs flow logically from one to the other without distracting gaps or inconsistencies.</para>
+    </section>
+    </section>
+    </content>
 </document>
