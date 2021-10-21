@@ -29,7 +29,7 @@
       </section>
       <section id="sect-00003">
       <title>Examples of Types of Citation</title>
-      <para id="para-00007">American author <term class="no-emphasis" id="term-00001">Jack London</term> (1876–1916) began his novel <term class="no-emphasis" id="term-00002"><emphasis effect="italics">The Call of the Wild</emphasis></term> (1903) with this paragraph:</para>
+      <para id="para-00007">American author Jack <term class="no-emphasis" id="term-00001">London</term> (1876–1916) began his novel <emphasis effect="italics">The <term class="no-emphasis" id="term-00002">Call of the Wild</term></emphasis> (1903) with this paragraph:</para>
       <quote id="quote-00001">
       <para id="para-00008">Buck did not read the newspapers, or he would have known that trouble was brewing, not alone for himself, but for every tide-water dog, strong of muscle and with warm, long hair, from Puget Sound to San Diego. Because men, groping in the Arctic darkness, had found a yellow metal, and because steamship and transportation companies were booming the find, thousands of men were rushing into the Northland.</para>
       </quote>

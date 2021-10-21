@@ -61,7 +61,7 @@
           <colspec colnum="1" colname="c1"/>
           <tbody>
           <row>
-          <entry><para id="para-00009"><term id="term-00003">Cause and Effect</term></para>
+          <entry><para id="para-00009"><term id="term-00003">Cause-and-Effect</term></para>
           <list list-type="bulleted" id="list-00005">
           <item><para id="para-00010"><emphasis effect="bold">Working topic sentence for Structure #1</emphasis></para>
           <para id="para-00011">Because (cause/s) ____________ (what had happened), (effect/s) ____________ (what happened as a result).</para>
@@ -84,7 +84,7 @@
             <colspec colnum="1" colname="c1"/>
             <tbody>
             <row>
-            <entry><para id="para-00020"><term id="term-00004">Classification and Division</term></para>
+            <entry><para id="para-00020"><term id="term-00004">Classification</term> and <term id="term-00015">Division</term></para>
             <list list-type="bulleted" id="list-00006">
             <item><para id="para-00065"><emphasis effect="bold">Working topic sentence for Structure #1</emphasis> (general subject) _____________ can be divided into (smaller categories) ______________, _______________, and _____________.</para>
             <para id="para-00021"><emphasis effect="bold">Structure #1 for classification-and-division paragraphs: division</emphasis></para>
@@ -137,7 +137,7 @@
                 <colspec colnum="1" colname="c1"/>
                 <tbody>
                 <row>
-                <entry><para id="para-00048"><term id="term-00006">Problem and Solution</term></para>
+                <entry><para id="para-00048"><term id="term-00006">Problem-and-Solution</term></para>
                 <list list-type="bulleted" id="list-00008">
                 <item><para id="para-00049"><emphasis effect="bold">Working topic sentence for Structure #1</emphasis></para>
                 <para id="para-00050">The issue of (predicament or challenge) _____________________ was/can be solved by (what was/should be done)______________________.</para>
@@ -256,7 +256,7 @@
       </section>
       <section id="sect-00012">
       <title>Model classification-and-division paragraph about types of sports drinks (Structure #2)</title>
-      <para id="para-00115"><term id="term-00012">Hypotonic</term> (having a lower concentration of dissolved content than the human body) drinks include beverages that have both a low number of carbohydrates <emphasis effect="italics">and</emphasis> a concentration of salt and sugar higher than the human body. <term id="term-00013">Isotonic</term> (having the same concentration of dissolved content as the human body) beverages have salt and sugar concentrations similar to the human body but have higher carbohydrate content. <emphasis effect="italics">Last</emphasis>, <term id="term-00014">hypertonic</term> (having a higher concentration of dissolved content than the human body) beverages are designed to supplement daily carbohydrate intake <emphasis effect="italics">and therefore</emphasis> have high levels of carbohydrate to provide quick energy replacement. Their salt and sugar concentration is significantly lower than the human body’s. What do these beverages have in common? <emphasis effect="underline">All are types of sports drinks, designed to increase hydration before, during, and after exercise or athletic involvement.</emphasis></para>
+      <para id="para-00115">Hypotonic (having a lower concentration of dissolved content than the human body) drinks include beverages that have both a low number of carbohydrates <emphasis effect="italics">and</emphasis> a concentration of salt and sugar higher than the human body. Isotonic (having the same concentration of dissolved content as the human body) beverages have salt and sugar concentrations similar to the human body but have higher carbohydrate content. <emphasis effect="italics">Last</emphasis>, hypertonic (having a higher concentration of dissolved content than the human body) beverages are designed to supplement daily carbohydrate intake <emphasis effect="italics">and therefore</emphasis> have high levels of carbohydrate to provide quick energy replacement. Their salt and sugar concentration is significantly lower than the human body’s. What do these beverages have in common? <emphasis effect="underline">All are types of sports drinks, designed to increase hydration before, during, and after exercise or athletic involvement.</emphasis></para>
       </section>
       </section>
       <section id="sect-00013">
