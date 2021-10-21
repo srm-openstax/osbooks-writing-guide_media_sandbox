@@ -18,9 +18,9 @@
     <title>Citation Styles</title>
     <para id="para-00002">Academic writing encompasses a variety of citation styles. Depending on the type of source, most of these styles include varieties of similar information: author’s name, title of work, publisher, location of publishing company, journal, website link, and sometimes the DOI (digital object identifier). The citation style you choose often will coincide with the academic discipline involved. Major citation styles include the following:</para>
     <list list-type="bulleted" id="list-00002">
-    <item><term id="term-00001">American Psychological Association (APA):</term> Often used in education, psychology, and science fields</item>
-    <item><term id="term-00002">Modern Language Association (MLA):</term> Often used in humanities fields</item>
-    <item><term id="term-00003">Chicago or Turabian Style:</term> Often used in business, history, and fine arts fields</item>
+    <item><term id="term-00001">American Psychological Association (APA)</term>: Often used in education, psychology, and science fields</item>
+    <item><term id="term-00002">Modern Language Association (MLA)</term>: Often used in humanities fields</item>
+    <item><term id="term-00003">Chicago</term> or <term id="term-00030">Turabian Style</term>: Often used in business, history, and fine arts fields</item>
     </list>
     <para id="para-00003">Your instructor most often will assign a particular style for students to use. In this book, for example, the primary focus is on <link target-id="sect-00012" document="m00184">MLA Documentation and Format</link>, although <link target-id="sect-00013" document="m00184">APA Documentation and Style</link> is covered as well.</para>
     <para id="para-00004">You can also visit the official <link url="https://openstax.org/r/MLA_Style">MLA Style Center</link>. Another excellent and comprehensive source on citation format is <link url="https://openstax.org/r/Purdue_University">Purdue University’s Online Writing Lab</link> (OWL). A citation in MLA format of a website with no listed author name would look like the following example:</para>
@@ -76,24 +76,24 @@
     <title>Key Terms</title>
     <para id="para-00019">These are key terms and characteristics of annotated bibliographies.</para>
     <list list-type="bulleted" id="list-00005">
-    <item><term id="term-00011">Agenda:</term> Underlying intentions or motivations of a person or group.</item>
-    <item><term id="term-00012">Analysis:</term> Detailed examination of a complex topic, often looking at individual parts, to interpret meanings, themes, and author choices.</item>
-    <item><term id="term-00013">Annotation:</term> A note of explanation or comment. Annotations are both descriptive and critical, adding clarity and insight beyond a straightforward summary.</item>
-    <item><term id="term-00014">Bias:</term> Predisposition, inclination, or prejudice toward or against something.</item>
-    <item><term id="term-00015">Bibliography</term> A list of sources and basic information about them, including author, title, publisher, and publication date.</item>
-    <item><term id="term-00016">Boolean operators:</term> The words AND, OR, and NOT used as conjunctions between search terms to combine or exclude keywords in an online database search. Boolean operators help narrow searches.</item>
-    <item><term id="term-00017">Citation:</term> A set of information referencing a single source of information used in a writer’s research.</item>
-    <item><term id="term-00018">Format:</term> The way in which a composition is arranged or organized. In a bibliography, <emphasis effect="italics">format</emphasis> is the way in which the bibliographical information is presented.</item>
-    <item><term id="term-00019">Paraphrase:</term> A restatement, usually for clarity, of a written or spoken text.</item>
-    <item><term id="term-00020">Peer-reviewed source:</term> An article or other informational work written by an expert and reviewed anonymously by other experts in the field to ensure the work’s overall quality, including its validity.</item>
-    <item><term id="term-00021">Primary source:</term> An immediate, firsthand account of a topic or an event from someone connected to it. Original research, including interviews, experiments, surveys, and field observations, is considered a primary source.</item>
-    <item><term id="term-00022">Rigorous:</term> Exhaustive, thorough, accurate.</item>
-    <item><term id="term-00023">Secondary source</term> A secondhand account of an event or topic, often providing analysis or interpretation.</item>
-    <item><term id="term-00024">Style:</term> A set of rules for citing sources in academic writing.</item>
-    <item><term id="term-00025">Summary:</term> A brief statement covering the main ideas of an event or written composition.</item>
-    <item><term id="term-00026">Synthesis:</term> The combination of ideas to form new conclusions.</item>
-    <item><term id="term-00027">Tertiary source:</term> A summary or digest of primary or secondary sources.</item>
-    <item><term id="term-00028">Thesis:</term> <emphasis effect="bold">A</emphasis> statement that identifies a topic and the author’s claim, or angle, about that topic.</item>
+    <item><term id="term-00011">Agenda</term>: Underlying intentions or motivations of a person or group.</item>
+    <item><term id="term-00012">Analysis</term>: Detailed examination of a complex topic, often looking at individual parts, to interpret meanings, themes, and author choices.</item>
+    <item><term id="term-00013">Annotations</term>: A note of explanation or comment. Annotations are both descriptive and critical, adding clarity and insight beyond a straightforward summary.</item>
+    <item><term id="term-00014">bias</term>: Predisposition, inclination, or prejudice toward or against something.</item>
+    <item><term id="term-00015">Bibliography</term>. A list of sources and basic information about them, including author, title, publisher, and publication date.</item>
+    <item><term id="term-00016">Boolean operators</term>: The words AND, OR, and NOT used as conjunctions between search terms to combine or exclude keywords in an online database search. Boolean operators help narrow searches.</item>
+    <item><term id="term-00017">Citation</term>: A set of information referencing a single source of information used in a writer’s research.</item>
+    <item><term id="term-00018">Format</term>: The way in which a composition is arranged or organized. In a bibliography, <emphasis effect="italics">format</emphasis> is the way in which the bibliographical information is presented.</item>
+    <item><term id="term-00019">Paraphrase</term>: A restatement, usually for clarity, of a written or spoken text.</item>
+    <item><term id="term-00020">Peer-reviewed source</term>: An article or other informational work written by an expert and reviewed anonymously by other experts in the field to ensure the work’s overall quality, including its validity.</item>
+    <item><term id="term-00021">primary sources</term>: An immediate, firsthand account of a topic or an event from someone connected to it. Original research, including interviews, experiments, surveys, and field observations, is considered a primary source.</item>
+    <item><term id="term-00022">rigorous</term>: Exhaustive, thorough, accurate.</item>
+    <item><term id="term-00023">secondary sources</term>. A secondhand account of an event or topic, often providing analysis or interpretation.</item>
+    <item><term id="term-00024">Style</term>: A set of rules for citing sources in academic writing.</item>
+    <item><term id="term-00025">Summary</term>: A brief statement covering the main ideas of an event or written composition.</item>
+    <item><term id="term-00026">Synthesis</term>: The combination of ideas to form new conclusions.</item>
+    <item><term id="term-00027">tertiary sources</term>: A summary or digest of primary or secondary sources.</item>
+    <item><term id="term-00028">Thesis</term>: <emphasis effect="bold">A</emphasis> statement that identifies a topic and the author’s claim, or angle, about that topic.</item>
     </list>
     </section>
     </content>
