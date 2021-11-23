@@ -58,10 +58,7 @@
     <section id="sect-00005">
     <title>Citations and Annotations</title>
     <para class="annotation linguistic-icon" id="para-00012">For each source you choose, first write the source citation in MLA format. An example of a citation for the research project on artificial intelligence might be:</para>
-    <section class="section-workscited" id="sect-00014">
-    <title/>
-    <para class="student-sample" id="para-00013">Buiten, Miriam C. “Towards Intelligent Regulation of Artificial Intelligence.” <emphasis effect="italics">European Journal of Risk Regulation</emphasis>, vol. 10, no. 1, 2019, pp. 41–59, www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/towards-intelligent-regulation-of-artificial-intelligence/AF1AD1940B70DB88D2B24202EE933F1B. Accessed 23 Jan. 2021.</para>
-    </section>
+    <para class="student-sample citation" id="para-00013">Buiten, Miriam C. “Towards Intelligent Regulation of Artificial Intelligence.” <emphasis effect="italics">European Journal of Risk Regulation</emphasis>, vol. 10, no. 1, 2019, pp. 41–59, www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/towards-intelligent-regulation-of-artificial-intelligence/AF1AD1940B70DB88D2B24202EE933F1B. Accessed 23 Jan. 2021.</para>
     <para id="para-00014">After preparing citations for each of your sources, write the annotations. To do this, consider the following:</para>
     <list list-type="bulleted" id="list-00005">
     <item>The purpose of the work</item>
@@ -173,10 +170,7 @@
     <image mime-type="image/png" src="../../media/COMP_Figure_14_04_019.png"/></media>
     <caption>Sample annotated bibliography entry (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
     <para id="para-00021">You can break down this sample annotation, analyzing each part separately as shown in <link target-id="fig-00001" document="m00135"/>.</para>
-    <section class="section-workscited" id="sect-00015">
-      <title/>
-    <para id="para-00022">Buiten, Miriam C. “Towards Intelligent Regulation of Artificial Intelligence.” <emphasis effect="italics">European Journal of Risk Regulation</emphasis>, vol. 10, no. 1, 2019, pp. 41–59, www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/towards-intelligent-regulation-of-artificial-intelligence/AF1AD1940B70DB88D2B24202EE933F1B. Accessed 23 Jan. 2021.</para>
-    </section>
+    <para id="para-00022" class="citation">Buiten, Miriam C. “Towards Intelligent Regulation of Artificial Intelligence.” <emphasis effect="italics">European Journal of Risk Regulation</emphasis>, vol. 10, no. 1, 2019, pp. 41–59, www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/towards-intelligent-regulation-of-artificial-intelligence/AF1AD1940B70DB88D2B24202EE933F1B. Accessed 23 Jan. 2021.</para>
     <para class="annotation-text" id="para-00023"><emphasis effect="bold"><emphasis effect="italics">Format.</emphasis></emphasis> <emphasis effect="italics">Notice the MLA format, including information listing the author, title, publishing journal, and DOI or link to the article. The reader will be able to find and read the article easily.</emphasis></para>
     <para class="student-sample" id="para-00024">Authority: Miriam Buiten is a law and economics professor. She has authored or coauthored eight journal articles and one book, covering topics such as law, technology, and digitalization; competition law; and European law. This article appears in a journal published by Cambridge University Press. It is peer reviewed and intended for an academic audience. The author discusses the unpredictability and difficulty of controlling artificial intelligence and examines what, if anything, can be done to increase transparency, specifically as it relates to the biases present in artificial intelligence algorithms.</para>
     <para class="annotation-text" id="para-00025"><emphasis effect="bold"><emphasis effect="italics">Authority.</emphasis></emphasis> <emphasis effect="italics">The author is named and introduced with background information establishing her authority in the field. The publishing organization is also named, establishing credibility as a peer-reviewed journal.</emphasis></para>
