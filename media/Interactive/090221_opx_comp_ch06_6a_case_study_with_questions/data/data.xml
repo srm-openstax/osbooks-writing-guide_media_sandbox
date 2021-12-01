@@ -55,7 +55,7 @@
   <content>
     <leftcontent> 
     <contentdata type="textentry">
-      <textariatitle><p><span class="shortanswer">Short Answer -</span> <span class="shortanswer1">After reading the sample, work together develop a thoughtful initial response to the author’s work. This statement should be reflective, not directive. Use this sentence frame:</span></p>
+      <textariatitle><p><span class="shortanswer">Short Answer -</span>textariatitle <span class="shortanswer1">After reading the sample, work together develop a thoughtful initial response to the author’s work. This statement should be reflective, not directive. Use this sentence frame:</span></p>
 
       
       <p class="space"><span class="shortanswer1">Our reaction after reading the proposal is _____ because _____.</span></p>
