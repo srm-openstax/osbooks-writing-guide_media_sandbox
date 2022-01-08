@@ -383,13 +383,12 @@
       <para id="para-00069">After reading your peer’s profile all the way through, use <link target-id="table-00008" document="m00053"/> to provide thoughtful and detailed feedback.</para>
       <table summary="" id="table-00008">
       <tgroup cols="2">
-      <thead><row>
-      <entry>Date</entry>
-      <entry align="center"><para id="para-00070">Review of [peer]</para>
-      <para id="para-00071">by [insert your name]</para></entry>
-      </row></thead>
       <tbody>
-      
+        <row>
+          <entry>Date</entry>
+          <entry align="center"><para id="para-00070">Review of [peer]</para>
+          <para id="para-00071">by [insert your name]</para></entry>
+          </row>
       <row>
       <entry><emphasis effect="bold">Profile Genre Element</emphasis></entry>
       <entry align="center"><emphasis effect="bold">Feedback for Your Peer</emphasis></entry>

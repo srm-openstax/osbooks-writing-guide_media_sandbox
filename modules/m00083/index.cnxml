@@ -375,12 +375,12 @@
       <para id="para-00129">If you have a writing center on your campus, it is well worth your time to make an online or in-person appointment with a tutor. You’ll receive valuable feedback and improve your ability to review not only your report but your overall writing.</para>
       <para id="para-00130">Another way to receive feedback on your report is to ask a friend or family member to read your draft. Provide a list of questions or a form such as the one in <link target-id="table-00005" document="m00083"/> for them to complete as they read.</para>
       <table summary="" id="table-00005">
-      <tgroup cols="2">
-      <tbody>
-        <thead><row>
-      <entry><emphasis effect="bold">Questions for Reviewer</emphasis></entry>
-      <entry><emphasis effect="bold">Comment or Suggestion</emphasis></entry>
+      <tgroup cols="2"> <thead><row>
+      <entry>Questions for Reviewer</entry>
+      <entry>Comment or Suggestion</entry>
       </row></thead>
+      <tbody>
+       
       
       <row>
       <entry>Does the introduction interest you in the topic of the report?</entry>
