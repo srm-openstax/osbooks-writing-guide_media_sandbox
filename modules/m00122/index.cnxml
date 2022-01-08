@@ -36,13 +36,15 @@
       <colspec colnum="2" colname="c2"/>
       <colspec colnum="3" colname="c3"/>
       <colspec colnum="4" colname="c4"/>
+      <thead><row>
+        <entry>Essay Section</entry>
+        <entry>Essay Language</entry>
+        <entry>Possible Bias</entry>
+        <entry>Possible Revision</entry>
+        </row>
+  </thead>
       <tbody>
-      <row>
-      <entry><emphasis effect="bold">Essay Section</emphasis></entry>
-      <entry><emphasis effect="bold">Essay Language</emphasis></entry>
-      <entry><emphasis effect="bold">Possible Bias</emphasis></entry>
-      <entry><emphasis effect="bold">Possible Revision</emphasis></entry>
-      </row>
+      
       <row>
       <entry/>
       <entry/>

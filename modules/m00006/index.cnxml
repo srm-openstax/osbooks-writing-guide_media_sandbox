@@ -79,17 +79,17 @@
   <para id="para-00025">The intended audience for my project is ________. They are ________ (familiar/unfamiliar) with the issue. I will reach them by ________.</para>
   <para id="para-00026">After you define the situation, it is time to choose the <term class="no-emphasis" id="term-00008">mode</term> or modes to communicate your ideas to your audience. For example, will you write an op-ed, or opinion piece, in which you formally discuss the issue and advocate for change? Will you write and deliver a speech that relies on rhetorical devices to convey your passion for the issue?<emphasis effect="italics"> </emphasis>You might also consider<emphasis effect="italics"> </emphasis>advertisements and public service announcements (PSAs), including audio and video versions, as other effective ways to “sell” a concept, often combining modes for added impact. For examples, peruse <link url="https://openstax.org/r/op-edproject">The Op-Ed Project</link> or the <link url="https://openstax.org/r/adcouncil">Ad Council</link>.</para>
   <para id="para-00027">Just as your choice of topic must be rhetorically sound and specific, your choice of mode should be based on the circumstances under which your audience will best meet and respond to your advocacy project. This decision may feel daunting, because composing within the multimodal genres means that you have many options. You might choose a video advertisement, a visual flyer, a performance, a photo essay, or something completely different. Consider the modes you might use to accomplish your goals, responding to the needs of your audience.</para>
-  <table summary=" " id="table-00001">
-  <tgroup cols="6">
-  <tbody>
-  <row>
+  <table summary=" " id="table-00001">  
+    <tgroup cols="6">
+  <thead><row>
   <entry/>
-  <entry><emphasis effect="bold">Linguistic Mode</emphasis></entry>
-  <entry><emphasis effect="bold">Visual Mode</emphasis></entry>
-  <entry><emphasis effect="bold">Audio Mode</emphasis></entry>
-  <entry><emphasis effect="bold">Spatial Mode</emphasis></entry>
-  <entry><emphasis effect="bold">Gestural Mode</emphasis></entry>
-  </row>
+  <entry>Linguistic Mode</entry>
+  <entry>Visual Mode</entry>
+  <entry>Audio Mode</entry>
+  <entry>Spatial Mode</entry>
+  <entry>Gestural Mode</entry>
+  </row></thead>
+  <tbody>
   <row>
   <entry><emphasis effect="bold">Uses in Composition</emphasis></entry>
   <entry><para id="para-00028">written text</para><para id="para-00029">word choice</para><para id="para-00030">organization</para><para id="para-00031">tone</para></entry>
@@ -121,13 +121,14 @@
   <para id="para-00064">Now plan for the ways in which your project will create and support the argument, the modes and media you will use, and how these will reach your audience. Start by completing a graphic organizer like <link target-id="table-00002" document="m00006"/>. Begin with what you already know, including the sources of that information, formal research you have done, and informal or anecdotal data you have. After looking carefully at what you have, ask yourself what you still need to learn about the topic to understand and communicate the issue to your audience. Finally, brainstorm for strategies to learn that information. These may include research, interviews, or other methods of data collection. Then carry out that information collection until you have what you need.</para>
   <table summary=" " id="table-00002">
   <tgroup cols="4">
+  <thead><row>
+  <entry>What I already know</entry>
+  <entry>Source(s) of that information</entry>
+  <entry>Information and data that I need to collect</entry>
+  <entry>Where I can find information</entry>
+  </row></thead>
   <tbody>
-  <row>
-  <entry><emphasis effect="bold">What I already know</emphasis></entry>
-  <entry><emphasis effect="bold">Source(s) of that information</emphasis></entry>
-  <entry><emphasis effect="bold">Information and data that I need to collect</emphasis></entry>
-  <entry><emphasis effect="bold">Where I can find information</emphasis></entry>
-  </row>
+  
   <row>
   <entry> </entry>
   <entry> </entry>

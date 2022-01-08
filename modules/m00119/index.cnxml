@@ -75,11 +75,12 @@
       <tgroup cols="2">
       <colspec colnum="1" colname="c1"/>
       <colspec colnum="2" colname="c2"/>
-      <tbody>
-      <row>
+      <thead><row>
       <entry><emphasis effect="bold">Your argumentative research essay writing assignment may require that you …</emphasis></entry>
       <entry><emphasis effect="bold">While also …</emphasis></entry>
-      </row>
+      </row></thead>
+      <tbody>
+      
       <row>
       <entry>develop a topic based on what has already been said and written</entry>
       <entry>writing something new and original.</entry>
@@ -136,11 +137,12 @@
       <tgroup cols="2">
       <colspec colnum="1" colname="c1"/>
       <colspec colnum="2" colname="c2"/>
-      <tbody>
-      <row>
+      <thead><row>
       <entry align="center"><emphasis effect="bold">Summary</emphasis></entry>
       <entry align="center"><emphasis effect="bold">Synthesis</emphasis></entry>
-      </row>
+      </row></thead>
+      <tbody>
+      
       <row>
       <entry>Demonstrates comprehension/understanding</entry>
       <entry>Demonstrates critical/creative thinking and insight</entry>
@@ -192,11 +194,12 @@
       <tgroup cols="2">
       <colspec colwidth="1*" colnum="1" colname="c1"/>
       <colspec colwidth="1*" colnum="2" colname="c2"/>
-      <tbody>
-      <row>
+      <thead><row>
       <entry><emphasis effect="bold">Quotation</emphasis></entry>
       <entry><emphasis effect="bold">Paraphrase</emphasis></entry>
-      </row>
+      </row></thead>
+      <tbody>
+      
       <row>
       <entry>The borrowing must be identical to the original, comprising a narrow segment of the source. The quoted material must match the source document word for word and must be attributed to the original author.</entry>
       <entry>The idea or concept borrowed from a passage is rephrased in your own words. A paraphrase must be attributed to the original source. Paraphrased material may (or may not) be shorter than the original passage, depending on the text. If any language used is the same as the language of the original source, then you are quoting, not paraphrasing. It is sometimes necessary in a paraphrase to use words directly from the borrowed material to account for technical or discipline-specific language. In such instances, place the directly quoted words within quotation marks.</entry>
@@ -246,11 +249,12 @@
       <tgroup cols="2">
       <colspec colnum="1" colname="c1"/>
       <colspec colnum="2" colname="c2"/>
-      <tbody>
-      <row>
+      <thead><row>
       <entry align="center"><emphasis effect="bold">Opening Strategies</emphasis></entry>
       <entry align="center"><emphasis effect="bold">Closing Strategies</emphasis></entry>
-      </row>
+      </row></thead>
+      <tbody>
+      
       <row>
       <entry><para id="para-00036">Describe a related conflict.</para>
       <para id="para-00037">Explain the evolution of your thesis.</para>
@@ -294,14 +298,15 @@
       <colspec colnum="1" colname="c1"/>
       <colspec colnum="2" colname="c2"/>
       <colspec colnum="3" colname="c3"/>
-      <tbody>
-      <row>
+      <thead>    <row>
       <entry align="center"><emphasis effect="bold">Introduction</emphasis></entry>
       <entry align="center"><para id="para-00059"><emphasis effect="bold">That …</emphasis></para>
       <para id="para-00060"><emphasis effect="bold">(What do critics claim?)</emphasis></para></entry>
       <entry align="center"><para id="para-00061"><emphasis effect="bold">However, But, Despite …</emphasis></para>
       <para id="para-00062"><emphasis effect="bold">(What do you say in response?)</emphasis></para></entry>
-      </row>
+      </row></thead>
+      <tbody>
+  
       <row>
       <entry><para id="para-00063">While some may claim …</para>
       <para id="para-00064">Although critics argue …</para>

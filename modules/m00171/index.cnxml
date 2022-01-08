@@ -230,11 +230,12 @@
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <colspec colnum="2" colname="c2" colwidth="2*"/>
-    <tbody>
+    <thead>
     <row>
     <entry align="center"><emphasis effect="bold">Signpost</emphasis></entry>
     <entry align="center"><emphasis effect="bold">Example</emphasis></entry>
-    </row>
+    </row></thead>
+    <tbody>
     <row>
     <entry>Preview</entry>
     <entry>“<emphasis effect="bold">Today, I’d like to introduce you</emphasis> to the organization ReStart, a community outreach that makes a difference for those experiencing homelessness in our community.”</entry>

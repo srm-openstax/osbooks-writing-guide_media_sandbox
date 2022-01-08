@@ -38,13 +38,14 @@
   <colspec colnum="2" colname="c2"/>
   <colspec colnum="3" colname="c3"/>
   <colspec colnum="4" colname="c4"/>
+  <thead><row>
+    <entry>Score</entry>
+    <entry>Critical Language Awareness</entry>
+    <entry>Clarity and Coherence</entry>
+    <entry>Rhetorical Choices</entry>
+  </row></thead>
   <tbody>
-  <row>
-    <entry><emphasis effect="bold">Score</emphasis></entry>
-    <entry><emphasis effect="bold">Critical Language Awareness</emphasis></entry>
-    <entry><emphasis effect="bold">Clarity and Coherence</emphasis></entry>
-    <entry><emphasis effect="bold">Rhetorical Choices</emphasis></entry>
-  </row>
+  
   <row>
   <entry>5 Skillful</entry>
   <entry>The composition effectively communicates a position through a variety of genres, introducing media successfully. The composition also shows ample evidence of the composer’s intent to meet or challenge conventional expectations in rhetorically effective ways.</entry>

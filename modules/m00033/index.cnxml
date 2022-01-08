@@ -44,13 +44,14 @@
       <para id="para-00008">A <term id="term-00003">rhetorical situation</term> occurs every time anyone communicates with anyone else. To prepare to write your literacy narrative, use a graphic organizer like <link target-id="table-00001" document="m00033"/> to outline the rhetorical situation by addressing the following aspects:</para>
       <table summary="Use a graphic organizer to address the rhetorical situation by defining the author (your writing identity); the message (what you want to communicate); the audience (to whom you want to communicate); the purpose (why you want to communicate this message to this audience); the means (how you will communicate this message to this audience; the genre and structural and style choices); the context (effects of time period and location on message and audience); and the culture (assumptions regarding the author, message, or audience) of the writing situation." id="table-00001">
       <tgroup cols="4">
+      <thead><row>
+      <entry><para id="para-00009">Rhetorical Situation Element</para></entry>
+      <entry><para id="para-00010">Brainstorming Questions</para></entry>
+      <entry><para id="para-00011">Examples</para></entry>
+      <entry><para id="para-00012">Your Notes</para></entry>
+      </row></thead>
       <tbody>
-      <row>
-      <entry><para id="para-00009"><emphasis effect="bold">Rhetorical Situation Element</emphasis></para></entry>
-      <entry><para id="para-00010"><emphasis effect="bold">Brainstorming Questions</emphasis></para></entry>
-      <entry><para id="para-00011"><emphasis effect="bold">Examples</emphasis></para></entry>
-      <entry><para id="para-00012"><emphasis effect="bold">Your Notes</emphasis></para></entry>
-      </row>
+      
       <row>
       <entry><para id="para-00013"><emphasis effect="bold">Author</emphasis> (who)</para></entry>
       <entry><para id="para-00014">Which of your identities will you inhabit as you write this assignment?</para></entry>
@@ -151,14 +152,15 @@
       <para id="para-00060">Now that you have planned your literacy narrative, you are ready to begin drafting. If you have been thoughtful in preparing to write, drafting usually proceeds quickly and smoothly. Use your notes to guide you in composing the first draft. As you write about specific events and scenes, create a rich picture for your reader by using concrete, sensory details and specific rather than general nouns as shown in <link target-id="table-00002" document="m00033"/>.</para>
       <table summary="Use a chart to brainstorm general, less specific, more specific, and sensory descriptions for nouns." id="table-00002">
       <tgroup cols="5">
-      <tbody>
-      <row>
+      <thead><row>
       <entry> </entry>
-      <entry><emphasis effect="bold">Person</emphasis></entry>
-      <entry><emphasis effect="bold">Place</emphasis></entry>
-      <entry><emphasis effect="bold">Thing</emphasis></entry>
-      <entry><emphasis effect="bold">Idea</emphasis></entry>
-      </row>
+      <entry>Person</entry>
+      <entry>Place</entry>
+      <entry>Thing</entry>
+      <entry>Idea</entry>
+      </row></thead>
+      <tbody>
+      
       <row>
       <entry><emphasis effect="bold">General</emphasis></entry>
       <entry>girl</entry>
@@ -225,12 +227,13 @@
       <para id="para-00083">Consider the ways in which Douglass’s account and Keller’s account are stylistically similar and different. Both use figurative language—“bread of knowledge”—and make allusions to the Christian tradition. However, Douglass uses dialogue to illustrate a social disparity, whereas Keller’s transformation and her language are largely internal. You should make use of the strategies that best fit your own literacy narrative as shown in <link target-id="table-00003" document="m00033"/>.</para>
       <table summary="In your draft, use some of the strategies used by Helen Keller, such as reflective diction, figurative language, sensory language, allusion, a shift in perception, and theme." id="table-00003">
       <tgroup cols="3">
+      <thead><row>
+      <entry>Writing Strategy</entry>
+      <entry>Examples and Explanation</entry>
+      <entry>Try It</entry>
+      </row></thead>
       <tbody>
-      <row>
-      <entry><emphasis effect="bold">Writing Strategy</emphasis></entry>
-      <entry><emphasis effect="bold">Examples and Explanation</emphasis></entry>
-      <entry><emphasis effect="bold">Try It</emphasis></entry>
-      </row>
+      
       <row>
       <entry>Reflective diction</entry>
       <entry><para id="para-00084">Remember</para>
@@ -336,12 +339,13 @@
       <title>Guided Peer Review Activity</title>
       <table summary="Use a graphic organzier to give peer feedback, including commentary on the writer’s identity and viewpoint, focus on the subject, details and influences regarding the subject, and elements of the rhetorical situation." id="table-00004">
       <tgroup cols="3">
+      <thead> <row>
+      <entry>Essay Criteria</entry>
+      <entry>Evidence</entry>
+      <entry>Suggestion for Revision</entry>
+      </row></thead>
       <tbody>
-      <row>
-      <entry><emphasis effect="bold">Essay Criteria</emphasis></entry>
-      <entry><emphasis effect="bold">Evidence</emphasis></entry>
-      <entry><emphasis effect="bold">Suggestion for Revision</emphasis></entry>
-      </row>
+     
       <row>
       <entry>The narrative engages the identity of the writer.</entry>
       <entry><para id="para-00139">List evidence of the writer’s identity in the narrative:</para>

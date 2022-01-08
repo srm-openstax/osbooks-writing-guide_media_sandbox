@@ -32,11 +32,12 @@
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
-    <tbody>
-    <row>
+    <thead><row>
     <entry align="center"><emphasis effect="bold">Persuasion Purpose</emphasis></entry>
     <entry align="center"><emphasis effect="bold">Sample Thesis Statement</emphasis></entry>
-    </row>
+    </row></thead>
+    <tbody>
+    
     <row>
     <entry><emphasis effect="bold">What is the image’s value?</emphasis></entry>
     <entry>The image of the mask, its text, and the woman wearing it convey an important message that serves as a valuable artifact representing many of the complexities of 2020.</entry>
@@ -64,11 +65,12 @@
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
-    <tbody>
-    <row>
+    <thead><row>
     <entry align="center"><emphasis effect="bold">Side A</emphasis></entry>
     <entry align="center"><emphasis effect="bold">Side B</emphasis></entry>
-    </row>
+    </row></thead>
+    <tbody>
+    
     <row>
     <entry align="center" namest="c1" nameend="c2">Purpose / Thesis</entry>
     </row>
@@ -159,12 +161,13 @@
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
     <colspec colnum="3" colname="c3"/>
-    <tbody>
+    <thead>
     <row>
     <entry/>
     <entry align="center"><emphasis effect="bold">Questions to Consider</emphasis></entry>
     <entry align="center"><emphasis effect="bold">Your Responses</emphasis></entry>
-    </row>
+    </row></thead>
+    <tbody>
     <row>
     <entry align="center"><emphasis effect="bold">Purpose</emphasis></entry>
     <entry>With regard to the image, are you writing to describe, to reflect, to analyze, or to evaluate (persuade)?</entry>

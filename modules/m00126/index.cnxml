@@ -47,11 +47,12 @@
       <tgroup cols="2">
       <colspec colnum="1" colname="c1" colwidth="1*"/>
       <colspec colnum="2" colname="c2" colwidth="1*"/>
-      <tbody>
-      <row>
+      <thead><row>
       <entry align="center"><emphasis effect="bold">Observations</emphasis></entry>
       <entry align="center"><emphasis effect="bold">Questions and Speculation</emphasis></entry>
-      </row>
+      </row></thead>
+      <tbody>
+      
       <row>
       <entry>Student enters campus restaurant with friends. Friends look around for seating before rejoining student at the counter. Friends take over five minutes to find an empty table that will seat them. Both the students searching for tables and the student at the counter keep checking their watches. The time is between classes but later in the afternoon than normal lunch time: 2:30.</entry>
       <entry>How many seats are available in the campus restaurant? Are students at the tables eating, studying, or both? The students appear concerned about time and the opportunity to eat as a group.</entry>

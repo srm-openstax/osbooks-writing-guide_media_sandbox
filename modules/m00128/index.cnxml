@@ -37,12 +37,13 @@
       <colspec colnum="1" colname="c1"/>
       <colspec colnum="2" colname="c2"/>
       <colspec colnum="3" colname="c3"/>
-      <tbody>
+      <thead>
       <row>
       <entry align="center"><emphasis effect="bold">Information</emphasis></entry>
       <entry align="center"><emphasis effect="bold">Connection to Thesis/Main Points</emphasis></entry>
       <entry align="center"><emphasis effect="bold">Notes/Cross-References/Synthesis</emphasis></entry>
-      </row>
+      </row></thead>
+      <tbody>
       <row>
       <entry><para id="para-00011"><emphasis effect="bold">Date:</emphasis> 12/07/2020</para>
       <para id="para-00012">Their report states, “If society continues on a ‘business-as-usual’ dietary trajectory, a 119% increase in edible crops grown will be required by 2050” (Berners-Lee).</para></entry>

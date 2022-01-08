@@ -62,13 +62,14 @@
     <colspec colnum="2" colname="c2"/>
     <colspec colnum="3" colname="c3"/>
     <colspec colnum="4" colname="c4"/>
-    <tbody>
+    <thead>
     <row>
     <entry align="center"><emphasis effect="bold">Form</emphasis></entry>
     <entry align="center"><emphasis effect="bold">First Person</emphasis></entry>
     <entry align="center"><emphasis effect="bold">Second Person</emphasis></entry>
     <entry align="center"><emphasis effect="bold">Third Person</emphasis></entry>
-    </row>
+    </row></thead>
+    <tbody>
     <row>
     <entry align="center"><emphasis effect="bold">Subject</emphasis></entry>
     <entry align="center">I, we</entry>
@@ -95,11 +96,12 @@
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
-    <tbody>
+    <thead>
     <row>
     <entry align="center"><emphasis effect="bold">Subject Position</emphasis></entry>
     <entry align="center"><emphasis effect="bold">Object Position</emphasis></entry>
-    </row>
+    </row></thead>
+    <tbody>
     <row>
     <entry align="center"><para id="para-00024">I</para>
     <para id="para-00025">you</para>
@@ -141,12 +143,13 @@
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
     <colspec colnum="3" colname="c3"/>
-    <tbody>
+    <thead>
     <row>
     <entry align="center"><emphasis effect="bold">First Person</emphasis></entry>
     <entry align="center"><emphasis effect="bold">Second Person</emphasis></entry>
     <entry align="center"><emphasis effect="bold">Third Person</emphasis></entry>
-    </row>
+    </row></thead>
+    <tbody>
     <row>
     <entry align="center">myself, ourselves</entry>
     <entry align="center">yourself, yourselves</entry>

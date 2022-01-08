@@ -46,7 +46,7 @@
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
     <colspec colnum="3" colname="c3"/>
-    <tbody>
+    <thead>
     <row>
     <entry align="center" namest="c1" nameend="c3"><emphasis effect="bold">Video Creation Software</emphasis></entry>
     </row>
@@ -54,7 +54,8 @@
     <entry align="center"><emphasis effect="bold">Name</emphasis></entry>
     <entry align="center"><emphasis effect="bold">Notes</emphasis></entry>
     <entry align="center"><emphasis effect="bold">Location</emphasis></entry>
-    </row>
+    </row></thead>
+    <tbody>
     <row>
     <entry>Lightworks</entry>
     <entry>Best for beginners. Includes stock images.</entry>

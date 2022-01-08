@@ -48,13 +48,14 @@
       <para id="para-00004">All reviewers and readers alike rely on evidence to support an evaluation. When you review a primary source, the evidence you use depends on the subject of your evaluation, your audience, and how your audience will use your evaluation. You will need to determine the criteria on which to base your evaluation. In some cases, you will also need to consider the genre and subgenre of your subject to determine evaluation criteria. In your review, you will need to clarify your evaluation criteria and the way in which specific evidence related to those criteria have led you to your judgment. <link target-id="table-00001" document="m00071"/> illustrates evaluation criteria in four different primary source types.</para>
       <table summary="" id="table-00001">
       <tgroup cols="4">
-      <tbody>
-      <row>
+        <thead><row>
       <entry><emphasis effect="bold">Smartphone</emphasis></entry>
       <entry><emphasis effect="bold">Academic Source</emphasis></entry>
       <entry><emphasis effect="bold">Film</emphasis></entry>
       <entry><emphasis effect="bold">Employment</emphasis></entry>
-      </row>
+      </row></thead>
+      <tbody>
+      
       <row>
       <entry>Camera quality</entry>
       <entry>Author’s credentials</entry>
@@ -98,13 +99,14 @@
       <para class="annotation linguistic-icon visual-icon" id="para-00005">Even within the same subject, however, evaluation criteria may differ according to the genre and subgenre of the film. Audiences have different expectations for a horror movie than they do for a romantic comedy, for example. For your subject, select the evaluation criteria on the basis of your knowledge of audience expectations. <link target-id="table-00002" document="m00071"/> shows how the evaluation criteria might be different in film reviews of different genres.</para>
       <table summary="" id="table-00002">
       <tgroup cols="4">
-      <tbody>
-      <row>
+        <thead><row>
       <entry><emphasis effect="bold">Horror</emphasis></entry>
       <entry><emphasis effect="bold">Action</emphasis></entry>
       <entry><emphasis effect="bold">Romantic Comedy</emphasis></entry>
       <entry><emphasis effect="bold">Drama</emphasis></entry>
-      </row>
+      </row></thead>
+      <tbody>
+      
       <row>
       <entry>Makeup</entry>
       <entry>Special effects</entry>

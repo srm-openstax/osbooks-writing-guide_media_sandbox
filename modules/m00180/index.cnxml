@@ -59,13 +59,13 @@
     <colspec colnum="2" colname="c2"/>
     <colspec colnum="3" colname="c3"/>
     <colspec colnum="4" colname="c4"/>
-    <tbody>
-    <row>
+    <thead>row>
     <entry>Chapter Number</entry>
     <entry>Key Skills Learned</entry>
     <entry align="center">Successes</entry>
     <entry align="center">Challenges</entry>
-    </row>
+    </thead>
+    <tbody>
     <row>
     <entry>1</entry>
     <entry>Summarize, Analyze, Evaluate</entry>
@@ -249,12 +249,13 @@
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
     <colspec colnum="3" colname="c3"/>
+    <thead> <row>
+      <entry align="center"><emphasis effect="bold">Topic Sentence/Claim</emphasis></entry>
+      <entry align="center"><para id="para-00022"><emphasis effect="bold">Reasoning Strategy (Circle All Used)</emphasis></para></entry>
+      <entry align="center"><emphasis effect="bold">Quoted Evidence from Portfolio</emphasis></entry>
+      </row></thead>
     <tbody>
-    <row>
-    <entry align="center"><emphasis effect="bold">Topic Sentence/Claim</emphasis></entry>
-    <entry align="center"><para id="para-00022"><emphasis effect="bold">Reasoning Strategy (Circle All Used)</emphasis></para></entry>
-    <entry align="center"><emphasis effect="bold">Quoted Evidence from Portfolio</emphasis></entry>
-    </row>
+   
     <row>
       <entry/>
       <entry><para id="para-00024">Revisit <link document="m00108">Reasoning Strategies: Improving Critical Thinking</link> to find frames and word banks that will help you employ these strategies.</para></entry>

@@ -31,12 +31,13 @@
       <para class="annotation dreaming-icon" id="para-00003">Like other kinds of writing projects, a report starts with assessing the <term id="term-00006">rhetorical situation</term>—the circumstance in which a writer communicates with an audience of readers about a subject. As the writer of a report, you make choices based on the purpose of your writing, the audience who will read it, the genre of the report, and the expectations of the community and culture in which you are working. A graphic organizer like <link target-id="table-00001" document="m00083"/> can help you begin.</para>
       <table summary="" id="table-00001">
       <tgroup cols="3">
+        <thead><row>
+      <entry align="center">Rhetorical Situation Element</entry>
+      <entry align="center">Brainstorming Questions</entry>
+      <entry align="center">Your Responses</entry>
+      </row></thead>
       <tbody>
-      <row>
-      <entry align="center"><emphasis effect="bold">Rhetorical Situation Element</emphasis></entry>
-      <entry align="center"><emphasis effect="bold">Brainstorming Questions</emphasis></entry>
-      <entry align="center"><emphasis effect="bold">Your Responses</emphasis></entry>
-      </row>
+      
       <row>
       <entry><para id="para-00004"><emphasis effect="bold">Topic</emphasis></para>
       <para id="para-00005">Is the topic of your report specified, or are you free to choose?</para></entry>
@@ -123,11 +124,12 @@
       <para id="para-00050">For example, imagine that you have decided to write your analytical report on the effect of the COVID-19 shutdown on high-school students by interviewing students on your college campus. Your questions and answers might look something like those in <link target-id="table-00002" document="m00083"/>:</para>
       <table summary="" id="table-00002">
       <tgroup cols="2">
-      <tbody>
-      <row>
+        <thead><row>
       <entry><emphasis effect="bold">Question</emphasis></entry>
       <entry><emphasis effect="bold">Sample Answer</emphasis></entry>
-      </row>
+      </row></thead>
+      <tbody>
+      
       <row>
       <entry><emphasis effect="bold">Who</emphasis> was involved in the 2020 COVID-19 shutdown?</entry>
       <entry>Nearly every student of my generation was sent home to learn in 2020. My school was one of the first in the United States to close. We were in school one day, and then we were all sent home, wondering when we would go back.</entry>
@@ -171,11 +173,12 @@
       <para id="para-00055">Any of these questions might be developed into a thesis for an analytical report. <link target-id="table-00003" document="m00083"/> shows more examples of broad topics and focusing questions.</para>
       <table summary="" id="table-00003">
       <tgroup cols="2">
-      <tbody>
-      <row>
+        <thead><row>
       <entry><emphasis effect="bold">Broad Topics</emphasis></entry>
       <entry><emphasis effect="bold">Focusing Questions</emphasis></entry>
-      </row>
+      </row></thead>
+      <tbody>
+      
       <row>
       <entry>Sports, such as college athletes and academic performance</entry>
       <entry><para id="para-00056">How does participating in a sport affect the academic performance of college athletes?</para>
@@ -267,12 +270,13 @@
       <para class="annotation dreaming-icon" id="para-00099">As a next step, organize the points you want to make in your report and the evidence to support them. Use an outline, a diagram, or another organizational tool, such as <link target-id="table-00004" document="m00083"/>.</para>
       <table summary="" id="table-00004">
       <tgroup cols="2">
-      <tbody>
-      <row>
+        <thead><row>
       <entry align="center"><emphasis effect="bold">Report Section</emphasis></entry>
       <entry align="center"><emphasis effect="bold">Content</emphasis></entry>
       <entry align="center"><emphasis effect="bold">Your Notes</emphasis></entry>
-      </row>
+      </row></thead>
+      <tbody>
+      
       <row>
       <entry>Introduction (usually one paragraph, but can be two)</entry>
       <entry><para id="para-00100">Draw readers in with an overview; an anecdote; a question (open-ended, not yes-or-no); a description of an event, scene, or situation; or a quotation.</para>
@@ -373,10 +377,11 @@
       <table summary="" id="table-00005">
       <tgroup cols="2">
       <tbody>
-      <row>
+        <thead><row>
       <entry><emphasis effect="bold">Questions for Reviewer</emphasis></entry>
       <entry><emphasis effect="bold">Comment or Suggestion</emphasis></entry>
-      </row>
+      </row></thead>
+      
       <row>
       <entry>Does the introduction interest you in the topic of the report?</entry>
       <entry/>

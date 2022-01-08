@@ -20,13 +20,14 @@
       <title>Rubric</title>
       <table summary="Use the Rubric to evaluate writing before submitting for a grade." id="table-00001">
       <tgroup cols="4">
+      <thead>  <row>
+      <entry>Score</entry>
+      <entry>Critical Language Awareness</entry>
+      <entry>Clarity and Coherence</entry>
+      <entry>Rhetorical Choices</entry>
+      </row></thead>
       <tbody>
-      <row>
-      <entry align="center"><emphasis effect="bold">Score</emphasis></entry>
-      <entry align="center"><emphasis effect="bold">Critical Language Awareness</emphasis></entry>
-      <entry align="center"><emphasis effect="bold">Clarity and Coherence</emphasis></entry>
-      <entry align="center"><emphasis effect="bold">Rhetorical Choices</emphasis></entry>
-      </row>
+      
       <row>
       <entry><para id="para-00003"><emphasis effect="bold">5</emphasis></para>
       <para id="para-00004"><emphasis effect="bold">Skillful</emphasis></para></entry>

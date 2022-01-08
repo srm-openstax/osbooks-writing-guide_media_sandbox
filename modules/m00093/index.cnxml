@@ -67,11 +67,12 @@
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <colspec colnum="2" colname="c2" colwidth="1*"/>
-    <tbody>
-    <row>
+    <thead><row>
     <entry><emphasis effect="bold">Sentence</emphasis></entry>
     <entry><emphasis effect="bold">Why or Why Not?</emphasis></entry>
-    </row>
+    </row></thead>
+    <tbody>
+    
     <row>
     <entry>Only 50 percent of the students have said they want to study Spanish or any other language, so statistics show a lack of interest in spite of Octavio Peterson’s rhetorical claims.</entry>
     <entry/>
@@ -103,12 +104,13 @@
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
     <colspec colnum="3" colname="c3"/>
-    <tbody>
-    <row>
+    <thead><row>
     <entry><emphasis effect="bold">Rhetorical Device/Strategy</emphasis></entry>
     <entry><emphasis effect="bold">Paragraph(s) Location</emphasis></entry>
     <entry><emphasis effect="bold">Effect on Argument</emphasis></entry>
-    </row>
+    </row></thead>
+    <tbody>
+    
     <row>
     <entry>Ethos, credibility</entry>
     <entry>First, second, fourth </entry>

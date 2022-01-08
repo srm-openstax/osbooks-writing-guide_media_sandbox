@@ -59,10 +59,11 @@
       <colspec colnum="2" colname="c2" colwidth="1*"/>
       <colspec colnum="3" colname="c3" colwidth="1*"/>
       <colspec colnum="4" colname="c4" colwidth="1*"/>
+      <thead>
+        <row>
+        <entry align="center" namest="c1" nameend="c4"><emphasis effect="bold">Research Questions</emphasis></entry>
+        </row></thead>
       <tbody>
-      <row>
-      <entry align="center" namest="c1" nameend="c4"><emphasis effect="bold">Research Questions</emphasis></entry>
-      </row>
       <row>
       <entry><emphasis effect="bold">Topic</emphasis></entry>
       <entry><emphasis effect="bold">Research question doesn’t meet basic requirements. It is a yes-or-no question, of little consequence, easy to answer, or suggestive of the “right” answer.</emphasis></entry>

@@ -265,12 +265,13 @@
       <para id="para-00091">Use a graphic organizer like <link target-id="table-00001" document="m00103"/> to focus points, reasoning, and evidence for body paragraphs. You are free to reword your thesis, reasoning, counterclaim(s), refutation of counterclaim(s), concrete evidence, and explanation/elaboration/clarification at any time. You are also free to adjust the order in which you present your reasoning, counterclaim(s), and refuting of counterclaim(s).</para>
       <table summary="" id="table-00001">
       <tgroup cols="1">
+        <thead><row>
+          <entry align="center"><para id="para-00092"><emphasis effect="bold">Composing Your First Draft</emphasis></para>
+          <para id="para-00093"/>
+          <para id="para-00094"><emphasis effect="bold">Position Argument</emphasis></para></entry>
+          </row></thead>
       <tbody>
-      <row>
-      <entry align="center"><para id="para-00092"><emphasis effect="bold">Composing Your First Draft</emphasis></para>
-      <para id="para-00093"/>
-      <para id="para-00094"><emphasis effect="bold">Position Argument</emphasis></para></entry>
-      </row>
+      
       <row>
       <entry><para id="para-00095">Name ________________________________________________________________________</para>
       <para id="para-00096">Thesis: In your thesis, remember to include 1) an explanation of the issue and 2) your position about what should happen regarding the issue.</para>

@@ -45,14 +45,15 @@
       <tgroup cols="2">
       <colspec colnum="1" colname="c1"/>
       <colspec colnum="2" colname="c2"/>
-      <tbody>
-      <row>
+      <thead><row>
       <entry align="center" namest="c1" nameend="c2"><emphasis effect="bold">Primary Source: <emphasis effect="italics">The Texas Chainsaw Massacre</emphasis> (2003 Film)</emphasis></entry>
       </row>
       <row>
       <entry align="center"><emphasis effect="bold">Genre Characteristics: Horror</emphasis></entry>
       <entry align="center"><emphasis effect="bold">Examples</emphasis></entry>
-      </row>
+      </row></thead>
+      <tbody>
+      
       <row>
       <entry>Script/plot: Scary story</entry>
       <entry>Presented as a “true” story, scary ending</entry>
@@ -125,12 +126,14 @@
       <title>Thesis</title>
       <para id="para-00015">Use a graphic organizer like <link target-id="table-00002" document="m00073"/> to plan your draft. Then, you will use the notes you took earlier to help you brainstorm for the main points that support the thesis and provide specific, concrete evidence.</para>
       <table summary="" id="table-00002">
+        
       <tgroup cols="2">
-      <tbody>
-      <row>
+        <thead><row>
       <entry><emphasis effect="bold">Primary Source</emphasis></entry>
       <entry><emphasis effect="bold">Title of work(s) being reviewed</emphasis></entry>
-      </row>
+      </row></thead>
+      <tbody>
+      
       <row>
       <entry><emphasis effect="bold">Angle of Analysis</emphasis></entry>
       <entry><para id="para-00016">Overall way you will organize your review: aspects of the source you will analyze or criteria on which you plan to focus.</para>

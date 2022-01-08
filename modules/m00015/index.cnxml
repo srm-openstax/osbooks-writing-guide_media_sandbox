@@ -145,12 +145,13 @@
     <para id="para-00052">Now, it is your turn to put this knowledge to work. Use a graphic organizer like <link target-id="table-00001" document="m00015"/> to get started drafting your ideas in response to your chosen text.</para>
     <table summary=" " id="table-00001">
     <tgroup cols="3">
+    <thead><row>
+    <entry>Structure of Response</entry>
+    <entry>Content of Response</entry>
+    <entry>Your Response</entry>
+    </row></thead>
     <tbody>
-    <row>
-    <entry><emphasis effect="bold">Structure of Response</emphasis></entry>
-    <entry><emphasis effect="bold">Content of Response</emphasis></entry>
-    <entry><emphasis effect="bold">Your Response</emphasis></entry>
-    </row>
+    
     <row>
     <entry><para id="para-00053">Introduction</para></entry>
     <entry><para id="para-00054">Author</para><para id="para-00055">Title of Work</para><para id="para-00056">Summary of rhetorical situation</para><para id="para-00057">Statement of analysis or evaluation</para></entry>

@@ -68,11 +68,12 @@
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
-    <tbody>
+    <thead>
     <row>
     <entry><emphasis effect="bold">Type of Transition</emphasis></entry>
     <entry><emphasis effect="bold">Examples</emphasis></entry>
-    </row>
+    </row></thead>
+    <tbody>
     <row>
     <entry>to compare or show similarity</entry>
     <entry>likewise, similarly, in like manner</entry>
@@ -150,11 +151,12 @@
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
-    <tbody>
+<thead>
     <row>
     <entry><emphasis effect="bold">Instead of the phrase . . .</emphasis></entry>
     <entry><emphasis effect="bold">Use an action verb</emphasis></entry>
-    </row>
+    </row></thead>
+    <tbody>
     <row>
     <entry>reach a decision, come to a decision</entry>
     <entry>decide</entry>
@@ -201,11 +203,12 @@
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
-    <tbody>
+    <thead>
     <row>
     <entry><emphasis effect="bold">Replace a common filler phrase . . .</emphasis></entry>
     <entry><emphasis effect="bold">With a single word</emphasis></entry>
-    </row>
+    </row></thead>
+    <tbody>
     <row>
     <entry>at all times</entry>
     <entry>always</entry>
@@ -432,11 +435,12 @@
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
-    <tbody>
+    <thead>
     <row>
     <entry><emphasis effect="bold">Confusing Words</emphasis></entry>
     <entry><emphasis effect="bold">Definitions and Examples</emphasis></entry>
-    </row>
+    </row></thead>
+    <tbody>
     <row>
     <entry>accept, except</entry>
     <entry><emphasis effect="italics">Accept</emphasis> means “to receive willingly.” <emphasis effect="italics">Except</emphasis> is used mostly as a preposition meaning “excluding.” <emphasis effect="italics">He <emphasis effect="underline">accepted</emphasis> all the gifts <emphasis effect="underline">except</emphasis> mine.</emphasis></entry>
@@ -1443,11 +1447,12 @@
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
-    <tbody>
+    <thead>
     <row>
     <entry><emphasis effect="bold">Discipline</emphasis></entry>
     <entry><emphasis effect="bold">Documentation Style</emphasis></entry>
-    </row>
+    </row></thead>
+    <tbody>
     <row>
     <entry>languages, literature, philosophy, and some arts</entry>
     <entry>Modern Language Association (MLA)</entry>

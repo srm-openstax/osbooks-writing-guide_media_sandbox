@@ -62,12 +62,13 @@
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
     <colspec colnum="3" colname="c3"/>
+    <thead>
+      <row>
+      <entry align="center"><emphasis effect="bold">Discipline</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Primary Source Example</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Secondary Source Example</emphasis></entry>
+      </row></thead>
     <tbody>
-    <row>
-    <entry align="center"><emphasis effect="bold">Discipline</emphasis></entry>
-    <entry align="center"><emphasis effect="bold">Primary Source Example</emphasis></entry>
-    <entry align="center"><emphasis effect="bold">Secondary Source Example</emphasis></entry>
-    </row>
     <row>
     <entry><emphasis effect="bold">Literature</emphasis></entry>
     <entry>Wilfred Owen’s poem “Dulce et Decorum est”</entry>

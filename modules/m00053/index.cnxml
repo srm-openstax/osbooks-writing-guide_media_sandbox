@@ -61,10 +61,11 @@
       <para id="para-00013">You will need to complete three kinds of research for your profile: interviews, field research and secondary research; see <link document="m00125">The Research Process: Where to Look for Existing Sources</link> and <link document="m00126">The Research Process: How to Create Sources</link>. These types of research are outlined in <link target-id="table-00001" document="m00053"/> for efficient planning and discussed in detail below.</para>
       <table summary="" id="table-00001">
       <tgroup cols="1">
+        <thead><row>
+          <entry align="center">Plan Your Research Calendar</entry>
+          </row></thead>
       <tbody>
-      <row>
-      <entry align="center"><emphasis effect="bold">Plan Your Research Calendar</emphasis></entry>
-      </row>
+      
       <row>
       <entry><para id="para-00014"><emphasis effect="bold">Interviews</emphasis></para>
       <list id="list-00005">
@@ -99,10 +100,10 @@
       <tgroup cols="2">
       <colspec colnum="1" colname="c1"/>
       <colspec colnum="2" colname="c2"/>
+      <thead><row>
+        <entry align="center" namest="c1" nameend="c2">Professional Email</entry>
+        </row></thead>
       <tbody>
-      <row>
-      <entry align="center" namest="c1" nameend="c2"><emphasis effect="bold">Professional Email</emphasis></entry>
-      </row>
       <row>
       <entry namest="c1" nameend="c2">Take care to use professional email etiquette when contacting potential interview subjects.</entry>
       </row>
@@ -149,10 +150,11 @@
       <tgroup cols="2">
       <colspec colnum="1" colname="c1"/>
       <colspec colnum="2" colname="c2"/>
+      <thead><row>
+      <entry align="center" namest="c1" nameend="c2">Interview Planning Worksheet</entry>
+      </row></thead>
       <tbody>
-      <row>
-      <entry align="center" namest="c1" nameend="c2"><emphasis effect="bold">Interview Planning Worksheet</emphasis></entry>
-      </row>
+      
       <row>
       <entry><para id="para-00045"><emphasis effect="bold">If you are interviewing your subject:</emphasis></para>
       <list id="list-00009">
@@ -184,10 +186,11 @@
       <para class="annotation kinesthetic-icon" id="para-00047">Another form of primary research is field observation. If at all possible, observe your subject in their element—watch them (with permission!) during their workday, spend an extended period of time in a related space, or watch available videos of your subject. In all cases, take thorough and detailed notes to create a <term id="term-00007">thick description</term>, or a careful record of every sensory detail you can capture—smells, sounds, sights, textures, physical sensations, and perhaps tastes. This thick description can provide meaningful details to illuminate the points in your piece. Meticulously record all sensory information about your subject and their setting, writing in-depth notes about what you see, smell, hear, feel, and taste. Remember to use words that express size, shape, color, texture, and sound. If you are taking notes on a person, describe their clothing, gestures, and physical characteristics. At the same time, take note of the interview setting. If the interview takes place in a neutral space, the setting can provide a backdrop for the profile. If the interview setting is a person’s room or apartment, record the details that tell the most about your subject’s special interests. If you are not used to taking these kinds of notes, practice doing so by following the steps in <link target-id="table-00004" document="m00053"/>.</para>
       <table summary="" id="table-00004">
       <tgroup cols="1">
+        <thead><row>
+          <entry align="center">Practice Field Notes and Thick Description</entry>
+          </row></thead>
       <tbody>
-      <row>
-      <entry align="center"><emphasis effect="bold">Practice Field Notes and Thick Description</emphasis></entry>
-      </row>
+      
       <row>
       <entry><para id="para-00048">Practice creating field notes with a peer. Take about 10 minutes to record as much sensory information as possible.</para>
       <list id="list-00011">
@@ -219,15 +222,16 @@
       <colspec colnum="1" colname="c1"/>
       <colspec colnum="2" colname="c2"/>
       <colspec colnum="3" colname="c3"/>
-      <tbody>
-      <row>
+      <thead><row>
       <entry align="center" namest="c1" nameend="c3"><emphasis effect="bold">Synthesizing: Putting Your Research Together</emphasis></entry>
       </row>
       <row>
-      <entry align="center"><emphasis effect="bold">Source</emphasis></entry>
-      <entry align="center"><emphasis effect="bold">Element</emphasis></entry>
-      <entry align="center"><emphasis effect="bold">Potential Angle</emphasis></entry>
-      </row>
+      <entry align="center">Source</entry>
+      <entry align="center">Element</entry>
+      <entry align="center">Potential Angle</entry>
+      </row></thead>
+      <tbody>
+      
       <row>
       <entry><emphasis effect="bold">List your sources by type:</emphasis></entry>
       <entry><emphasis effect="bold">List the elements you can draw from the sources—quotations, anecdotes, facts, background information, contextual information:</emphasis></entry>
@@ -292,11 +296,12 @@
       <para id="para-00063">The sample texts in this chapter provide models for you to use when developing your draft. Use a graphic organizer like <link target-id="table-00006" document="m00053"/> to identify the following profile genre elements in one or more of the model texts featured in this chapter: <link document="m00052">Annotated Sample Reading</link>, the student sample in this section, or <link document="m00056">Spotlight on … Profiling a Cultural Artifact</link>. Remember that single paragraphs often synthesize more than one type of information and use more than one strategy.</para>
       <table summary="" id="table-00006">
       <tgroup cols="2">
+      <thead><row>
+      <entry align="center">Strategies Used in This Chapter’s Sample Texts</entry>
+      <entry align="center">Example of the Strategy That You Found in One or More Sample Texts</entry>
+      </row></thead>
       <tbody>
-      <row>
-      <entry align="center"><emphasis effect="bold">Strategies Used in This Chapter’s Sample Texts</emphasis></entry>
-      <entry align="center"><emphasis effect="bold">Example of the Strategy That You Found in One or More Sample Texts</emphasis></entry>
-      </row>
+      
       <row>
       <entry>Draw the reader in with a brief, compelling description of the subject.</entry>
       <entry/>
@@ -359,10 +364,11 @@
       <para id="para-00068">After you have developed a solid draft, you are ready to receive feedback from your peers. To prepare for peer review, reread the assignment prompt in <link document="m00053">Writing Process: Focusing on the Angle of Your Subject</link> and the assessment rubric in <link document="m00055">Evaluation: Text as Personal Introduction</link>. Then, read your peer’s entire profile before giving feedback. In your feedback, strive to be both clear and kind—clearly state the strengths and weaknesses of the text in the most supportive way possible. If you need guidance, use the model sentences in <link target-id="table-00007" document="m00053"/> to structure your feedback.</para>
       <table summary="" id="table-00007">
       <tgroup cols="1">
+      <thead><row>
+      <entry align="center">Peer Review Feedback Model Sentences</entry>
+      </row></thead>
       <tbody>
-      <row>
-      <entry align="center"><emphasis effect="bold">Peer Review Feedback Model Sentences</emphasis></entry>
-      </row>
+      
       <row>
       <entry><list id="list-00015">
       <item>These three aspects of your draft work well: ________, ________, and ________.</item>
@@ -377,12 +383,13 @@
       <para id="para-00069">After reading your peer’s profile all the way through, use <link target-id="table-00008" document="m00053"/> to provide thoughtful and detailed feedback.</para>
       <table summary="" id="table-00008">
       <tgroup cols="2">
+      <thead><row>
+      <entry>Date</entry>
+      <entry align="center"><para id="para-00070">Review of [peer]</para>
+      <para id="para-00071">by [insert your name]</para></entry>
+      </row></thead>
       <tbody>
-      <row>
-      <entry><emphasis effect="bold">Date</emphasis></entry>
-      <entry align="center"><para id="para-00070"><emphasis effect="bold">Review of [peer]</emphasis></para>
-      <para id="para-00071"><emphasis effect="bold">by [insert your name]</emphasis></para></entry>
-      </row>
+      
       <row>
       <entry><emphasis effect="bold">Profile Genre Element</emphasis></entry>
       <entry align="center"><emphasis effect="bold">Feedback for Your Peer</emphasis></entry>
@@ -439,10 +446,11 @@
       <para id="para-00077">Another way to approach revision is to compare and contrast your work against the rubric for the assignment in <link document="m00055">Evaluation: Text as Personal Introduction</link>, which guides you through the process of evaluating your work using the standards given in the assignment rubric.</para>
       <table summary="" id="table-00009">
       <tgroup cols="1">
+      <thead><row>
+      <entry align="center">Use the Rubric to Improve Your Draft</entry>
+      </row></thead>
       <tbody>
-      <row>
-      <entry align="center"><emphasis effect="bold">Use the Rubric to Improve Your Draft</emphasis></entry>
-      </row>
+      
       <row>
       <entry><list id="list-00017">
       <item>Review the benchmarks for “Skillful” Critical Language Awareness, and then <emphasis effect="bold">make notes on your draft in response to the following questions</emphasis>:

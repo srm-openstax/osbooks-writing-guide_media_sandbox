@@ -30,12 +30,13 @@
       <para class="annotation dreaming-icon" id="para-00003">Like other kinds of writing projects, a proposal starts with assessing the <term id="term-00006">rhetorical situation</term>—the circumstance in which a writer communicates with an audience of readers about a subject. As a proposal writer, you make choices based on the purpose for your writing, the audience who will read it, the <term id="term-00007">genre</term>, and the expectations of the community and culture in which you are working. The brainstorming questions in <link target-id="table-00001" document="m00063"/> can help you begin:</para>
       <table summary="" id="table-00001">
       <tgroup cols="3">
+      <thead><row>
+      <entry align="center">Rhetorical Situation Element</entry>
+      <entry align="center">Brainstorming Questions</entry>
+      <entry align="center">Your Responses</entry>
+      </row></thead>
       <tbody>
-      <row>
-      <entry align="center"><emphasis effect="bold">Rhetorical Situation Element</emphasis></entry>
-      <entry align="center"><emphasis effect="bold">Brainstorming Questions</emphasis></entry>
-      <entry align="center"><emphasis effect="bold">Your Responses</emphasis></entry>
-      </row>
+      
       <row>
       <entry><para id="para-00004"><emphasis effect="bold">Topic</emphasis></para>
       <para id="para-00005">Are you free to choose your own problem and solution to write about, or is your topic specified?</para></entry>
@@ -97,11 +98,11 @@
       <para id="para-00023">One way to generate ideas about a problem is to brainstorm. To explore a topic for your proposal, use a graphic organizer like <link target-id="table-00002" document="m00063"/> to write responses to the following statements and questions:</para>
       <table summary="" id="table-00002">
       <tgroup cols="2">
+      <thead><row>
+      <entry>Exploring Questions</entry>
+      <entry>Your Responses</entry>
+      </row></thead>
       <tbody>
-      <row>
-      <entry><emphasis effect="bold">Exploring Questions</emphasis></entry>
-      <entry><emphasis effect="bold">Your Responses</emphasis></entry>
-      </row>
       <row>
       <entry>What problem am I interested in learning about?</entry>
       <entry/>
@@ -145,11 +146,12 @@
       <para id="para-00024">For example, perhaps you’re considering a career in information technology, and you’re taking an IT class. You might be interested in exploring the problem of data breaches. A data breach is a real-world problem with possible solutions, so it passes the first test of being an actual problem with possible solutions. Your responses to the questions above might look something like those in <link target-id="table-00003" document="m00063"/>:</para>
       <table summary="" id="table-00003">
       <tgroup cols="2">
+        <thead><row>
+      <entry>Exploring Questions</entry>
+      <entry>Sample Responses</entry>
+      </row></thead>
       <tbody>
-      <row>
-      <entry><emphasis effect="bold">Exploring Questions</emphasis></entry>
-      <entry><emphasis effect="bold">Sample Responses</emphasis></entry>
-      </row>
+      
       <row>
       <entry>A problem I’m interested in learning more about is…</entry>
       <entry>Data breaches</entry>
@@ -197,11 +199,12 @@
       <para id="para-00026">The data breaches example above could be narrowed to the following problems—and possibly even more. Note that the questions start to zero in on possible solutions, too. In your own writing, as you brainstorm, try placing subtopics you discover into their own categories and asking more questions, as shown in <link target-id="table-00004" document="m00063"/>.</para>
       <table summary="" id="table-00004">
       <tgroup cols="2">
+        <thead><row>
+          <entry><emphasis effect="bold">Narrowing a Problem</emphasis></entry>
+          <entry><emphasis effect="bold">Focusing Questions</emphasis></entry>
+          </row></thead>
       <tbody>
-      <row>
-      <entry><emphasis effect="bold">Narrowing a Problem</emphasis></entry>
-      <entry><emphasis effect="bold">Focusing Questions</emphasis></entry>
-      </row>
+      
       <row>
       <entry>Problem: Hackers get into computer systems and steal information.</entry>
       <entry>What tactics do hackers use? What do they steal? What do they do with what they steal? How successful are they? How can hacking be stopped or reduced?</entry>
@@ -285,12 +288,13 @@
       <para class="annotation dreaming-icon" id="para-00053">A proposal has a recognizable shape, starting with an introduction, followed by discussions of the problem, possible solutions, potential objections to the solutions, and a conclusion with a recommendation. A graphic organizer like <link target-id="table-00005" document="m00063"/> can help you organize your ideas and evidence.</para>
       <table summary="" id="table-00005">
       <tgroup cols="3">
-      <tbody>
-      <row>
+        <thead><row>
       <entry align="center"><emphasis effect="bold">Proposal Section</emphasis></entry>
       <entry align="center"><emphasis effect="bold">Content</emphasis></entry>
       <entry align="center"><emphasis effect="bold">Your Notes</emphasis></entry>
-      </row>
+      </row></thead>
+      <tbody>
+      
       <row>
       <entry>Introduction (usually one paragraph, but can be two)</entry>
       <entry><para id="para-00054">Draw readers in with an overview. Provide necessary background here or in the description of the problem, defining terms as needed.</para>
@@ -400,11 +404,13 @@
       <para id="para-00090">Another way to get fresh eyes on your writing is to ask a friend or family member to read your draft. To get useful feedback, provide a list of questions or a form such as the one shown in <link target-id="table-00006" document="m00063"/> for them to complete as they read.</para>
       <table summary="" id="table-00006">
       <tgroup cols="2">
-      <tbody>
-      <row>
+        <thead><row>
       <entry><emphasis effect="bold">Question for Reviewer</emphasis></entry>
       <entry><emphasis effect="bold">Comment or Suggestion</emphasis></entry>
-      </row>
+      </row></thead>
+      <tbody>
+
+      
       <row>
       <entry>Does the introduction interest you in the problem?</entry>
       <entry/>
