@@ -59,11 +59,11 @@
     <colspec colnum="2" colname="c2"/>
     <colspec colnum="3" colname="c3"/>
     <colspec colnum="4" colname="c4"/>
-    <thead>row>
+    <thead><row>
     <entry>Chapter Number</entry>
     <entry>Key Skills Learned</entry>
     <entry align="center">Successes</entry>
-    <entry align="center">Challenges</entry>
+    <entry align="center">Challenges</entry></row>
     </thead>
     <tbody>
     <row>
