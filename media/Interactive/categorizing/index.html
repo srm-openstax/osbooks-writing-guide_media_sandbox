@@ -1,166 +1,98 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html l lang='en'>
+
 <head>
-    <title>Composition Category Interactive</title>
+    <title>Matching Responsive</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/settings.css">
     <link rel="stylesheet" href="css/style.css">
-    <script src="js/jquery-3.1.1.min.js"></script>
-    <script src="js/main.js"></script>
-    <script src="js/accessibilityJs.js"></script>
 
-    <style>
-        .category-3 .left-card{
-                width: 216px;
-    float: left;
-        }
-        .category-3 .right-card{
-            width: calc(100vw - 226px);
-    overflow-x: auto;
-        }
-        .category-3 .card1 button{
-            background: #000;
-    width: 176px;
-    height: 166px;
-    border-radius: 10px;
-    color: #fff;
-        }
-        .category-3 .card1 button p{
-            font-size: 18px;
-    line-height: 26px;
-    font-family: 'HelveticaNeue-Bold';
-        }
-        .category-3 .card1{
-            width: 216px;
-    height: 197px;
-    background: red;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-        }
-        .category-3 .card2{
-            width: 216px;
-    height: 200px;
-    background: blue;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-        }
-        .category-3 .card3{
-            width: 216px;
-    height: 200px;
-    background: green;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-        }
-
-        .category-3 .rt-card1 button{
-            width: 358px;
-    display: flex;
-    height: 73px;
-    background: #fff;
-    border: 1px solid gray;
-    border-radius: 14px;
-    justify-content: center;
-    align-items: center;
-        }
-        .category-3 .rt-card1 button p{
-            font-size: 16px;
-    font-family: 'HelveticaNeue-Regular';
-    letter-spacing: 1px;
-    font-weight: 700;
-    width: 336px;
-    text-align: start;
-        }
-        .category-3 .rt-card1{
-            height: 197px;
-    padding: 20px 15px;
-    overflow: hidden;
-    width: calc(100vw - 216px);
-        }
-        .category-3 .rt-card-wrap{
-            display: grid;
-    grid-template-rows: repeat(2, 80px);
-    gap: 10px;
-    grid-template-columns: repeat(3, 359px);
-        }
-    </style>
-
-
-</head>
-<body>
-    <header>
-        <div class="container">
-            <div class="settingContainer">
-                <button aria-label="help" tabindex="1" class="showText" title='Instruction Text' role="button">
-                    <img src="images/doubts-button.png" alt="help-button">
-                </button>
-                <button aria-label="Color
-                Scheme Settings" tabindex="3" class="setting" title='Color Contrast Settings' role="button">
-                    <img src="images/gear-option.png" alt="settings-button">
-                </button>
-                <div class="help-popup">
-                    <button tabindex="2" aria-label="close" class="popup-close" title='Close' role="button">&#10006;</button>
-                    <p id="instructionnorm"></p>
-                </div>
-                <div class="settinToolsContainer">
-                    <div class="toolsCnt"></div>
-                    <button aria-label="close" tabindex="4" class="close" title='Close' role="button"></button>
-                </div>
-            </div>
-            <h1 id="title"></h1>
-            <p id="instructionbold"></p>
-            <!-- <div class="settinToolsContainer">
-                <div class="toolsCnt"></div>
-                <button aria-label="close" tabindex="4" class="close" title='Close' role="button">Close</button>
-            </div> -->
-            
-            
-            
-        </div>
-        <div class="fd-border">
-            <div class="container">
-                <div class="row dragableItemContainer">
-                    <div class="card-wrap">
-    
-                    </div>
-                    <div class="feedback">
-                        <p>Correct! You’ve matched each review excerpt to its category. You understand that summaries/observations are objective statements, while evaluations/analyses are subjective statements about the subject of the review. Correct! You’ve matched each review excerpt to its category. You understand that summaries/observations are objective statements, while evaluations analyses are subjective statements ab</p>
-                    </div>
-                    <div class="nav-container">
-                        <button aria-label="submit" class="submit_btn submit-hide" disabled title="Submit" role="button">
-                            Submit
-                        </button>
-                        <button aria-label="try again" class="tryagain_btn invisible" disabled title="Try Again" role="button">
-                            Try Again
-                        </button>
-                        <button aria-label="reset" class="reset_btn invisible" disabled title="Reset" role="button">
-                            Reset
-                        </button>
-                    </div>
-    
-                   
-                </div>
-            </div>
-        </div>
-    </header>
-      <section class="main-sec">
-        <div class="container">
-            <div class="content custom-Scroll">
-                <div id="tempDiv" style="display:none"></div>
-                <div id="tempSetting" style="display:none"></div>
-                <div class="row categoryContainer">
-                </div>
-            </div>
-        </div>
-    </section>
-   <section>
-    <button aria-label="collapse/expand categories" class="bottom-btn" role="button">
-        COLLAPSE<br>CATEGORIES &#62;
-    </button>
-   </section>
-
+    <script src="lib/jquery/jquery-3.1.1.min.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="lib/bootstrap/js/popper.min.js"></script>
    
+    <script src="js/util.js"></script>
+    <script src="js/main.js"></script>
+</head>
+
+<body>
+    <div id="matching_template" class="matching_template activity-container">
+
+        <header class="activity-header clearfix">
+           <div class="container-fluid">
+
+            <div class="col-lg-12">
+                <div class="top-description">
+                  <div class="head-btn-wrap">
+                    <div class="head-btn">
+                        <button aria-label="Help" role="button"  type="button" class="note"  title='Instruction Text' ><img height="16" width="16" src="images/doubts-button.png" alt="Help"></button>
+                        <button aria-label="Setting" role="button" type="button" class="cog setting-button"  title='Color Contrast Settings' ><img height="16" width="16" src="images/gear-option.png" alt="Color Scheme Settings"></button>
+                        
+                        <div class="notice-card">
+                            <button aria-label="Help instruction Close" role="button" type="button"  class="close-bt" title='Close' >&#x2715</button>
+                            <p>To complete the activity, select each definition and then click the term that it belongs to. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</p>
+                        </div>
+
+                        <div class="settings-container">
+                           
+                            <div class="settings-container-themes">
+                                 <button aria-label="Color Scheme Settings Close" role="button" class="close-btn" title='Close' ><img src="images/remove.png" alt="Close button"></button>
+                                <div class="toolCnt">
+                                    <div class="toolContainer_0">
+                                        <p l="" lang="en" class="toolTxt toolTxt_0">Color Scheme</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                  </div>
+                    <h1 class="activity-title">Target Audiences and Messaging in Healthcare<br></h1>
+                </div>
+            </div>
+            
+            <div class="clickable-items">
+                <div class="row clickableBlock shuffle">
+                    <div class="col-12 col-sm-6 col-md-3" id="cloneItem_d">
+                        <button aria-label="" class="clickable-item">
+                            <p style="pointer-events: none;"></p>
+                        </button>
+                    </div>
+                </div>
+                <div id="r-feedback" class="feedback">
+                    <p></p>
+                </div>
+                <div id="w-feedback" class="feedback">
+                    <p></p>
+                </div>
+                <div class="text-end footer">
+                    <button aria-label="Reset" role="button" type="button" class="reset_btn btn-submit btn float-lg-end">Reset</button>
+                    <button aria-label="Tryagain" role="button" type="button" class="tryagain_btn btn-submit btn float-lg-end">Try Again</button>
+                    <button aria-label="Submit" role="button" type="button" class="submit_btn btn-submit btn float-lg-end disabled mobile-submit">Submit</button>
+                </div>
+            </div>
+           </div>
+
+        </header>
+        <section class="activity-content">
+            <div class="container-fluid">
+                <div class="matching-items">
+                    <div class="row matchingBlock shuffle">
+                        <div class="col-sm-4 col-lg-3 col-xl-2 col-6" id="matchBox_d">
+                            <div class="matching-element">   
+                                <button aria-label="" class="matching-item">
+                                    <p style="pointer-events: none;"></p>
+                                </button>
+                            </div>
+                        </div>                                       
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <div id="tempDiv" style="display:none"></div>
+    <div id="tempSetting" style="display:none"></div>
 </body>
 </html>
