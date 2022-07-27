@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+    <focuscolor color="green"></focuscolor>
+    <title></title>
+    <instructionnorm></instructionnorm>
+    <categorytitle fontfamily="Montserrat-Regular" color="#FFFFFF"></categorytitle>
+    <draggableitem fontfamily="Montserrat-Regular" color="#4A4A4A"></draggableitem>
+    <setting>
+        <styleitem txt="Color Scheme"></styleitem>
+        <styleitem colors="#FFFFFF,#001936,#F5BA5C" txt="default" tooltextcolor="#001936" picname='default.svg'></styleitem>
+        <styleitem colors="#97322B,#C6DCD0,#F5BA5C" txt="red/green"  tooltextcolor="#001936" picname='red-green.svg'></styleitem>
+        <styleitem colors="#001936,#f8cd5e,#F5BA5C" txt="blue/yellow"  tooltextcolor="#001936" picname='blue-yellow.svg'></styleitem>
+        <styleitem colors="#212022,#ed70ef,#F5BA5C" txt="High Contrast"  tooltextcolor="#001936" picname='highcontrast.svg'></styleitem>
+    </setting>
+</dataset>
