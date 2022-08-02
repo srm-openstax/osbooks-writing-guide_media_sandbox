@@ -5,7 +5,9 @@ var matching = (function() {
     var curDiv = null;
     var curMatchbox = true;
     var prevBtn = null;
-    var classnames = "";
+    var classnames = "";    
+    const regex = /assets.*\.(png|jpg|jpeg)/gm;
+    var media = window.matchMedia("(max-width: 529px)");
 
     this.init = function(data) {
         this.loadXML();
@@ -50,9 +52,11 @@ var matching = (function() {
         $(".reset_btn").off().on("click", function(){
             tryAgain();
         })
+
     }
 
     var tryAgain = function(){
+        $(".clickable-items").removeClass("unsetonsubmit");
         $(".clickable-item").prop("disabled", false);
         $(".matching-item").prop("disabled", false);
         $(".clickableBlock").removeClass("no-grid");
@@ -114,8 +118,13 @@ var matching = (function() {
     var fetchData = function(xml){
         $(".activity-title").html(xml.find("title").text());
         $(".notice-card p").html(xml.find("instruction").text());
+        $("#reviewImg").attr("src", xml.find("reviewimage").text());
 
         var items = xml.find("items").find("item");
+        var counter=0;
+        var imgMaxHeight=0;
+        var iArr = [];
+        var maxH = 0;
         //var matchItem = xml.find("items").find("matching").find("text");
         data["ques"] = [];
         items.each((index, el) => {
@@ -135,13 +144,48 @@ var matching = (function() {
 
             enterCounter[`cloneItem_${index}`] = 1;
             
-            var txt = data.ques[index].matching;
             $("#matchBox_d .matching-item").attr("alt", "Item to match: "+ txt);
             $("#matchBox_d .matching-item").attr("aria-label", "Description to match: "+txt);
             $("#matchBox_d").clone().appendTo(".matchingBlock");
-            $("#matchBox_d .matching-item p").html(data.ques[index].matching);
+
+            var txt = data.ques[index].matching;
+            m = txt.match(regex);
+            
+            if(m != null){
+                $(".matching-item").addClass("img-wrap");
+                var img;
+
+                img = new Image();
+                img.src = txt;
+                img.className = "matchingImage";
+                temp = img;
+                iArr.push(temp);
+                img.onload = function (){
+                    console.log("loaded", this.height);
+                    $("#matchBox_d .matching-item").append($(iArr[counter]));
+                    imgMaxHeight = Math.max(imgMaxHeight, this.height);
+                    if(++counter == items.length){
+                        console.log("all loaded....", imgMaxHeight, iArr);
+                        $(".matching-item").each(function(index){
+                            $(this).append(iArr[index]);
+                            console.log($(this).outerHeight());
+                            maxH = Math.max(maxH,$(this).outerHeight());
+                        });
+                        $(".matching-item").css("height", maxH);
+                        var maxHofClickitem = $('.clickable-item').outerHeight();
+                        $('.matchedEvent').css({"height": (maxH+maxHofClickitem+15)+"px"});
+                    }
+                   
+                }
+            }else{
+                $("#matchBox_d .matching-item").html("<p></p>");
+                $("#matchBox_d .matching-item p").html(txt);
+            }
+
             $("#matchBox_d").addClass("matchedEvent");
             $("#matchBox_d").attr("id", "matchBox_"+index);
+
+
         });
 
         $("#cloneItem_d").remove();
@@ -152,6 +196,9 @@ var matching = (function() {
         
         $(".shuffle").shuffleChildren();
 
+        var r = document.querySelector(':root');
+        r.style.setProperty('--cardCount', items.length);
+
         var heightArr = [];
         $('.matching-item').each(function(index, element) {
             var height = $(element).outerHeight();
@@ -159,10 +206,7 @@ var matching = (function() {
         });
 
         var maxHeight = Math.max(...heightArr);
-        var maxHofClickitem = $('.clickable-item').outerHeight();
-        $('.matching-item').css({"height":maxHeight+"px"});
-
-        $('.matchedEvent').css({"height": (maxHeight+maxHofClickitem+15)+"px"});
+        //$('.matching-item').css({"height":maxHeight+"px"});
 
         $(document).keyup(function(event) {
             //get the id of element on which enter key pressed
@@ -374,10 +418,11 @@ var matching = (function() {
         
         var wCount = 0;
         var rCount = 0;
+        $(".clickable-items").addClass("unsetonsubmit");
         $(".clickable-item").prop("disabled", true);
         $(".matching-item").prop("disabled", true);
         
-        $(".activity-header").addClass("h-48p");
+        //$(".activity-header").addClass("h-48p");
         $(".activity-content").addClass("p-48p");
         for(var i=0; i<data.ques.length; i++){
             var clicksId = $("#cloneItem_"+i).attr("id").replace("cloneItem_", "");
@@ -514,6 +559,41 @@ var matching = (function() {
             console.log("Normal click....");
             prevBtn = $(this);
         })
+
+        var isDown = true;
+        $('#reviewBtn').click(function(){
+            if(isDown){
+                //$(".reviewContainer").css({"transform" : "translate(0px, -89vh)"});
+                $("#reviewParent").removeClass("moveDown");
+                $("#reviewParent").addClass("moveTOP");
+
+                $(".reviewContainer").removeClass("moveDown");
+                $(".reviewContainer").addClass("containerTOP");
+                $("#reviewBtn i").removeClass("up").addClass("down");
+                $("#reviewBtn p").html("Review Activity");
+                isDown = false;
+            }else{
+                //$(".reviewContainer").css({"transform" : "translate(0px, 0px)"});
+                $("#reviewParent").removeClass("moveTOP");
+                $("#reviewParent").addClass("moveDown");
+
+                $(".reviewContainer").removeClass("containerTOP");
+                $(".reviewContainer").addClass("containerDown");
+                $("#reviewBtn i").removeClass("down").addClass("up");
+                $("#reviewBtn p").html("Begin Activity");
+
+                $("#reviewParent").css({"background-color": "rgb(112 112 112 / 80%)"});
+                isDown = true;
+            }
+            
+        });
+
+        $("#reviewParent").on( 'transitionend', function() {
+            if(!isDown){
+                $(this).css({"background-color": "rgb(112 112 112 / 0%)"});
+            }
+        });
+
     }
 
     $.fn.shuffleChildren = function() {
