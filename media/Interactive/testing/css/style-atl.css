@@ -672,24 +672,6 @@ button[disabled] {
 @media screen and (-webkit-min-device-pixel-ratio:0) { 
 
     }
-@media screen and(min-width: 530px), (max-width: 713px),(orientation: portrait) {
-    .category:last-of-type .draggableitemCnt:last-of-type{
-        margin-bottom: 80px;
-    }
-}
-
-@media screen and (max-width: 529px),(orientation: portrait) {
-    .category:last-of-type .draggableitemCnt:last-of-type{
-        margin-bottom: 150px;
-    }
-     .category:last-of-type .categoryDroppableCnt{
-        
-    } 
-    .mar-bt{
-        margin-bottom: 150px;
-    }
-
-}
 
 @media screen and (device-width: 1350px),(device-height: 760px) {
 
@@ -1226,6 +1208,8 @@ button[disabled] {
         position: absolute;
         right: 40%;
     }
+
+
 }
 
 @media screen and (max-width: 529px) {
@@ -1302,8 +1286,8 @@ button[disabled] {
     }
 
     .main-sec {
-        /* overflow: auto;
-        height: 260px; */
+        overflow: auto;
+        height: 260px;
     }
 
     header.pad-0 {
