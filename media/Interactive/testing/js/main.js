@@ -50,11 +50,11 @@ $(document).ready(function () {
 		}
 
 		if (media.matches) {
-			console.log(" 1111111111111111111 ");
+			console.log(" 1111111111111111111 ", COLLAPSE_TXT);
 			if ($(".categoryDroppableCnt").hasClass("hidden")) {
 				$(".categoryDroppableCnt").removeClass("hidden");
 				$(".categoryDroppableCnt").removeClass("hidden2");
-				$(this).html(COLLAPSE_TXT);
+				$(this).html("COLLAPSE<br>CATEGORIES");
 			} else {
 				$(".categoryDroppableCnt").addClass("hidden");
 				$(".categoryDroppableCnt").removeClass("hidden2");

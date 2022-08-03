@@ -632,6 +632,7 @@ button[disabled] {
 
 .categoryDroppableCnt {
     padding: 14px 0px;
+    width: 100vw;
 }
 
 .category .draggableitemCnt {
@@ -737,7 +738,7 @@ button[disabled] {
     }
 }
 
-@media screen and (max-width: 650px), (max-height: 365px) {
+@media screen and (max-width: 1000px) and (orientation:landscape){
     .content {
         overflow-x: auto;
         height: calc(100vh - 137px);
@@ -904,7 +905,7 @@ button[disabled] {
 
     .bottom-btn {
         padding: 4px 18px;
-        width: 34%;
+        width: 221px;
         font-size: 10px;
         display: block;
         position: fixed;
@@ -1332,6 +1333,7 @@ button[disabled] {
     .category .draggableitemCnt{
         width: 276px;
         border-radius: 14px;
+        margin: 16px 30px 16px 14px;
     }
 
     .feedback p {
@@ -1488,7 +1490,7 @@ button[disabled] {
     }
 
     .hidden {
-        display: none;
+        display: none !important;
     }
 
     #title {
