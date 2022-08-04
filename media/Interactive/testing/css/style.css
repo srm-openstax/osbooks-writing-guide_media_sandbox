@@ -1530,3 +1530,20 @@ button[disabled] {
 
 
 }
+@media screen and (max-width: 400px) and (max-height:380px){
+        #title{
+            height: 30px;
+            min-height: 30px;
+            padding: 0;
+        }
+        header{
+            padding-bottom: 55px;
+        }
+        .settingContainer{
+            width: 80px;
+            float: right;
+        }
+        header.t-border::before{
+            top: 48px;
+        }
+ }
