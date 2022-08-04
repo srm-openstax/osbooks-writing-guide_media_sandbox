@@ -502,10 +502,10 @@ button, select {
     height: calc(100vh - 163px);
 }
 
-.contentMac {
+/* .contentMac {
     margin-top: 35px;
     min-height: 586px;
-}
+} */
 
 .submited .correct:after {
     content: "";
@@ -755,14 +755,13 @@ button[disabled] {
         background: #d5d5d5;
     }
 
-/* width */
-.custom-Scroll::-webkit-scrollbar {
+/*.custom-Scroll::-webkit-scrollbar {
     width: 10px;
     height: 10px;
     border-radius: 10px;
   }
   
-  /* Track */
+
   .custom-Scroll::-webkit-scrollbar-track {
     border: 1px solid #ddd;
     border-radius: 10px;
@@ -771,7 +770,7 @@ button[disabled] {
     opacity: 1;
   }
   
-  /* Handle */
+
   .custom-Scroll::-webkit-scrollbar-thumb {
     background: #fff;
     border-radius: 10px;
@@ -786,7 +785,7 @@ button[disabled] {
     display: block;
     background-size: 10px;
   }
-  /*left*/
+
   .custom-Scroll::-webkit-scrollbar-button:single-button:horizontal:decrement {
     height: 12px;
     width: 16px;
@@ -803,7 +802,7 @@ button[disabled] {
 .custom-Scroll::-webkit-scrollbar-button:single-button:horizontal:decrement:active {
     background-image: url(../images/left.png);
 } 
-/*right*/
+
 .custom-Scroll::-webkit-scrollbar-button:single-button:horizontal:increment {
     height: 12px;
     width: 16px;
@@ -818,7 +817,7 @@ button[disabled] {
 
 .custom-Scroll::-webkit-scrollbar-button:single-button:horizontal:increment:active {
     background-image: url(../images/right.png);
-}
+}*/
 
     .draggableitem {
         font-size: 12px;
