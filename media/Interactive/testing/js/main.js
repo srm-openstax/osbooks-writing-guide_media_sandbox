@@ -10,7 +10,7 @@ $(document).ready(function () {
 	let enterCounter = {};
 	const isMobile = detectMob();
 	var media = window.matchMedia("(max-width: 529px)");
-	var REVIEW_TXT = "REVIEW YOUR<br>SORTED ANSWERS";
+	var REVIEW_TXT = "REVIEW YOUR <br>SORTED ANSWERS";
 	var COLLAPSE_TXT = "COLLAPSE CATEGORIES"; 
 	/* detect mobile device start*/
 	function detectMob() {
@@ -46,7 +46,7 @@ $(document).ready(function () {
 			
 		} else {
 			$(".categoryDroppableCnt").addClass("hidden2");
-			$(this).html("REVIEW YOUR<br>SORTED ANSWERS &#62;");
+			$(this).html("REVIEW YOUR <br>SORTED ANSWERS &#62;");
 		}
 
 		if (media.matches) {
@@ -459,7 +459,7 @@ $(document).ready(function () {
 		
 		$(".card-wrap").append($('.draggableitemCnt'));
 		$('.categoryContainer').removeClass("submited");
-		$(".draggableitem").css("border", "0px solid green").removeClass("correct incorrect");
+		$(".draggableitem").css("border", "2px solid transparent").removeClass("correct incorrect");
 		if (isMobile) {
 			$(".container .draggableitem").last().removeAttr('disabled');
 		}
@@ -488,11 +488,11 @@ $(document).ready(function () {
 $(document).ready(function () {
 	
 	if (window.innerWidth < 529) {
-		REVIEW_TXT = "REVIEW YOUR<br>SORTED ANSWERS";
+		REVIEW_TXT = "REVIEW YOUR <br>SORTED ANSWERS";
 		COLLAPSE_TXT = "COLLAPSE CATEGORIES";
 		$(".bottom-btn").html(REVIEW_TXT);
 	}else{
-		REVIEW_TXT = "REVIEW YOUR<br>SORTED ANSWERS &#62;";
+		REVIEW_TXT = "REVIEW YOUR <br>SORTED ANSWERS &#62;";
 		COLLAPSE_TXT = "COLLAPSE CATEGORIES &#62;";
 		$(".bottom-btn").html(COLLAPSE_TXT);
 	}

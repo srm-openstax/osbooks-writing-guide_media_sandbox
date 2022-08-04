@@ -668,6 +668,8 @@ button[disabled] {
     display: none;
     position: fixed;
     bottom: 0px;
+    border-color: transparent;
+     
 }
 
 /* @media screen and (-webkit-min-device-pixel-ratio:0) { 
@@ -826,7 +828,7 @@ button[disabled] {
         background: white;
         border-radius: 14px;
         min-height: 55px;
-        border: 2px solid #fff;
+        border: 2px solid transparent;
     }
     .draggableitemCnt {
         width: 270px;
@@ -1045,7 +1047,8 @@ button[disabled] {
     .category-2 .categoryTitleCnt_0 {
         top: 123px;
         border-bottom: 2px dotted #d5d5d5 !important;
-        padding: 19px 16px;
+        padding: 18px 16px;
+        border-top: 2px dotted #d5d5d5 !important;
     }
 
     .category-2 .categoryTitleCnt_1 {
