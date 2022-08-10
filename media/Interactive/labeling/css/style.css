@@ -115,11 +115,12 @@ body {
 
 .reviewContainer {
     transition: transform 0.5s;
-    overflow: hidden;
+    /* overflow: hidden; */
     height: 100vh;
     border-radius: 0 0 0 11px;
     z-index: 1;
     transform: translate(0, 0);
+    position: relative;
 }
 
 #imageCont {
@@ -131,7 +132,7 @@ body {
     text-align: center;
     background-color: #fafafa;
     border-bottom: 2px solid #b2b2b2;
-
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.29);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -141,25 +142,43 @@ body {
     width: 464px;
 }
 
-#reviewCont {
+/* #reviewCont {
     position: absolute;
     bottom: 0px;
     border-bottom: 2px solid #b2b2b2;
     border-radius: 0 0 10px 10px;
-}
+} */
 
 #reviewBtn {
-    border-radius: 0 0 10px 10px;
+    border-radius: 0 0 18px 18px;
     outline: none;
     color: #d4450c;
     font-family: HelveticaNeue-Medium;
     font-size: 20px;
+    display: flex;
     line-height: 16px;
     background-color: #fafafa;
-    width: 160px;
+    position: absolute;
+    width: 173px;
     height: 30px;
     border: none;
+    bottom: 0px;
+    box-shadow: 0px 5px 12px 0 rgb(0 0 0 / 16%);
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 2px 12px;
 }
+
+#reviewBtn:before {
+    content: "";
+    height: 7px;
+    width: 100%;
+    position: absolute;
+    top: -7px;    
+    left: 0;
+    background: #fafafa;
+    z-index: 2;
+  }
 
 .matchingImage {
     width: 100%;
@@ -263,7 +282,6 @@ body {
     font-size: 22px;
     border-radius: 10px;
     line-height: 16px;
-    width: 142px;
 }
 
 .toolCnt {
@@ -299,7 +317,10 @@ body {
     cursor: pointer;
 }
 
-.toolContainer_0 {}
+.container-fluid{
+    width: 96%;
+    padding-right: 0;
+}
 
 .toolContainer_0 {
     font-size: 15px;
@@ -336,7 +357,7 @@ body {
 
 .activity-content {
     position: fixed;
-    height: calc(100vh - 209px);
+    height: calc(100vh - 225px);
     top: 225px;
     overflow-y: auto;
     width: 100%;
@@ -641,6 +662,8 @@ body {
     font-weight: normal;
 }
 
+
+
 @media screen and (device-width: 1350px),
 (device-height: 760px) {
     .matching-element.submitted::after {
@@ -695,6 +718,18 @@ body {
 
 }
 
+@media screen and (max-width: 821px),
+(max-height: 367px) {
+    .moveTOP {
+        transform: translate(0px, calc(90px - 100vh));
+    }
+
+    #imageCont img {
+        width: 254px;
+        margin-top: 34px;
+    }
+}
+
 @media screen and (min-width: 1024px),
 (max-width: 1349px) {
     .clickable-items .clickable-item {
@@ -728,8 +763,7 @@ body {
     }
 }
 
-@media screen and (max-width: 651px),
-(max-height: 365px) {
+@media screen and (max-width: 651px) {
     .matching-items .matching-element {
         left: calc(var(--bs-gutter-x)/ 2);
     }
@@ -857,8 +891,13 @@ body {
     }
 }
 
-@media screen and (device-width: 530px), (device-height: 943px), (orientation: portrait) {
-
+@media screen and (min-width: 530px) and (orientation: portrait) {
+    .clickable-items{
+        height: 100px;
+    }
+    .matchedEvent:last-of-type{
+        margin-bottom: 100px;
+    }
     .activity-content {
         top: 263px;
         height: 73vh;
@@ -894,9 +933,9 @@ body {
         line-height: 22px;
     }
 
-    .unsetonsubmit{
+    /* .unsetonsubmit{
         display: unset;
-    }
+    } */
 
     .no-grid {
         display: none !important;
@@ -935,7 +974,7 @@ body {
     }
 
     #imageCont img{
-        width: 61%;
+        width: 60%;
         margin-top: 510px;
     }
 
@@ -986,7 +1025,17 @@ body {
         flex-direction: column;
     }
 }
-
+@media screen and  (max-width: 1000px) and (orientation: landscape){
+    .moveTOP {
+        transform: translate(0px, -75vh);
+    }    
+    #imageCont img {
+        width: 235px;
+    }
+    .matchedEvent:last-of-type{
+        margin-bottom: 100px;
+    }
+}
 @media screen and (max-width: 800px) and (orientation: landscape) {
     .matchedEvent:last-of-type {
         margin-bottom: 50px;
@@ -994,8 +1043,19 @@ body {
 
 }
 
-@media screen and (max-width: 529px) {
 
+
+ @media screen and (max-width: 529px) {
+    .matchedEvent{
+        width: 198px;
+        margin: 0 auto;
+    }
+    .matching-element{
+        margin: 0 auto;        
+        width: 198px;
+        flex-direction: column;
+        justify-content: flex-end;
+    }
     .matchedEvent:last-of-type {
         margin-bottom: 100px;
     }
@@ -1034,7 +1094,7 @@ body {
     }
 
     .activity-header {
-        height: 260px;
+        height: 220px;
     }
 
     .text-end {
@@ -1062,15 +1122,15 @@ body {
     }
 
     .matching-items .matching-item {
-        width: 198px;
+        
         min-width: 198px;
-        margin-top: auto;
+        margin-top: 0;
         max-width: 198px;
     }
 
     .col-6 {
         flex: 0 0 auto;
-        width: 100%;
+        
     }
 
     .setting-btn {
@@ -1094,7 +1154,7 @@ body {
 
 
     .matching-items {
-        margin-top: 25px;
+        margin-top: 0px;
         position: relative;
         padding: 0 52px;
     }
@@ -1115,4 +1175,55 @@ body {
     .mobile-submit {
         display: none;
     }
+} 
+
+@media screen and (max-width: 529px) and (min-height:260px){
+    .matchedEvent:last-of-type {
+        margin-bottom: 100px;
+    }
+    #imageCont img {
+        margin-top: 0px;
+    }
+    .moveTOP {
+        transform: translate(0px, -78vh);
+    }
+}
+.activity-content::-webkit-scrollbar-track {
+    /* -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); */
+    width: 5px;
+    border-radius: 5px;
+    background-color: #d4d4d4;
+  }
+  
+  .activity-content::-webkit-scrollbar {
+    width: 12px;
+    background-color: transparent;
+  }
+  
+  .activity-content::-webkit-scrollbar-thumb {
+    width: 5px;
+    border-radius: 5px;
+    /* -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3); */
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #555;
+  }
+ .activity-content::-webkit-scrollbar-button:single-button:vertical:decrement {
+    width: 5px;
+    /* background-color: #0180ff; */
+    background-image: url(../images/up-arrow.png);
+    display: block;
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+/* .activity-content::-webkit-scrollbar-button:single-button:vertical:decrement:hover {
+    background-color: #002d59;    
+} */
+
+.activity-content::-webkit-scrollbar-button:single-button:vertical:increment {
+    width: 5px;
+    /* background-color: #f19a0c; */
+    background-image: url(../images/down-arrow.png);
+    display: block;
+    background-size:contain;
+    background-repeat: no-repeat;
 }
