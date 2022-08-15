@@ -88,7 +88,7 @@ var matching = (function() {
             //console.log(item);
         });
 
-        //$("#cloneItem_d").remove();
+        $("#cloneItem_d").remove();
         $(".shuffle").shuffleChildren();
         
     }

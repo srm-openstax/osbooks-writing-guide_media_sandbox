@@ -17,12 +17,17 @@
     <script src="js/main.js"></script>
     <script>
       function cardRotate(e){
-         $(e).find('.flip-card-inner').toggleClass('flipped');
-            if($('.flip-card-inner').hasClass("flipped")){
-               $(e).attr("aria-label", $(e).attr("aria-back"));
+        var flipper = $(e).find('.flip-card-inner');
+         $(flipper).toggleClass('flipped');
+         
+            if($(flipper).hasClass("flipped")){
+                console.log("BACK: ", $(e).attr("data-back"));
+               $(e).attr("aria-label", $(e).attr("data-back"));
             }else{
-                $(e).attr("aria-label", $(e).attr("aria-front"));
+                console.log("FRONT: ", $(e).attr("data-front"));
+                $(e).attr("aria-label", $(e).attr("data-front"));
             }
+            console.log($(e).attr("aria-label"));
         }
     </script>
 </head>
