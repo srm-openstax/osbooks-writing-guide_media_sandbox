@@ -7,7 +7,7 @@
             <name>default-theme</name>
             <title>Default</title>
             <images>default.svg</images>
-            <color>#000000</color>
+            <color>#5E6062</color>
             <background>#FFFFFF</background>           
             <selectioncolor>#F5BA5C</selectioncolor>
         </theme>
