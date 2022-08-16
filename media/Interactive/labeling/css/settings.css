@@ -1,11 +1,11 @@
 .settings-container{
     background: #BFBFBF !important;
-    padding: 15px;
+    padding: 13px;
     border-radius: 6px;
     color: #001936;
     box-shadow: 0px 3px 6px 0px rgb(112 112 112);
     -webkit-box-shadow: 0px 3px 6px 0px rgb(112 112 112);
-    -moz-box-shadow: 0px 3px 6px 0px rgba(112,112,112,1);
+    -moz-box-shadow: 0px 3px 6px 0px rgba(112, 112, 112, 1);
     position: absolute;
     top: 5px;
     right: 0px;
@@ -14,23 +14,18 @@
 }
 
 .settings-container .close-btn{
-    /* position:absolute;
-    top:-0px;
-    right:-0px;
-    width:20px;
-    height:20px;
-    border:none;
-    padding:0px;
-    background:none; */
     position: absolute;
-    z-index: 99;
-    top: -18px;
-    right: -16px;
-    
-    
+    width: 22px;
+    height: 22px;
+    right: 4px;
+    top: 0px;
+    /* border-radius: 50%; */
+    background-color: transparent;
+    cursor: pointer;
+    background-image: url(../images/remove.png);
+    background-repeat: no-repeat;
+    background-size: 22px 22px;
     border: none;
-    padding: 0px;
-    background: none;
 }
 .settings-container .close-btn img{
     max-width:68%;
@@ -38,13 +33,12 @@
 }
 
 .settings-container-themes{
-    display:flex;
+    display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    width:100%;
-    gap:0px;
-    position: relative;
+    width: 100%;
+    gap: 0px;
 }
 .settings-container-themes .theme-btn{
     background:none;

@@ -52,11 +52,14 @@ var matching = (function() {
         $(".reset_btn").off().on("click", function(){
             tryAgain();
         })
-
+        disbleFocus();
     }
 
     var tryAgain = function(){
         $(".clickable-items").removeClass("unsetonsubmit");
+        $(".activity-header").removeClass("activity-header-submit");
+        $(".activity-content").removeClass("activity-content-submit");
+        $(".clickable-item.wrong-border-up").removeClass(".clickable-item.wrong-border-up-sub");
         $(".clickable-item").prop("disabled", false);
         $(".matching-item").prop("disabled", false);
         $(".clickableBlock").removeClass("no-grid");
@@ -68,8 +71,8 @@ var matching = (function() {
         $(".matching-element").find(".matching-item").removeClass("right-border-bottom");
        
 
-        $(".activity-header").removeClass("h-48p");
-        $(".activity-content").removeClass("p-48p");
+        //$(".activity-header").removeClass("h-48p");
+        //$(".activity-content").removeClass("p-48p");
 
         $(".clickedEvent").appendTo(".clickableBlock");
         $(".clickedEvent").removeAttr("data-placed");
@@ -112,7 +115,7 @@ var matching = (function() {
                 });
             }
         });
-
+       
     };
 
     var fetchData = function(xml){
@@ -162,21 +165,21 @@ var matching = (function() {
                 $(img).attr("alt", "image "+index);
                 iArr.push(temp);
                 img.onload = function (){
-                    console.log("loaded", this.height);
+                    //console.log("loaded", this.height);
                     $("#matchBox_d .matching-item").append($(iArr[counter]));
                     imgMaxHeight = Math.max(imgMaxHeight, this.height);
                     if(++counter == items.length){
-                        console.log("all loaded....", imgMaxHeight, iArr);
+                        //console.log("all loaded....", imgMaxHeight, iArr);
                         $(".matching-item").each(function(index){
-                            $(this).append(iArr[index]);
+                            //$(this).append(iArr[index]);
+                            $("#matchBox_"+index).find(".matching-item").append(iArr[index]);
                             console.log($(this).outerHeight());
                             maxH = Math.max(maxH,$(this).outerHeight());
                         });
                         $(".matching-item").css("height", maxH);
                         var maxHofClickitem = $('.clickable-item').outerHeight();
                         $('.matchedEvent').css({"height": (maxH+maxHofClickitem+15)+"px"});
-                    }
-                   
+                    }                   
                 }
             }else{
                 $("#matchBox_d .matching-item").html("<p></p>");
@@ -415,16 +418,17 @@ var matching = (function() {
         }
     }
 
-    $(".submit_btn").click(function(){
-        
+    $(".submit_btn").click(function(){        
         var wCount = 0;
         var rCount = 0;
         $(".clickable-items").addClass("unsetonsubmit");
+        $(".activity-header").addClass("activity-header-submit");
+        $(".activity-content").addClass("activity-content-submit");
+        $(".clickable-item.wrong-border-up").addClass(".clickable-item.wrong-border-up-sub");
         $(".clickable-item").prop("disabled", true);
         $(".matching-item").prop("disabled", true);
         
-        //$(".activity-header").addClass("h-48p");
-        $(".activity-content").addClass("p-48p");
+        //$(".activity-content").addClass("p-48p");
         for(var i=0; i<data.ques.length; i++){
             var clicksId = $("#cloneItem_"+i).attr("id").replace("cloneItem_", "");
             var machedId = $("#cloneItem_"+i).attr("data-placed").replace("matchBox_", "");
@@ -567,13 +571,13 @@ var matching = (function() {
                 //$(".reviewContainer").css({"transform" : "translate(0px, -89vh)"});
                 $("#reviewParent").removeClass("moveDown");
                 $("#reviewParent").addClass("moveTOP");
-
                 $(".reviewContainer").removeClass("moveDown");
                 $(".reviewContainer").addClass("containerTOP");
                 $("#reviewBtn i").removeClass("up").addClass("down");
                 $("#reviewBtn p").html("Review Image");
                 $("#reviewBtn").attr("aria-label", "Review Image");
                 isDown = false;
+                enableFocus();
             }else{
                 //$(".reviewContainer").css({"transform" : "translate(0px, 0px)"});
                 $("#reviewParent").removeClass("moveTOP");
@@ -584,9 +588,9 @@ var matching = (function() {
                 $("#reviewBtn i").removeClass("down").addClass("up");
                 $("#reviewBtn p").html("Begin Activity");
                 $("#reviewBtn").attr("aria-label", "Begin Activity");
-
                 $("#reviewParent").css({"background-color": "rgb(112 112 112 / 80%)"});
                 isDown = true;
+                disbleFocus();
             }
             
         });
@@ -597,6 +601,35 @@ var matching = (function() {
             }
         });
 
+    }
+
+    function enableFocus(){
+        $(".was-disabled").prop("disabled",false).removeClass("was-disabled");
+    }
+
+    function disbleFocus(){
+        $(".clickable-item").each(function(id, item){
+            console.log(item);
+            if(!$(item).is(":disabled"))
+            {
+                console.log("1111: ", $(item));
+                $(item).addClass("was-disabled").prop("disabled", true);
+            }
+        });
+        $(".matching-item").each(function(id,item){
+            if(!$(item).is(":disabled"))
+            {
+                console.log("2222: ", $(item));
+                $(item).addClass("was-disabled").prop("disabled", true);
+            }
+        });
+        $('.text-end').children(':visible').each(function(id,item){
+            if(!$(item).is(":disabled"))
+            {
+                console.log("3333: ", $(item));
+                $(item).addClass("was-disabled").prop("disabled", true);
+            }
+        })
     }
 
     $.fn.shuffleChildren = function() {

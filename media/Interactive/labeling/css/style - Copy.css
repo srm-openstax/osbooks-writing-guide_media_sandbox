@@ -302,10 +302,8 @@ body {
 .toolTxt {
     font-family: "HelveticaNeue-Regular";
     letter-spacing: 0.2px;
-    font-weight: normal;
-    text-transform: capitalize;
     text-align: center;
-    margin: 0;
+    text-transform: capitalize;
 }
 
 .settinToolsContainer {
@@ -314,10 +312,9 @@ body {
 
 .toolContainer {
     background: none;
-    padding: 8px 0px;
+    padding: 0px;
     outline: none;
     margin-right: 5px;
-    outline: 1px solid transparent;
     border: 2px solid transparent;
     font-size: .7rem;
     width: 80px;
@@ -760,7 +757,9 @@ body {
         margin-bottom: 0px;
     }
 
-    
+    #reviewBtn {
+        height: 35;
+    }
 }
 
 @media (min-width: 1200px) {
@@ -977,8 +976,8 @@ body {
     }
 
     #imageCont img{
-        width: 40%;
-        margin-top: 370px;
+        width: 60%;
+        margin-top: 510px;
     }
 
     .moveTOP {
@@ -1047,15 +1046,8 @@ body {
 }
 
 
-@media screen and (max-width: 529px){
-    .clickable-item.wrong-border-up::after,
-    .clickable-item.right-border-up::after {
-        
-        top: 8px;
-        
-    }
-}
- @media screen and (max-width: 529px) and (orientation:portrait){
+
+ @media screen and (max-width: 529px) {
     .matchedEvent{
         width: 198px;
         margin: 0 auto;
@@ -1099,7 +1091,7 @@ body {
         display: unset;
     }
     .activity-content-submit {
-        position: unset;
+        top: 265px;
     }
 
     .feedback {
@@ -1210,7 +1202,6 @@ body {
         transform: translate(0px, -78vh);
     }
 }
-
 .activity-content::-webkit-scrollbar-track {
     /* -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); */
     width: 5px;
@@ -1243,26 +1234,6 @@ body {
 } */
 
 .activity-content::-webkit-scrollbar-button:single-button:vertical:increment {
-    width: 5px;
-    /* background-color: #f19a0c; */
-    background-image: url(../images/down-arrow.png);
-    display: block;
-    background-size:contain;
-    background-repeat: no-repeat;
-}
-.activity-content::-webkit-scrollbar-button:single-button:horizontal:decrement {
-    width: 5px;
-    /* background-color: #0180ff; */
-    background-image: url(../images/up-arrow.png);
-    display: block;
-    background-size:contain;
-    background-repeat: no-repeat;
-}
-/* .activity-content::-webkit-scrollbar-button:single-button:vertical:decrement:hover {
-    background-color: #002d59;    
-} */
-
-.activity-content::-webkit-scrollbar-button:single-button:horizontal:increment {
     width: 5px;
     /* background-color: #f19a0c; */
     background-image: url(../images/down-arrow.png);
