@@ -36,7 +36,7 @@
 :root {
     --color: #5E6062;
     --background: #FFF; 
-    --selectioncolor: #F5BA5C; 
+    --boxbackground: #424242; 
     --cardCount: 8;
   }
 
@@ -121,9 +121,9 @@ header{
     padding: 0px 30px;
     color: #fff;
     font-family: "HelveticaNeue-Bold";
-    font-size: 22px;
+    font-size: 16px;
     border-radius: 2px;
-    line-height: 16px;
+    line-height: 20px;
     height: 40px;
     min-width: 120px;
 }
@@ -259,7 +259,7 @@ header{
     z-index: 0;
 }
 .clickable-items .clickable-item, .matching-items .clickable-item {
-    background: var(--color);;
+    background: var(--boxbackground);
     color: var(--background);
     outline: none;
     display: flex;
@@ -479,6 +479,7 @@ header{
     text-align: start;
     position: absolute;
     background: #fff;
+    border-radius: 2px;
     box-shadow: 0px 2px 6px 0px rgb(0 0 0 / 25%);
     color: #5E6062;
     width: 547px;
@@ -513,11 +514,11 @@ header{
 .notice-card button{
     background: none;
     border: none;
-    
     position: absolute;
     right: 10px;
     top: 17px;
     font-weight: normal;
+    color: #5e6062;
 }
 
 
@@ -586,7 +587,7 @@ header{
     
     .activity-title {
         font-size: 18px;
-        line-height: 28px;
+        line-height: 23px;
         width: 808px;
     }
     .clickable-items .clickable-item{
