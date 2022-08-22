@@ -533,7 +533,7 @@ header{
     }
     .activity-title {
         font-size: 18px;
-        line-height: 28px;
+        line-height: 23px;
         width: 808px;
     }
     .clickable-items .clickable-item{
@@ -615,6 +615,9 @@ header{
     .matching-items .matching-element{
         left: calc(var(--bs-gutter-x)/ 2);
     }
+    .p-48p{
+        top: 43%;
+    }
     .activity-header{
         position: fixed;
         width: 100%;
@@ -683,7 +686,7 @@ header{
     .activity-title {
         font-size: 16px;
        font-family: "HelveticaNeue-Bold";
-        line-height: 20px;
+        line-height: 23px;
         max-height: 141px;
         min-height: unset;
         padding-top: 5px;
@@ -819,9 +822,9 @@ header{
 
 @media screen and (max-width: 529px){
     
-    .p-48p{
+    /* .p-48p{
         top: 48% !important;
-    }
+    } */
     .matchedEvent:last-of-type{
         margin-bottom: 100px;
     }
@@ -920,6 +923,17 @@ header{
 
     .mobile-submit{
         display: none;
+    }
+
+    .clickable-item.right-border-up::after{
+        width: 20px;
+        height: 20px;
+        right: -10px;
+    } 
+    .clickable-item.wrong-border-up::after{
+        width: 20px;
+        height: 20px;
+        right: -10px;
     }
 }
 
