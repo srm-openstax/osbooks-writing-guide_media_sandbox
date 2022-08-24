@@ -52,7 +52,8 @@ body {
     display: none !important;
 }
 .close:focus{
-    outline: 2px solid;
+    outline: 1px solid;
+    border-radius: 4px;
 }
 
 .mainContainer {
@@ -95,6 +96,7 @@ header {
     padding-bottom: 11px;
     box-shadow: 0px 1px 10px #d6d6d6;
     position: relative;
+    min-height: 132px;
 }
 header.t-border::before{
     position: absolute;
@@ -104,8 +106,6 @@ header.t-border::before{
     content: '';
     background: #d5d5d5;
 }
-
-
 
 .category {
     display: flex;
@@ -225,7 +225,7 @@ header.t-border::before{
 }
 
 .feedback p {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 28px;
     width: 1120px;
     font-family: "HelveticaNeue-Regular";
@@ -246,7 +246,7 @@ header.t-border::before{
     letter-spacing: 0.2px;
     font-weight: normal;
     font-family: "HelveticaNeue-Regular";
-    font-size: 18px;
+    font-size: 16px;
     padding-top: 23px;
 }
 
@@ -261,11 +261,13 @@ header.t-border::before{
 .nav-container button {
     background: #d4450c;
     border: none;
-    padding: 13px 24px 15px 24px;
+    padding: 0 30px;
+    height: 40px;
+    min-width: 120px;
     color: #fff;
     font-family: "HelveticaNeue-Bold";
-    font-size: 22px;
-    border-radius: 10px;
+    font-size: 16px !important;
+    border-radius: 2px;
     line-height: 16px;
     outline: none;
 }
@@ -314,12 +316,13 @@ header.t-border::before{
 }
 
 #title {
-    font-size: 22px;
-    line-height: 28px;
+    font-size: 18px;
+    line-height: 23px;
     width: 808px;
     padding-top: 15px;
     font-family: "HelveticaNeue-Bold";
     min-height: 71px;
+    color: #5E6062;
 }
 
 .settingContainer {
@@ -363,13 +366,13 @@ button, select {
 }
 
 .settinToolsContainer {
-    background: #BFBFBF !important;
+    background: #FFFFFF !important;
     padding: 13px;
-    border-radius: 6px;
+    border-radius: 2px;
     color: #001936;
-    box-shadow: 0px 3px 6px 0px rgb(112 112 112);
-    -webkit-box-shadow: 0px 3px 6px 0px rgb(112 112 112);
-    -moz-box-shadow: 0px 3px 6px 0px rgba(112, 112, 112, 1);
+    box-shadow: 0px 2px 6px 0px rgb(0 0 0 / 25%);
+    -webkit-box-shadow: 0px 2px 6px 0px rgb(0 0 0 / 25%);
+    -moz-box-shadow: 0px 2px 6px 0px rgb(0 0 0 / 25%);
     position: absolute;
     top: 5px;
     right: 0px;
@@ -392,12 +395,15 @@ button, select {
     height: 22px;
     right: 4px;
     top: 0px;
+    color:#5E6062;
+    font-size: 16px;
+    font-family: "HelveticaNeue-Regular";
     /* border-radius: 50%; */
     background-color: transparent;
     cursor: pointer;
-    background-image: url(../images/remove.png);
+    /* background-image: url(../images/remove.png);
     background-repeat: no-repeat;
-    background-size: 22px 22px;
+    background-size: 22px 22px; */
     border: none;
 }
 
@@ -409,7 +415,7 @@ button, select {
     margin-right: 5px;
     outline: 1px solid transparent;
     border: 2px solid transparent;
-    font-size: .7rem;
+    font-size: 12px;
     width: 80px;
     text-align: center;
     margin-bottom: 10px;
@@ -455,12 +461,14 @@ button, select {
 
 .help-popup {
     position: absolute;
-    background: #5e6062;
+    background: #FFFFFF;
     right: 29px;
     width: 547px;
     padding: 24px 59px 16px 22px;
     z-index: 4;
     top: 0;
+    border-radius: 2px;
+    box-shadow: 0px 2px 6px 0px rgb(0 0 0 / 25%);
 }
 
 .help-popup .popup-close {
@@ -469,7 +477,7 @@ button, select {
     font-family: "HelveticaNeue-Regular";
     background: none;
     border: none;
-    color: #fff;
+    color: #5E6062;
     position: absolute;
     right: 10px;
     top: 17px;
@@ -486,9 +494,9 @@ button, select {
 
 #instructionnorm {
     font-family: "HelveticaNeue-Regular";
-    color: #fff;
-    font-size: 20px;
-    line-height: 26px;
+    color: #5E6062;
+    font-size: 16px !important;
+    line-height: 23px !important;
     letter-spacing: 0.2px;
     font-weight: normal;
 }
@@ -554,7 +562,7 @@ hr.first {
     box-shadow: 0 6px 6px 0 rgba(0, 0, 0, 0.16);
     background: white;
     border-radius: 14px;
-    border: 2px solid #fff;
+    border: 2px solid #d5d5d5;
     outline: 1px solid transparent;
     min-height: 73px;
     letter-spacing: 0.2px;
@@ -609,9 +617,9 @@ button[disabled] {
     width: 176px;
     min-height: 175px;
     padding: 22px 16px;
-    background: #000;
+    background: #424242;
     border-radius: 10px;
-    border: 2px solid transparent;
+    border: 2px solid #d5d5d5;
     font-family: "HelveticaNeue-Bold" !important;
     outline: none;
 }
@@ -625,7 +633,7 @@ button[disabled] {
     line-height: 24px;
     width: 176px;
     padding: 50px 16px;
-    background: #000;
+    /* background: #000; */
     border-radius: 10px;
     font-family: "HelveticaNeue-Bold" !important;
 }
@@ -679,10 +687,7 @@ button[disabled] {
 
 @media screen and (device-width: 1350px), (device-height: 760px) {
 
-    .nav-container button {
-        font-family: "HelveticaNeue-Bold";
-        font-size: 20px;
-    }
+    
 
     .categoryDroppableCnt {
         display: grid;
@@ -756,7 +761,7 @@ button[disabled] {
         content: '';
         background: #d5d5d5;
     }
-
+    
 /*.custom-Scroll::-webkit-scrollbar {
     width: 10px;
     height: 10px;
@@ -828,7 +833,7 @@ button[disabled] {
         background: white;
         border-radius: 14px;
         min-height: 55px;
-        border: 2px solid transparent;
+        
     }
     .draggableitemCnt {
         width: 270px;
@@ -896,12 +901,13 @@ button[disabled] {
     }
 
     .feedback {
-        font-size: 14px;
+        font-size: 16px;
         width: 300%;
         letter-spacing: 0.2px;
         font-weight: normal;
         line-height: 20px;
         font-family: "HelveticaNeue-Regular";
+        min-height: 83px;
     }
 
     .bottom-btn {
@@ -919,30 +925,25 @@ button[disabled] {
     }
 
 
-    #instructionnorm {
-        font-family: "HelveticaNeue-Regular";
-        color: #fff;
-        font-size: 14px;
-        line-height: 18px;
-    }
+    
 
     .help-popup {
         width: 301px;
-        font-size: 14px;
-    font-family: "HelveticaNeue-Regular";
-    line-height: 18px;
-    letter-spacing: 0.2px;
-    padding: 19px 18px 16px 15px;
+        font-size: 16px;
+        font-family: "HelveticaNeue-Regular";
+        line-height: 23px;
+        letter-spacing: 0.2px;
+        padding: 19px 18px 16px 15px;
     }
 
     .help-popup .popup-close {
-        font-size: 14px;
-        right: 7px;
-        top: 10px;
+        font-size: 16px;
+        right: 1px;
+        top: 2px;
     }
 
     .feedback p {
-        font-size: 12px;
+        font-size: 16px;
         line-height: unset;
         width: 483px;
     }
@@ -960,7 +961,7 @@ button[disabled] {
         padding: 7px 16px;
         width: 189px;
         min-height: 71px;
-        background: #000;
+        /* background: #000; */
         border-radius: 10px;
         font-family: "HelveticaNeue-Bold" !important;
     }
@@ -976,6 +977,7 @@ button[disabled] {
     header {
         border-bottom: 2px dotted #d5d5d5;
         padding-bottom: 3px;
+        min-height: 132px;
     }
 
     .draggableitemWraper {
@@ -983,17 +985,13 @@ button[disabled] {
     }
 
     .nav-container button {
-        font-size: 13px;
-        line-height: 16px;
         position: absolute;
-        bottom: 10px;
-        padding: 7px 18px;
-        border-radius: 10px;
+        bottom: 10px;        
     }
 
     #title {
-        font-size: 14px;
-        line-height: 20px;
+        font-size: 16px;
+        line-height: 23px;
         margin: 0px 0px 4px 0px;
         width: 548px;
         min-height: 40px;
@@ -1047,15 +1045,16 @@ button[disabled] {
     }
 
     .category-2 .categoryTitleCnt_0 {
-        top: 123px;
+        top: 132px;
         border-bottom: 2px dotted #d5d5d5 !important;
         padding: 18px 16px;
-        border-top: 2px dotted #d5d5d5 !important;
+        /* border-top: 2px dotted #d5d5d5 !important;*/
     }
 
     .category-2 .categoryTitleCnt_1 {
-        top: 234px;
-        padding: 17px 16px;
+        top: 239px;
+        padding: 16px 16px;
+        border-top: 2px dotted #d5d5d5;
     }
 
     .category-2 .categoryDroppableCnt {
@@ -1227,14 +1226,14 @@ button[disabled] {
     .help-popup {
         padding: 24px 59px 16px 22px;
         width: 303px;
-        font-size: 14px;
-        line-height: 18px;
+        font-size: 16px;
+        line-height: 23px;
     }
 
     .help-popup .popup-close {
-        font-size: 14px;
-    right: 7px;
-    top: 10px;
+        font-size: 16px;
+        right: 7px;
+        top: 10px;
     }
 
     .nav-container {
@@ -1245,12 +1244,7 @@ button[disabled] {
     .nav-container button {
         cursor: pointer;
         position: unset;
-        right: 40%;
-        padding: 14px 60px;
-        color: #fff;
-        font-family: "HelveticaNeue-Bold";
-        font-size: 15px;
-        border-radius: 11px;
+        right: 40%;        
     }
 
     .reset_btn {
@@ -1436,7 +1430,9 @@ button[disabled] {
     .nav-container {
         text-align: center;
     }
-
+    .mob-hid{
+        pointer-events: none;
+    }
     .submit_btn {
         cursor: pointer;
         position: absolute;
@@ -1515,11 +1511,6 @@ button[disabled] {
     .nav-container button {
         cursor: pointer;
         position: unset;
-        padding: 12px 59px;
-        color: #fff;
-        font-family: "HelveticaNeue-Bold";
-        font-size: 16px;
-        border-radius: 11px;
     }
 
     .card-wrap {
@@ -1552,6 +1543,6 @@ button[disabled] {
             width: 100%;
         }
         .categoryDroppableCnt .draggableitemCnt{
-            margin: 0 auto;
+            margin: 10px auto;
         }
  }
