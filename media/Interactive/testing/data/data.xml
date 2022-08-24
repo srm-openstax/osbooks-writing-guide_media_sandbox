@@ -1,34 +1,64 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dataset>
-<title>Summary or Evaluation?</title>
-<instruction>
-    <instructionnorm>To complete the activity, select each 
-item and then select the corresponding category.  Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instructionnorm>
-</instruction>
-  <category>
-      <categorytitle cat="one">Summary/ Observation</categorytitle>
-      <categorytitle cat="two">Evaluation/ Analysis</categorytitle>
-       <!-- <categorytitle cat="three">Rebecca Bunch is relatable because the Rebecca Bunch is relat</categorytitle>  -->
-  </category>
-
-  <draggableitem>
-    <item cat="one"><i>Crazy Ex-Girlfriend</i> is about a young lawyer named Rebecca Bunch who follows a crush to California.</item>
-    <item cat="one">Similar to Jason's machete or Freddy Krueger's claws, Leatherface wields a chainsaw to attack his victims.</item>
-    <item cat="one">Romantic comedies used to be a common option at movie theaters, but recently Netflix has taken over the genre.</item>
-    <item cat="one"><i>Crazy Ex-Girlfriend's</i> humor derives from the use of original songs to explain Rebecca's feelings.</item>
-    <item cat="one"><i>The Texas Chainsaw Massacre</i> was first released in 1974 and has seen seven sequels and remakes since.</item>
-    <item cat="two">Rebecca Bunch is relatable because the audience gets to relive the experience of unrequited love.</item>
-    <item cat="two">Leatherface's chainsaw is effective at terrorizing because its size and shape make it an intimidating tool.</item>
-    <item cat="two">Romantic comedies are well suited to solitary viewing, making Netflix the perfect distribution medium.</item>
-    <item cat="two">Some of <i>Crazy Ex-Girlfriend's</i> best punch lines are delivered through music, which helps them land better.</item>
-    <item cat="two">Like previous versions, <i>The Texas Chainsaw Massacre</i> (2003) serves as a time capsule for the early 2000s.</item>
-    
-
-        
-  </draggableitem>
-  <feedback>
-    <rightans>Correct! You've matched each review excerpt to its category. You understand that summaries/observations are objective statements, while evaluations/analyses are subjective statements about the subject of the review.</rightans>
-    <wrongans>Incorrect. Try again. Refer to the beginning of Chapter 7 of your textbook to review the different types of responses in a review.</wrongans>
-  </feedback>
- 
+  <title>Claims and Counterclaims</title>
+  <instruction>First, read the claim and the potential counterclaim. Decide if the counterclaim is reasonable. Then, select each card to check your evaluation. Replay this interaction as many times as you need. There is no time limit. This activity is not graded.</instruction>
+  <items>
+    <item>
+      <front>
+        <text><p>Vaccines against COVID-19 should be mandated.</p><p>No one has the right to mandate what goes into an individual's body.</p></text>
+      </front>
+      <back>
+        <text><p>Yes, this is a reasonable counterclaim.</p><p>Both statements focus on the right of the government to mandate health issues.</p></text>
+      </back>
+    </item>
+    <item>
+      <front>
+        <text><p>Content on YouTube should be well regulated.</p><p>Freedom of speech means that regulations on social media platforms should not be tightened.</p></text>
+      </front>
+      <back>
+        <text><p>Yes, this is a reasonable counterclaim.</p><p>Both statements focus on whether speech can and should be regulated.</p></text>
+      </back>
+    </item>
+    <item>
+      <front>
+        <text><p>Parents should be able to modify fetuses, if desired.</p><p> An unborn child is exactly the way God intended the child to be.</p></text>
+      </front>
+      <back>
+        <text><p>Yes, this is a reasonable counterclaim.</p><p>Both statements focus on the development of fetuses.</p></text>
+      </back>
+    </item>
+    <item>
+      <front>
+        <text><p>College athletes should not be paid.</p><p>Many college athletes are already paid via scholarship money.</p></text>
+      </front>
+      <back>      
+        <text><p>No, this is not a reasonable counterclaim.</p><p>The second statement supports the first.</p></text>
+      </back>
+    </item>
+    <item>
+      <front>
+        <text><p>Minors should be allowed to buy birth control.</p><p>Minors should not be engaging in sexual intercourse.</p></text>
+      </front>
+      <back>      
+        <text><p>No, this is not a reasonable counterclaim.</p><p>The second statement offers a second claim.</p></text>
+      </back>
+    </item>
+    <item>
+      <front>
+        <text><p>US immigration laws should be changed.</p><p>Existing laws are adequate and ensure the safety of current citizens.</p></text>
+      </front>
+      <back>
+        <text><p>Yes, this is a reasonable counterclaim.</p><p>Both statements focus on immigration law.</p></text>
+      </back>
+    </item>
+    <item>
+      <front>
+        <text><p>Public colleges should be free to attend.</p><p>Everyone should go to college.</p></text>
+      </front>
+      <back>      
+        <text><p>No, this is not a reasonable counterclaim.</p><p>The second statement offers a second claim.</p></text>
+      </back>
+    </item>
+  </items>
+  
 </dataset>
