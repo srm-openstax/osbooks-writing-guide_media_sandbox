@@ -193,6 +193,7 @@ $(document).ready(function () {
 
 				if (totalDropedItem != arrAllDraggableitem.length) {
 					$('.submit_btn').prop("disabled", true);
+					$(".nav-container").addClass("mob-hid");
 				}
 
 				if(totalDropedItem == 0){
@@ -250,6 +251,7 @@ $(document).ready(function () {
 
 						if (totalDropedItem != arrAllDraggableitem.length) {
 							$('.submit_btn').prop("disabled", true);
+							$(".nav-container").addClass("mob-hid");
 						}
 						if(totalDropedItem == 0){
 							$(".bottom-btn").css({"opacity": 0.6, "pointer-events":"none"});
@@ -374,6 +376,7 @@ $(document).ready(function () {
 			//console.log('totalDropedItem=', totalDropedItem);
 			if (totalDropedItem == arrAllDraggableitem.length) {
 				$('.submit_btn').prop("disabled", false);
+				$(".nav-container").removeClass("mob-hid");
 				$('.submit_btn').removeClass("submit-hide");
 				$('.submit_btn').off().on("click", submitListener);
 			}
@@ -499,9 +502,11 @@ $(document).ready(function () {
 		$(".settinToolsContainer").css("zIndex", "2");
 		$(".settingContainer").css("zIndex", "3");
 		$(".help-popup").css("zIndex", "4");
+		$(".popup-close").focus();
 	});
 	$(".popup-close").click(function () {
 		$(".help-popup").hide();
+		$(".showText").focus();
 		//$(".settingContainer").css("zIndex","unset");
 	});
 });

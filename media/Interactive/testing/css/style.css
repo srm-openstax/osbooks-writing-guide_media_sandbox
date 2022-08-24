@@ -52,7 +52,7 @@ body {
     display: none !important;
 }
 .close:focus{
-    outline: 2px solid;
+    outline: 1px solid;
 }
 
 .mainContainer {
@@ -322,6 +322,7 @@ header.t-border::before{
     padding-top: 15px;
     font-family: "HelveticaNeue-Bold";
     min-height: 71px;
+    color: #5E6062;
 }
 
 .settingContainer {
@@ -394,6 +395,8 @@ button, select {
     height: 22px;
     right: 4px;
     top: 0px;
+    color:#5E6062;
+    font-size: 16px;
     /* border-radius: 50%; */
     background-color: transparent;
     cursor: pointer;
@@ -615,7 +618,7 @@ button[disabled] {
     padding: 22px 16px;
     background: #424242;
     border-radius: 10px;
-    border: 2px solid transparent;
+    border: 2px solid #d5d5d5;
     font-family: "HelveticaNeue-Bold" !important;
     outline: none;
 }
@@ -829,7 +832,7 @@ button[disabled] {
         background: white;
         border-radius: 14px;
         min-height: 55px;
-        border: 2px solid transparent;
+        
     }
     .draggableitemCnt {
         width: 270px;
@@ -984,8 +987,8 @@ button[disabled] {
     }
 
     #title {
-        font-size: 14px;
-        line-height: 20px;
+        font-size: 16px;
+        line-height: 23px;
         margin: 0px 0px 4px 0px;
         width: 548px;
         min-height: 40px;
@@ -1039,15 +1042,16 @@ button[disabled] {
     }
 
     .category-2 .categoryTitleCnt_0 {
-        top: 123px;
+        top: 132px;
         border-bottom: 2px dotted #d5d5d5 !important;
         padding: 18px 16px;
-        border-top: 2px dotted #d5d5d5 !important;
+        /* border-top: 2px dotted #d5d5d5 !important;*/
     }
 
     .category-2 .categoryTitleCnt_1 {
-        top: 234px;
-        padding: 17px 16px;
+        top: 239px;
+        padding: 16px 16px;
+        border-top: 2px dotted #d5d5d5;
     }
 
     .category-2 .categoryDroppableCnt {
@@ -1423,7 +1427,9 @@ button[disabled] {
     .nav-container {
         text-align: center;
     }
-
+    .mob-hid{
+        pointer-events: none;
+    }
     .submit_btn {
         cursor: pointer;
         position: absolute;
@@ -1534,6 +1540,6 @@ button[disabled] {
             width: 100%;
         }
         .categoryDroppableCnt .draggableitemCnt{
-            margin: 0 auto;
+            margin: 10px auto;
         }
  }
