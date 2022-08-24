@@ -437,7 +437,7 @@ button, select {
 }
 
 .toolContainer_0 {
-    font-size: 16px;
+    font-size: 15px;
     text-align: left;
     width: 80px;
 }
@@ -762,9 +762,7 @@ button[disabled] {
         content: '';
         background: #d5d5d5;
     }
-    .close{
-        font-size: 14px;
-    }
+    
 /*.custom-Scroll::-webkit-scrollbar {
     width: 10px;
     height: 10px;
@@ -940,9 +938,9 @@ button[disabled] {
     }
 
     .help-popup .popup-close {
-        font-size: 14px;
-        right: 7px;
-        top: 5px;
+        font-size: 16px;
+        right: 1px;
+        top: 2px;
     }
 
     .feedback p {
@@ -980,6 +978,7 @@ button[disabled] {
     header {
         border-bottom: 2px dotted #d5d5d5;
         padding-bottom: 3px;
+        min-height: 132px;
     }
 
     .draggableitemWraper {
