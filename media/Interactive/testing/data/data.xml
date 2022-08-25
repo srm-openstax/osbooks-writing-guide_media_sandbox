@@ -1,64 +1,92 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dataset>
-  <title>Claims and Counterclaims</title>
-  <instruction>First, read the claim and the potential counterclaim. Decide if the counterclaim is reasonable. Then, select each card to check your evaluation. Replay this interaction as many times as you need. There is no time limit. This activity is not graded.</instruction>
+  <title>Anatomy of the Heart</title>
+  <instruction>To complete the activity, review the initial material, and then match each response to it’s type. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
+  <rightfeedback>Correct! You've matched each claim to its counterclaim. You understand this aspect of argument.</rightfeedback>
+  <wrongfeedback>Incorrect. Try again. Refer to Chapter 10 of your textbook to review counterclaims, their relation to claims, and their purpose in argument.</wrongfeedback>
+  <reviewimage>assets/images/HeartAnatomy.png</reviewimage>
   <items>
-    <item>
-      <front>
-        <text><p>Vaccines against COVID-19 should be mandated.</p><p>No one has the right to mandate what goes into an individual's body.</p></text>
-      </front>
-      <back>
-        <text><p>Yes, this is a reasonable counterclaim.</p><p>Both statements focus on the right of the government to mandate health issues.</p></text>
-      </back>
+    <item>    
+      <clickable>
+        <text>Inferior Vena Cava</text>
+      </clickable>
+      <matching>
+        <text>assets/images/HeartAnatomy_01.png</text>
+      </matching>
     </item>
     <item>
-      <front>
-        <text><p>Content on YouTube should be well regulated.</p><p>Freedom of speech means that regulations on social media platforms should not be tightened.</p></text>
-      </front>
-      <back>
-        <text><p>Yes, this is a reasonable counterclaim.</p><p>Both statements focus on whether speech can and should be regulated.</p></text>
-      </back>
+      <clickable>
+        <text>Aortic Arch</text>
+      </clickable>
+      <matching>
+        <text>assets/images/HeartAnatomy_02.png</text>
+      </matching>
     </item>
     <item>
-      <front>
-        <text><p>Parents should be able to modify fetuses, if desired.</p><p> An unborn child is exactly the way God intended the child to be.</p></text>
-      </front>
-      <back>
-        <text><p>Yes, this is a reasonable counterclaim.</p><p>Both statements focus on the development of fetuses.</p></text>
-      </back>
+      <clickable>
+        <text>Superior Vena Cava</text>
+      </clickable>
+      <matching>
+        <text>assets/images/HeartAnatomy_03.png</text>
+      </matching>
     </item>
     <item>
-      <front>
-        <text><p>College athletes should not be paid.</p><p>Many college athletes are already paid via scholarship money.</p></text>
-      </front>
-      <back>      
-        <text><p>No, this is not a reasonable counterclaim.</p><p>The second statement supports the first.</p></text>
-      </back>
+      <clickable>
+        <text>Pulminary Artery</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/HeartAnatomy_04.png</text>
+      </matching>
     </item>
     <item>
-      <front>
-        <text><p>Minors should be allowed to buy birth control.</p><p>Minors should not be engaging in sexual intercourse.</p></text>
-      </front>
-      <back>      
-        <text><p>No, this is not a reasonable counterclaim.</p><p>The second statement offers a second claim.</p></text>
-      </back>
+      <clickable>
+        <text>Left Atrium</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/HeartAnatomy_05.png</text>
+      </matching>
     </item>
     <item>
-      <front>
-        <text><p>US immigration laws should be changed.</p><p>Existing laws are adequate and ensure the safety of current citizens.</p></text>
-      </front>
-      <back>
-        <text><p>Yes, this is a reasonable counterclaim.</p><p>Both statements focus on immigration law.</p></text>
-      </back>
+      <clickable>
+        <text>Left Ventricle</text>
+      </clickable>
+      <matching>
+        <text>assets/images/HeartAnatomy_06.png</text>
+      </matching>
     </item>
     <item>
-      <front>
-        <text><p>Public colleges should be free to attend.</p><p>Everyone should go to college.</p></text>
-      </front>
-      <back>      
-        <text><p>No, this is not a reasonable counterclaim.</p><p>The second statement offers a second claim.</p></text>
-      </back>
+      <clickable>
+        <text>Septum</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/HeartAnatomy_07.png</text>
+      </matching>
     </item>
+    <item>
+      <clickable>
+        <text>Right Ventricle</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/HeartAnatomy_08.png</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Pulminary Vein</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/HeartAnatomy_09.png</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Right Atrium</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/HeartAnatomy_10.png</text>
+      </matching>
+    </item>
+    
+    
   </items>
-  
 </dataset>

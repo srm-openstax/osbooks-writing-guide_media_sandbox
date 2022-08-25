@@ -8,7 +8,7 @@
             <title>Default</title>
             <images>default.svg</images>
             <color>#5E6062</color>
-            <background>#FFFFFF</background>           
+            <background>#FFFFFF</background>
             <boxbackground>#424242</boxbackground>
         </theme>
         <theme>
@@ -16,7 +16,7 @@
             <title>Red/Green</title>
             <images>red-green.svg</images>
             <color>#C6DCD0</color>
-            <background>#97322b</background>           
+            <background>#97322b</background> 
             <boxbackground>#C6DCD0</boxbackground>
         </theme>
         <theme>
