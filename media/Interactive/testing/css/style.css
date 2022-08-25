@@ -41,9 +41,9 @@
 }
 
 :root {
-    --color: #000;
+    --color: #5E6062;
     --background: #FFF; 
-    --selectioncolor: #F5BA5C; 
+    --boxbackground: #424242; 
     --cardCount: 8;
   }
 
@@ -133,6 +133,10 @@ header{
     letter-spacing: 0.2px;
     text-align: center;
     text-transform: capitalize;
+    font-size: 12px;
+}
+.toolTxt_0{
+    font-size: 16px;
 }
 .settinToolsContainer {
     width: 232px;
@@ -275,16 +279,19 @@ header{
     right: 28px;
     text-align: start;
     position: absolute;
-    background: #5e6062;
-    color: #fff;
-    width: 619px;
-    height: 167px;
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 0px 2px 6px 0px rgb(0 0 0 / 25%);
+    color: #5E6062;
+    width: 547px;
     padding: 24px 59px 16px 22px;
     top: 0;
-    font-size: 20px;
+    font-size: 16px;
     display: none;
-    line-height: 26px;
+    line-height: 23px;
     font-family: "HelveticaNeue-Regular";
+    letter-spacing: 0.2px;
+    margin-bottom: 0px;
 }
 
 
@@ -311,7 +318,7 @@ header{
 .notice-card button{
     background: none;
     border: none;
-    color: #fff;
+    color: #5e6062;
     position: absolute;
     right: 10px;
     top: 17px;
@@ -354,10 +361,9 @@ float: left;
 }
 .activity-title {
 color: var(--color);
-font-size: 22PX;
+font-size: 18PX;
 font-family: "HelveticaNeue-Bold";
-
-line-height: 28px;
+line-height: 23px;
 width: 808px;
 margin-bottom: 0px !important;
 }
@@ -428,15 +434,15 @@ justify-content: space-evenly;
 font-family:'HelveticaNeue-Regular';
 background-color: var(--background);
 color: var(--color);
-border: 1px solid #707070;
+border: 1px solid #d5d5d5;
 border-radius: 12px;
 
 }
 
 .flip-card-back {
 font-family: 'HelveticaNeue-Medium';
-background-color: var(--color);
-border: 1px solid #707070;
+background-color: var(--boxbackground);
+border: 1px solid #d5d5d5;
 color: var(--background);
 border-radius: 12px;
 transform: rotateY(180deg);
@@ -480,7 +486,7 @@ margin-left: auto;
     }
     .activity-title{
         font-size: 16px;
-        line-height: 20px;
+        line-height: 23px;
     }
     .a-container{
         margin-top: 0;
@@ -488,15 +494,16 @@ margin-left: auto;
     }
 
     .head-btn .notice-card{
-        width: 320px;
-        height: 134px;
-        padding: 14px 16px 9px 16px;
-        font-size: 14px;
-        line-height: 18px;
+        width: 301px;
+        font-size: 16px;
+        font-family: "HelveticaNeue-Regular";
+        line-height: 23px;
+        letter-spacing: 0.2px;
+        padding: 19px 18px 16px 15px;
     }
     .notice-card button{
-        top: 3px;
-        right: 2px;
+        top: 2px;
+        right: 1px;
     }
     .card-wrap{
         margin: 20px 30px 25px 30px;
