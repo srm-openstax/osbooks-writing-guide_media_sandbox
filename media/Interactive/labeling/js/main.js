@@ -64,6 +64,7 @@ var matching = (function() {
         $(".matching-item").prop("disabled", false);
         $(".clickableBlock").removeClass("no-grid");
         console.log("111", $(".clickableBlock"));
+        $(".text-end").removeClass("mar-t-0");
 
         $(".matching-element").find(".clickable-item").removeClass("wrong-border-up");
         $(".matching-element").find(".matching-item").removeClass("wrong-border-bottom");
@@ -294,7 +295,7 @@ var matching = (function() {
                 "role": "settings tool",
                 "data-color": $(element).find("color").html(),
                 "data-background": $(element).find("background").html(),
-                "data-selectioncolor": $(element).find("selectioncolor").html(),
+                "data-boxbackground": $(element).find("boxbackground").html(),
                 "class": "toolContainer toolContainer_" + (index+1),
                 "aria-label": $(element).find("title").html(),
                 "aria-pressed": "false",
@@ -319,7 +320,7 @@ var matching = (function() {
                 var r = document.querySelector(':root');
                 r.style.setProperty('--color', $(this).attr("data-color"));
                 r.style.setProperty('--background', $(this).attr("data-background"));
-                r.style.setProperty('--selectioncolor', $(this).attr("data-selectioncolor"));
+                r.style.setProperty('--boxbackground', $(this).attr("data-boxbackground"));
             })
         });
     }
@@ -427,7 +428,7 @@ var matching = (function() {
         $(".clickable-item.wrong-border-up").addClass(".clickable-item.wrong-border-up-sub");
         $(".clickable-item").prop("disabled", true);
         $(".matching-item").prop("disabled", true);
-        
+        $(".text-end").addClass("mar-t-0");
         //$(".activity-content").addClass("p-48p");
         for(var i=0; i<data.ques.length; i++){
             var clicksId = $("#cloneItem_"+i).attr("id").replace("cloneItem_", "");
@@ -466,7 +467,7 @@ var matching = (function() {
 
     function bindEvents(){
         $(".clickedEvent").click(function clickableHandler(e){
-            console.clear();
+            /* console.clear();
             console.log("prev: ", prevBtn);
             console.log("$prev: ", $(prevBtn));
             console.log("this: ", $(this));
@@ -474,7 +475,7 @@ var matching = (function() {
             console.log("c target: ", e.currentTarget);
             console.log("prev[0]", $(prevBtn)[0]);
             console.log("c1: ", $(prevBtn)[0] == $(this)[0]);
-            console.log("c2: ", $(prevBtn)[0]==e.currentTarget);
+            console.log("c2: ", $(prevBtn)[0]==e.currentTarget); */
 
             if($(prevBtn)[0] == $(this)[0] && $(prevBtn)[0]==e.currentTarget){
                 console.log("double click..........");
@@ -605,6 +606,8 @@ var matching = (function() {
 
     function enableFocus(){
         $(".was-disabled").prop("disabled",false).removeClass("was-disabled");
+        $(".clickable-items").attr("aria-hidden", false);
+        $(".matching-items").attr("aria-hidden", false);
     }
 
     function disbleFocus(){
@@ -616,6 +619,7 @@ var matching = (function() {
                 $(item).addClass("was-disabled").prop("disabled", true);
             }
         });
+
         $(".matching-item").each(function(id,item){
             if(!$(item).is(":disabled"))
             {
@@ -630,6 +634,9 @@ var matching = (function() {
                 $(item).addClass("was-disabled").prop("disabled", true);
             }
         })
+
+        $(".clickable-items").attr("aria-hidden", true);
+        $(".matching-items").attr("aria-hidden", true);
     }
 
     $.fn.shuffleChildren = function() {

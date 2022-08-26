@@ -38,9 +38,9 @@
 }
 
 :root {
-    --color: #000000;
-    --background: #FFF;
-    --selectioncolor: #F5BA5C;
+    --color: #5E6062;
+    --background: #FFF; 
+    --boxbackground: #424242; 
     --cardCount: 8;
 }
 
@@ -73,11 +73,12 @@ body {
 
 .activity-title {
     color: var(--color);
-    font-size: 22PX;
+    font-size: 18px;
     font-family: "HelveticaNeue-Bold";
     padding-top: 15px;
     font-weight: bold;
     padding-left: 1.75rem;
+    line-height: 23px;
 }
 
 .activity-instruction {
@@ -242,7 +243,7 @@ body {
 }
 
 .wrong-border-up {
-    border: 2px solid red !important;
+    border: 2px solid #C22032 !important;
     border-bottom: none !important;
     cursor: auto !important;
 }
@@ -254,7 +255,7 @@ body {
 }
 
 .right-border-up {
-    border: 2px solid rgb(1, 207, 32) !important;
+    border: 2px solid #63A524 !important;
     border-bottom: none !important;
     cursor: auto !important;
 }
@@ -282,12 +283,14 @@ body {
 .btn-submit {
     background: #d4450c;
     border: none;
-    padding: 13px 24px 15px 24px;
+    padding: 0px 30px;
     color: #fff;
     font-family: "HelveticaNeue-Bold";
-    font-size: 22px;
-    border-radius: 10px;
-    line-height: 16px;
+    font-size: 16px;
+    border-radius: 2px;
+    line-height: 20px;
+    height: 40px;
+    min-width: 120px;
 }
 
 .toolCnt {
@@ -302,11 +305,14 @@ body {
 .toolTxt {
     font-family: "HelveticaNeue-Regular";
     letter-spacing: 0.2px;
-    font-weight: normal;
-    text-transform: capitalize;
     text-align: center;
-    margin: 0;
+    text-transform: capitalize;
+    font-size: 12px;
 }
+.toolTxt_0{
+    font-size: 16px;
+}
+
 
 .settinToolsContainer {
     width: 232px;
@@ -314,10 +320,9 @@ body {
 
 .toolContainer {
     background: none;
-    padding: 8px 0px;
+    padding: 0px;
     outline: none;
     margin-right: 5px;
-    outline: 1px solid transparent;
     border: 2px solid transparent;
     font-size: .7rem;
     width: 80px;
@@ -379,7 +384,7 @@ body {
     font-weight: normal;
     color: #5e6062;
     font-family: "HelveticaNeue-Regular";
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .buttonCont {
@@ -402,10 +407,8 @@ body {
     padding-right: .75rem;
 }
 
-.clickable-items .clickable-item,
-.matching-items .clickable-item {
-    background: var(--color);
-    ;
+.clickable-items .clickable-item, .matching-items .clickable-item {
+    background: var(--boxbackground);
     color: var(--background);
     outline: none;
     display: flex;
@@ -414,10 +417,11 @@ body {
     min-height: 100px;
     width: 224px;
     margin: 0 auto 15px auto;
-    border-radius: 15px 15px 0px 0;
+    border-radius: 8px 8px 0px 0;
     padding: 20px 18px;
-    border: solid 2px #BCBCBC;
+    border: solid 2px #D5D5D5;
     cursor: pointer;
+    line-height: 23px;
 }
 
 .row.clickableBlock {
@@ -513,7 +517,7 @@ body {
 .matching-items .matching-item {
     outline: none;
     background: var(--background);
-    color: #4a4a4a;
+    color: var(--color);
     display: flex;
     align-items: start;
     justify-content: center;
@@ -521,9 +525,9 @@ body {
     width: 224px;
     min-width: 224px;
     max-width: 224px;
-    border-radius: 0 0 15px 15px;
+    border-radius: 0 0 8px 8px;
     padding: 10px 10px;
-    border: 2px solid #707070;
+    border: 2px solid #d5d5d5;
 }
 
 .matching-items .matching-item p {
@@ -626,15 +630,19 @@ body {
     right: 28px;
     text-align: start;
     position: absolute;
-    background: #5e6062;
-    color: #fff;
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 0px 2px 6px 0px rgb(0 0 0 / 25%);
+    color: #5E6062;
     width: 547px;
     padding: 24px 59px 16px 22px;
     top: 0;
-    font-size: 20px;
+    font-size: 16px;
     display: none;
-    line-height: 26px;
+    line-height: 23px;
     font-family: "HelveticaNeue-Regular";
+    letter-spacing: 0.2px;
+    margin-bottom: 0px;
 }
 
 
@@ -664,11 +672,11 @@ body {
 .notice-card button {
     background: none;
     border: none;
-    color: #fff;
     position: absolute;
     right: 10px;
     top: 17px;
     font-weight: normal;
+    color: #5e6062;
 }
 
 
@@ -770,6 +778,14 @@ body {
     }
 }
 
+@media screen and (min-width: 651px) and (max-width:830px){    
+    .clickable-items .clickable-item, .matching-items .matching-element, .matching-items .clickable-item{
+        width: 198px;
+        max-width: 198px;
+        min-width: 198px;
+    }     
+}
+
 @media screen and (max-width: 651px) {
     .matching-items .matching-element {
         left: calc(var(--bs-gutter-x)/ 2);
@@ -806,12 +822,11 @@ body {
 
     .matching-items .clickable-item {
         width: 198px;
-    }
-
-    .matching-items .matching-item {
         max-width: 198px;
         min-width: 198px;
     }
+
+    
 
     .no-grid {
         display: none !important;
@@ -1030,13 +1045,69 @@ body {
 }
 @media screen and  (max-width: 1000px) and (orientation: landscape){
     .moveTOP {
-        transform: translate(0px, -75vh);
+        transform: translate(0px, -78vh);
     }    
     #imageCont img {
         width: 235px;
     }
     .matchedEvent:last-of-type{
         margin-bottom: 100px;
+    }
+    .clickable-items{
+        height: 115px;
+    }
+    .head-btn .notice-card {
+        width: 301px;
+        font-size: 16px;
+        font-family: "HelveticaNeue-Regular";
+        line-height: 23px;
+        letter-spacing: 0.2px;
+        padding: 19px 18px 16px 15px;
+    }
+    .notice-card button {
+        top: 2px;
+        right: 1px;
+    }
+    .feedback {
+        /* width: calc(100% - 135px); */
+        margin-left: 0px;
+        line-height: 20px;
+        letter-spacing: 0.2px;
+        font-weight: normal;
+        color: #5e6062;
+        font-size: 16px;
+    }
+    .activity-title {
+        font-size: 16px;
+        font-family: "HelveticaNeue-Bold";
+        line-height: 23px;
+        max-height: 141px;
+        min-height: unset;
+        padding-top: 5px;
+    }
+    #reviewBtn{
+        font-size: 14px;
+        line-height: 16px;
+        width: 130px;
+        
+    }
+
+    .clickable-item.wrong-border-up::after{
+        height: 20px;
+        width: 20px;
+        right: -8px;
+        top: -8px;
+    }
+    .clickable-item.right-border-up::after{
+        height: 20px;
+        width: 20px;
+        right: -8px;
+        top: -8px;
+    }
+    .matching-items .clickable-item {
+        width: 198px;
+        max-width: 198px;
+        min-width: 198px;
     }
 }
 @media screen and (max-width: 800px) and (orientation: landscape) {
@@ -1120,12 +1191,15 @@ body {
     }
 
     .text-end {
-        margin-top: 0px;
+        margin-top: 70px;
+    }
+    .mar-t-0{
+        margin-top: 0;
     }
 
     .head-btn .notice-card {
         width: 547px;
-        line-height: 20px;
+        line-height: 23px;
     }
 
     .matching-items .matching-item p {
