@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <title>Anatomy of the Heart</title>
+  <instruction>To complete the activity, review the initial material, and then match each response to it’s type. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
+  <rightfeedback>Correct! You've matched each claim to its counterclaim. You understand this aspect of argument.</rightfeedback>
+  <wrongfeedback>Incorrect. Try again. Refer to Chapter 10 of your textbook to review counterclaims, their relation to claims, and their purpose in argument.</wrongfeedback>
+  <reviewimage>assets/images/HeartAnatomy.png</reviewimage>
+  <items>
+    <item>    
+      <clickable>
+        <text>Inferior Vena Cava</text>
+      </clickable>
+      <matching>
+        <text>assets/images/HeartAnatomy_01.png</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Aortic Arch</text>
+      </clickable>
+      <matching>
+        <text>assets/images/HeartAnatomy_02.png</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Superior Vena Cava</text>
+      </clickable>
+      <matching>
+        <text>assets/images/HeartAnatomy_03.png</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Pulminary Artery</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/HeartAnatomy_04.png</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Left Atrium</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/HeartAnatomy_05.png</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Left Ventricle</text>
+      </clickable>
+      <matching>
+        <text>assets/images/HeartAnatomy_06.png</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Septum</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/HeartAnatomy_07.png</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Right Ventricle</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/HeartAnatomy_08.png</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Pulminary Vein</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/HeartAnatomy_09.png</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Right Atrium</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/HeartAnatomy_10.png</text>
+      </matching>
+    </item>
+    
+    
+  </items>
+</dataset>
