@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <title>Parallelism, Repetition, and Signpost Language</title>
+  <instruction>To complete the activity, select the claim at the top, then select the corresponding counterclaim below.  Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
+  <rightfeedback>Correct! You’ve matched each claim to its counterclaim. You understand this aspect of argument.</rightfeedback>
+  <wrongfeedback>Incorrect. Try again. Refer to Chapter 10 of your textbook to review counterclaims, their relation to claims, and their purpose in argument.</wrongfeedback>
+  <items>
+    <item>
+      <clickable>
+        <text>Like father . . .</text>
+      </clickable>
+      <matching>
+        <text>. . . like son.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Don’t look for the ways life disappoints . . .</text>
+      </clickable>
+      <matching>
+        <text>. . . look for the ways life rewards.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>To begin, let’s discuss . . .</text>
+      </clickable>
+      <matching>
+        <text>. . . clean energy. As touched on in the previous section, the use of nuclear energy is dangerous.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Community involvement helps students, . . .</text>
+      </clickable>
+      <matching>      
+        <text>. . . decreases teacher stress, and provides administration with necessary support.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Four major factors led the Union . . .</text>
+      </clickable>
+      <matching>      
+        <text>. . . to war. The first factor involved the fight between states’ rights and federal rights.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>For one thing, . . .</text>
+      </clickable>
+      <matching>
+        <text>. . . many consider it unethical not to disclose a conflict of interest. In addition, it may be illegal in some situations.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Whether at work, . . .</text>
+      </clickable>
+      <matching>      
+        <text>. . . at play, or at home, Jack was always dedicated despite difficult time management choices.</text>
+      </matching>
+    </item>
+
+    
+    
+    
+  </items>
+</dataset>
