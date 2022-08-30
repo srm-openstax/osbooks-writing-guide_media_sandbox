@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dataset>
   <title>Parallelism, Repetition, and Signpost Language</title>
-  <instruction>To complete the activity, select the claim at the top, then select the corresponding counterclaim below.  Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
-  <rightfeedback>Correct! You’ve matched each claim to its counterclaim. You understand this aspect of argument.</rightfeedback>
-  <wrongfeedback>Incorrect. Try again. Refer to Chapter 10 of your textbook to review counterclaims, their relation to claims, and their purpose in argument.</wrongfeedback>
+  <instruction>To complete the activity, select each sentence part at the top, then select the corresponding best match to create parallelism, repetition, or signpost language below. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
+  <rightfeedback>Correct! You've matched each sentence part to its complement. You understand how to use rhetorical techniques to enhance speech.</rightfeedback>
+  <wrongfeedback>Incorrect. Try again. Refer to Chapter 19 of your textbook to review parallelism, repetition, and signpost language.</wrongfeedback>
   <items>
     <item>
       <clickable>
@@ -31,7 +31,7 @@
     </item>
     <item>
       <clickable>
-        <text>Community involvement helps students, . . .</text>
+        <text>Community involvement helps \nstudents,. . .</text>
       </clickable>
       <matching>      
         <text>. . . decreases teacher stress, and provides administration with necessary support.</text>
@@ -55,7 +55,7 @@
     </item>
     <item>
       <clickable>
-        <text>Whether at work, . . .</text>
+        <text>Whether at \nwork,. . .</text>
       </clickable>
       <matching>      
         <text>. . . at play, or at home, Jack was always dedicated despite difficult time management choices.</text>

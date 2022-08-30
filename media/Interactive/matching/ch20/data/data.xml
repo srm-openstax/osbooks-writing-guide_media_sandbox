@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dataset>
   <title>Using Pronouns</title>
-  <instruction>To complete the activity, select the claim at the top, then select the corresponding counterclaim below.  Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
+  <instruction>To complete the activity, select the pronoun at the top, then select the corresponding sentance below. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
   <rightfeedback>Correct! You’ve matched each pronoun to the correct sentence. You understand how to use different types of pronouns.</rightfeedback>
   <wrongfeedback>Incorrect. Try again. Refer to Chapter 20 of your textbook, especially the section on common mix-ups, to review pronouns and their uses.</wrongfeedback>
   <items>

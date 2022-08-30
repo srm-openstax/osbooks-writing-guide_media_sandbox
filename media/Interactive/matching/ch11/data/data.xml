@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dataset>
   <title>Reasoning Strategies</title>
-  <instruction>To complete the activity, select the claim at the top, then select the corresponding counterclaim below.  Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
+  <instruction>To complete the activity, select the term at the top, then select the corresponding definition below. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
   <rightfeedback>Correct! You’ve matched each scenario to the reasoning strategy it represents. You understand the different reasoning strategies and how they are used.</rightfeedback>
   <wrongfeedback>Incorrect. Try again. Refer to the beginning of Chapter 11 of your textbook to review the different reasoning strategies you may use as a writer.</wrongfeedback>
   <items>

@@ -112,10 +112,7 @@ var matching = (function() {
     };
 
     var fetchData = function(xml){
-        let titleText = xml.find("title").text();
-        titleText = titleText.replaceAll("\\n", "<br/>");
-        console.log(titleText);
-        $(".activity-title").html(titleText);
+        $(".activity-title").html(xml.find("title").text());
         $(".notice-card p").html(xml.find("instruction").text());
 
         var items = xml.find("items").find("item");
@@ -123,14 +120,8 @@ var matching = (function() {
         data["ques"] = [];
         items.each((index, el) => {
             var tempObj = {};
-            var tempStr = $(el).find("clickable text").html()
-            tempStr = tempStr.replaceAll("\\n", "<br/>");
-            tempObj["clickable"] =tempStr;
-            
-            tempStr = $(el).find("matching text").html()
-            tempStr = tempStr.replaceAll("\\n", "<br/>");
-            tempObj["matching"] = tempStr;//$(el).find("matching text").html();
-
+            tempObj["clickable"] = $(el).find("clickable text").html();
+            tempObj["matching"] = $(el).find("matching text").html();
 
             data.ques.push(tempObj);
             var txt = data.ques[index].clickable;
