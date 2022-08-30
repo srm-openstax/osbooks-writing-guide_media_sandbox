@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dataset>
-  <title>Parallelism, Repetition, and \n Signpost Language</title>
+  <title>Parallelism, Repetition, and\n Signpost Language</title>
   <instruction>To complete the activity, select each sentence part at the top, then select the corresponding best match to create parallelism, repetition, or signpost language below. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
   <rightfeedback>Correct! You've matched each sentence part to its complement. You understand how to use rhetorical techniques to enhance speech.</rightfeedback>
   <wrongfeedback>Incorrect. Try again. Refer to Chapter 19 of your textbook to review parallelism, repetition, and signpost language.</wrongfeedback>
@@ -31,7 +31,7 @@
     </item>
     <item>
       <clickable>
-        <text>Community involvement helps \n students,. . .</text>
+        <text>Community involvement helps\n students,. . .</text>
       </clickable>
       <matching>      
         <text>. . . decreases teacher stress, and provides administration with necessary support.</text>
@@ -55,7 +55,7 @@
     </item>
     <item>
       <clickable>
-        <text>Whether at \n work,. . .</text>
+        <text>Whether at\n work,. . .</text>
       </clickable>
       <matching>      
         <text>. . . at play, or at home, Jack was always dedicated despite difficult time management choices.</text>
