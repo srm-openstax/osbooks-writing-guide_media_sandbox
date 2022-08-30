@@ -15,9 +15,8 @@
     <item>Identify relationships between ideas, patterns of organization, and interplay between verbal and nonverbal elements in a diverse range of texts.</item>
     </list>
     </section>
-    
-    <para class="annotation linguistic-icon" id="para-00002">Chapter 10</para>
-
+   
+      
      <!-- <media alt="atoms_isotopes">
       <iframe width="650" height="365" src="../../media/Interactive/categorizing/index.html"/>
       </media>
@@ -33,7 +32,10 @@
 <!-- <media alt="alt text">
   <iframe width="100%" height="371.4" src="../../media/Interactive/matching/index.html"/>
 </media> -->
-
+<section id="sect-00010">
+  <title>Chapter 10</title>
+  <para class="annotation linguistic-icon" id="para-00015"></para>
+  </section>
 <media alt="alttext">
   <iframe width="100%" height="371.4" src="../../media/Interactive/matching/index.html"/>
 </media> 
