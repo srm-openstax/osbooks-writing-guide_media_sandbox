@@ -54,7 +54,7 @@ $(document).ready(function () {
 			if ($(".categoryDroppableCnt").hasClass("hidden")) {
 				$(".categoryDroppableCnt").removeClass("hidden");
 				$(".categoryDroppableCnt").removeClass("hidden2");
-				$(this).html("COLLAPSE<br>CATEGORIES");
+				$(this).html("COLLAPSE <br>CATEGORIES");
 			} else {
 				$(".categoryDroppableCnt").addClass("hidden");
 				$(".categoryDroppableCnt").removeClass("hidden2");

@@ -248,6 +248,7 @@ header.t-border::before{
     font-family: "HelveticaNeue-Regular";
     font-size: 16px;
     padding-top: 23px;
+    color: #5E6062;
 }
 
 .nav-container {
@@ -561,11 +562,12 @@ hr.first {
     text-align: start;
     box-shadow: 0 6px 6px 0 rgba(0, 0, 0, 0.16);
     background: white;
-    border-radius: 14px;
+    border-radius: 8px;
     border: 2px solid #d5d5d5;
     outline: 1px solid transparent;
     min-height: 73px;
     letter-spacing: 0.2px;
+    line-height: 19px;
     font-weight: normal;
     font-family: "HelveticaNeue-Regular" !important;
 }
@@ -612,13 +614,13 @@ button[disabled] {
 }
 
 .categoryTitle {
-    font-size: 18px;
-    line-height: 24px;
+    font-size: 16px;
+    line-height: 23px !important;
     width: 176px;
     min-height: 175px;
     padding: 22px 16px;
     background: #424242;
-    border-radius: 10px;
+    border-radius: 8px !important;
     border: 2px solid #d5d5d5;
     font-family: "HelveticaNeue-Bold" !important;
     outline: none;
@@ -634,7 +636,7 @@ button[disabled] {
     width: 176px;
     padding: 50px 16px;
     /* background: #000; */
-    border-radius: 10px;
+    border-radius: 8px;
     font-family: "HelveticaNeue-Bold" !important;
 }
 
@@ -827,16 +829,16 @@ button[disabled] {
 }*/
 
     .draggableitem {
-        font-size: 12px;
+        /* font-size: 12px; */
         padding: 7px 10px;
         text-align: start;
         background: white;
-        border-radius: 14px;
+        border-radius: 8px;
         min-height: 55px;
         
     }
     .draggableitemCnt {
-        width: 270px;
+        width: 330px;
         border-radius: 14px;
     }
 
@@ -856,7 +858,7 @@ button[disabled] {
     }
 
     .category-3 .categoryTitle {
-        font-size: 14px;
+        font-size: 16px;
         line-height: 16px;
         padding: 4px 13px;
         width: 189px;
@@ -956,13 +958,13 @@ button[disabled] {
         
     } */
     .categoryTitle {
-        font-size: 14px;
+        font-size: 16px;
         line-height: 16px;
-        padding: 7px 16px;
+        padding: 7px 26px;
         width: 189px;
         min-height: 71px;
         /* background: #000; */
-        border-radius: 10px;
+        border-radius: 8px;
         font-family: "HelveticaNeue-Bold" !important;
     }
 
@@ -1000,7 +1002,7 @@ button[disabled] {
     
 
     .categoryTitle.paddingCnt {
-        font-size: 12px;
+        font-size: 16px;
         line-height: 16px;
         padding: 16px 16px;
         width: 189px;
@@ -1174,10 +1176,10 @@ button[disabled] {
     }
 
     .draggableitem {
-        font-size: 14px;
+        font-size: 16px;
         height: 100%;
         line-height: 20px;
-        border: 0.2px solid #4a4a4a5c;
+        border: 0.2px solid #d5d5d5;
     }
 
     #title {
@@ -1290,7 +1292,7 @@ button[disabled] {
         padding: 10px 0px;
     }
     .category-3 .categoryTitle {
-        font-size: 14px;
+        font-size: 16px;
         line-height: 20px;
         min-height: 55px;
         width: 276px;
@@ -1348,7 +1350,7 @@ button[disabled] {
     }
 
     .draggableitem {
-        font-size: 14px;
+        font-size: 16px;
         min-height: 92px;
         box-shadow: 3px 3px 6px 0 rgb(0 0 0 / 16%);
         /* border: solid 0.3px #4a4a4a; */
@@ -1386,7 +1388,7 @@ button[disabled] {
     }
 
     .category-2 .categoryTitle {
-        font-size: 14px;
+        font-size: 16px;
         line-height: 20px;
         min-height: 55px;
         width: 276px;
@@ -1459,6 +1461,10 @@ button[disabled] {
         text-transform: capitalize;
         text-align: center;
         font-size: 16px;
+        padding: 1px 18px;
+    }
+    br{
+        display: none;
     }
 
     .category-2 .categoryTitleCnt {

@@ -2,8 +2,7 @@
 <dataset>
 <title>Summary or Evaluation?</title>
 <instruction>
-    <instructionnorm>To complete the activity, select each 
-item and then select the corresponding category.  Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instructionnorm>
+    <instructionnorm>To complete the activity, select each statement at the top, then click its category below. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instructionnorm>
 </instruction>
   <category>
       <categorytitle cat="one">Summary/ Observation</categorytitle>
