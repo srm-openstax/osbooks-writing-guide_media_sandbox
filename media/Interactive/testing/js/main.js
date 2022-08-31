@@ -6,7 +6,7 @@ var matching = (function() {
     var curMatchbox = true;
     var prevBtn = null;
     var classnames = "";    
-    const regex = /assets.*\.(png|jpg|jpeg)/gm;
+    const regex = /assets.*\.(png|jpg|jpeg|svg)/gm;
     var media = window.matchMedia("(max-width: 529px)");
 
     this.init = function(data) {
@@ -606,6 +606,8 @@ var matching = (function() {
 
     function enableFocus(){
         $(".was-disabled").prop("disabled",false).removeClass("was-disabled");
+        $(".clickable-items").attr("aria-hidden", false);
+        $(".matching-items").attr("aria-hidden", false);
     }
 
     function disbleFocus(){
@@ -617,6 +619,7 @@ var matching = (function() {
                 $(item).addClass("was-disabled").prop("disabled", true);
             }
         });
+
         $(".matching-item").each(function(id,item){
             if(!$(item).is(":disabled"))
             {
@@ -631,6 +634,9 @@ var matching = (function() {
                 $(item).addClass("was-disabled").prop("disabled", true);
             }
         })
+
+        $(".clickable-items").attr("aria-hidden", true);
+        $(".matching-items").attr("aria-hidden", true);
     }
 
     $.fn.shuffleChildren = function() {

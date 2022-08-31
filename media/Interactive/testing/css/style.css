@@ -78,6 +78,7 @@ body {
     padding-top: 15px;
     font-weight: bold;
     padding-left: 1.75rem;
+    line-height: 23px;
 }
 
 .activity-instruction {
@@ -214,6 +215,14 @@ body {
     margin: 0px 0px;
 }
 
+.hr-line-middle{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto 0;
+    left: 0;
+    width: 100%;
+}
 .text-end {
     text-align: right !important;
     width: 100%;
@@ -526,7 +535,7 @@ body {
     max-width: 224px;
     border-radius: 0 0 8px 8px;
     padding: 10px 10px;
-    border: 2px solid #5E6062;
+    border: 2px solid #d5d5d5;
 }
 
 .matching-items .matching-item p {
@@ -777,6 +786,14 @@ body {
     }
 }
 
+@media screen and (min-width: 651px) and (max-width:830px){    
+    .clickable-items .clickable-item, .matching-items .matching-item,.matching-items .matching-element, .matching-items .clickable-item{
+        width: 198px;
+        max-width: 198px;
+        min-width: 198px;
+    }     
+}
+
 @media screen and (max-width: 651px) {
     .matching-items .matching-element {
         left: calc(var(--bs-gutter-x)/ 2);
@@ -813,12 +830,11 @@ body {
 
     .matching-items .clickable-item {
         width: 198px;
-    }
-
-    .matching-items .matching-item {
         max-width: 198px;
         min-width: 198px;
     }
+
+    
 
     .no-grid {
         display: none !important;
@@ -1096,6 +1112,14 @@ body {
         right: -8px;
         top: -8px;
     }
+    
+    .clickable-items .clickable-item, .matching-items .matching-item,.matching-items .matching-element, .matching-items .clickable-item{
+        width: 198px;
+        max-width: 198px;
+        min-width: 198px;
+    } 
+
+
 }
 @media screen and (max-width: 800px) and (orientation: landscape) {
     .matchedEvent:last-of-type {
@@ -1186,7 +1210,7 @@ body {
 
     .head-btn .notice-card {
         width: 547px;
-        line-height: 20px;
+        line-height: 23px;
     }
 
     .matching-items .matching-item p {
