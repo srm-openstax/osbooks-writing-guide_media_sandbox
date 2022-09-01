@@ -180,14 +180,16 @@ var matching = (function() {
                         $(".matching-item").each(function(index){
                             //$(this).append(iArr[index]);
                             $("#matchBox_"+index).find(".matching-item").append(iArr[index]);
-                            //console.log($(this).outerHeight());
-                            maxH = Math.max(maxH,$(this).outerHeight());
+                            console.log(iArr[index].height);
+                            console.log(img.height, $(this).outerHeight());
+                            maxH = Math.max(maxH,iArr[index].height);
                             //console.log(maxH,$(this).outerHeight());
 
                         });
-                        $(".matching-item").css("height", maxH);
+                        $(".matching-item").css("height", maxH + 25);
                         var maxHofClickitem = $('.clickable-item').outerHeight();
                         $('.matchedEvent').css({"height": (maxH+maxHofClickitem+15)+"px"});
+                        //console.log(maxH, maxH+maxHofClickitem+15);
                     }
                     
                 }
@@ -205,6 +207,7 @@ var matching = (function() {
                 $(".matching-item").css("height", maxH);
                 var maxHofClickitem = $('.clickable-item').outerHeight();
                 $('.matchedEvent').css({"height": (maxH+maxHofClickitem+15)+"px"});
+                console.log(maxH, maxH+maxHofClickitem+15);
             }
               
             $("#matchBox_d").addClass("matchedEvent");
