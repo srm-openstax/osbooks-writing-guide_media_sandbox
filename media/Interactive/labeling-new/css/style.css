@@ -1056,7 +1056,7 @@ body {
         transform: translate(0px, -78vh);
     }    
     #imageCont img {
-        width: 353px;
+        width: 350px;
     }
     .matchedEvent:last-of-type{
         margin-bottom: 100px;

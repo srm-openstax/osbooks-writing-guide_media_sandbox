@@ -125,7 +125,7 @@ var matching = (function() {
         $("#reviewImg").attr("src", xml.find("reviewimage").text());
 
         var items = xml.find("items").find("item");
-        var counter=0;
+        var counter = 0;
         var imgMaxHeight=0;
         var iArr = [];
         var maxH = 0;
@@ -135,8 +135,10 @@ var matching = (function() {
             var tempObj = {};
             tempObj["clickable"] = $(el).find("clickable text").html();
             tempObj["matching"] = $(el).find("matching text").html();
-
+            
+            $(el).find("matching alt").length && (tempObj["alt"] = $(el).find("matching alt").html());
             data.ques.push(tempObj);
+            
             var txt = data.ques[index].clickable;
             $("#cloneItem_d").clone().appendTo(".clickableBlock");
             $("#cloneItem_d .clickable-item").attr("alt", "Item to match:  "+ txt);
@@ -148,8 +150,8 @@ var matching = (function() {
 
             enterCounter[`cloneItem_${index}`] = 1;
             
-            $("#matchBox_d .matching-item").attr("alt", "Item to match: "+ txt);
-            $("#matchBox_d .matching-item").attr("aria-label", "Description to match: "+txt);
+            //$("#matchBox_d .matching-item").attr("alt", "Item to match: "+ txt);
+           // $("#matchBox_d .matching-item").attr("aria-label", "Description to match: "+txt);
             $("#matchBox_d").clone().appendTo(".matchingBlock");
 
             var txt = data.ques[index].matching;
@@ -157,36 +159,54 @@ var matching = (function() {
             
             if(m != null){
                 $(".matching-item").addClass("img-wrap");
-                var img;
-
+                var alt = data.ques[index].alt;
+                console.log("ALT: ", alt);
+                $(".matching-item").addClass("img-wrap");
+                $($(".matching-item")[index]).attr("aria-label", "Description to match: "+ alt)
+                var img;                
                 img = new Image();
                 img.src = txt;
                 img.className = "matchingImage";
                 temp = img;
-                $(img).attr("alt", "image "+index);
+                $(img).attr({"alt": "image "+index, "aria-hidden": true});
                 iArr.push(temp);
                 img.onload = function (){
                     //console.log("loaded", this.height);
                     $("#matchBox_d .matching-item").append($(iArr[counter]));
                     imgMaxHeight = Math.max(imgMaxHeight, this.height);
-                    if(++counter == items.length){
+                    counter++;
+                    if(counter == items.length){
                         //console.log("all loaded....", imgMaxHeight, iArr);
                         $(".matching-item").each(function(index){
                             //$(this).append(iArr[index]);
                             $("#matchBox_"+index).find(".matching-item").append(iArr[index]);
-                            console.log($(this).outerHeight());
+                            //console.log($(this).outerHeight());
                             maxH = Math.max(maxH,$(this).outerHeight());
+                            //console.log(maxH,$(this).outerHeight());
+
                         });
                         $(".matching-item").css("height", maxH);
                         var maxHofClickitem = $('.clickable-item').outerHeight();
                         $('.matchedEvent').css({"height": (maxH+maxHofClickitem+15)+"px"});
-                    }                   
+                    }
+                    
                 }
             }else{
-                $("#matchBox_d .matching-item").html("<p></p>");
+                $("#matchBox_d .matching-item").html("<p aria-hidden=true></p>");
                 $("#matchBox_d .matching-item p").html(txt);
+                $("#matchBox_d .matching-item").attr("aria-label", "Description to match: " + txt)
+                $(".matching-item").each(function(index){
+                    //$(this).append(iArr[index]);
+                    $("#matchBox_"+index).find(".matching-item").append(iArr[index]);
+                    //console.log($(this).outerHeight());
+                    maxH = Math.max(maxH,$(this).outerHeight());
+                    //console.log(maxH,$(this).outerHeight());
+                });
+                $(".matching-item").css("height", maxH);
+                var maxHofClickitem = $('.clickable-item').outerHeight();
+                $('.matchedEvent').css({"height": (maxH+maxHofClickitem+15)+"px"});
             }
-
+              
             $("#matchBox_d").addClass("matchedEvent");
             $("#matchBox_d").attr("id", "matchBox_"+index);
 
@@ -577,6 +597,7 @@ var matching = (function() {
                 $("#reviewBtn i").removeClass("up").addClass("down");
                 $("#reviewBtn p").html("Review Image");
                 $("#reviewBtn").attr("aria-label", "Review Image");
+                $("#reviewImg").attr("aria-hidden", true);
                 isDown = false;
                 enableFocus();
             }else{
@@ -590,6 +611,7 @@ var matching = (function() {
                 $("#reviewBtn p").html("Begin Activity");
                 $("#reviewBtn").attr("aria-label", "Begin Activity");
                 $("#reviewParent").css({"background-color": "rgb(112 112 112 / 80%)"});
+                $("#reviewImg").attr("aria-hidden", false);
                 isDown = true;
                 disbleFocus();
             }
