@@ -517,6 +517,10 @@ body {
     position: relative;
 }
 
+.matchingBlock {
+    justify-content: center;
+}
+
 .matching-item:focus,
 .matching-item:focus-visible {
     border: 2px solid #6666FF !important;

@@ -637,7 +637,7 @@ var matching = (function() {
             console.log(item);
             if(!$(item).is(":disabled"))
             {
-                console.log("1111: ", $(item));
+                //console.log("1111: ", $(item));
                 $(item).addClass("was-disabled").prop("disabled", true);
             }
         });
@@ -645,7 +645,7 @@ var matching = (function() {
         $(".matching-item").each(function(id,item){
             if(!$(item).is(":disabled"))
             {
-                console.log("2222: ", $(item));
+                //console.log("2222: ", $(item));
                 $(item).addClass("was-disabled").prop("disabled", true);
             }
         });
