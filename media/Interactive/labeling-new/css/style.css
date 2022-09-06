@@ -1140,16 +1140,26 @@ body {
     }
 
 }
-
-
-@media screen and (max-width: 529px){
+@media screen and (max-width: 371px){
     .clickable-item.wrong-border-up::after,
-    .clickable-item.right-border-up::after {
-        
-        top: 8px;
+    .clickable-item.right-border-up::after {        
+        top: 15px !important;
         
     }
 }
+@media screen and (min-width: 372px) and (max-width:532px){
+    .clickable-item.wrong-border-up::after,
+    .clickable-item.right-border-up::after {        
+        top: -8px;        
+    }
+}
+
+/* @media screen and (max-width: 529px){
+    .clickable-item.wrong-border-up::after,
+    .clickable-item.right-border-up::after {        
+        top: 15px;        
+    }
+} */
  @media screen and (max-width: 529px) and (orientation:portrait){
     .matchedEvent{
         width: 198px;
