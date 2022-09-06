@@ -8,10 +8,10 @@ var matching = (function() {
     var classnames = "";    
     const regex = /assets.*\.(png|jpg|jpeg|svg)/gm;
     var media = window.matchMedia("(max-width: 529px)");
-
+    var isSafari = true;
     this.init = function(data) {
+        fnBrowserDetect();
         this.loadXML();
-
         $(".notice-card").show();
         $(".notice-card").css("zIndex","3");
         $(".settings-container").css("zIndex","2");
@@ -119,6 +119,27 @@ var matching = (function() {
        
     };
 
+    function fnBrowserDetect(){
+                 
+        let userAgent = navigator.userAgent;
+        let browserName;    
+        if(userAgent.match(/chrome|chromium|crios/i)){
+            browserName = "chrome";
+          }else if(userAgent.match(/firefox|fxios/i)){
+            browserName = "firefox";
+          }  else if(userAgent.match(/safari/i)){
+            browserName = "safari";
+            isSafari = true;
+          }else if(userAgent.match(/opr\//i)){
+            browserName = "opera";
+          } else if(userAgent.match(/edg/i)){
+            browserName = "edge";
+          }else{
+            browserName="No browser detection";
+          }
+         
+    }
+
     var fetchData = function(xml){
         $(".activity-title").html(xml.find("title").text());
         $(".notice-card p").html(xml.find("instruction").text());
@@ -206,8 +227,11 @@ var matching = (function() {
                 });
                 $(".matching-item").css("height", maxH);
                 var maxHofClickitem = $('.clickable-item').outerHeight();
+                let marg;
+                marg = isSafari?30:15;
                 $('.matchedEvent').css({"height": (maxH+maxHofClickitem+15)+"px"});
                 console.log(maxH, maxH+maxHofClickitem+15);
+                
             }
               
             $("#matchBox_d").addClass("matchedEvent");
@@ -490,16 +514,6 @@ var matching = (function() {
 
     function bindEvents(){
         $(".clickedEvent").click(function clickableHandler(e){
-            /* console.clear();
-            console.log("prev: ", prevBtn);
-            console.log("$prev: ", $(prevBtn));
-            console.log("this: ", $(this));
-            console.log("target: ", e.target);
-            console.log("c target: ", e.currentTarget);
-            console.log("prev[0]", $(prevBtn)[0]);
-            console.log("c1: ", $(prevBtn)[0] == $(this)[0]);
-            console.log("c2: ", $(prevBtn)[0]==e.currentTarget); */
-
             if($(prevBtn)[0] == $(this)[0] && $(prevBtn)[0]==e.currentTarget){
                 console.log("double click..........");
                 $(prevBtn).appendTo($(".clickable-items").find(".clickableBlock")); 

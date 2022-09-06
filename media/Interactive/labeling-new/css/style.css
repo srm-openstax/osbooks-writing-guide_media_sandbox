@@ -474,7 +474,16 @@ body {
     border-radius: 6px;
     display: inline-flex;
 }
-
+#tester{
+    width: 100%;
+    background: red;
+    height: 25px;
+    position: fixed;
+    top: 300px;
+}
+.matching-element.safari{
+    margin-bottom: 45px;
+}
 .clickable-item.wrong-border-up::after {
     content: "";
     width: 36px;
