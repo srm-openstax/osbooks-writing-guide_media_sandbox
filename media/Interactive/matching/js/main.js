@@ -5,9 +5,7 @@ var matching = (function() {
     var curDiv = null;
     var curMatchbox = true;
     var prevBtn = null;
-    var classnames = "";    
-    const regex = /assets.*\.(png|jpg|jpeg|svg)/gm;
-    var media = window.matchMedia("(max-width: 529px)");
+    var classnames = "";
 
     this.init = function(data) {
         this.loadXML();
@@ -52,19 +50,13 @@ var matching = (function() {
         $(".reset_btn").off().on("click", function(){
             tryAgain();
         })
-        disbleFocus();
     }
 
     var tryAgain = function(){
-        $(".clickable-items").removeClass("unsetonsubmit");
-        $(".activity-header").removeClass("activity-header-submit");
-        $(".activity-content").removeClass("activity-content-submit");
-        $(".clickable-item.wrong-border-up").removeClass(".clickable-item.wrong-border-up-sub");
         $(".clickable-item").prop("disabled", false);
         $(".matching-item").prop("disabled", false);
         $(".clickableBlock").removeClass("no-grid");
         console.log("111", $(".clickableBlock"));
-        $(".text-end").removeClass("mar-t-0");
 
         $(".matching-element").find(".clickable-item").removeClass("wrong-border-up");
         $(".matching-element").find(".matching-item").removeClass("wrong-border-bottom");
@@ -72,8 +64,8 @@ var matching = (function() {
         $(".matching-element").find(".matching-item").removeClass("right-border-bottom");
        
 
-        //$(".activity-header").removeClass("h-48p");
-        //$(".activity-content").removeClass("p-48p");
+        $(".activity-header").removeClass("h-48p");
+        $(".activity-content").removeClass("p-48p");
 
         $(".clickedEvent").appendTo(".clickableBlock");
         $(".clickedEvent").removeAttr("data-placed");
@@ -116,29 +108,22 @@ var matching = (function() {
                 });
             }
         });
-       
+
     };
 
     var fetchData = function(xml){
         $(".activity-title").html(xml.find("title").text());
         $(".notice-card p").html(xml.find("instruction").text());
-        $("#reviewImg").attr("src", xml.find("reviewimage").text());
 
         var items = xml.find("items").find("item");
-        var counter = 0;
-        var imgMaxHeight=0;
-        var iArr = [];
-        var maxH = 0;
         //var matchItem = xml.find("items").find("matching").find("text");
         data["ques"] = [];
         items.each((index, el) => {
             var tempObj = {};
             tempObj["clickable"] = $(el).find("clickable text").html();
             tempObj["matching"] = $(el).find("matching text").html();
-            
-            $(el).find("matching alt").length && (tempObj["alt"] = $(el).find("matching alt").html());
+
             data.ques.push(tempObj);
-            
             var txt = data.ques[index].clickable;
             $("#cloneItem_d").clone().appendTo(".clickableBlock");
             $("#cloneItem_d .clickable-item").attr("alt", "Item to match:  "+ txt);
@@ -150,70 +135,13 @@ var matching = (function() {
 
             enterCounter[`cloneItem_${index}`] = 1;
             
-            //$("#matchBox_d .matching-item").attr("alt", "Item to match: "+ txt);
-           // $("#matchBox_d .matching-item").attr("aria-label", "Description to match: "+txt);
-            $("#matchBox_d").clone().appendTo(".matchingBlock");
-
             var txt = data.ques[index].matching;
-            m = txt.match(regex);
-            
-            if(m != null){
-                $(".matching-item").addClass("img-wrap");
-                var alt = data.ques[index].alt;
-                console.log("ALT: ", alt);
-                $(".matching-item").addClass("img-wrap");
-                $($(".matching-item")[index]).attr("aria-label", "Description to match: "+ alt)
-                var img;                
-                img = new Image();
-                img.src = txt;
-                img.className = "matchingImage";
-                temp = img;
-                $(img).attr({"alt": "image "+index, "aria-hidden": true});
-                iArr.push(temp);
-                img.onload = function (){
-                    //console.log("loaded", this.height);
-                    $("#matchBox_d .matching-item").append($(iArr[counter]));
-                    imgMaxHeight = Math.max(imgMaxHeight, this.height);
-                    counter++;
-                    if(counter == items.length){
-                        //console.log("all loaded....", imgMaxHeight, iArr);
-                        $(".matching-item").each(function(index){
-                            //$(this).append(iArr[index]);
-                            $("#matchBox_"+index).find(".matching-item").append(iArr[index]);
-                            console.log(iArr[index].height);
-                            console.log(img.height, $(this).outerHeight());
-                            maxH = Math.max(maxH,iArr[index].height);
-                            //console.log(maxH,$(this).outerHeight());
-
-                        });
-                        $(".matching-item").css("height", maxH + 25);
-                        var maxHofClickitem = $('.clickable-item').outerHeight();
-                        $('.matchedEvent').css({"height": (maxH+maxHofClickitem+50)+"px"});
-                        //console.log(maxH, maxH+maxHofClickitem+15);
-                    }
-                    
-                }
-            }else{
-                $("#matchBox_d .matching-item").html("<p aria-hidden=true></p>");
-                $("#matchBox_d .matching-item p").html(txt);
-                $("#matchBox_d .matching-item").attr("aria-label", "Description to match: " + txt)
-                $(".matching-item").each(function(index){
-                    //$(this).append(iArr[index]);
-                    $("#matchBox_"+index).find(".matching-item").append(iArr[index]);
-                    //console.log($(this).outerHeight());
-                    maxH = Math.max(maxH,$(this).outerHeight());
-                    //console.log(maxH,$(this).outerHeight());
-                });
-                $(".matching-item").css("height", maxH);
-                var maxHofClickitem = $('.clickable-item').outerHeight();
-                $('.matchedEvent').css({"height": (maxH+maxHofClickitem+15)+"px"});
-                console.log(maxH, maxH+maxHofClickitem+15);
-            }
-              
+            $("#matchBox_d .matching-item").attr("alt", "Item to match: "+ txt);
+            $("#matchBox_d .matching-item").attr("aria-label", "Description to match: "+txt);
+            $("#matchBox_d").clone().appendTo(".matchingBlock");
+            $("#matchBox_d .matching-item p").html(data.ques[index].matching);
             $("#matchBox_d").addClass("matchedEvent");
             $("#matchBox_d").attr("id", "matchBox_"+index);
-
-
         });
 
         $("#cloneItem_d").remove();
@@ -224,9 +152,6 @@ var matching = (function() {
         
         $(".shuffle").shuffleChildren();
 
-        var r = document.querySelector(':root');
-        r.style.setProperty('--cardCount', items.length);
-
         var heightArr = [];
         $('.matching-item').each(function(index, element) {
             var height = $(element).outerHeight();
@@ -234,7 +159,10 @@ var matching = (function() {
         });
 
         var maxHeight = Math.max(...heightArr);
-        //$('.matching-item').css({"height":maxHeight+"px"});
+        var maxHofClickitem = $('.clickable-item').outerHeight();
+        $('.matching-item').css({"height":maxHeight+"px"});
+
+        $('.matchedEvent').css({"height": (maxHeight+maxHofClickitem+15)+"px"});
 
         $(document).keyup(function(event) {
             //get the id of element on which enter key pressed
@@ -442,17 +370,15 @@ var matching = (function() {
         }
     }
 
-    $(".submit_btn").click(function(){        
+    $(".submit_btn").click(function(){
+        
         var wCount = 0;
         var rCount = 0;
-        $(".clickable-items").addClass("unsetonsubmit");
-        $(".activity-header").addClass("activity-header-submit");
-        $(".activity-content").addClass("activity-content-submit");
-        $(".clickable-item.wrong-border-up").addClass(".clickable-item.wrong-border-up-sub");
         $(".clickable-item").prop("disabled", true);
         $(".matching-item").prop("disabled", true);
-        $(".text-end").addClass("mar-t-0");
-        //$(".activity-content").addClass("p-48p");
+        
+        $(".activity-header").addClass("h-48p");
+        $(".activity-content").addClass("p-48p");
         for(var i=0; i<data.ques.length; i++){
             var clicksId = $("#cloneItem_"+i).attr("id").replace("cloneItem_", "");
             var machedId = $("#cloneItem_"+i).attr("data-placed").replace("matchBox_", "");
@@ -490,7 +416,7 @@ var matching = (function() {
 
     function bindEvents(){
         $(".clickedEvent").click(function clickableHandler(e){
-            /* console.clear();
+            console.clear();
             console.log("prev: ", prevBtn);
             console.log("$prev: ", $(prevBtn));
             console.log("this: ", $(this));
@@ -498,7 +424,7 @@ var matching = (function() {
             console.log("c target: ", e.currentTarget);
             console.log("prev[0]", $(prevBtn)[0]);
             console.log("c1: ", $(prevBtn)[0] == $(this)[0]);
-            console.log("c2: ", $(prevBtn)[0]==e.currentTarget); */
+            console.log("c2: ", $(prevBtn)[0]==e.currentTarget);
 
             if($(prevBtn)[0] == $(this)[0] && $(prevBtn)[0]==e.currentTarget){
                 console.log("double click..........");
@@ -588,80 +514,6 @@ var matching = (function() {
             console.log("Normal click....");
             prevBtn = $(this);
         })
-
-        var isDown = true;
-        $('#reviewBtn').click(function(){
-            if(isDown){
-                //$(".reviewContainer").css({"transform" : "translate(0px, -89vh)"});
-                $("#reviewParent").removeClass("moveDown");
-                $("#reviewParent").addClass("moveTOP");
-                $(".reviewContainer").removeClass("moveDown");
-                $(".reviewContainer").addClass("containerTOP");
-                $("#reviewBtn i").removeClass("up").addClass("down");
-                $("#reviewBtn p").html("Review Image");
-                $("#reviewBtn").attr("aria-label", "Review Image");
-                $("#reviewImg").attr("aria-hidden", true);
-                isDown = false;
-                enableFocus();
-            }else{
-                //$(".reviewContainer").css({"transform" : "translate(0px, 0px)"});
-                $("#reviewParent").removeClass("moveTOP");
-                $("#reviewParent").addClass("moveDown");
-
-                $(".reviewContainer").removeClass("containerTOP");
-                $(".reviewContainer").addClass("containerDown");
-                $("#reviewBtn i").removeClass("down").addClass("up");
-                $("#reviewBtn p").html("Begin Activity");
-                $("#reviewBtn").attr("aria-label", "Begin Activity");
-                $("#reviewParent").css({"background-color": "rgb(112 112 112 / 80%)"});
-                $("#reviewImg").attr("aria-hidden", false);
-                isDown = true;
-                disbleFocus();
-            }
-            
-        });
-
-        $("#reviewParent").on( 'transitionend', function() {
-            if(!isDown){
-                $(this).css({"background-color": "rgb(112 112 112 / 0%)"});
-            }
-        });
-
-    }
-
-    function enableFocus(){
-        $(".was-disabled").prop("disabled",false).removeClass("was-disabled");
-        $(".clickable-items").attr("aria-hidden", false);
-        $(".matching-items").attr("aria-hidden", false);
-    }
-
-    function disbleFocus(){
-        $(".clickable-item").each(function(id, item){
-            console.log(item);
-            if(!$(item).is(":disabled"))
-            {
-                //console.log("1111: ", $(item));
-                $(item).addClass("was-disabled").prop("disabled", true);
-            }
-        });
-
-        $(".matching-item").each(function(id,item){
-            if(!$(item).is(":disabled"))
-            {
-                //console.log("2222: ", $(item));
-                $(item).addClass("was-disabled").prop("disabled", true);
-            }
-        });
-        $('.text-end').children(':visible').each(function(id,item){
-            if(!$(item).is(":disabled"))
-            {
-                console.log("3333: ", $(item));
-                $(item).addClass("was-disabled").prop("disabled", true);
-            }
-        })
-
-        $(".clickable-items").attr("aria-hidden", true);
-        $(".matching-items").attr("aria-hidden", true);
     }
 
     $.fn.shuffleChildren = function() {
@@ -684,6 +536,10 @@ var matching = (function() {
 });
  
  $(document).ready(function() {
+    //console.log($("#gear-icon"));
+    //gear-icon.styel.fill = 'yellow';
+    var icon = document.getElementById("gear-icon");
+    console.log(icon);
     let matchingObj = new matching();
     matchingObj.init();
  });
