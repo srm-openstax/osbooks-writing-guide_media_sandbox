@@ -188,7 +188,7 @@ var matching = (function() {
                         });
                         $(".matching-item").css("height", maxH + 25);
                         var maxHofClickitem = $('.clickable-item').outerHeight();
-                        $('.matchedEvent').css({"height": (maxH+maxHofClickitem+15)+"px"});
+                        $('.matchedEvent').css({"height": (maxH+maxHofClickitem+50)+"px"});
                         //console.log(maxH, maxH+maxHofClickitem+15);
                     }
                     
