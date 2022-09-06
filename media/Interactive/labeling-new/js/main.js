@@ -8,7 +8,7 @@ var matching = (function() {
     var classnames = "";    
     const regex = /assets.*\.(png|jpg|jpeg|svg)/gm;
     var media = window.matchMedia("(max-width: 529px)");
-    var isSafari = true;
+    var isSafari = false;
     this.init = function(data) {
         fnBrowserDetect();
         this.loadXML();
@@ -181,7 +181,7 @@ var matching = (function() {
             if(m != null){
                 $(".matching-item").addClass("img-wrap");
                 var alt = data.ques[index].alt;
-                console.log("ALT: ", alt);
+                //console.log("ALT: ", alt);
                 $(".matching-item").addClass("img-wrap");
                 $($(".matching-item")[index]).attr("aria-label", "Description to match: "+ alt)
                 var img;                
@@ -201,14 +201,18 @@ var matching = (function() {
                         $(".matching-item").each(function(index){
                             //$(this).append(iArr[index]);
                             $("#matchBox_"+index).find(".matching-item").append(iArr[index]);
-                            console.log(iArr[index].height);
-                            console.log(img.height, $(this).outerHeight());
+                            //console.log(iArr[index].height);
+                            //console.log(img.height, $(this).outerHeight());
                             maxH = Math.max(maxH,iArr[index].height);
                             //console.log(maxH,$(this).outerHeight());
 
                         });
                         $(".matching-item").css("height", maxH + 25);
                         var maxHofClickitem = $('.clickable-item').outerHeight();
+                        let marg;
+                        marg = isSafari?30:15;
+                        console.log("SAFARI: ", isSafari, "  mar: ", marg);
+                        $('.matchedEvent').css({"height": (maxH+maxHofClickitem+15)+"px"});
                         $('.matchedEvent').css({"height": (maxH+maxHofClickitem+50)+"px"});
                         //console.log(maxH, maxH+maxHofClickitem+15);
                     }
@@ -229,10 +233,13 @@ var matching = (function() {
                 var maxHofClickitem = $('.clickable-item').outerHeight();
                 let marg;
                 marg = isSafari?30:15;
+                console.log("SAFARI: ", isSafari, "  mar: ", marg);
                 $('.matchedEvent').css({"height": (maxH+maxHofClickitem+15)+"px"});
                 console.log(maxH, maxH+maxHofClickitem+15);
                 
             }
+            var hh = document.getElementsByClassName("matchedEvent");
+            
               
             $("#matchBox_d").addClass("matchedEvent");
             $("#matchBox_d").attr("id", "matchBox_"+index);
@@ -651,7 +658,7 @@ var matching = (function() {
 
     function disbleFocus(){
         $(".clickable-item").each(function(id, item){
-            console.log(item);
+            //console.log(item);
             if(!$(item).is(":disabled"))
             {
                 //console.log("1111: ", $(item));
