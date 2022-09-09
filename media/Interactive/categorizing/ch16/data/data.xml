@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dataset>
-<title>Evaluating</title>
+<title>Evaluating Revision Suggestions</title>
 <instruction>
     <instructionnorm>To complete the activity, select each statement at the top, then click its category below. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instructionnorm>
 </instruction>
@@ -16,7 +16,7 @@
     <item cat="one">Use a transition phrase to connect the second and third paragraphs.</item>
     <item cat="one">I'm unclear how this quotation supports your claim. Can you elaborate?</item>
     <item cat="two">I don't really like your thesis. Can you change it?</item>
-    <item cat="two">Your summary contains a plot spoiler.</item>
+    <item cat="two">Your summary contains a plot spoiler.           </item>
     <item cat="two">You should make this section more interesting.</item>
     <item cat="two">I think you should use a different word here.</item>
     

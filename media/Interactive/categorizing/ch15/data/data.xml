@@ -25,7 +25,7 @@
 
         
   </draggableitem>
-  <feedback>
+    <feedback>
     <rightans>Correct! You've matched each type of research data to its category. You understand that qualitative data includes subjective information based on observations and quantitative data can be replicated in a controlled environment.</rightans>
     <wrongans>Incorrect. Try again. Refer to Chapter 15 to review the differences between qualitative and quantitative research data.</wrongans>
   </feedback>
