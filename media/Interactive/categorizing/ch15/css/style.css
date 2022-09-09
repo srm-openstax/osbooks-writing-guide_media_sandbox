@@ -834,7 +834,7 @@ button[disabled] {
         text-align: start;
         background: white;
         border-radius: 8px;
-        min-height: 55px;
+        min-height: 75px;
         
     }
     .draggableitemCnt {
@@ -904,7 +904,7 @@ button[disabled] {
 
     .feedback {
         font-size: 16px;
-        width: 600%;
+        width: 320%;
         letter-spacing: 0.2px;
         font-weight: normal;
         line-height: 20px;
