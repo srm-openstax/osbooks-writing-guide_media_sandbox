@@ -834,7 +834,7 @@ button[disabled] {
         text-align: start;
         background: white;
         border-radius: 8px;
-        min-height: 75px;
+        min-height: 55px;
         
     }
     .draggableitemCnt {
