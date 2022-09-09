@@ -257,7 +257,7 @@ body {
 }
 
 .wrong-border-bottom {
-    border: 2px solid red !important;
+    border: 2px solid #C22032 !important;
     border-top: none !important;
     cursor: auto !important;
 }
@@ -269,7 +269,7 @@ body {
 }
 
 .right-border-bottom {
-    border: 2px solid rgb(1, 207, 32) !important;
+    border: 2px solid #63A524 !important;
     border-top: none !important;
     cursor: auto !important;
 }
