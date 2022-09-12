@@ -1138,7 +1138,7 @@ button[disabled] {
         font-size: 16px;
         line-height: 20px;
         width: 488px;
-        margin-top: 12px;
+        /* margin-top: 12px; */
     }
 
     .nav-container {
@@ -1147,6 +1147,7 @@ button[disabled] {
 
     .dragableItemContainer {
         display: block;
+        top:20px;
     }
 
     header {
@@ -1517,9 +1518,12 @@ button[disabled] {
     .feedback {
         font-size: 16px;
         line-height: 20px;
-        width: 284px;
-        margin-top: 12px;
+        width: 105%;
+        /* margin-top: 22px; */
     }
+    /* header{
+        padding-bottom: 2px !important;
+    } */
 
     .nav-container button {
         cursor: pointer;
