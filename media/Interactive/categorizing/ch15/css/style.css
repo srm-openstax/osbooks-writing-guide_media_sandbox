@@ -1519,11 +1519,11 @@ button[disabled] {
         font-size: 16px;
         line-height: 20px;
         width: 105%;
-        /* margin-top: 22px; */
+        margin-top: 5px;
     }
-    /* header{
-        padding-bottom: 2px !important;
-    } */
+     header.pad-0{
+        padding-bottom: 22px !important;
+    }
 
     .nav-container button {
         cursor: pointer;
