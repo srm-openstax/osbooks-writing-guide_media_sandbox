@@ -159,12 +159,11 @@ var matching = (function() {
             
             $(el).find("matching alt").length && (tempObj["alt"] = $(el).find("matching alt").html());
             data.ques.push(tempObj);
-            
             var txt = data.ques[index].clickable;
             $("#cloneItem_d").clone().appendTo(".clickableBlock");
             $("#cloneItem_d .clickable-item").attr("alt", "Item to match:  "+ txt);
             $("#cloneItem_d .clickable-item").attr("aria-label", "Iteam to match: "+txt);
-
+            
             $("#cloneItem_d .clickable-item p").html(txt);
             $("#cloneItem_d").addClass("clickedEvent");
             $("#cloneItem_d").attr("id", "cloneItem_"+index);
@@ -189,7 +188,7 @@ var matching = (function() {
                 img.src = txt;
                 img.className = "matchingImage";
                 temp = img;
-                $(img).attr({"alt": "image "+index, "aria-hidden": true});
+                $(img).attr({"alt": alt, "aria-hidden": true});                
                 iArr.push(temp);
                 img.onload = function (){
                     //console.log("loaded", this.height);
