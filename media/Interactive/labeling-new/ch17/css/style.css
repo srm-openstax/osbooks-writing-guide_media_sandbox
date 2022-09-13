@@ -1125,7 +1125,7 @@ body {
     .clickable-item.wrong-border-up::after,
     .clickable-item.right-border-up::after {
         
-        top: 8px;
+        top: 15px !important
         
     }
 }
