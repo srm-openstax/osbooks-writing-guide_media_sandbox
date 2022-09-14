@@ -812,7 +812,7 @@ body {
     }
 
     #imageCont img {
-        width: 261px;
+        width: 235px;
         margin-top: 42px;
     }
     
@@ -1281,7 +1281,7 @@ body {
         margin-bottom: 100px;
     }
     #imageCont img {
-        margin-top: 0px;
+        margin-top: 27px;
     }
     .moveTOP {
         transform: translate(0px, -78vh);
