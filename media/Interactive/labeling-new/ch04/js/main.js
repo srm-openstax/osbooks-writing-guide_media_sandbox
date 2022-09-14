@@ -162,7 +162,7 @@ var matching = (function() {
             var txt = data.ques[index].clickable;
             $("#cloneItem_d").clone().appendTo(".clickableBlock");
             $("#cloneItem_d .clickable-item").attr("alt", "Item to match:  "+ txt);
-            $("#cloneItem_d .clickable-item").attr("aria-label", "Iteam to match: "+txt);
+            $("#cloneItem_d .clickable-item").attr("aria-label", "Item to match: "+txt);
             
             $("#cloneItem_d .clickable-item p").html(txt);
             $("#cloneItem_d").addClass("clickedEvent");
