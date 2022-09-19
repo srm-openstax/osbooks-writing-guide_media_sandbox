@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dataset>
   <title>Matching Colors with Culture and Symbolism</title>
-  <instruction>To complete the activity, review the initial material, and then match each response to it’s type. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
-  <rightfeedback>Correct! To learn more about the traditional symbolic attributes of colors, review Chapter 17 in your textbook.</rightfeedback>
+  <instruction>To complete the activity, review the image prompt, and then match each response to it’s type. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
+  <rightfeedback>Correct! To learn more about the traditional symbolic attributes of colors, review chapter in your textbook.</rightfeedback>
   <wrongfeedback>Incorrect! To learn more about the traditional symbolic attributes of colors, review Chapter 17 in your textbook.</wrongfeedback>
   <reviewimage>assets/images/Chapter-17_Art_01.svg </reviewimage>
   <items>
