@@ -11,7 +11,7 @@
   </category>
 
   <draggableitem>
-    <item cat="one">Student useds eight emojis during a five-minute text message conversation.</item>
+    <item cat="one">Student used eight emojis during a five-minute text message conversation.</item>
     <item cat="one">I counted four grammatical errors in student's email to the professor.</item>
     <item cat="one">Analysis of student's tweets reveals 20% are about school, 50% about work, and 30% about friends.</item>
     <item cat="one">Student's FaceTime calls averaged 15 minutes during the past week.</item>
@@ -27,7 +27,7 @@
   </draggableitem>
     <feedback>
     <rightans>Correct! You've matched each type of research data to its category. You understand that qualitative data includes subjective information based on observations and quantitative data can be replicated in a controlled environment.</rightans>
-    <wrongans>Incorrect. Try again. Refer to Chapter 15 to review the differences between qualitative and quantitative research data.</wrongans>
+    <wrongans>Incorrect. Try again. Refer to the chapter to review the differences between qualitative and quantitative research data.</wrongans>
   </feedback>
  
 </dataset>

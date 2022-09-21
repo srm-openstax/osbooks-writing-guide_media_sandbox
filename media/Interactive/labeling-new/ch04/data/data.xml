@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dataset>
   <title>Plot Diagram</title>
-  <instruction>To complete the activity, review the image prompt, and then match each response to it's type. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
+  <instruction>To complete the activity, review the image prompt, and then match each response to its type. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
   <rightfeedback>Correct: Congratulations! Your understanding of plot structure is evident.</rightfeedback>
   <wrongfeedback>Incorrect: Review the explanations of each type of plot element in the chapter and try again.</wrongfeedback>
   <reviewimage>assets/images/Chapter-04_Art_01.svg</reviewimage>
